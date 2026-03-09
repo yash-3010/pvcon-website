@@ -42,14 +42,12 @@ const Header: React.FC = () => {
               src="/images/logo.webp"
               width={38}
               height={28}
-              quality={100}
-              priority={true}
-              unoptimized={true}
+              quality={85}
+              priority
               alt={`${siteDetails.siteName} logo`}
               className="flex items-center mb-0.5 gap-2 invert"
             />
             <span className="text-xl font-semibold text-foreground cursor-pointer">
-            {/* <span className="manrope text-xl font-semibold text-foreground cursor-pointer"> */}
               {siteDetails.siteName}
             </span>
           </Link>

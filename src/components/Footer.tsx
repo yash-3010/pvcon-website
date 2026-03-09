@@ -16,13 +16,12 @@ const Footer: React.FC = () => {
               src="/images/logo.webp"
               width={38}
               height={28}
-              quality={100}
-              priority={true}
-              unoptimized={true}
-              alt="site logo"
+              quality={85}
+              loading="lazy"
+              alt={`${siteDetails.siteName} logo`}
               className="flex items-center mb-0.5 gap-2 invert"
             />
-            <span className="text-xl inter font-semibold text-foreground cursor-pointer">
+            <span className="text-xl font-semibold text-foreground cursor-pointer">
               {siteDetails.siteName}
             </span>
           </Link>

@@ -1,6 +1,6 @@
 export const ctaDetails = {
-    heading: 'Join Over 1 Million Users To Transform Your Finances',
-    subheading: 'Your journey to financial freedom starts here. Download pvcon today and take the first step towards a brighter financial future!',
-    appStoreUrl: '#',
-    googlePlayUrl: '#'
+    heading: 'Ready to Strengthen Your Pharmacovigilance Operations?',
+    subheading: 'Partner with PVCON for expert consulting, regulatory audits, and end-to-end drug safety solutions. Let us help you achieve compliance with confidence.',
+    ctaUrl: 'mailto:support@pvcon.in',
+    ctaLabel: 'Request a Consultation',
 }
