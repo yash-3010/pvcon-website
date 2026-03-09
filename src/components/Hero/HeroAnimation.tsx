@@ -9,7 +9,7 @@ interface Props {
 const HeroAnimation: React.FC<Props> = ({ heading, subheading }) => {
   return (
     <>
-      <motion.div
+      <motion.h1
         className="text-4xl md:text-7xl md:leading-tight font-bold text-foreground max-w-lg md:max-w-2xl mx-auto flex flex-wrap justify-center gap-x-3"
         variants={{
           hidden: {},
@@ -31,7 +31,7 @@ const HeroAnimation: React.FC<Props> = ({ heading, subheading }) => {
             {word}
           </motion.span>
         ))}
-      </motion.div>
+      </motion.h1>
 
       <motion.p
         className="mt-4 text-foreground max-w-lg mx-auto"

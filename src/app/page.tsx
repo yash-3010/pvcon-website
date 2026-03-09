@@ -1,3 +1,4 @@
+import type { Metadata } from "next";
 import Hero from "@/components/Hero/Hero";
 import Testimonials from "@/components/Testimonials";
 import Pricing from "@/components/Pricing/Pricing";
@@ -9,6 +10,12 @@ import Section from "@/components/Section";
 import Stats from "@/components/Stats";
 import CTA from "@/components/CTA";
 import { siteDetails } from "@/data/siteDetails";
+
+export const metadata: Metadata = {
+  alternates: {
+    canonical: `${siteDetails.siteUrl}`,
+  },
+};
 
 const jsonLd = [
   {

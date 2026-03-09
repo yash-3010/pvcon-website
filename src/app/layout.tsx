@@ -16,14 +16,8 @@ const inter = Inter({
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteDetails.siteUrl),
-  title: {
-    default: siteDetails.metadata.title,
-    template: `%s | ${siteDetails.siteName}`,
-  },
+  title: siteDetails.metadata.title,
   description: siteDetails.metadata.description,
-  alternates: {
-    canonical: '/',
-  },
   openGraph: {
     title: siteDetails.metadata.title,
     description: siteDetails.metadata.description,
