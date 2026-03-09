@@ -14,24 +14,17 @@ export const footerDetails: {
             url: "#services"
         },
         {
-            text: "Pricing",
-            url: "#pricing"
+            text: "About",
+            url: "/about"
         },
         {
-            text: "Testimonials",
-            url: "#testimonials"
+            text: "Blog",
+            url: "/blog"
         }
     ],
     email: 'support@pvcon.in',
     telephone: '+91 123 456-7890',
     socials: {
-        // github: 'https://github.com',
-        // x: 'https://twitter.com/x',
-        twitter: 'https://twitter.com/Twitter',
-        facebook: 'https://facebook.com',
-        // youtube: 'https://youtube.com',
-        linkedin: 'https://www.linkedin.com',
-        // threads: 'https://www.threads.net',
-        instagram: 'https://www.instagram.com',
+        linkedin: 'https://www.linkedin.com/company/pvcon',
     }
 }

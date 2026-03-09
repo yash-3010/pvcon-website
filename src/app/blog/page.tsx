@@ -38,7 +38,7 @@ const formatDate = (dateStr: string) =>
 export default function BlogPage() {
   const allPosts = getAllPosts();
   const featuredPosts = allPosts.filter((p) => p.featured);
-  const recentPosts = allPosts.filter((p) => !p.featured).slice(0, 6);
+  const recentPosts = allPosts.filter((p) => !p.featured);
   const heroPosts = featuredPosts[0] ?? allPosts[0];
 
   return (
@@ -166,12 +166,7 @@ export default function BlogPage() {
               <h2 id="recent-heading" className="text-2xl font-bold">
                 Recent Posts
               </h2>
-              <Link
-                href="/blog/all"
-                className="text-sm text-primary hover:underline underline-offset-2"
-              >
-                view all
-              </Link>
+              {/* All posts are shown on this page */}
             </div>
 
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
