@@ -1,4 +1,4 @@
-// No "use client" needed here
+import Link from "next/link";
 import Image from "next/image";
 import { heroDetails } from "@/data/hero";
 import HeroAnimation from "./HeroAnimation";
@@ -8,32 +8,57 @@ const Hero: React.FC = () => {
     <section
       id="hero"
       aria-label="Hero"
-      className="relative flex items-center justify-center pb-0 pt-32 md:pt-40 px-5"
+      className="relative pt-28 md:pt-36 pb-10 md:pb-20 px-5 overflow-hidden"
     >
-      {/* Background — pure CSS, no JS needed */}
-      <div className="absolute left-0 top-0 bottom-0 -z-10 w-full" aria-hidden="true">
-        <div className="absolute inset-0 h-full w-full bg-hero-background bg-[linear-gradient(to_right,#80808012_1px,transparent_1px),linear-gradient(to_bottom,#80808012_1px,transparent_1px)] bg-[size:40px_40px] [mask-image:radial-gradient(ellipse_50%_50%_at_50%_50%,#000_60%,transparent_100%)]" />
+      {/* Subtle background grid */}
+      <div className="absolute inset-0 -z-10" aria-hidden="true">
+        <div className="absolute inset-0 bg-hero-background bg-[linear-gradient(to_right,#80808008_1px,transparent_1px),linear-gradient(to_bottom,#80808008_1px,transparent_1px)] bg-[size:64px_64px]" />
       </div>
 
-      <div className="absolute left-0 right-0 bottom-0 backdrop-blur-[2px] h-40 bg-gradient-to-b from-transparent via-[rgba(233,238,255,0.5)] to-[rgba(202,208,230,0.5)]" aria-hidden="true" />
+      <div className="max-w-7xl mx-auto">
+        {/* Animated heading — full width, massive */}
+        <HeroAnimation heading={heroDetails.heading} />
 
-      <div className="text-center">
-        {/* Only the animated text is client */}
-        <HeroAnimation heading={heroDetails.heading} subheading={heroDetails.subheading} />
+        {/* Split layout: description left, image right */}
+        <div className="flex flex-col lg:flex-row gap-10 lg:gap-20 mt-12 lg:mt-16 items-center">
+          <div className="flex-1 text-center lg:text-left">
+            <p className="text-foreground-accent leading-relaxed max-w-lg mx-auto lg:mx-0">
+              {heroDetails.subheading}
+            </p>
+            <div className="mt-8 flex flex-col sm:flex-row items-center lg:items-start gap-4">
+              <Link
+                href="/#cta"
+                className="bg-secondary hover:bg-secondary/90 text-white font-semibold px-8 py-3.5 rounded-full transition-colors text-sm uppercase tracking-wider"
+              >
+                Request Consultation
+              </Link>
+              <Link
+                href="/about"
+                className="text-secondary hover:text-primary font-medium text-sm transition-colors flex items-center gap-1"
+              >
+                Learn More
+                <span aria-hidden="true">&rarr;</span>
+              </Link>
+            </div>
+          </div>
 
-        {/* Image stays server-rendered, remove unoptimized */}
-        <Image
-          src={heroDetails.centerImageSrc}
-          width={384}
-          height={340}
-          quality={85}          // 100 is overkill, 85 is visually identical but much smaller
-          sizes="(max-width: 768px) 100vw, 384px"
-          priority={true}
-          // ❌ remove unoptimized={true} — this bypasses Next.js image optimization entirely
-          alt="Pharmacovigilance consulting dashboard mockup"  // descriptive alt, not generic
-          className="relative mx-auto z-10"
-        />
+          <div className="flex-1 relative">
+            <Image
+              src={heroDetails.centerImageSrc}
+              width={560}
+              height={400}
+              quality={85}
+              sizes="(max-width: 768px) 100vw, 560px"
+              priority
+              alt="Pharmacovigilance consulting dashboard mockup"
+              className="relative mx-auto w-full h-auto rounded-2xl"
+            />
+          </div>
+        </div>
       </div>
+
+      {/* Bottom fade */}
+      <div className="absolute bottom-0 left-0 right-0 h-24 bg-gradient-to-t from-white to-transparent" aria-hidden="true" />
     </section>
   );
 };

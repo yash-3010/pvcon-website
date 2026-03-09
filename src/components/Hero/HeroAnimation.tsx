@@ -3,45 +3,33 @@ import { motion } from "framer-motion";
 
 interface Props {
   heading: string[];
-  subheading: string;
 }
 
-const HeroAnimation: React.FC<Props> = ({ heading, subheading }) => {
+const HeroAnimation: React.FC<Props> = ({ heading }) => {
   return (
-    <>
-      <motion.h1
-        className="text-4xl md:text-7xl md:leading-tight font-bold text-foreground max-w-lg md:max-w-2xl mx-auto flex flex-wrap justify-center gap-x-3"
-        variants={{
-          hidden: {},
-          visible: { transition: { staggerChildren: 0.4 } },
-        }}
-        initial="hidden"
-        animate="visible"
-      >
-        {heading.map((word, index) => (
-          <motion.span
-            key={index}
-            variants={{
-              hidden: { opacity: 0, y: 20 },
-              visible: { opacity: 1, y: 0 },
-            }}
-            transition={{ duration: 0.5, ease: "easeOut" }}
-            className="inline-block"
-          >
-            {word}
-          </motion.span>
-        ))}
-      </motion.h1>
-
-      <motion.p
-        className="mt-4 text-foreground max-w-lg mx-auto"
-        initial={{ opacity: 0, y: 20 }}
-        animate={{ opacity: 1, y: 0 }}
-        transition={{ duration: 0.5, ease: "easeOut", delay: 1.5 }}
-      >
-        {subheading}
-      </motion.p>
-    </>
+    <motion.h1
+      className="text-5xl sm:text-6xl md:text-7xl lg:text-[5.5rem] xl:text-[6.5rem] leading-[1.05] font-bold text-foreground uppercase tracking-tight"
+      variants={{
+        hidden: {},
+        visible: { transition: { staggerChildren: 0.25 } },
+      }}
+      initial="hidden"
+      animate="visible"
+    >
+      {heading.map((word, index) => (
+        <motion.span
+          key={index}
+          variants={{
+            hidden: { opacity: 0, y: 50 },
+            visible: { opacity: 1, y: 0 },
+          }}
+          transition={{ duration: 0.7, ease: [0.25, 0.46, 0.45, 0.94] }}
+          className={`inline-block mr-4 md:mr-6 ${word === "Consulting" ? "text-primary" : ""}`}
+        >
+          {word}
+        </motion.span>
+      ))}
+    </motion.h1>
   );
 };
 

@@ -15,7 +15,6 @@ const Header: React.FC = () => {
 
   useEffect(() => {
     const handleScroll = () => {
-      // becomes sticky after scrolling past 100vh
       setIsScrolled(window.scrollY > window.innerHeight);
     };
     window.addEventListener("scroll", handleScroll, { passive: true });
@@ -28,15 +27,11 @@ const Header: React.FC = () => {
     <header
       className={`
         top-0 left-0 right-0 z-50 w-full transition-all duration-300
-        ${isScrolled
-          ? "fixed bg-white shadow-md"
-          : "absolute bg-transparent"
-        }
+        ${isScrolled ? "fixed bg-white shadow-sm" : "absolute bg-transparent"}
       `}
     >
       <Container>
-        <nav className="mx-auto flex justify-between items-center py-2 px-5 md:py-6">
-          {/* Logo */}
+        <nav className="mx-auto flex justify-between items-center py-3 px-5 md:py-5">
           <Link href="/" className="flex items-center gap-2">
             <Image
               src="/images/logo.webp"
@@ -52,13 +47,12 @@ const Header: React.FC = () => {
             </span>
           </Link>
 
-          {/* Desktop Menu */}
-          <ul className="hidden md:flex space-x-6 items-center">
+          <ul className="hidden md:flex space-x-8 items-center">
             {menuItems.map((item) => (
               <li key={item.text}>
                 <Link
                   href={item.url}
-                  className="text-foreground hover:text-foreground-accent transition-colors"
+                  className="nav-link text-foreground text-xs font-semibold uppercase tracking-[0.15em] transition-colors hover:text-secondary"
                 >
                   {item.text}
                 </Link>
@@ -66,20 +60,19 @@ const Header: React.FC = () => {
             ))}
             <li>
               <Link
-                href="#cta"
-                className="text-black bg-primary hover:bg-primary-accent px-8 py-3 rounded-full transition-colors"
+                href="/#cta"
+                className="bg-secondary hover:bg-secondary/90 text-white px-6 py-2.5 rounded-full transition-colors text-xs font-semibold uppercase tracking-[0.15em]"
               >
-                Request Consultation
+                Let&apos;s Talk
               </Link>
             </li>
           </ul>
 
-          {/* Mobile Menu Button */}
           <div className="md:hidden flex items-center">
             <button
               onClick={toggleMenu}
               type="button"
-              className="bg-primary text-black focus:outline-none rounded-full w-10 h-10 flex items-center justify-center"
+              className="bg-secondary text-white rounded-full w-10 h-10 flex items-center justify-center"
               aria-controls="mobile-menu"
               aria-expanded={isOpen}
               aria-label="Toggle navigation"
@@ -94,7 +87,6 @@ const Header: React.FC = () => {
         </nav>
       </Container>
 
-      {/* Mobile Menu */}
       <Transition
         show={isOpen}
         enter="transition ease-out duration-200 transform"
@@ -110,7 +102,7 @@ const Header: React.FC = () => {
               <li key={item.text}>
                 <Link
                   href={item.url}
-                  className="text-foreground hover:text-primary block"
+                  className="text-foreground hover:text-secondary block font-semibold text-sm uppercase tracking-wider"
                   onClick={toggleMenu}
                 >
                   {item.text}
@@ -119,11 +111,11 @@ const Header: React.FC = () => {
             ))}
             <li>
               <Link
-                href="#cta"
-                className="text-black bg-primary hover:bg-primary-accent px-5 py-2 rounded-full block w-fit"
+                href="/#cta"
+                className="bg-secondary hover:bg-secondary/90 text-white font-semibold px-5 py-2.5 rounded-full block w-fit text-xs uppercase tracking-wider"
                 onClick={toggleMenu}
               >
-                Get Started
+                Let&apos;s Talk
               </Link>
             </li>
           </ul>
