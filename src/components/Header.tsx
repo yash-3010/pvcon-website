@@ -1,21 +1,22 @@
 "use client";
 
-import Link from "next/link";
 import React, { useState, useEffect } from "react";
 import { Transition } from "@headlessui/react";
 import { HiOutlineXMark, HiBars3 } from "react-icons/hi2";
+import { useTranslations } from "next-intl";
+import { Link } from "@/i18n/navigation";
 import Container from "./Container";
 import { siteDetails } from "@/data/siteDetails";
-import { menuItems } from "@/data/menuItems";
 import Image from "next/image";
+import LanguageSwitcher from "./LanguageSwitcher";
 
 const Header: React.FC = () => {
+  const t = useTranslations("nav");
   const [isOpen, setIsOpen] = useState(false);
   const [isScrolled, setIsScrolled] = useState(false);
 
   useEffect(() => {
     const handleScroll = () => {
-      // becomes sticky after scrolling past 100vh
       setIsScrolled(window.scrollY > window.innerHeight);
     };
     window.addEventListener("scroll", handleScroll, { passive: true });
@@ -24,19 +25,21 @@ const Header: React.FC = () => {
 
   const toggleMenu = () => setIsOpen(!isOpen);
 
+  const menuItems = [
+    { text: t("services"), url: "/#services" },
+    { text: t("about"), url: "/about" },
+    { text: t("blog"), url: "/blog" },
+  ];
+
   return (
     <header
       className={`
         top-0 left-0 right-0 z-50 w-full transition-all duration-300
-        ${isScrolled
-          ? "fixed bg-white shadow-md"
-          : "absolute bg-transparent"
-        }
+        ${isScrolled ? "fixed bg-white shadow-md" : "absolute bg-transparent"}
       `}
     >
       <Container>
         <nav className="mx-auto flex justify-between items-center py-2 px-5 md:py-6">
-          {/* Logo */}
           <Link href="/" className="flex items-center gap-2">
             <Image
               src="/images/logo.webp"
@@ -52,30 +55,24 @@ const Header: React.FC = () => {
             </span>
           </Link>
 
-          {/* Desktop Menu */}
           <ul className="hidden md:flex space-x-6 items-center">
             {menuItems.map((item) => (
               <li key={item.text}>
-                <Link
-                  href={item.url}
-                  className="text-foreground hover:text-foreground-accent transition-colors"
-                >
+                <Link href={item.url} className="text-foreground hover:text-foreground-accent transition-colors">
                   {item.text}
                 </Link>
               </li>
             ))}
+            <li><LanguageSwitcher /></li>
             <li>
-              <Link
-                href="#cta"
-                className="text-black bg-primary hover:bg-primary-accent px-8 py-3 rounded-full transition-colors"
-              >
-                Request Consultation
+              <Link href="/#cta" className="text-black bg-primary hover:bg-primary-accent px-8 py-3 rounded-full transition-colors">
+                {t("requestConsultation")}
               </Link>
             </li>
           </ul>
 
-          {/* Mobile Menu Button */}
-          <div className="md:hidden flex items-center">
+          <div className="md:hidden flex items-center gap-2">
+            <LanguageSwitcher />
             <button
               onClick={toggleMenu}
               type="button"
@@ -84,17 +81,12 @@ const Header: React.FC = () => {
               aria-expanded={isOpen}
               aria-label="Toggle navigation"
             >
-              {isOpen ? (
-                <HiOutlineXMark className="h-6 w-6" aria-hidden="true" />
-              ) : (
-                <HiBars3 className="h-6 w-6" aria-hidden="true" />
-              )}
+              {isOpen ? <HiOutlineXMark className="h-6 w-6" aria-hidden="true" /> : <HiBars3 className="h-6 w-6" aria-hidden="true" />}
             </button>
           </div>
         </nav>
       </Container>
 
-      {/* Mobile Menu */}
       <Transition
         show={isOpen}
         enter="transition ease-out duration-200 transform"
@@ -108,22 +100,14 @@ const Header: React.FC = () => {
           <ul className="flex flex-col space-y-4 pt-1 pb-6 px-6">
             {menuItems.map((item) => (
               <li key={item.text}>
-                <Link
-                  href={item.url}
-                  className="text-foreground hover:text-primary block"
-                  onClick={toggleMenu}
-                >
+                <Link href={item.url} className="text-foreground hover:text-primary block" onClick={toggleMenu}>
                   {item.text}
                 </Link>
               </li>
             ))}
             <li>
-              <Link
-                href="#cta"
-                className="text-black bg-primary hover:bg-primary-accent px-5 py-2 rounded-full block w-fit"
-                onClick={toggleMenu}
-              >
-                Get Started
+              <Link href="/#cta" className="text-black bg-primary hover:bg-primary-accent px-5 py-2 rounded-full block w-fit" onClick={toggleMenu}>
+                {t("getStarted")}
               </Link>
             </li>
           </ul>
