@@ -1,15 +1,17 @@
 "use client";
 
-import Link from "next/link";
 import React, { useState, useEffect } from "react";
 import { Transition } from "@headlessui/react";
 import { HiOutlineXMark, HiBars3 } from "react-icons/hi2";
+import { useTranslations } from "next-intl";
+import { Link } from "@/i18n/navigation";
 import Container from "./Container";
 import { siteDetails } from "@/data/siteDetails";
-import { menuItems } from "@/data/menuItems";
 import Image from "next/image";
+import LanguageSwitcher from "./LanguageSwitcher";
 
 const Header: React.FC = () => {
+  const t = useTranslations("nav");
   const [isOpen, setIsOpen] = useState(false);
   const [isScrolled, setIsScrolled] = useState(false);
 
@@ -22,6 +24,12 @@ const Header: React.FC = () => {
   }, []);
 
   const toggleMenu = () => setIsOpen(!isOpen);
+
+  const menuItems = [
+    { text: t("services"), url: "/#services" },
+    { text: t("about"), url: "/about" },
+    { text: t("blog"), url: "/blog" },
+  ];
 
   return (
     <header
@@ -58,17 +66,19 @@ const Header: React.FC = () => {
                 </Link>
               </li>
             ))}
+            <li><LanguageSwitcher /></li>
             <li>
               <Link
                 href="/#cta"
                 className="bg-secondary hover:bg-secondary/90 text-white px-6 py-2.5 rounded-full transition-colors text-xs font-semibold uppercase tracking-[0.15em]"
               >
-                Let&apos;s Talk
+                {t("requestConsultation")}
               </Link>
             </li>
           </ul>
 
-          <div className="md:hidden flex items-center">
+          <div className="md:hidden flex items-center gap-2">
+            <LanguageSwitcher />
             <button
               onClick={toggleMenu}
               type="button"
@@ -77,11 +87,7 @@ const Header: React.FC = () => {
               aria-expanded={isOpen}
               aria-label="Toggle navigation"
             >
-              {isOpen ? (
-                <HiOutlineXMark className="h-6 w-6" aria-hidden="true" />
-              ) : (
-                <HiBars3 className="h-6 w-6" aria-hidden="true" />
-              )}
+              {isOpen ? <HiOutlineXMark className="h-6 w-6" aria-hidden="true" /> : <HiBars3 className="h-6 w-6" aria-hidden="true" />}
             </button>
           </div>
         </nav>
@@ -115,7 +121,7 @@ const Header: React.FC = () => {
                 className="bg-secondary hover:bg-secondary/90 text-white font-semibold px-5 py-2.5 rounded-full block w-fit text-xs uppercase tracking-wider"
                 onClick={toggleMenu}
               >
-                Let&apos;s Talk
+                {t("requestConsultation")}
               </Link>
             </li>
           </ul>

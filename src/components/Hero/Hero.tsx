@@ -1,64 +1,77 @@
-import Link from "next/link";
 import Image from "next/image";
+import { getTranslations } from "next-intl/server";
+import { Link } from "@/i18n/navigation";
 import { heroDetails } from "@/data/hero";
 import HeroAnimation from "./HeroAnimation";
+import GeometricBg from "@/components/GeometricBg";
 
-const Hero: React.FC = () => {
+const Hero: React.FC = async () => {
+  const t = await getTranslations("hero");
+
   return (
     <section
       id="hero"
       aria-label="Hero"
-      className="relative pt-28 md:pt-36 pb-10 md:pb-20 px-5 overflow-hidden"
+      className="relative pt-28 md:pt-36 pb-10 md:pb-20 px-5 min-h-screen flex flex-col justify-center overflow-hidden"
     >
-      {/* Subtle background grid */}
-      <div className="absolute inset-0 -z-10" aria-hidden="true">
-        <div className="absolute inset-0 bg-hero-background bg-[linear-gradient(to_right,#80808008_1px,transparent_1px),linear-gradient(to_bottom,#80808008_1px,transparent_1px)] bg-[size:64px_64px]" />
-      </div>
+      <GeometricBg variant="hero" />
 
-      <div className="max-w-7xl mx-auto">
-        {/* Animated heading — full width, massive */}
-        <HeroAnimation heading={heroDetails.heading} />
+      <div className="max-w-7xl mx-auto w-full">
+        {/* Tagline with decorative line */}
+        <div className="flex items-center gap-4 mb-6">
+          <p className="text-base md:text-lg font-semibold text-foreground">
+            {t("tagline")}
+          </p>
+          <div className="hidden md:block flex-1 h-px bg-gray-300 max-w-xs" aria-hidden="true" />
+        </div>
+
+        {/* Massive heading — animated */}
+        <HeroAnimation heading={t("heading")} />
 
         {/* Split layout: description left, image right */}
-        <div className="flex flex-col lg:flex-row gap-10 lg:gap-20 mt-12 lg:mt-16 items-center">
-          <div className="flex-1 text-center lg:text-left">
-            <p className="text-foreground-accent leading-relaxed max-w-lg mx-auto lg:mx-0">
-              {heroDetails.subheading}
+        <div className="flex flex-col lg:flex-row gap-10 lg:gap-20 mt-14 lg:mt-17 items-start">
+          {/* Left: description + CTA + scroll arrow */}
+          <div className="flex-1 max-w-md">
+            <p className="text-foreground-accent leading-relaxed text-sm md:text-base text-justify">
+              {t("description")}
             </p>
-            <div className="mt-8 flex flex-col sm:flex-row items-center lg:items-start gap-4">
+            <div className="mt-8 flex items-center gap-6">
               <Link
                 href="/#cta"
-                className="bg-secondary hover:bg-secondary/90 text-white font-semibold px-8 py-3.5 rounded-full transition-colors text-sm uppercase tracking-wider"
+                className="bg-secondary hover:bg-secondary/90 text-white font-semibold px-7 py-3 rounded-full transition-colors text-xs uppercase tracking-[0.15em]"
               >
-                Request Consultation
+                {t("ctaPrimary")}
               </Link>
               <Link
                 href="/about"
-                className="text-secondary hover:text-primary font-medium text-sm transition-colors flex items-center gap-1"
+                className="text-secondary hover:text-primary font-medium text-sm transition-colors"
               >
-                Learn More
-                <span aria-hidden="true">&rarr;</span>
+                {t("ctaSecondary")} &rarr;
               </Link>
+            </div>
+            {/* Scroll indicator */}
+            <div className="mt-12 hidden lg:flex items-center gap-2 text-foreground-accent" aria-hidden="true">
+              <span className="w-8 h-8 rounded-full border border-gray-300 flex items-center justify-center">
+                <svg width="12" height="12" viewBox="0 0 12 12" fill="none" className="animate-bounce"><path d="M6 2v8M6 10l-3-3M6 10l3-3" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/></svg>
+              </span>
             </div>
           </div>
 
+          {/* Right: hero image */}
           <div className="flex-1 relative">
             <Image
-              src={heroDetails.centerImageSrc}
-              width={560}
-              height={400}
-              quality={85}
-              sizes="(max-width: 768px) 100vw, 560px"
+              src={heroDetails.heroImageSrc}
+              width={720}
+              height={480}
+              quality={80}
+              sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 720px"
               priority
-              alt="Pharmacovigilance consulting dashboard mockup"
-              className="relative mx-auto w-full h-auto rounded-2xl"
+              alt="Pharmacovigilance consulting professionals in a laboratory setting"
+              className="w-full h-auto rounded-lg object-cover"
             />
           </div>
         </div>
       </div>
-
-      {/* Bottom fade */}
-      <div className="absolute bottom-0 left-0 right-0 h-24 bg-gradient-to-t from-white to-transparent" aria-hidden="true" />
     </section>
   );
 };

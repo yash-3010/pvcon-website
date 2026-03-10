@@ -1,12 +1,21 @@
-import Link from "next/link";
 import React from "react";
-
+import Image from "next/image";
+import { getTranslations } from "next-intl/server";
+import { Link } from "@/i18n/navigation";
 import { siteDetails } from "@/data/siteDetails";
 import { footerDetails } from "@/data/footer";
 import { getPlatformIconByName } from "@/utils";
-import Image from "next/image";
 
-const Footer: React.FC = () => {
+const Footer: React.FC = async () => {
+  const t = await getTranslations("footer");
+  const tNav = await getTranslations("nav");
+
+  const quickLinks = [
+    { text: tNav("services"), url: "/#services" },
+    { text: tNav("about"), url: "/about" },
+    { text: tNav("blog"), url: "/blog" },
+  ];
+
   return (
     <footer className="bg-[#202f63] text-white py-14">
       <div className="max-w-7xl w-full mx-auto px-6 grid grid-cols-1 md:grid-cols-3 gap-10">
@@ -26,13 +35,15 @@ const Footer: React.FC = () => {
             </span>
           </Link>
           <p className="mt-3.5 text-white/60 text-sm leading-relaxed">
-            {footerDetails.subheading}
+            {t("subheading")}
           </p>
         </div>
         <div>
-          <h2 className="text-xs font-semibold uppercase tracking-wider mb-5 text-white/50">Quick Links</h2>
+          <h2 className="text-xs font-semibold uppercase tracking-wider mb-5 text-white/50">
+            {t("quickLinksTitle")}
+          </h2>
           <ul>
-            {footerDetails.quickLinks.map((link) => (
+            {quickLinks.map((link) => (
               <li key={link.text} className="mb-2.5">
                 <Link href={link.url} className="text-white/70 hover:text-white text-sm transition-colors">
                   {link.text}
@@ -42,8 +53,9 @@ const Footer: React.FC = () => {
           </ul>
         </div>
         <div>
-          <h2 className="text-xs font-semibold uppercase tracking-wider mb-5 text-white/50">Contact Us</h2>
-
+          <h2 className="text-xs font-semibold uppercase tracking-wider mb-5 text-white/50">
+            {t("contactTitle")}
+          </h2>
           {footerDetails.email && (
             <a
               href={`mailto:${footerDetails.email}`}
@@ -52,7 +64,6 @@ const Footer: React.FC = () => {
               {footerDetails.email}
             </a>
           )}
-
           {footerDetails.telephone && (
             <a
               href={`tel:${footerDetails.telephone}`}
@@ -61,7 +72,6 @@ const Footer: React.FC = () => {
               {footerDetails.telephone}
             </a>
           )}
-
           {footerDetails.socials && (
             <div className="mt-5 flex items-center gap-4 flex-wrap">
               {Object.keys(footerDetails.socials).map((platformName) => {
@@ -84,7 +94,7 @@ const Footer: React.FC = () => {
       </div>
       <div className="mt-10 border-t border-white/10 pt-6 md:text-center text-white/40 text-sm px-6">
         <p>
-          Copyright &copy; {new Date().getFullYear()} {siteDetails.siteName}. All rights reserved.
+          Copyright &copy; {new Date().getFullYear()} {siteDetails.siteName}. {t("copyright")}
         </p>
       </div>
     </footer>
