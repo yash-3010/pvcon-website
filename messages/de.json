@@ -1,0 +1,242 @@
+{
+  "metadata": {
+    "home": {
+      "title": "PVCON | Pharmakovigilanz-Beratung & Regulatorische Auditdienstleistungen",
+      "description": "PVCON ist eine spezialisierte Pharmakovigilanz-Beratungs- und Auditfirma, die QPPV-Dienste, PSMF-Management, regulatorische Compliance, Signaldetektion und globale Arzneimittelsicherheitslösungen anbietet."
+    },
+    "about": {
+      "title": "Über PVCON | Experten für Pharmakovigilanz",
+      "description": "Erfahren Sie mehr über das PVCON-Team aus Pharmakovigilanz-Experten, die QPPV-Dienste, regulatorische Audits und globale Arzneimittelsicherheitsberatung anbieten."
+    },
+    "blog": {
+      "title": "Pharmakovigilanz-Blog | PVCON Insights",
+      "description": "Expertenbeiträge zu Arzneimittelsicherheit, QPPV-Diensten, PSMF-Management und regulatorischer Compliance."
+    }
+  },
+  "nav": {
+    "services": "Leistungen",
+    "about": "Über uns",
+    "blog": "Blog",
+    "requestConsultation": "Beratung anfragen",
+    "getStarted": "Jetzt starten"
+  },
+  "hero": {
+    "heading": "Pharmakovigilanz GxP-Audits, Beratung",
+    "subheading": "Umfassende PV-Beratung, globale GxP-Audits, Inspektionsbereitschaft, Qualitätssystementwicklung und Unternehmensschulungen für MAHs, Sponsoren und CROs weltweit"
+  },
+  "logos": {
+    "tagline": "Vertraut von MAHs, CROs und Sponsoren weltweit",
+    "stats": [
+      { "value": "50+", "label": "Betreute Kunden" },
+      { "value": "15+", "label": "Länder" },
+      { "value": "100%", "label": "Audit-Erfolgsrate" },
+      { "value": "10+", "label": "Jahre Erfahrung" }
+    ]
+  },
+  "benefits": {
+    "srHeading": "Leistungen",
+    "items": [
+      {
+        "title": "Audits & Inspektionen",
+        "description": "Umfassende Pharmakovigilanz-Audit- und Qualitätsüberwachungsleistungen zur Gewährleistung globaler regulatorischer Compliance, operativer Exzellenz und Inspektionsbereitschaft.",
+        "bullets": [
+          {
+            "title": "Umfassende PV-Audits",
+            "description": "Audits von Niederlassungen, Systemen, Anbietern und Co-Marketing-Partnern weltweit mit detaillierten CAPA-Empfehlungen und Auditbescheinigungen."
+          },
+          {
+            "title": "Qualitätssystementwicklung & -überwachung",
+            "description": "Entwurf und Implementierung robuster PV-Qualitätsmanagementsysteme, einschließlich Master-Qualitätsplänen, risikobasierter interner Auditstrategien und technologiegestütztem Management."
+          },
+          {
+            "title": "Inspektionsbereitschaft & Regulatorischer Support",
+            "description": "Vollständige Unterstützung bei der Inspektionsvorbereitung für MAHs, einschließlich strukturierter Reaktionsentwicklung auf regulatorische Inspektionsbefunde und dauerhafter Compliance-Überwachung."
+          }
+        ]
+      },
+      {
+        "title": "GxP-Auditierung",
+        "description": "Umfassende GxP-Auditlösungen zur Sicherstellung regulatorischer Compliance, Qualitätssicherung und operativer Integrität in klinischen, Labor-, Produktions- und Anbieterumgebungen.",
+        "bullets": [
+          {
+            "title": "Klinische & Prüfarztat-Audits (GCP)",
+            "description": "Prüfstellen-Audits, Phase-I-Audits, anlassbezogene Audits, Sponsor- und CRO-Systemaudits sowie Überwachung der Versorgung mit Prüfpräparaten zur Sicherstellung der GCP-Compliance."
+          },
+          {
+            "title": "Anbieter-, CRO- & IT-Qualifizierung",
+            "description": "CRO-Due-Diligence-Audits, Anbieterqualifizierungsaudits, Datenmanagementaudits und IT-Systemqualifizierungsüberprüfungen zur Sicherung von Qualität und regulatorischer Ausrichtung."
+          },
+          {
+            "title": "Labor- & Produktions-Compliance",
+            "description": "GCLP-, GLP- und GMP-Audits, einschließlich Archivstandort-Audits, Arzneimittelvernichtungseinheits-Audits und flexibler Vor-Ort- oder Fernauditdurchführung für Lifecycle-Compliance."
+          }
+        ]
+      },
+      {
+        "title": "Unternehmensschulungen",
+        "description": "Strukturierte Pharmakovigilanz-Schulungsprogramme zur Stärkung des regulatorischen Wissens, der operativen Bereitschaft und der Qualitätskultur in MAH- und Stakeholder-Umgebungen.",
+        "bullets": [
+          {
+            "title": "Entwicklung von Trainingsrahmen & -matrizen",
+            "description": "Entwurf und Implementierung umfassender Trainingsmatrizen, strukturierter Pläne und maßgeschneiderter Trainingsmaterialien entsprechend den regulatorischen Anforderungen."
+          },
+          {
+            "title": "MAH Boot Camps & Stakeholder-Schulungen",
+            "description": "Intensive Boot Camps und fokussierte Stakeholder-Schulungsprogramme für MAH-Setups zur Verbesserung von Inspektionsbereitschaft und operativer Kompetenz."
+          },
+          {
+            "title": "Regulatorische & Gute PV-Praxis-Updates",
+            "description": "Maßgeschneiderte Schulungen zu Guten Pharmakovigilanz-Praktiken, sich entwickelnden Sicherheitsvorschriften und globalen Compliance-Anforderungen."
+          }
+        ]
+      }
+    ]
+  },
+  "pricing": {
+    "sectionTitle": "Preisgestaltung",
+    "sectionDescription": "Flexible Pläne, zugeschnitten auf Ihre Pharmakovigilanz-Bedürfnisse.",
+    "getStarted": "Jetzt starten",
+    "features": "LEISTUNGEN",
+    "featuresSubtext": "Alles in der Basis-Version, plus...",
+    "tiers": [
+      {
+        "name": "Essential",
+        "price": "Individuell",
+        "features": [
+          "ICSR-Fallbearbeitung",
+          "Unterstützung bei periodischen Sicherheitsberichten",
+          "Regulatorische Informationsupdates",
+          "E-Mail-Support"
+        ]
+      },
+      {
+        "name": "Professional",
+        "price": "Individuell",
+        "features": [
+          "Dedizierte QPPV-Dienste",
+          "PSMF-Einrichtung & -Management",
+          "Signaldetektion & -bewertung",
+          "GxP-Auditbereitschaftsunterstützung",
+          "Prioritäts-Support"
+        ]
+      },
+      {
+        "name": "Enterprise",
+        "price": "Individuell",
+        "features": [
+          "End-to-End PV-Systemaufbau",
+          "Vollständige Unterstützung bei regulatorischen Inspektionen",
+          "Unternehmensschulungsprogramme",
+          "Dedizierter Account-Manager",
+          "Maßgeschneiderte Compliance-Lösungen",
+          "Vor-Ort-Beratung"
+        ]
+      }
+    ]
+  },
+  "testimonials": {
+    "sectionTitle": "Was unsere Kunden sagen",
+    "sectionDescription": "Erfahrungen von unseren Partnern.",
+    "items": [
+      {
+        "name": "Dr. Sarah Mitchell",
+        "role": "Leiterin Pharmakovigilanz, BioPharma Co.",
+        "message": "Die Expertise von PVCON in QPPV-Diensten und Inspektionsbereitschaft hat unsere PV-Abläufe grundlegend verbessert. Ihr strukturierter Ansatz ermöglichte es uns, die EMA-Inspektion ohne kritische Befunde zu bestehen."
+      },
+      {
+        "name": "James Thornton",
+        "role": "VP Regulatory Affairs, CRO Solutions Ltd.",
+        "message": "Die GxP-Audit-Unterstützung durch PVCON war außergewöhnlich. Das fundierte Wissen des Teams über EU-GVP-Leitlinien und die praktische Audit-Erfahrung gaben uns die Zuversicht für unsere regulatorische Einreichung."
+      },
+      {
+        "name": "Dr. Yuki Nakamura",
+        "role": "Direktorin Qualitätssicherung, Global Pharma Inc.",
+        "message": "Die Unternehmensschulungsprogramme von PVCON haben die Pharmakovigilanz-Kompetenz unseres Teams erheblich gesteigert. Die maßgeschneiderten Boot Camps und kontinuierlichen regulatorischen Updates sind unverzichtbar."
+      }
+    ]
+  },
+  "faq": {
+    "label": "FAQ",
+    "title": "Häufig gestellte Fragen",
+    "contact": "Stellen Sie uns Ihre Fragen!",
+    "email": "support@pvcon.in",
+    "items": [
+      {
+        "question": "Was ist ein QPPV und welche Dienste bietet PVCON an?",
+        "answer": "Ein Qualified Person for Pharmacovigilance (QPPV) ist eine gesetzlich vorgeschriebene Rolle für alle Inhaber einer Genehmigung für das Inverkehrbringen in der EU/EWR. PVCON bietet dedizierte QPPV-Dienste an, einschließlich Stellvertreter-QPPV-Abdeckung, Überwachung von PV-Systemen, Signalmanagement, periodische Berichtserstattung und Kontakt zu Regulierungsbehörden."
+      },
+      {
+        "question": "Wie unterstützt PVCON MAHs bei der Inspektionsbereitschaft?",
+        "answer": "Wir bieten umfassende Unterstützung zur Inspektionsbereitschaft: Lückenanalyse Ihres PV-Systems gegenüber GVP-Anforderungen, Mock-Inspektionsübungen, strukturierte Reaktionsrahmen für regulatorische Befunde, CAPA-Management und fortlaufende Compliance-Überwachung nach der Inspektion."
+      },
+      {
+        "question": "Mit welchen regulatorischen Rahmenbedingungen arbeiten Sie?",
+        "answer": "PVCON arbeitet mit allen wichtigen globalen regulatorischen Rahmenwerken, einschließlich EU-GVP-Module, FDA 21 CFR Part 312/314, ICH-E2-Leitlinien, PMDA-Anforderungen (Japan), NMPA-Leitlinien (China) und CDSCO-Vorschriften (Indien)."
+      },
+      {
+        "question": "Bieten Sie Remote-Auditdienstleistungen an?",
+        "answer": "Ja. PVCON bietet sowohl Vor-Ort- als auch Remote-Auditoptionen an. Unsere Remote-Audit-Methodik ist vollständig auf regulatorische Erwartungen abgestimmt und wurde über mehrere Rechtsordnungen hinweg validiert."
+      },
+      {
+        "question": "Wie kann ich mit PVCON beginnen?",
+        "answer": "Kontaktieren Sie uns unter support@pvcon.in mit einer kurzen Beschreibung Ihrer Bedürfnisse. Unser Team antwortet innerhalb eines Werktages, um ein kostenloses Erstgespräch zu vereinbaren."
+      }
+    ]
+  },
+  "stats": {
+    "items": [
+      {
+        "title": "500+",
+        "description": "ICSR-Fälle, die monatlich mit vollständiger regulatorischer Compliance und Qualitätsüberwachung bearbeitet werden."
+      },
+      {
+        "title": "98%",
+        "description": "Kunden-Audit-Erfolgsrate, die unsere rigorose Inspektionsbereitschaftsmethodik widerspiegelt."
+      },
+      {
+        "title": "20+",
+        "description": "Globale regulatorische Rahmenwerke abgedeckt, von EU-GVP bis FDA, PMDA und CDSCO."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Bereit, Ihre Pharmakovigilanz-Abläufe zu stärken?",
+    "subheading": "Partnern Sie mit PVCON für Expertenberatung, regulatorische Audits und maßgeschneiderte End-to-End-Arzneimittelsicherheitslösungen.",
+    "ctaLabel": "Beratung anfragen"
+  },
+  "about": {
+    "ariaLabel": "Über PVCON",
+    "heading": "Über PVCON",
+    "intro": "PVCON ist eine spezialisierte Pharmakovigilanz-Beratungs- und Auditfirma, die Life-Sciences-Organisationen mit Expertenwissen in regulatorischen Fragen, Qualitätsüberwachung und Arzneimittelsicherheitslösungen unterstützt.",
+    "missionTitle": "Unsere Mission",
+    "mission": "Wir befähigen MAHs, CROs und Sponsoren mit dem regulatorischen Fachwissen, das sie benötigen, um Compliance aufrechtzuerhalten, Patienten zu schützen und in einem komplexen globalen Umfeld erfolgreich zu sein.",
+    "whatWeDoTitle": "Was wir tun",
+    "whatWeDo": "Von QPPV-Diensten bis hin zu PSMF-Management und Signaldetektion bietet PVCON End-to-End-Pharmakovigilanz-Lösungen, die auf die sich entwickelnden regulatorischen Anforderungen weltweit ausgerichtet sind."
+  },
+  "blog": {
+    "featuredHeading": "Empfohlene Beiträge",
+    "recentHeading": "Neueste Beiträge",
+    "backToAll": "Zurück zu allen Beiträgen",
+    "home": "Startseite",
+    "blogLabel": "Blog",
+    "updatedLabel": "Aktualisiert"
+  },
+  "footer": {
+    "subheading": "Stärkung von Life-Sciences-Organisationen durch regulatorische Exzellenz und qualitätsorientierte Compliance.",
+    "quickLinksTitle": "Schnelllinks",
+    "contactTitle": "Kontakt",
+    "emailLabel": "E-Mail",
+    "phoneLabel": "Telefon",
+    "copyright": "Alle Rechte vorbehalten."
+  },
+  "languageSwitcher": {
+    "label": "Sprache ändern",
+    "languages": {
+      "en": "English",
+      "de": "Deutsch",
+      "zh": "中文",
+      "ja": "日本語",
+      "fr": "Français"
+    }
+  }
+}
