@@ -2,33 +2,18 @@
 import { motion } from "framer-motion";
 
 interface Props {
-  heading: string[];
+  heading: string;
 }
 
 const HeroAnimation: React.FC<Props> = ({ heading }) => {
   return (
     <motion.h1
-      className="text-5xl sm:text-6xl md:text-7xl lg:text-[5.5rem] xl:text-[6.5rem] leading-[1.05] font-bold text-foreground uppercase tracking-tight"
-      variants={{
-        hidden: {},
-        visible: { transition: { staggerChildren: 0.25 } },
-      }}
-      initial="hidden"
-      animate="visible"
+      className="text-5xl sm:text-7xl md:text-8xl lg:text-[7rem] leading-[0.95] font-extrabold text-foreground uppercase tracking-tighter"
+      initial={{ opacity: 0, y: 60 }}
+      animate={{ opacity: 1, y: 0 }}
+      transition={{ duration: 0.8, ease: [0.25, 0.46, 0.45, 0.94] }}
     >
-      {heading.map((word, index) => (
-        <motion.span
-          key={index}
-          variants={{
-            hidden: { opacity: 0, y: 50 },
-            visible: { opacity: 1, y: 0 },
-          }}
-          transition={{ duration: 0.7, ease: [0.25, 0.46, 0.45, 0.94] }}
-          className={`inline-block mr-4 md:mr-6 ${word === "Consulting" ? "text-primary" : ""}`}
-        >
-          {word}
-        </motion.span>
-      ))}
+      {heading}
     </motion.h1>
   );
 };

@@ -1,36 +1,63 @@
 {
-  "metadata": {
-    "home": {
-      "title": "PVCON | 药物警戒咨询与监管审计服务",
-      "description": "PVCON是一家专业的药物警戒咨询和审计公司，提供QPPV服务、PSMF管理、监管合规、信号检测和全球药品安全解决方案。"
-    },
-    "about": {
-      "title": "关于PVCON | 药物警戒专家",
-      "description": "了解PVCON的药物警戒专家团队，提供QPPV服务、监管审计和全球药品安全咨询。"
-    },
-    "blog": {
-      "title": "药物警戒博客 | PVCON见解",
-      "description": "关于药品安全、QPPV服务、PSMF管理和监管合规的专家文章。"
-    }
-  },
-  "nav": {
-    "services": "服务",
-    "about": "关于我们",
-    "blog": "博客",
-    "requestConsultation": "申请咨询",
-    "getStarted": "立即开始"
-  },
   "hero": {
-    "heading": "药物警戒 GxP审计 咨询",
-    "subheading": "为全球MAH、申办方和CRO提供全面的PV咨询、全球GxP审计、检查准备、质量体系开发和企业培训服务"
+    "tagline": "专业的全球药物警戒与GxP服务",
+    "heading": "PV咨询与GXP审计",
+    "description": "PVCON提供端到端的药物警戒咨询、GxP审计和企业培训——与全球MAH、申办方和CRO合作，实现持续的监管合规和卓越运营。",
+    "ctaPrimary": "联系我们",
+    "ctaSecondary": "关于我们"
   },
   "logos": {
     "tagline": "深受全球MAH、CRO和申办方信赖",
     "stats": [
-      { "value": "50+", "label": "服务客户" },
-      { "value": "15+", "label": "覆盖国家" },
-      { "value": "100%", "label": "审计成功率" },
-      { "value": "10+", "label": "年行业经验" }
+      {
+        "value": "50+",
+        "label": "服务客户"
+      },
+      {
+        "value": "15+",
+        "label": "覆盖国家"
+      },
+      {
+        "value": "100%",
+        "label": "审计成功率"
+      },
+      {
+        "value": "10+",
+        "label": "年行业经验"
+      }
+    ]
+  },
+  "aboutSection": {
+    "label": "关于我们",
+    "heading": "PVCON",
+    "paragraphs": [
+      "PVCON由经验丰富的药物警戒专家创立，是一家专业的咨询和审计公司，为全球制药公司、生物技术公司和CRO提供全面的药品安全解决方案。",
+      "我们的团队在GxP审计、QPPV服务、PSMF管理、检查准备、信号检测和监管合规方面拥有数十年的综合经验——与新兴初创企业和成熟制药企业均有合作。"
+    ],
+    "ctaLabel": "了解我们"
+  },
+  "visionMission": {
+    "label": "我们的使命",
+    "heading": "愿景与使命",
+    "items": [
+      {
+        "number": "01",
+        "title": "愿景",
+        "description": "成为药物警戒和GxP合规领域最值得信赖的全球合作伙伴，树立药品安全、监管卓越和患者保护的行业标准。"
+      },
+      {
+        "number": "02",
+        "title": "使命",
+        "description": "提供端到端的药物警戒咨询、GxP审计和企业培训，使MAH、申办方和CRO能够实现持续的监管合规、检查准备和卓越运营——在全球范围内保障患者安全。"
+      }
+    ]
+  },
+  "whyChooseUs": {
+    "heading": "为什么选择我们",
+    "paragraphs": [
+      "在PVCON，质量与合规是我们运营的基石，驱动着我们承接的每一项工作。我们深切致力于维护药物警戒实践的最高标准。",
+      "我们的目标是持续提升客户运营的安全性、质量和监管完整性。为此，我们部署稳健的审计框架、全面的培训计划和前瞻性的合规策略。",
+      "我们的团队与各类组织合作——从新兴的生物科技初创企业到成熟的全球制药企业——在PV咨询、临床审计和监管检查准备方面提供量身定制的解决方案。"
     ]
   },
   "benefits": {
@@ -198,45 +225,5 @@
         "description": "覆盖的全球监管框架，从EU GVP到FDA、PMDA和CDSCO。"
       }
     ]
-  },
-  "cta": {
-    "heading": "准备好加强您的药物警戒运营了吗？",
-    "subheading": "与PVCON合作，获得专业咨询、监管审计和量身定制的端到端药品安全解决方案。",
-    "ctaLabel": "申请咨询"
-  },
-  "about": {
-    "ariaLabel": "关于PVCON",
-    "heading": "关于PVCON",
-    "intro": "PVCON是一家专业的药物警戒咨询和审计公司，致力于为生命科学组织提供专家监管指导、质量监督和药品安全解决方案。",
-    "missionTitle": "我们的使命",
-    "mission": "我们为MAH、CRO和申办方提供所需的监管专业知识，帮助他们维持合规、保护患者，并在复杂的全球环境中取得成功。",
-    "whatWeDoTitle": "我们的业务",
-    "whatWeDo": "从QPPV服务到PSMF管理和信号检测，PVCON提供端到端的药物警戒解决方案，满足全球不断演变的监管要求。"
-  },
-  "blog": {
-    "featuredHeading": "精选文章",
-    "recentHeading": "最新文章",
-    "backToAll": "返回所有文章",
-    "home": "首页",
-    "blogLabel": "博客",
-    "updatedLabel": "更新于"
-  },
-  "footer": {
-    "subheading": "以监管卓越和质量驱动的合规为生命科学组织赋能。",
-    "quickLinksTitle": "快速链接",
-    "contactTitle": "联系我们",
-    "emailLabel": "电子邮件",
-    "phoneLabel": "电话",
-    "copyright": "版权所有。"
-  },
-  "languageSwitcher": {
-    "label": "切换语言",
-    "languages": {
-      "en": "English",
-      "de": "Deutsch",
-      "zh": "中文",
-      "ja": "日本語",
-      "fr": "Français"
-    }
   }
 }

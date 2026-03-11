@@ -1,5 +1,6 @@
 import SectionTitle from "./SectionTitle";
 import FadeInView from "./FadeInView";
+import GeometricBg from "./GeometricBg";
 
 interface Props {
     id: string;
@@ -9,7 +10,8 @@ interface Props {
 
 const Section: React.FC<React.PropsWithChildren<Props>> = ({ id, title, description, children }: React.PropsWithChildren<Props>) => {
     return (
-        <section id={id} className="py-12 lg:py-24">
+        <section id={id} className="relative py-12 lg:py-24 overflow-hidden">
+            <GeometricBg />
             <FadeInView>
                 <SectionTitle>
                     <h2 className="text-center mb-4">{title}</h2>

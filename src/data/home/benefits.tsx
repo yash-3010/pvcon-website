@@ -14,7 +14,7 @@ import React from "react";
 // All text (titles, descriptions) lives in messages/*.json under "benefits.items"
 export const benefitsConfig = [
   {
-    imageSrc: "/images/mockup-1.webp",
+    imageSrc: "/images/service-audit.webp",
     bulletIcons: [
       <FiCheckCircle key="0" size={26} />,
       <FiShield key="1" size={26} />,
@@ -22,7 +22,7 @@ export const benefitsConfig = [
     ],
   },
   {
-    imageSrc: "/images/mockup-2.webp",
+    imageSrc: "/images/service-gxp.webp",
     bulletIcons: [
       <FiActivity key="0" size={26} />,
       <FiShield key="1" size={26} />,
@@ -30,7 +30,7 @@ export const benefitsConfig = [
     ],
   },
   {
-    imageSrc: "/images/mockup-3.webp",
+    imageSrc: "/images/service-training.webp",
     bulletIcons: [
       <FiClipboard key="0" size={26} />,
       <FiUsers key="1" size={26} />,

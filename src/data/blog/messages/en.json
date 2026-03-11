@@ -1,0 +1,10 @@
+{
+  "blog": {
+    "featuredHeading": "Featured Posts",
+    "recentHeading": "Recent Posts",
+    "backToAll": "Back to all posts",
+    "home": "Home",
+    "blogLabel": "Blog",
+    "updatedLabel": "Updated"
+  }
+}

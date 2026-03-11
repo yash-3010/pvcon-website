@@ -1,36 +1,63 @@
 {
-  "metadata": {
-    "home": {
-      "title": "PVCON | Pharmacovigilance Consulting & Regulatory Audit Services",
-      "description": "PVCON is a specialized pharmacovigilance consulting and audit firm providing QPPV services, PSMF management, regulatory compliance, signal detection, and global drug safety solutions."
-    },
-    "about": {
-      "title": "About PVCON | Expert Pharmacovigilance Consultants",
-      "description": "Learn about PVCON's team of pharmacovigilance experts offering QPPV services, regulatory audits, and global drug safety consulting."
-    },
-    "blog": {
-      "title": "Pharmacovigilance Blog | PVCON Insights",
-      "description": "Expert articles on drug safety, QPPV services, PSMF management and regulatory compliance."
-    }
-  },
-  "nav": {
-    "services": "Services",
-    "about": "About",
-    "blog": "Blog",
-    "requestConsultation": "Request Consultation",
-    "getStarted": "Get Started"
-  },
   "hero": {
-    "heading": "Pharmacovigilance GxP Audits, Consulting",
-    "subheading": "Comprehensive PV consulting, global GxP audits, inspection readiness, quality system development, and corporate training for MAHs, Sponsors, and CROs worldwide"
+    "tagline": "Specialized global pharmacovigilance & GxP services for",
+    "heading": "PV CONSULTING & GXP AUDITS",
+    "description": "At PVCON, we deliver end-to-end pharmacovigilance consulting, GxP auditing, and corporate training — partnering with MAHs, Sponsors, and CROs worldwide to achieve sustained regulatory compliance and operational excellence.",
+    "ctaPrimary": "Let's Talk",
+    "ctaSecondary": "About Us"
   },
   "logos": {
     "tagline": "Trusted by MAHs, CROs & Sponsors across the globe",
     "stats": [
-      { "value": "50+", "label": "Clients Served" },
-      { "value": "15+", "label": "Countries" },
-      { "value": "100%", "label": "Audit Success Rate" },
-      { "value": "10+", "label": "Years Experience" }
+      {
+        "value": "50+",
+        "label": "Clients Served"
+      },
+      {
+        "value": "15+",
+        "label": "Countries"
+      },
+      {
+        "value": "100%",
+        "label": "Audit Success Rate"
+      },
+      {
+        "value": "10+",
+        "label": "Years Experience"
+      }
+    ]
+  },
+  "aboutSection": {
+    "label": "About",
+    "heading": "PVCON",
+    "paragraphs": [
+      "Founded by seasoned pharmacovigilance professionals, PVCON is a specialized consulting and audit firm delivering comprehensive drug safety solutions to pharmaceutical companies, biotech firms, and CROs across the globe.",
+      "Our team brings decades of combined experience across GxP auditing, QPPV services, PSMF management, inspection readiness, signal detection, and regulatory compliance — partnering with both emerging startups and established pharmaceutical enterprises."
+    ],
+    "ctaLabel": "Explore Us"
+  },
+  "visionMission": {
+    "label": "Our Purpose",
+    "heading": "Vision & Mission",
+    "items": [
+      {
+        "number": "01",
+        "title": "Vision",
+        "description": "To be the most trusted global partner in pharmacovigilance and GxP compliance, setting the industry standard for drug safety, regulatory excellence, and patient protection across all therapeutic areas and regulatory landscapes."
+      },
+      {
+        "number": "02",
+        "title": "Mission",
+        "description": "To deliver end-to-end pharmacovigilance consulting, GxP auditing, and corporate training that empowers MAHs, Sponsors, and CROs to achieve sustained regulatory compliance, inspection readiness, and operational excellence — safeguarding patient safety worldwide."
+      }
+    ]
+  },
+  "whyChooseUs": {
+    "heading": "Why Choose Us",
+    "paragraphs": [
+      "At PVCON, quality and compliance serve as the cornerstone of our operations, driving every engagement we undertake. We are deeply committed to upholding the highest standards of pharmacovigilance practice — a commitment that spans every service we deliver and every regulatory landscape we navigate.",
+      "Our objective is to consistently elevate the safety, quality, and regulatory integrity of our clients' operations. To achieve this, we deploy robust audit frameworks, comprehensive training programs, and proactive compliance strategies aligned with current ICH, EU GVP, and global GxP guidelines.",
+      "Our team has partnered with a diverse range of organizations — from emerging biotech startups to established global pharmaceutical enterprises — delivering tailored solutions across pharmacovigilance consulting, clinical audits, vendor qualification, QPPV services, and regulatory inspection readiness."
     ]
   },
   "benefits": {
@@ -198,45 +225,5 @@
         "description": "Global regulatory frameworks covered, from EU GVP to FDA, PMDA, and CDSCO."
       }
     ]
-  },
-  "cta": {
-    "heading": "Ready to Strengthen Your Pharmacovigilance Operations?",
-    "subheading": "Partner with PVCON for expert consulting, regulatory audits, and end-to-end drug safety solutions tailored to your organization's needs.",
-    "ctaLabel": "Request a Consultation"
-  },
-  "about": {
-    "ariaLabel": "About PVCON",
-    "heading": "About PVCON",
-    "intro": "PVCON is a specialized pharmacovigilance consulting and audit firm dedicated to supporting life sciences organizations with expert regulatory guidance, quality oversight, and drug safety solutions.",
-    "missionTitle": "Our Mission",
-    "mission": "We empower MAHs, CROs, and sponsors with the regulatory expertise they need to maintain compliance, protect patients, and succeed in a complex global landscape.",
-    "whatWeDoTitle": "What We Do",
-    "whatWeDo": "From QPPV services to PSMF management and signal detection, PVCON delivers end-to-end pharmacovigilance solutions designed to meet evolving regulatory requirements worldwide."
-  },
-  "blog": {
-    "featuredHeading": "Featured Posts",
-    "recentHeading": "Recent Posts",
-    "backToAll": "Back to all posts",
-    "home": "Home",
-    "blogLabel": "Blog",
-    "updatedLabel": "Updated"
-  },
-  "footer": {
-    "subheading": "Empowering life sciences organizations with regulatory excellence and quality-driven compliance.",
-    "quickLinksTitle": "Quick Links",
-    "contactTitle": "Contact Us",
-    "emailLabel": "Email",
-    "phoneLabel": "Phone",
-    "copyright": "All rights reserved."
-  },
-  "languageSwitcher": {
-    "label": "Change language",
-    "languages": {
-      "en": "English",
-      "de": "Deutsch",
-      "zh": "中文",
-      "ja": "日本語",
-      "fr": "Français"
-    }
   }
 }

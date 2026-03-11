@@ -1,0 +1,87 @@
+{
+  "about": {
+    "hero": {
+      "ariaLabel": "Über PVCON",
+      "tagline": "Über uns",
+      "title": "Über PVCON",
+      "subtitle": "Eine spezialisierte Pharmakovigilanz-Beratungs- und Auditfirma, die umfassende Arzneimittelsicherheitslösungen für Pharmaunternehmen, Biotech-Firmen und CROs weltweit liefert."
+    },
+    "images": {
+      "aboutAlt": "PVCON-Pharmakovigilanz-Team in professioneller Umgebung",
+      "teamAlt": "PVCON-Berater bei der Zusammenarbeit an regulatorischen Strategien"
+    },
+    "whoWeAre": {
+      "tag": "Wer wir sind",
+      "heading": "Unsere Geschichte",
+      "story": {
+        "p1": "Gegründet von erfahrenen Pharmakovigilanz-Experten, wurde PVCON gegründet, um die Lücke zwischen regulatorischen Anforderungen und operativer Realität zu schließen. Viele Organisationen — von aufstrebenden Biotech-Startups bis zu etablierten Pharmaunternehmen — benötigen einen vertrauenswürdigen Partner mit praxisorientierter Expertise.",
+        "p2": "Unser Team bringt jahrzehntelange kombinierte Erfahrung in GxP-Audits, QPPV-Services, PSMF-Management, Inspektionsvorbereitung, Signalerkennung und regulatorischer Compliance mit — erworben durch direkte Zusammenarbeit mit führenden MAHs, Sponsoren und CROs weltweit.",
+        "p3": "Heute ist PVCON als Spezialfirma anerkannt, die messbare und dauerhafte Verbesserungen in Arzneimittelsicherheitsprozessen und regulatorischer Compliance für Kunden in über 20 Rechtsordnungen liefert."
+      }
+    },
+    "approach": {
+      "tag": "Wie wir arbeiten",
+      "heading": "Unser Ansatz",
+      "p1": "Qualität und Compliance sind Eckpfeiler unserer Arbeit. Jedes Projekt beginnt mit einem gründlichen Verständnis Ihres regulatorischen Umfelds, Ihrer organisatorischen Reife und Ihrer strategischen Ziele — damit unsere Lösungen maßgeschneidert, praxisnah und sofort umsetzbar sind.",
+      "p2": "Wir setzen robuste Audit-Frameworks, umfassende Schulungsprogramme und proaktive Compliance-Strategien ein, die mit aktuellen ICH-, EU-GVP- und globalen GxP-Richtlinien übereinstimmen. Unsere Berater arbeiten als eingebettete Partner in Ihren Teams und geben Wissen weiter.",
+      "p3": "Von der Einrichtung von Pharmakovigilanz-Systemen und PSMF-Erstellung bis zur Lieferantenqualifikation und Inspektionsbereitschaft bieten wir End-to-End-Unterstützung zur Stärkung von Sicherheit, Qualität und regulatorischer Integrität."
+    },
+    "buttons": {
+      "workWithUs": "Mit uns arbeiten",
+      "getInTouch": "Kontakt aufnehmen"
+    },
+    "coreValues": {
+      "tag": "Was uns antreibt",
+      "heading": "Kernwerte",
+      "01": {
+        "title": "Regulatorische Exzellenz",
+        "description": "Wir halten die höchsten Standards in der Pharmakovigilanz ein, in Übereinstimmung mit ICH, EU GVP und globalen GxP-Richtlinien."
+      },
+      "02": {
+        "title": "Kundenorientierte Partnerschaft",
+        "description": "Wir arbeiten als Erweiterung Ihres Teams — verstehen Ihre regulatorische Landschaft und liefern maßgeschneiderte Lösungen."
+      },
+      "03": {
+        "title": "Patientensicherheit zuerst",
+        "description": "Jede Empfehlung und jedes Audit ist darauf ausgerichtet, die Patientensicherheit weltweit zu schützen."
+      },
+      "04": {
+        "title": "Kontinuierliche Innovation",
+        "description": "Wir bleiben regulatorisch und technologisch vorne, um proaktive Strategien und moderne Frameworks anzubieten."
+      }
+    },
+    "expertise": {
+      "tag": "Was wir liefern",
+      "heading": "Fachgebiete",
+      "subtitle": "Unsere Berater verfügen über umfassende, praktische Erfahrung im gesamten Spektrum der Pharmakovigilanz und GxP-Disziplinen.",
+      "qppv": {
+        "title": "QPPV-Services",
+        "desc": "EU-qualifizierte QPPVs für vollständige Compliance, Überwachung von Nebenwirkungen und regulatorische Kontakte."
+      },
+      "gxp": {
+        "title": "GxP-Audits",
+        "desc": "Umfassende GCP-, GLP-, GMP-, GCLP- und Lieferantenaudits vor Ort und remote."
+      },
+      "psmf": {
+        "title": "PSMF-Management",
+        "desc": "Erstellung, Pflege und regulatorische Ausrichtung der Pharmacovigilance System Master File."
+      },
+      "inspection": {
+        "title": "Inspektionsbereitschaft",
+        "desc": "Scheininspektionen, Gap-Analysen und strukturierte CAPA-Pläne im Stil von EMA, MHRA und FDA."
+      },
+      "signal": {
+        "title": "Signalerkennung",
+        "desc": "Robuste Signalmanagement-Frameworks, Nutzen-Risiko-Bewertungen und Periodische Sicherheitsberichte."
+      },
+      "regulatory": {
+        "title": "Regulatorische Compliance",
+        "desc": "Strategische Beratung zu EU GVP, ICH, FDA 21 CFR und WHO-Standards in 20+ Rechtsordnungen."
+      }
+    },
+    "cta": {
+      "heading": "Bereit, Ihre PV-Operationen zu stärken?",
+      "text": "Arbeiten Sie mit PVCON für fachkundige Pharmakovigilanz-Beratung, GxP-Audits und regulatorische Unterstützung zusammen."
+    }
+  }
+}

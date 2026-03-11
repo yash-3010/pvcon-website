@@ -6,7 +6,7 @@ import { HiOutlineXMark, HiBars3 } from "react-icons/hi2";
 import { useTranslations } from "next-intl";
 import { Link } from "@/i18n/navigation";
 import Container from "./Container";
-import { siteDetails } from "@/data/siteDetails";
+import { siteDetails } from "@/data/common/siteDetails";
 import Image from "next/image";
 import LanguageSwitcher from "./LanguageSwitcher";
 
@@ -39,7 +39,7 @@ const Header: React.FC = () => {
       `}
     >
       <Container>
-        <nav className="mx-auto flex justify-between items-center py-3 px-5 md:py-5">
+        <nav className="mx-auto flex justify-between items-center py-3 md:py-5">
           <Link href="/" className="flex items-center gap-2">
             <Image
               src="/images/logo.webp"

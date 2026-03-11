@@ -1,5 +1,5 @@
 import { getTranslations } from "next-intl/server";
-import { benefitsConfig } from "@/data/benefits";
+import { benefitsConfig } from "@/data/home/benefits";
 import { IBenefit } from "@/types";
 import BenefitSection from "./BenefitSection";
 

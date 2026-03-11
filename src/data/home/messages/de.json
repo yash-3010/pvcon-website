@@ -1,36 +1,63 @@
 {
-  "metadata": {
-    "home": {
-      "title": "PVCON | Pharmakovigilanz-Beratung & Regulatorische Auditdienstleistungen",
-      "description": "PVCON ist eine spezialisierte Pharmakovigilanz-Beratungs- und Auditfirma, die QPPV-Dienste, PSMF-Management, regulatorische Compliance, Signaldetektion und globale Arzneimittelsicherheitslösungen anbietet."
-    },
-    "about": {
-      "title": "Über PVCON | Experten für Pharmakovigilanz",
-      "description": "Erfahren Sie mehr über das PVCON-Team aus Pharmakovigilanz-Experten, die QPPV-Dienste, regulatorische Audits und globale Arzneimittelsicherheitsberatung anbieten."
-    },
-    "blog": {
-      "title": "Pharmakovigilanz-Blog | PVCON Insights",
-      "description": "Expertenbeiträge zu Arzneimittelsicherheit, QPPV-Diensten, PSMF-Management und regulatorischer Compliance."
-    }
-  },
-  "nav": {
-    "services": "Leistungen",
-    "about": "Über uns",
-    "blog": "Blog",
-    "requestConsultation": "Beratung anfragen",
-    "getStarted": "Jetzt starten"
-  },
   "hero": {
-    "heading": "Pharmakovigilanz GxP-Audits, Beratung",
-    "subheading": "Umfassende PV-Beratung, globale GxP-Audits, Inspektionsbereitschaft, Qualitätssystementwicklung und Unternehmensschulungen für MAHs, Sponsoren und CROs weltweit"
+    "tagline": "Spezialisierte globale Pharmakovigilanz- & GxP-Dienste für",
+    "heading": "PV-BERATUNG & GXP-AUDITS",
+    "description": "Bei PVCON bieten wir End-to-End-Pharmakovigilanz-Beratung, GxP-Auditing und Unternehmensschulungen — in Partnerschaft mit MAHs, Sponsoren und CROs weltweit für nachhaltige regulatorische Compliance und operative Exzellenz.",
+    "ctaPrimary": "Kontakt aufnehmen",
+    "ctaSecondary": "Über uns"
   },
   "logos": {
     "tagline": "Vertraut von MAHs, CROs und Sponsoren weltweit",
     "stats": [
-      { "value": "50+", "label": "Betreute Kunden" },
-      { "value": "15+", "label": "Länder" },
-      { "value": "100%", "label": "Audit-Erfolgsrate" },
-      { "value": "10+", "label": "Jahre Erfahrung" }
+      {
+        "value": "50+",
+        "label": "Betreute Kunden"
+      },
+      {
+        "value": "15+",
+        "label": "Länder"
+      },
+      {
+        "value": "100%",
+        "label": "Audit-Erfolgsrate"
+      },
+      {
+        "value": "10+",
+        "label": "Jahre Erfahrung"
+      }
+    ]
+  },
+  "aboutSection": {
+    "label": "Über uns",
+    "heading": "PVCON",
+    "paragraphs": [
+      "PVCON wurde von erfahrenen Pharmakovigilanz-Experten gegründet und ist eine spezialisierte Beratungs- und Auditfirma, die umfassende Arzneimittelsicherheitslösungen für Pharmaunternehmen, Biotech-Firmen und CROs weltweit bietet.",
+      "Unser Team bringt jahrzehntelange kombinierte Erfahrung in GxP-Audits, QPPV-Services, PSMF-Management, Inspektionsvorbereitung, Signalerkennung und regulatorischer Compliance mit — in Zusammenarbeit mit aufstrebenden Startups und etablierten Pharmaunternehmen."
+    ],
+    "ctaLabel": "Mehr über uns"
+  },
+  "visionMission": {
+    "label": "Unser Zweck",
+    "heading": "Vision & Mission",
+    "items": [
+      {
+        "number": "01",
+        "title": "Vision",
+        "description": "Der vertrauenswürdigste globale Partner in Pharmakovigilanz und GxP-Compliance zu sein und den Industriestandard für Arzneimittelsicherheit, regulatorische Exzellenz und Patientenschutz zu setzen."
+      },
+      {
+        "number": "02",
+        "title": "Mission",
+        "description": "End-to-End-Pharmakovigilanz-Beratung, GxP-Auditierung und Unternehmensschulungen zu liefern, die MAHs, Sponsoren und CROs befähigen, nachhaltige regulatorische Compliance, Inspektionsbereitschaft und operative Exzellenz zu erreichen."
+      }
+    ]
+  },
+  "whyChooseUs": {
+    "heading": "Warum uns wählen",
+    "paragraphs": [
+      "Bei PVCON bilden Qualität und Compliance den Grundstein unserer Arbeit und bestimmen jedes Engagement, das wir übernehmen. Wir sind der Einhaltung der höchsten Standards in der Pharmakovigilanz-Praxis zutiefst verpflichtet.",
+      "Unser Ziel ist es, die Sicherheit, Qualität und regulatorische Integrität der Abläufe unserer Kunden konsequent zu verbessern. Dafür setzen wir robuste Audit-Frameworks, umfassende Schulungsprogramme und proaktive Compliance-Strategien ein.",
+      "Unser Team hat mit einer Vielzahl von Organisationen zusammengearbeitet — von aufstrebenden Biotech-Startups bis hin zu etablierten globalen Pharmaunternehmen — und maßgeschneiderte Lösungen in den Bereichen PV-Beratung, klinische Audits und regulatorische Inspektionsbereitschaft geliefert."
     ]
   },
   "benefits": {
@@ -198,45 +225,5 @@
         "description": "Globale regulatorische Rahmenwerke abgedeckt, von EU-GVP bis FDA, PMDA und CDSCO."
       }
     ]
-  },
-  "cta": {
-    "heading": "Bereit, Ihre Pharmakovigilanz-Abläufe zu stärken?",
-    "subheading": "Partnern Sie mit PVCON für Expertenberatung, regulatorische Audits und maßgeschneiderte End-to-End-Arzneimittelsicherheitslösungen.",
-    "ctaLabel": "Beratung anfragen"
-  },
-  "about": {
-    "ariaLabel": "Über PVCON",
-    "heading": "Über PVCON",
-    "intro": "PVCON ist eine spezialisierte Pharmakovigilanz-Beratungs- und Auditfirma, die Life-Sciences-Organisationen mit Expertenwissen in regulatorischen Fragen, Qualitätsüberwachung und Arzneimittelsicherheitslösungen unterstützt.",
-    "missionTitle": "Unsere Mission",
-    "mission": "Wir befähigen MAHs, CROs und Sponsoren mit dem regulatorischen Fachwissen, das sie benötigen, um Compliance aufrechtzuerhalten, Patienten zu schützen und in einem komplexen globalen Umfeld erfolgreich zu sein.",
-    "whatWeDoTitle": "Was wir tun",
-    "whatWeDo": "Von QPPV-Diensten bis hin zu PSMF-Management und Signaldetektion bietet PVCON End-to-End-Pharmakovigilanz-Lösungen, die auf die sich entwickelnden regulatorischen Anforderungen weltweit ausgerichtet sind."
-  },
-  "blog": {
-    "featuredHeading": "Empfohlene Beiträge",
-    "recentHeading": "Neueste Beiträge",
-    "backToAll": "Zurück zu allen Beiträgen",
-    "home": "Startseite",
-    "blogLabel": "Blog",
-    "updatedLabel": "Aktualisiert"
-  },
-  "footer": {
-    "subheading": "Stärkung von Life-Sciences-Organisationen durch regulatorische Exzellenz und qualitätsorientierte Compliance.",
-    "quickLinksTitle": "Schnelllinks",
-    "contactTitle": "Kontakt",
-    "emailLabel": "E-Mail",
-    "phoneLabel": "Telefon",
-    "copyright": "Alle Rechte vorbehalten."
-  },
-  "languageSwitcher": {
-    "label": "Sprache ändern",
-    "languages": {
-      "en": "English",
-      "de": "Deutsch",
-      "zh": "中文",
-      "ja": "日本語",
-      "fr": "Français"
-    }
   }
 }

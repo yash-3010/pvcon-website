@@ -1,7 +1,7 @@
 import React from "react";
 import Image from "next/image";
 import { getTranslations } from "next-intl/server";
-import { testimonialAvatars } from "@/data/testimonials";
+import { testimonialAvatars } from "@/data/home/testimonials";
 
 const Testimonials: React.FC = async () => {
   const t = await getTranslations("testimonials");

@@ -1,0 +1,87 @@
+{
+  "about": {
+    "hero": {
+      "ariaLabel": "À propos de PVCON",
+      "tagline": "À propos",
+      "title": "À propos de PVCON",
+      "subtitle": "Un cabinet spécialisé en pharmacovigilance et audits offrant des solutions complètes de sécurité des médicaments aux sociétés pharmaceutiques, biotech et CRO dans le monde entier."
+    },
+    "images": {
+      "aboutAlt": "Équipe PVCON en environnement professionnel",
+      "teamAlt": "Consultants PVCON collaborant sur la stratégie réglementaire"
+    },
+    "whoWeAre": {
+      "tag": "Qui nous sommes",
+      "heading": "Notre histoire",
+      "story": {
+        "p1": "Fondée par des professionnels expérimentés en pharmacovigilance, PVCON a été créée pour combler l'écart entre les attentes réglementaires et la réalité opérationnelle. De nombreuses organisations — des startups biotech aux grandes entreprises pharmaceutiques — ont besoin d'un partenaire de confiance capable d'offrir un soutien pratique et expert.",
+        "p2": "Notre équipe apporte des décennies d'expérience combinée en audit GxP, services QPPV, gestion PSMF, préparation aux inspections, détection de signaux et conformité réglementaire — acquises par des collaborations directes avec des MAH, sponsors et CROs de premier plan.",
+        "p3": "Aujourd'hui, PVCON est reconnue comme une société spécialiste qui fournit des améliorations mesurables et durables des opérations de sécurité des médicaments et de la conformité réglementaire pour des clients dans 20+ juridictions."
+      }
+    },
+    "approach": {
+      "tag": "Notre méthode",
+      "heading": "Notre approche",
+      "p1": "La qualité et la conformité sont au cœur de nos opérations. Chaque mission commence par une compréhension approfondie de votre environnement réglementaire, de votre maturité organisationnelle et de vos objectifs stratégiques — garantissant des solutions adaptées, pratiques et immédiatement actionnables.",
+      "p2": "Nous déployons des cadres d'audit robustes, des programmes de formation complets et des stratégies de conformité proactives alignées sur ICH, EU GVP et les directives GxP mondiales. Nos consultants s'intègrent à vos équipes pour transférer les connaissances et construire des capacités internes durables.",
+      "p3": "De la mise en place du système de pharmacovigilance et la création du PSMF à la qualification des fournisseurs et à la préparation aux inspections, nous fournissons un support de bout en bout pour élever la sécurité, la qualité et l'intégrité réglementaire de vos activités."
+    },
+    "buttons": {
+      "workWithUs": "Travailler avec nous",
+      "getInTouch": "Nous contacter"
+    },
+    "coreValues": {
+      "tag": "Ce qui nous motive",
+      "heading": "Valeurs fondamentales",
+      "01": {
+        "title": "Excellence réglementaire",
+        "description": "Nous appliquons les plus hauts standards de pharmacovigilance, conformes à ICH, EU GVP et aux bonnes pratiques GxP internationales."
+      },
+      "02": {
+        "title": "Partenariat centré client",
+        "description": "Nous agissons comme une extension de votre équipe — comprenons votre contexte réglementaire et adaptons des solutions générant des résultats mesurables."
+      },
+      "03": {
+        "title": "La sécurité des patients d'abord",
+        "description": "Chaque audit, processus et recommandation vise un objectif unique : protéger la sécurité des patients dans le monde entier."
+      },
+      "04": {
+        "title": "Innovation continue",
+        "description": "Nous anticipons l'évolution des réglementations et des tendances du secteur pour apporter des stratégies proactives et des cadres modernes."
+      }
+    },
+    "expertise": {
+      "tag": "Ce que nous offrons",
+      "heading": "Domaines d'expertise",
+      "subtitle": "Nos consultants possèdent une expérience pratique approfondie sur l'ensemble du spectre de la pharmacovigilance et des disciplines GxP.",
+      "qppv": {
+        "title": "Services QPPV",
+        "desc": "QPPV qualifiés UE garantissant la conformité, la surveillance des effets indésirables et la liaison réglementaire."
+      },
+      "gxp": {
+        "title": "Audit GxP",
+        "desc": "Audits complets GCP, GLP, GMP, GCLP et qualification fournisseurs, sur site ou à distance."
+      },
+      "psmf": {
+        "title": "Gestion PSMF",
+        "desc": "Création, maintenance et alignement réglementaire du Pharmacovigilance System Master File."
+      },
+      "inspection": {
+        "title": "Préparation aux inspections",
+        "desc": "Inspections simulées, analyses d'écarts et plans CAPA structurés calqués sur EMA, MHRA et FDA."
+      },
+      "signal": {
+        "title": "Détection de signaux",
+        "desc": "Cadres robustes de gestion des signaux, support d'évaluation bénéfice-risque et préparation des rapports périodiques."
+      },
+      "regulatory": {
+        "title": "Conformité réglementaire",
+        "desc": "Conseil stratégique sur EU GVP, ICH, FDA 21 CFR et normes WHO couvrant 20+ juridictions."
+      }
+    },
+    "cta": {
+      "heading": "Prêt à renforcer vos opérations PV ?",
+      "text": "Associez-vous à PVCON pour une expertise en pharmacovigilance, audits GxP et conformité réglementaire."
+    }
+  }
+}

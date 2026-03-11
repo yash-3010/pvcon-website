@@ -1,0 +1,10 @@
+{
+  "blog": {
+    "featuredHeading": "注目の記事",
+    "recentHeading": "最新記事",
+    "backToAll": "すべての記事に戻る",
+    "home": "ホーム",
+    "blogLabel": "ブログ",
+    "updatedLabel": "更新日"
+  }
+}

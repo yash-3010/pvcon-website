@@ -1,0 +1,10 @@
+{
+  "blog": {
+    "featuredHeading": "精选文章",
+    "recentHeading": "最新文章",
+    "backToAll": "返回所有文章",
+    "home": "首页",
+    "blogLabel": "博客",
+    "updatedLabel": "更新于"
+  }
+}

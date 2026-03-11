@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "home": {
+      "title": "PVCON | Pharmakovigilanz-Beratung & Regulatorische Auditdienstleistungen",
+      "description": "PVCON ist eine spezialisierte Pharmakovigilanz-Beratungs- und Auditfirma, die QPPV-Dienste, PSMF-Management, regulatorische Compliance, Signaldetektion und globale Arzneimittelsicherheitslösungen anbietet."
+    },
+    "about": {
+      "title": "Über PVCON | Experten für Pharmakovigilanz",
+      "description": "Erfahren Sie mehr über das PVCON-Team aus Pharmakovigilanz-Experten, die QPPV-Dienste, regulatorische Audits und globale Arzneimittelsicherheitsberatung anbieten."
+    },
+    "blog": {
+      "title": "Pharmakovigilanz-Blog | PVCON Insights",
+      "description": "Expertenbeiträge zu Arzneimittelsicherheit, QPPV-Diensten, PSMF-Management und regulatorischer Compliance."
+    }
+  },
+  "nav": {
+    "services": "Leistungen",
+    "about": "Über uns",
+    "blog": "Blog",
+    "requestConsultation": "Beratung anfragen",
+    "getStarted": "Jetzt starten"
+  },
+  "footer": {
+    "subheading": "Stärkung von Life-Sciences-Organisationen durch regulatorische Exzellenz und qualitätsorientierte Compliance.",
+    "quickLinksTitle": "Schnelllinks",
+    "contactTitle": "Kontakt",
+    "emailLabel": "E-Mail",
+    "phoneLabel": "Telefon",
+    "copyright": "Alle Rechte vorbehalten."
+  },
+  "cta": {
+    "heading": "Bereit, Ihre Pharmakovigilanz-Abläufe zu stärken?",
+    "subheading": "Partnern Sie mit PVCON für Expertenberatung, regulatorische Audits und maßgeschneiderte End-to-End-Arzneimittelsicherheitslösungen.",
+    "ctaLabel": "Beratung anfragen"
+  },
+  "languageSwitcher": {
+    "label": "Sprache ändern",
+    "languages": {
+      "en": "English",
+      "de": "Deutsch",
+      "zh": "中文",
+      "ja": "日本語",
+      "fr": "Français"
+    }
+  }
+}

@@ -2,22 +2,25 @@ import type { Metadata } from "next";
 import { getTranslations } from "next-intl/server";
 import Hero from "@/components/Hero/Hero";
 import Testimonials from "@/components/Testimonials";
-import Pricing from "@/components/Pricing/Pricing";
 import FAQ from "@/components/FAQ";
-import Logos from "@/components/Logos";
-import Benefits from "@/components/Benefits/Benefits";
 import Container from "@/components/Container";
 import Section from "@/components/Section";
 import Stats from "@/components/Stats";
 import CTA from "@/components/CTA";
-import { siteDetails } from "@/data/siteDetails";
+import { siteDetails } from "@/data/common/siteDetails";
+import { footerDetails } from "@/data/common/footer";
 import { getAlternateUrls, getCanonicalUrl } from "@/lib/i18n-utils";
+import AboutSection from "@/components/AboutSection";
+import VisionMission from "@/components/VisionMission";
+import WhyChooseUs from "@/components/WhyChooseUs";
 
 interface Props {
   params: { locale: string };
 }
 
-export async function generateMetadata({ params: { locale } }: Props): Promise<Metadata> {
+export async function generateMetadata({
+  params: { locale },
+}: Props): Promise<Metadata> {
   const t = await getTranslations({ locale, namespace: "metadata.home" });
 
   return {
@@ -31,8 +34,10 @@ export async function generateMetadata({ params: { locale } }: Props): Promise<M
 }
 
 export default async function HomePage({ params: { locale } }: Props) {
-  const tPricing = await getTranslations({ locale, namespace: "pricing" });
-  const tTestimonials = await getTranslations({ locale, namespace: "testimonials" });
+  const tTestimonials = await getTranslations({
+    locale,
+    namespace: "testimonials",
+  });
 
   const jsonLd = [
     {
@@ -44,7 +49,7 @@ export default async function HomePage({ params: { locale } }: Props) {
       description: siteDetails.metadata.description,
       contactPoint: {
         "@type": "ContactPoint",
-        email: "support@pvcon.in",
+        email: footerDetails.email,
         contactType: "customer service",
       },
       sameAs: ["https://www.linkedin.com/company/pvcon"],
@@ -79,18 +84,10 @@ export default async function HomePage({ params: { locale } }: Props) {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
       <Hero />
-      <Logos />
+      <AboutSection />
+      <VisionMission />
+      <WhyChooseUs />
       <Container>
-        <Benefits />
-
-        <Section
-          id="pricing"
-          title={tPricing("sectionTitle")}
-          description={tPricing("sectionDescription")}
-        >
-          <Pricing />
-        </Section>
-
         <Section
           id="testimonials"
           title={tTestimonials("sectionTitle")}

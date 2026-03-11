@@ -1,7 +1,7 @@
 import Image from "next/image";
 import { getTranslations } from "next-intl/server";
 import { Link } from "@/i18n/navigation";
-import { heroDetails } from "@/data/hero";
+import { heroDetails } from "@/data/home/hero";
 import HeroAnimation from "./HeroAnimation";
 import GeometricBg from "@/components/GeometricBg";
 
@@ -30,7 +30,6 @@ const Hero: React.FC = async () => {
 
         {/* Split layout: description left, image right */}
         <div className="flex flex-col lg:flex-row gap-10 lg:gap-20 mt-14 lg:mt-17 items-start">
-          {/* Left: description + CTA + scroll arrow */}
           <div className="flex-1 max-w-md">
             <p className="text-foreground-accent leading-relaxed text-sm md:text-base text-justify">
               {t("description")}
@@ -49,7 +48,6 @@ const Hero: React.FC = async () => {
                 {t("ctaSecondary")} &rarr;
               </Link>
             </div>
-            {/* Scroll indicator */}
             <div className="mt-12 hidden lg:flex items-center gap-2 text-foreground-accent" aria-hidden="true">
               <span className="w-8 h-8 rounded-full border border-gray-300 flex items-center justify-center">
                 <svg width="12" height="12" viewBox="0 0 12 12" fill="none" className="animate-bounce"><path d="M6 2v8M6 10l-3-3M6 10l3-3" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/></svg>
@@ -57,7 +55,6 @@ const Hero: React.FC = async () => {
             </div>
           </div>
 
-          {/* Right: hero image */}
           <div className="flex-1 relative">
             <Image
               src={heroDetails.heroImageSrc}

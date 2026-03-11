@@ -6,7 +6,7 @@ import Link from "next/link";
 import { getTranslations } from "next-intl/server";
 
 import { getAllSlugs, getPostBySlug } from "@/lib/blogs";
-import { siteDetails } from "@/data/siteDetails";
+import { siteDetails } from "@/data/common/siteDetails";
 import { getAlternateUrls, getCanonicalUrl } from "@/lib/i18n-utils";
 import PageWrapper from "@/components/PageWrapper";
 

@@ -1,5 +1,5 @@
 import { getTranslations } from "next-intl/server";
-import { statsIcons } from "@/data/stats";
+import { statsIcons } from "@/data/home/stats";
 import FadeInView from "./FadeInView";
 
 const Stats: React.FC = async () => {

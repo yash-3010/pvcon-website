@@ -2,8 +2,8 @@ import React from "react";
 import Image from "next/image";
 import { getTranslations } from "next-intl/server";
 import { Link } from "@/i18n/navigation";
-import { siteDetails } from "@/data/siteDetails";
-import { footerDetails } from "@/data/footer";
+import { siteDetails } from "@/data/common/siteDetails";
+import { footerDetails } from "@/data/common/footer";
 import { getPlatformIconByName } from "@/utils";
 
 const Footer: React.FC = async () => {

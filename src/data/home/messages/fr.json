@@ -1,36 +1,63 @@
 {
-  "metadata": {
-    "home": {
-      "title": "PVCON | Conseil en Pharmacovigilance & Services d'Audit Réglementaire",
-      "description": "PVCON est un cabinet spécialisé en conseil et audit de pharmacovigilance, fournissant des services QPPV, la gestion du PSMF, la conformité réglementaire, la détection des signaux et des solutions de sécurité des médicaments à l'échelle mondiale."
-    },
-    "about": {
-      "title": "À propos de PVCON | Experts en Pharmacovigilance",
-      "description": "Découvrez l'équipe d'experts en pharmacovigilance de PVCON, proposant des services QPPV, des audits réglementaires et du conseil en sécurité des médicaments à l'échelle mondiale."
-    },
-    "blog": {
-      "title": "Blog Pharmacovigilance | Insights PVCON",
-      "description": "Articles d'experts sur la sécurité des médicaments, les services QPPV, la gestion du PSMF et la conformité réglementaire."
-    }
-  },
-  "nav": {
-    "services": "Services",
-    "about": "À propos",
-    "blog": "Blog",
-    "requestConsultation": "Demander une consultation",
-    "getStarted": "Commencer"
-  },
   "hero": {
-    "heading": "Pharmacovigilance Audits GxP, Conseil",
-    "subheading": "Conseil PV complet, audits GxP mondiaux, préparation à l'inspection, développement de systèmes qualité et formation des collaborateurs pour les MAH, Sponsors et ORC dans le monde entier"
+    "tagline": "Services spécialisés de pharmacovigilance & GxP à l'échelle mondiale pour",
+    "heading": "CONSEIL PV & AUDITS GXP",
+    "description": "Chez PVCON, nous fournissons un conseil en pharmacovigilance de bout en bout, des audits GxP et des formations en entreprise — en partenariat avec les MAH, Sponsors et ORC du monde entier pour une conformité réglementaire durable et une excellence opérationnelle.",
+    "ctaPrimary": "Nous contacter",
+    "ctaSecondary": "À propos"
   },
   "logos": {
     "tagline": "Reconnus par les MAH, ORC et Sponsors à travers le monde",
     "stats": [
-      { "value": "50+", "label": "Clients accompagnés" },
-      { "value": "15+", "label": "Pays couverts" },
-      { "value": "100%", "label": "Taux de réussite des audits" },
-      { "value": "10+", "label": "Années d'expérience" }
+      {
+        "value": "50+",
+        "label": "Clients accompagnés"
+      },
+      {
+        "value": "15+",
+        "label": "Pays couverts"
+      },
+      {
+        "value": "100%",
+        "label": "Taux de réussite des audits"
+      },
+      {
+        "value": "10+",
+        "label": "Années d'expérience"
+      }
+    ]
+  },
+  "aboutSection": {
+    "label": "À propos",
+    "heading": "PVCON",
+    "paragraphs": [
+      "Fondée par des professionnels expérimentés en pharmacovigilance, PVCON est un cabinet spécialisé en conseil et audit offrant des solutions complètes de sécurité des médicaments aux sociétés pharmaceutiques, biotech et CRO dans le monde entier.",
+      "Notre équipe apporte des décennies d'expérience combinée en audit GxP, services QPPV, gestion PSMF, préparation aux inspections, détection de signaux et conformité réglementaire — en partenariat avec des startups émergentes et des entreprises pharmaceutiques établies."
+    ],
+    "ctaLabel": "En savoir plus"
+  },
+  "visionMission": {
+    "label": "Notre raison d'être",
+    "heading": "Vision & Mission",
+    "items": [
+      {
+        "number": "01",
+        "title": "Vision",
+        "description": "Être le partenaire mondial le plus fiable en pharmacovigilance et conformité GxP, en établissant la norme industrielle pour la sécurité des médicaments, l'excellence réglementaire et la protection des patients."
+      },
+      {
+        "number": "02",
+        "title": "Mission",
+        "description": "Fournir un conseil en pharmacovigilance de bout en bout, des audits GxP et des formations en entreprise qui permettent aux MAH, Sponsors et ORC d'atteindre une conformité réglementaire durable, une préparation aux inspections et une excellence opérationnelle."
+      }
+    ]
+  },
+  "whyChooseUs": {
+    "heading": "Pourquoi nous choisir",
+    "paragraphs": [
+      "Chez PVCON, la qualité et la conformité sont au cœur de nos opérations, guidant chaque mission que nous entreprenons. Nous sommes profondément engagés à maintenir les plus hauts standards de pratique en pharmacovigilance.",
+      "Notre objectif est d'élever constamment la sécurité, la qualité et l'intégrité réglementaire des opérations de nos clients. Pour ce faire, nous déployons des cadres d'audit robustes, des programmes de formation complets et des stratégies de conformité proactives.",
+      "Notre équipe a accompagné une grande diversité d'organisations — des startups biotech émergentes aux grandes entreprises pharmaceutiques mondiales — en fournissant des solutions sur mesure en conseil PV, audits cliniques et préparation aux inspections réglementaires."
     ]
   },
   "benefits": {
@@ -198,45 +225,5 @@
         "description": "Référentiels réglementaires mondiaux couverts, de GVP UE à FDA, PMDA et CDSCO."
       }
     ]
-  },
-  "cta": {
-    "heading": "Prêt à renforcer vos opérations de pharmacovigilance ?",
-    "subheading": "Faites de PVCON votre partenaire pour un conseil expert, des audits réglementaires et des solutions de sécurité des médicaments de bout en bout adaptées à vos besoins.",
-    "ctaLabel": "Demander une consultation"
-  },
-  "about": {
-    "ariaLabel": "À propos de PVCON",
-    "heading": "À propos de PVCON",
-    "intro": "PVCON est un cabinet spécialisé en conseil et audit de pharmacovigilance, dédié à soutenir les organisations des sciences du vivant avec une expertise réglementaire, une surveillance qualité et des solutions de sécurité des médicaments.",
-    "missionTitle": "Notre Mission",
-    "mission": "Nous donnons aux MAH, ORC et promoteurs l'expertise réglementaire dont ils ont besoin pour maintenir la conformité, protéger les patients et réussir dans un environnement mondial complexe.",
-    "whatWeDoTitle": "Ce que nous faisons",
-    "whatWeDo": "Des services QPPV à la gestion du PSMF et la détection des signaux, PVCON délivre des solutions de pharmacovigilance de bout en bout conçues pour répondre aux exigences réglementaires en constante évolution dans le monde entier."
-  },
-  "blog": {
-    "featuredHeading": "Articles à la une",
-    "recentHeading": "Articles récents",
-    "backToAll": "Retour à tous les articles",
-    "home": "Accueil",
-    "blogLabel": "Blog",
-    "updatedLabel": "Mis à jour"
-  },
-  "footer": {
-    "subheading": "Renforcer les organisations des sciences du vivant grâce à l'excellence réglementaire et à la conformité axée sur la qualité.",
-    "quickLinksTitle": "Liens rapides",
-    "contactTitle": "Nous contacter",
-    "emailLabel": "E-mail",
-    "phoneLabel": "Téléphone",
-    "copyright": "Tous droits réservés."
-  },
-  "languageSwitcher": {
-    "label": "Changer de langue",
-    "languages": {
-      "en": "English",
-      "de": "Deutsch",
-      "zh": "中文",
-      "ja": "日本語",
-      "fr": "Français"
-    }
   }
 }
