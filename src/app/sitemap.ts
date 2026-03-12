@@ -1,5 +1,5 @@
 import type { MetadataRoute } from "next";
-import { siteDetails } from "@/data/siteDetails";
+import { siteDetails } from "@/data/common/siteDetails";
 import { getAllPosts } from "@/lib/blogs";
 import { routing } from "@/i18n/routing";
 import { getAlternateUrls } from "@/lib/i18n-utils";

@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "home": {
+      "title": "PVCON | ファーマコビジランスコンサルティング・規制監査サービス",
+      "description": "PVCONは、QPPVサービス、PSMFマネジメント、規制コンプライアンス、シグナル検出、グローバル医薬品安全性ソリューションを提供する専門ファーマコビジランスコンサルティング・監査企業です。"
+    },
+    "about": {
+      "title": "PVCONについて | ファーマコビジランス専門家",
+      "description": "QPPVサービス、規制監査、グローバル医薬品安全性コンサルティングを提供するPVCONの専門家チームについてご紹介します。"
+    },
+    "blog": {
+      "title": "ファーマコビジランスブログ | PVCONインサイト",
+      "description": "医薬品安全性、QPPVサービス、PSMFマネジメント、規制コンプライアンスに関する専門家記事。"
+    },
+    "company": {
+      "title": "会社概要 — PVCONリーダーシップとグローバルプレゼンス",
+      "description": "PVCONのリーダーシップチームを紹介し、4大陸25カ国以上をカバーするグローバルファーマコビジランスネットワークをご覧ください。"
+    }
+  },
+  "nav": {
+    "services": "サービス",
+    "about": "会社概要",
+    "blog": "ブログ",
+    "gallery": "ギャラリー",
+    "company": "会社",
+    "requestConsultation": "話しましょう",
+    "getStarted": "始める"
+  },
+  "footer": {
+    "subheading": "規制卓越性と品質主導のコンプライアンスでライフサイエンス組織を支援します。",
+    "quickLinksTitle": "クイックリンク",
+    "contactTitle": "お問い合わせ",
+    "emailLabel": "メール",
+    "phoneLabel": "電話",
+    "copyright": "無断複写・転載を禁じます。"
+  },
+  "cta": {
+    "heading": "ファーマコビジランス業務を強化する準備はできていますか？",
+    "subheading": "専門的なコンサルティング、規制監査、お客様のニーズに合わせたエンドツーエンドの医薬品安全性ソリューションのためにPVCONとパートナーシップを組みましょう。",
+    "ctaLabel": "相談を申し込む"
+  },
+  "languageSwitcher": {
+    "label": "言語を変更",
+    "languages": {
+      "en": "English",
+      "de": "Deutsch",
+      "zh": "中文",
+      "ja": "日本語",
+      "fr": "Français"
+    }
+  }
+}

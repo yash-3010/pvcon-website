@@ -1,0 +1,80 @@
+{
+  "company": {
+    "hero": {
+      "tagline": "我们的公司",
+      "title": "领导团队与全球布局",
+      "subtitle": "了解PVCON背后的团队和全球网络——在超过25个国家和4个大洲推动药物警戒卓越。"
+    },
+    "leadership": {
+      "tag": "领导团队",
+      "heading": "CEO寄语",
+      "ceo": {
+        "name": "Moin Don",
+        "title": "总裁兼CEO，创始人",
+        "message": "拥有超过33年制药行业经验，我创立了PVCON，旨在弥合药物警戒领域监管期望与运营实际之间的差距。曾在赛诺菲担任领导职务，并在强生担任亚太区域PV QA总监，我亲身感受到行业对可信赖咨询合作伙伴的迫切需求。",
+        "message2": "如今，PVCON因其在PV审计、质量保证和企业培训方面的严谨方法而获得业界认可。我们对监管卓越和患者安全的承诺始终是我们一切工作的基石。",
+        "credentials": [
+          "Pharma Ratan 2016奖——药物安全与PV终身成就奖",
+          "认证主任审计师——在美国、德国、法国和新加坡接受培训",
+          "Jamia Hamdard大学兼职教授",
+          "国际药物警戒学会（ISoP）南亚分会负责人",
+          "印度国家药物警戒计划协议共同作者",
+          "DIA India中央咨询委员会成员"
+        ]
+      }
+    },
+    "globalPresence": {
+      "tag": "全球覆盖",
+      "heading": "我们的全球布局",
+      "subtitle": "从PVCON孟买总部出发，我们为全球客户提供药物警戒咨询、GxP审计和监管支持服务。",
+      "stats": [
+        {
+          "value": "25+",
+          "label": "服务国家"
+        },
+        {
+          "value": "4",
+          "label": "大洲"
+        },
+        {
+          "value": "50+",
+          "label": "全球客户"
+        }
+      ]
+    },
+    "team": {
+      "tag": "我们的团队",
+      "heading": "PVCON背后的人",
+      "subtitle": "一支经验丰富的药物警戒专业团队，拥有数十年的综合经验。",
+      "members": {
+        "moin-don": {
+          "name": "Moin Don",
+          "role": "总裁兼CEO",
+          "bio": "33+年制药行业经验。曾任强生亚太区域PV QA总监。认证主任审计师。"
+        },
+        "rameez-don": {
+          "name": "Rameez Don",
+          "role": "高级顾问",
+          "bio": "10年药物警戒、质量保证和培训经验。负责业务运营和培训部门。"
+        },
+        "sonam-garg": {
+          "name": "Sonam Garg",
+          "role": "高级顾问",
+          "bio": "5+年GCP审计师和文档专家。拥有临床研究QA和研究者现场审计经验。"
+        },
+        "nazrul-khan": {
+          "name": "Nazrul Islam Khan",
+          "role": "欧洲-非洲网络总监",
+          "bio": "14年PV运营和审计经验。曾任MHRA和Janssen/J&J专业人士。GPVQA（英国）总监。"
+        }
+      }
+    },
+    "cta": {
+      "heading": "准备好与我们的团队合作了吗？",
+      "text": "联系我们的药物警戒专家，了解PVCON如何支持您的监管合规和药物安全运营。"
+    },
+    "buttons": {
+      "getInTouch": "联系我们"
+    }
+  }
+}

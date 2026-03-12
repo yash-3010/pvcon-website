@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "home": {
+      "title": "PVCON | Conseil en Pharmacovigilance & Services d'Audit Réglementaire",
+      "description": "PVCON est un cabinet spécialisé en conseil et audit de pharmacovigilance, fournissant des services QPPV, la gestion du PSMF, la conformité réglementaire, la détection des signaux et des solutions de sécurité des médicaments à l'échelle mondiale."
+    },
+    "about": {
+      "title": "À propos de PVCON | Experts en Pharmacovigilance",
+      "description": "Découvrez l'équipe d'experts en pharmacovigilance de PVCON, proposant des services QPPV, des audits réglementaires et du conseil en sécurité des médicaments à l'échelle mondiale."
+    },
+    "blog": {
+      "title": "Blog Pharmacovigilance | Insights PVCON",
+      "description": "Articles d'experts sur la sécurité des médicaments, les services QPPV, la gestion du PSMF et la conformité réglementaire."
+    },
+    "company": {
+      "title": "Entreprise — Direction & Présence mondiale de PVCON",
+      "description": "Découvrez l'équipe dirigeante et le réseau mondial de pharmacovigilance de PVCON, présent dans plus de 25 pays sur 4 continents."
+    }
+  },
+  "nav": {
+    "services": "Services",
+    "about": "À propos",
+    "blog": "Blog",
+    "gallery": "Galerie",
+    "company": "Entreprise",
+    "requestConsultation": "Parlons-en",
+    "getStarted": "Commencer"
+  },
+  "footer": {
+    "subheading": "Renforcer les organisations des sciences du vivant grâce à l'excellence réglementaire et à la conformité axée sur la qualité.",
+    "quickLinksTitle": "Liens rapides",
+    "contactTitle": "Nous contacter",
+    "emailLabel": "E-mail",
+    "phoneLabel": "Téléphone",
+    "copyright": "Tous droits réservés."
+  },
+  "cta": {
+    "heading": "Prêt à renforcer vos opérations de pharmacovigilance ?",
+    "subheading": "Faites de PVCON votre partenaire pour un conseil expert, des audits réglementaires et des solutions de sécurité des médicaments de bout en bout adaptées à vos besoins.",
+    "ctaLabel": "Demander une consultation"
+  },
+  "languageSwitcher": {
+    "label": "Changer de langue",
+    "languages": {
+      "en": "English",
+      "de": "Deutsch",
+      "zh": "中文",
+      "ja": "日本語",
+      "fr": "Français"
+    }
+  }
+}

@@ -1,21 +1,26 @@
 import { getTranslations } from "next-intl/server";
-import { statsIcons } from "@/data/stats";
+import { statsIcons } from "@/data/home/stats";
+import FadeInView from "./FadeInView";
 
 const Stats: React.FC = async () => {
   const t = await getTranslations("stats");
   const items = t.raw("items") as Array<{ title: string; description: string }>;
 
   return (
-    <section id="stats" className="py-10 lg:py-20">
-      <div className="grid sm:grid-cols-3 gap-8">
+    <section id="stats" className="py-12 lg:py-20">
+      <div className="grid sm:grid-cols-3 gap-6">
         {items.map((stat, i) => (
-          <div key={stat.title} className="text-center sm:text-left max-w-md sm:max-w-full mx-auto">
-            <h3 className="mb-5 flex items-center gap-2 text-3xl font-semibold justify-center sm:justify-start">
-              {statsIcons[i]}
-              {stat.title}
-            </h3>
-            <p className="text-foreground-accent">{stat.description}</p>
-          </div>
+          <FadeInView key={stat.title} delay={i * 0.1}>
+            <div className="p-7 rounded-2xl border border-gray-100 hover:border-primary/30 hover:shadow-sm transition-all">
+              <h3 className="mb-3 flex items-center gap-2 text-3xl font-bold text-secondary justify-center sm:justify-start">
+                {statsIcons[i]}
+                {stat.title}
+              </h3>
+              <p className="text-foreground-accent text-sm leading-relaxed text-center sm:text-left">
+                {stat.description}
+              </p>
+            </div>
+          </FadeInView>
         ))}
       </div>
     </section>

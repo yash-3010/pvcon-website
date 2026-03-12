@@ -50,12 +50,12 @@ const BenefitSection: React.FC<Props> = ({ benefit, imageAtRight }) => {
               <Image
                 src={imageSrc}
                 alt={title}
-                width={384}
-                height={762}
-                quality={85}
-                sizes="(max-width: 768px) 100vw, 384px"
+                width={480}
+                height={360}
+                quality={80}
+                sizes="(max-width: 768px) 100vw, 480px"
                 loading="lazy"
-                className="lg:ml-0"
+                className="lg:ml-0 rounded-xl object-cover shadow-sm"
               />
             </div>
           </div>

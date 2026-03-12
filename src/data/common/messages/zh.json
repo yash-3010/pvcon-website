@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "home": {
+      "title": "PVCON | 药物警戒咨询与监管审计服务",
+      "description": "PVCON是一家专业的药物警戒咨询和审计公司，提供QPPV服务、PSMF管理、监管合规、信号检测和全球药品安全解决方案。"
+    },
+    "about": {
+      "title": "关于PVCON | 药物警戒专家",
+      "description": "了解PVCON的药物警戒专家团队，提供QPPV服务、监管审计和全球药品安全咨询。"
+    },
+    "blog": {
+      "title": "药物警戒博客 | PVCON见解",
+      "description": "关于药品安全、QPPV服务、PSMF管理和监管合规的专家文章。"
+    },
+    "company": {
+      "title": "公司 — PVCON领导团队与全球布局",
+      "description": "了解PVCON的领导团队，探索覆盖4大洲25+国家的全球药物警戒网络。"
+    }
+  },
+  "nav": {
+    "services": "服务",
+    "about": "关于我们",
+    "blog": "博客",
+    "gallery": "画廊",
+    "company": "公司",
+    "requestConsultation": "让我们谈谈",
+    "getStarted": "立即开始"
+  },
+  "footer": {
+    "subheading": "以监管卓越和质量驱动的合规为生命科学组织赋能。",
+    "quickLinksTitle": "快速链接",
+    "contactTitle": "联系我们",
+    "emailLabel": "电子邮件",
+    "phoneLabel": "电话",
+    "copyright": "版权所有。"
+  },
+  "cta": {
+    "heading": "准备好加强您的药物警戒运营了吗？",
+    "subheading": "与PVCON合作，获得专业咨询、监管审计和量身定制的端到端药品安全解决方案。",
+    "ctaLabel": "申请咨询"
+  },
+  "languageSwitcher": {
+    "label": "切换语言",
+    "languages": {
+      "en": "English",
+      "de": "Deutsch",
+      "zh": "中文",
+      "ja": "日本語",
+      "fr": "Français"
+    }
+  }
+}

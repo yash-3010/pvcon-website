@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "home": {
+      "title": "PVCON | Pharmacovigilance Consulting & Regulatory Audit Services",
+      "description": "PVCON is a specialized pharmacovigilance consulting and audit firm providing QPPV services, PSMF management, regulatory compliance, signal detection, and global drug safety solutions."
+    },
+    "about": {
+      "title": "About PVCON — Pharmacovigilance Consulting & Audits",
+      "description": "PVCON is a specialist pharmacovigilance consulting firm delivering PV audits, QPPV services, PSMF management, and inspection readiness to pharmaceutical companies worldwide."
+    },
+    "blog": {
+      "title": "Pharmacovigilance Blog | PVCON Insights",
+      "description": "Expert articles on drug safety, QPPV services, PSMF management and regulatory compliance."
+    },
+    "company": {
+      "title": "Company — PVCON Leadership & Global Presence",
+      "description": "Meet the leadership team and discover PVCON's global pharmacovigilance network spanning 25+ countries across 4 continents."
+    }
+  },
+  "nav": {
+    "services": "Services",
+    "about": "About",
+    "blog": "Blog",
+    "gallery": "Gallery",
+    "company": "Company",
+    "requestConsultation": "Let's Talk",
+    "getStarted": "Get Started"
+  },
+  "footer": {
+    "subheading": "Empowering life sciences organizations with regulatory excellence and quality-driven compliance.",
+    "quickLinksTitle": "Quick Links",
+    "contactTitle": "Contact Us",
+    "emailLabel": "Email",
+    "phoneLabel": "Phone",
+    "copyright": "All rights reserved."
+  },
+  "cta": {
+    "heading": "Ready to Strengthen Your Pharmacovigilance Operations?",
+    "subheading": "Partner with PVCON for expert consulting, regulatory audits, and end-to-end drug safety solutions tailored to your organization's needs.",
+    "ctaLabel": "Request a Consultation"
+  },
+  "languageSwitcher": {
+    "label": "Change language",
+    "languages": {
+      "en": "English",
+      "de": "Deutsch",
+      "zh": "中文",
+      "ja": "日本語",
+      "fr": "Français"
+    }
+  }
+}

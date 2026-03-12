@@ -1,0 +1,87 @@
+{
+  "about": {
+    "hero": {
+      "ariaLabel": "About PVCON",
+      "tagline": "About Us",
+      "title": "About PVCON",
+      "subtitle": "A specialized pharmacovigilance consulting and audit firm delivering comprehensive drug safety solutions to pharmaceutical companies, biotech firms, and CROs across the globe."
+    },
+    "images": {
+      "aboutAlt": "PVCON pharmacovigilance consulting team in a professional setting",
+      "teamAlt": "PVCON consultants collaborating on regulatory strategy"
+    },
+    "whoWeAre": {
+      "tag": "Who We Are",
+      "heading": "Our Story",
+      "story": {
+        "p1": "Founded by seasoned pharmacovigilance professionals, PVCON was established to bridge the gap between regulatory expectations and operational reality. We recognized that many organizations — from emerging biotech startups to established pharmaceutical enterprises — needed a trusted partner who could deliver hands-on, expert-led pharmacovigilance support.",
+        "p2": "Our team brings decades of combined experience across GxP auditing, QPPV services, PSMF management, inspection readiness, signal detection, and regulatory compliance — earned through direct work with leading MAHs, Sponsors, and CROs worldwide.",
+        "p3": "Today, PVCON is recognized as a specialist firm that consistently delivers measurable, lasting improvements in drug safety operations and regulatory compliance for clients across 20+ regulatory jurisdictions."
+      }
+    },
+    "approach": {
+      "tag": "How We Work",
+      "heading": "Our Approach",
+      "p1": "Quality and compliance serve as the cornerstone of our operations. Every engagement begins with a thorough understanding of your regulatory environment, organizational maturity, and strategic objectives — ensuring our solutions are tailored, practical, and immediately actionable.",
+      "p2": "We deploy robust audit frameworks, comprehensive training programs, and proactive compliance strategies aligned with current ICH, EU GVP, and global GxP guidelines. Our consultants work as embedded partners within your teams, transferring knowledge and building sustainable internal capabilities.",
+      "p3": "From pharmacovigilance system setup and PSMF creation to vendor qualification and regulatory inspection readiness, we provide end-to-end support designed to elevate the safety, quality, and regulatory integrity of your operations."
+    },
+    "buttons": {
+      "workWithUs": "Work With Us",
+      "getInTouch": "Get in Touch"
+    },
+    "coreValues": {
+      "tag": "What Drives Us",
+      "heading": "Core Values",
+      "01": {
+        "title": "Regulatory Excellence",
+        "description": "We uphold the highest standards of pharmacovigilance practice, aligned with ICH, EU GVP, and global GxP guidelines across every engagement."
+      },
+      "02": {
+        "title": "Client-Centric Partnership",
+        "description": "We work as an extension of your team — understanding your unique regulatory landscape and tailoring solutions that drive measurable outcomes."
+      },
+      "03": {
+        "title": "Patient Safety First",
+        "description": "Every audit, every process, every recommendation we make is rooted in a singular focus: safeguarding patient safety worldwide."
+      },
+      "04": {
+        "title": "Continuous Innovation",
+        "description": "We stay ahead of evolving regulations and industry trends, bringing proactive strategies and modern frameworks to every challenge."
+      }
+    },
+    "expertise": {
+      "tag": "What We Deliver",
+      "heading": "Areas of Expertise",
+      "subtitle": "Our consultants possess deep, hands-on experience across the full spectrum of pharmacovigilance and GxP disciplines.",
+      "qppv": {
+        "title": "QPPV Services",
+        "desc": "EU-qualified QPPVs ensuring full compliance with pharmacovigilance legislation, adverse event oversight, and regulatory liaison."
+      },
+      "gxp": {
+        "title": "GxP Auditing",
+        "desc": "Comprehensive GCP, GLP, GMP, GCLP, and vendor qualification audits delivered on-site and remotely across global locations."
+      },
+      "psmf": {
+        "title": "PSMF Management",
+        "desc": "End-to-end Pharmacovigilance System Master File creation, maintenance, and regulatory alignment."
+      },
+      "inspection": {
+        "title": "Inspection Readiness",
+        "desc": "Mock inspections, gap analyses, and structured CAPA plans mirroring EMA, MHRA, and FDA inspection approaches."
+      },
+      "signal": {
+        "title": "Signal Detection",
+        "desc": "Robust signal management frameworks, benefit-risk assessment support, and periodic safety report preparation."
+      },
+      "regulatory": {
+        "title": "Regulatory Compliance",
+        "desc": "Strategic guidance across EU GVP, ICH, FDA 21 CFR, and WHO standards covering 20+ regulatory jurisdictions."
+      }
+    },
+    "cta": {
+      "heading": "Ready to Strengthen Your PV Operations?",
+      "text": "Partner with PVCON for expert pharmacovigilance consulting, GxP auditing, and regulatory compliance support."
+    }
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "hero": {
+    "tagline": "Specialized global pharmacovigilance & GxP services for",
+    "heading": "PV CONSULTING & GXP AUDITS",
+    "description": "At PVCON, we deliver end-to-end pharmacovigilance consulting, GxP auditing, and corporate training — partnering with MAHs, Sponsors, and CROs worldwide to achieve sustained regulatory compliance and operational excellence.",
+    "ctaPrimary": "Let's Talk",
+    "ctaSecondary": "About Us"
+  },
+  "logos": {
+    "tagline": "Trusted by MAHs, CROs & Sponsors across the globe",
+    "stats": [
+      {
+        "value": "50+",
+        "label": "Clients Served"
+      },
+      {
+        "value": "15+",
+        "label": "Countries"
+      },
+      {
+        "value": "100%",
+        "label": "Audit Success Rate"
+      },
+      {
+        "value": "10+",
+        "label": "Years Experience"
+      }
+    ]
+  },
+  "aboutSection": {
+    "label": "About",
+    "heading": "PVCON",
+    "paragraphs": [
+      "Founded by seasoned pharmacovigilance professionals, PVCON is a specialized consulting and audit firm delivering comprehensive drug safety solutions to pharmaceutical companies, biotech firms, and CROs across the globe.",
+      "Our team brings decades of combined experience across GxP auditing, QPPV services, PSMF management, inspection readiness, signal detection, and regulatory compliance — partnering with both emerging startups and established pharmaceutical enterprises."
+    ],
+    "ctaLabel": "Explore Us"
+  },
+  "visionMission": {
+    "label": "Our Purpose",
+    "heading": "Vision & Mission",
+    "items": [
+      {
+        "number": "01",
+        "title": "Vision",
+        "description": "To be the most trusted global partner in pharmacovigilance and GxP compliance, setting the industry standard for drug safety, regulatory excellence, and patient protection across all therapeutic areas and regulatory landscapes."
+      },
+      {
+        "number": "02",
+        "title": "Mission",
+        "description": "To deliver end-to-end pharmacovigilance consulting, GxP auditing, and corporate training that empowers MAHs, Sponsors, and CROs to achieve sustained regulatory compliance, inspection readiness, and operational excellence — safeguarding patient safety worldwide."
+      }
+    ]
+  },
+  "whyChooseUs": {
+    "heading": "Why Choose Us",
+    "paragraphs": [
+      "At PVCON, quality and compliance serve as the cornerstone of our operations, driving every engagement we undertake. We are deeply committed to upholding the highest standards of pharmacovigilance practice — a commitment that spans every service we deliver and every regulatory landscape we navigate.",
+      "Our objective is to consistently elevate the safety, quality, and regulatory integrity of our clients' operations. To achieve this, we deploy robust audit frameworks, comprehensive training programs, and proactive compliance strategies aligned with current ICH, EU GVP, and global GxP guidelines.",
+      "Our team has partnered with a diverse range of organizations — from emerging biotech startups to established global pharmaceutical enterprises — delivering tailored solutions across pharmacovigilance consulting, clinical audits, vendor qualification, QPPV services, and regulatory inspection readiness."
+    ]
+  },
+  "benefits": {
+    "srHeading": "Services",
+    "items": [
+      {
+        "title": "Audits & Inspection",
+        "description": "Comprehensive pharmacovigilance audit and quality oversight services designed to ensure global regulatory compliance, operational excellence, and inspection readiness.",
+        "bullets": [
+          {
+            "title": "Comprehensive PV Audits",
+            "description": "Affiliate Country Office, System, Vendor, and Co-Marketing Partner audits conducted globally with detailed CAPA recommendations and audit certification."
+          },
+          {
+            "title": "Quality System Development & Oversight",
+            "description": "Design and implementation of robust PV Quality Management Systems including Master Quality Plans, risk-based internal audit strategies, and technology-enabled management of audits, inspections, and CAPAs."
+          },
+          {
+            "title": "Inspection Readiness & Regulatory Support",
+            "description": "End-to-end MAH inspection preparation support, including structured response development for regulatory inspection findings and sustained compliance oversight."
+          }
+        ]
+      },
+      {
+        "title": "GxP Auditing",
+        "description": "Comprehensive GxP audit solutions ensuring regulatory compliance, quality assurance, and operational integrity across clinical, laboratory, manufacturing, and vendor environments.",
+        "bullets": [
+          {
+            "title": "Clinical & Investigator Audits (GCP)",
+            "description": "Investigator site audits, Phase I audits, for-cause audits, sponsor and CRO system audits, and investigational product supply oversight to ensure full GCP compliance."
+          },
+          {
+            "title": "Vendor, CRO & IT Qualification",
+            "description": "CRO due diligence audits, vendor qualification audits, data management audits, and IT system qualification reviews to safeguard quality and regulatory alignment."
+          },
+          {
+            "title": "Laboratory & Manufacturing Compliance",
+            "description": "GCLP, GLP, and GMP audits including archival site audits, drug destruction unit audits, and flexible on-site or remote audit execution to ensure end-to-end lifecycle compliance."
+          }
+        ]
+      },
+      {
+        "title": "Corporate Training",
+        "description": "Structured pharmacovigilance training programs designed to strengthen regulatory knowledge, operational readiness, and quality culture within MAH and stakeholder environments.",
+        "bullets": [
+          {
+            "title": "Training Framework & Matrix Development",
+            "description": "Design and implementation of comprehensive training matrices, structured plans, and customized training materials aligned with regulatory expectations."
+          },
+          {
+            "title": "MAH Boot Camps & Stakeholder Training",
+            "description": "Intensive boot camps and focused stakeholder training programs tailored for MAH setups to enhance inspection readiness and operational competence."
+          },
+          {
+            "title": "Regulatory & Good PV Practice Updates",
+            "description": "Customized training on Good Pharmacovigilance Practices, evolving safety regulations, and global compliance requirements."
+          }
+        ]
+      }
+    ]
+  },
+  "pricing": {
+    "sectionTitle": "Pricing",
+    "sectionDescription": "Flexible plans tailored to your pharmacovigilance needs.",
+    "getStarted": "Get Started",
+    "features": "FEATURES",
+    "featuresSubtext": "Everything in basic, plus...",
+    "tiers": [
+      {
+        "name": "Essential",
+        "price": "Custom",
+        "features": [
+          "ICSR case processing",
+          "Periodic safety report support",
+          "Regulatory intelligence updates",
+          "Email support"
+        ]
+      },
+      {
+        "name": "Professional",
+        "price": "Custom",
+        "features": [
+          "Dedicated QPPV services",
+          "PSMF setup & management",
+          "Signal detection & evaluation",
+          "GxP audit readiness support",
+          "Priority support"
+        ]
+      },
+      {
+        "name": "Enterprise",
+        "price": "Custom",
+        "features": [
+          "End-to-end PV system setup",
+          "Full regulatory inspection support",
+          "Corporate training programs",
+          "Dedicated account manager",
+          "Custom compliance solutions",
+          "On-site consulting"
+        ]
+      }
+    ]
+  },
+  "testimonials": {
+    "sectionTitle": "What Our Clients Say",
+    "sectionDescription": "Hear from those who have partnered with us.",
+    "items": [
+      {
+        "name": "Dr. Sarah Mitchell",
+        "role": "Head of Pharmacovigilance, BioPharma Co.",
+        "message": "PVCON's expertise in QPPV services and inspection readiness transformed our PV operations. Their structured approach ensured we passed our EMA inspection with zero critical findings."
+      },
+      {
+        "name": "James Thornton",
+        "role": "VP Regulatory Affairs, CRO Solutions Ltd.",
+        "message": "The GxP audit support from PVCON was exceptional. Their team's deep knowledge of EU GVP guidelines and hands-on audit experience gave us the confidence we needed ahead of our regulatory submission."
+      },
+      {
+        "name": "Dr. Yuki Nakamura",
+        "role": "Director of Quality Assurance, Global Pharma Inc.",
+        "message": "PVCON's corporate training programs have significantly elevated our team's pharmacovigilance competency. The tailored boot camps and ongoing regulatory updates are invaluable."
+      }
+    ]
+  },
+  "faq": {
+    "label": "FAQ'S",
+    "title": "Frequently Asked Questions",
+    "contact": "Ask us anything!",
+    "email": "support@pvcon.in",
+    "items": [
+      {
+        "question": "What is a QPPV and what services does PVCON provide?",
+        "answer": "A Qualified Person for Pharmacovigilance (QPPV) is a legally required role for all marketing authorization holders in the EU/EEA. PVCON provides dedicated QPPV services, including deputized QPPV coverage, oversight of PV systems, signal management, periodic report preparation, and liaison with regulatory authorities."
+      },
+      {
+        "question": "How does PVCON support MAH inspection readiness?",
+        "answer": "We provide end-to-end inspection readiness support: gap analysis of your PV system against GVP requirements, mock inspection exercises, structured response frameworks for regulatory findings, CAPA management, and ongoing post-inspection compliance oversight."
+      },
+      {
+        "question": "Which regulatory frameworks do you work with?",
+        "answer": "PVCON operates across all major global regulatory frameworks including EU GVP Modules, FDA 21 CFR Part 312/314, ICH E2 guidelines, PMDA requirements (Japan), NMPA guidance (China), and CDSCO regulations (India), among others."
+      },
+      {
+        "question": "Do you offer remote auditing services?",
+        "answer": "Yes. PVCON offers both on-site and remote audit options. Our remote audit methodology is fully aligned with regulatory expectations and has been validated across multiple jurisdictions, offering flexibility without compromising audit quality or depth."
+      },
+      {
+        "question": "How can I get started with PVCON?",
+        "answer": "Contact us at support@pvcon.in with a brief description of your needs. Our team will respond within one business day to schedule a complimentary discovery call and outline a tailored service proposal."
+      }
+    ]
+  },
+  "stats": {
+    "items": [
+      {
+        "title": "500+",
+        "description": "ICSR cases processed monthly with full regulatory compliance and quality oversight."
+      },
+      {
+        "title": "98%",
+        "description": "Client audit pass rate, reflecting our rigorous inspection readiness methodology."
+      },
+      {
+        "title": "20+",
+        "description": "Global regulatory frameworks covered, from EU GVP to FDA, PMDA, and CDSCO."
+      }
+    ]
+  }
+}

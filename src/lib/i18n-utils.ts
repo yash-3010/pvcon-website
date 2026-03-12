@@ -1,5 +1,5 @@
 import { routing } from "@/i18n/routing";
-import { siteDetails } from "@/data/siteDetails";
+import { siteDetails } from "@/data/common/siteDetails";
 
 /** Resolves the site base URL from env or siteDetails fallback. */
 export function getSiteUrl(): string {

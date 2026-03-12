@@ -3,7 +3,7 @@ import Image from "next/image";
 import type { Metadata } from "next";
 import { getTranslations } from "next-intl/server";
 import { getAllPosts } from "@/lib/blogs";
-import { siteDetails } from "@/data/siteDetails";
+import { siteDetails } from "@/data/common/siteDetails";
 import { getAlternateUrls, getCanonicalUrl } from "@/lib/i18n-utils";
 
 interface Props {

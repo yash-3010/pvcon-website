@@ -1,0 +1,71 @@
+{
+  "company": {
+    "hero": {
+      "tagline": "Our Company",
+      "title": "Leadership & Global Presence",
+      "subtitle": "Meet the people and the global network behind PVCON — driving pharmacovigilance excellence across 25+ countries and 4 continents."
+    },
+    "leadership": {
+      "tag": "Leadership",
+      "heading": "Message from the CEO",
+      "ceo": {
+        "name": "Moin Don",
+        "title": "President & CEO, Founder",
+        "message": "With over 33 years in the pharmaceutical industry, I founded PVCON to bridge the gap between regulatory expectations and operational reality in pharmacovigilance. Having served in leadership roles at Sanofi Aventis and as Regional PV QA Director for Asia Pacific at Johnson & Johnson, I witnessed firsthand the need for a trusted, hands-on consulting partner that could deliver measurable improvements in drug safety operations worldwide.",
+        "message2": "Today, PVCON is recognized across the industry for its rigorous approach to PV auditing, quality assurance, and corporate training. Our commitment to regulatory excellence and patient safety remains the foundation of everything we do — and I am proud to lead a team that shares this vision every day.",
+        "credentials": [
+          "Pharma Ratan 2016 Award — Lifetime Achievement in Drug Safety & PV",
+          "Certified Lead Auditor — Trained in USA, Germany, France & Singapore",
+          "Adjunct Professor, Jamia Hamdard University",
+          "Lead, South Asia Chapter — International Society of Pharmacovigilance (ISoP)",
+          "Co-author, India's National Pharmacovigilance Program Protocol",
+          "Member, Central Advisory Committee — DIA India"
+        ]
+      }
+    },
+    "globalPresence": {
+      "tag": "Global Reach",
+      "heading": "Our Global Presence",
+      "subtitle": "From our headquarters in Mumbai, PVCON serves clients across the globe — delivering pharmacovigilance consulting, GxP audits, and regulatory support wherever our partners need us.",
+      "stats": [
+        { "value": "25+", "label": "Countries Served" },
+        { "value": "4", "label": "Continents" },
+        { "value": "50+", "label": "Clients Worldwide" }
+      ]
+    },
+    "team": {
+      "tag": "Our Team",
+      "heading": "The People Behind PVCON",
+      "subtitle": "A team of seasoned pharmacovigilance professionals with decades of combined experience across global regulatory landscapes.",
+      "members": {
+        "moin-don": {
+          "name": "Moin Don",
+          "role": "President & CEO",
+          "bio": "33+ years in pharmaceutical industry. Former Regional PV QA Director at Johnson & Johnson, Asia Pacific. Certified Lead Auditor and globally recognized PV expert."
+        },
+        "rameez-don": {
+          "name": "Rameez Don",
+          "role": "Senior Consultant",
+          "bio": "10 years of professional experience in pharmacovigilance, quality assurance, and training. Heads Business Operations and Training divisions. Certified Lead Auditor."
+        },
+        "sonam-garg": {
+          "name": "Sonam Garg",
+          "role": "Senior Consultant",
+          "bio": "5+ years as GCP auditor and documentation specialist. Experienced in clinical research QA, investigator site audits, and CRO audits across multiple regions."
+        },
+        "nazrul-khan": {
+          "name": "Nazrul Islam Khan",
+          "role": "EU-Africa Network Director",
+          "bio": "14 years of PV operational and auditing experience. Former MHRA and Janssen/J&J professional. Director of GPVQA (UK). Co-author of RQA PV Auditing Handbook."
+        }
+      }
+    },
+    "cta": {
+      "heading": "Ready to Work With Our Team?",
+      "text": "Connect with our pharmacovigilance experts and discover how PVCON can support your regulatory compliance and drug safety operations."
+    },
+    "buttons": {
+      "getInTouch": "Get in Touch"
+    }
+  }
+}

@@ -2,46 +2,19 @@
 import { motion } from "framer-motion";
 
 interface Props {
-  heading: string[];
-  subheading: string;
+  heading: string;
 }
 
-const HeroAnimation: React.FC<Props> = ({ heading, subheading }) => {
+const HeroAnimation: React.FC<Props> = ({ heading }) => {
   return (
-    <>
-      <motion.h1
-        className="text-4xl md:text-7xl md:leading-tight font-bold text-foreground max-w-lg md:max-w-2xl mx-auto flex flex-wrap justify-center gap-x-3"
-        variants={{
-          hidden: {},
-          visible: { transition: { staggerChildren: 0.4 } },
-        }}
-        initial="hidden"
-        animate="visible"
-      >
-        {heading.map((word, index) => (
-          <motion.span
-            key={index}
-            variants={{
-              hidden: { opacity: 0, y: 20 },
-              visible: { opacity: 1, y: 0 },
-            }}
-            transition={{ duration: 0.5, ease: "easeOut" }}
-            className="inline-block"
-          >
-            {word}
-          </motion.span>
-        ))}
-      </motion.h1>
-
-      <motion.p
-        className="mt-4 text-foreground max-w-lg mx-auto"
-        initial={{ opacity: 0, y: 20 }}
-        animate={{ opacity: 1, y: 0 }}
-        transition={{ duration: 0.5, ease: "easeOut", delay: 1.5 }}
-      >
-        {subheading}
-      </motion.p>
-    </>
+    <motion.h1
+      className="text-5xl sm:text-7xl md:text-8xl lg:text-[7rem] leading-[0.95] font-extrabold text-foreground uppercase tracking-tighter"
+      initial={{ opacity: 0, y: 60 }}
+      animate={{ opacity: 1, y: 0 }}
+      transition={{ duration: 0.8, ease: [0.25, 0.46, 0.45, 0.94] }}
+    >
+      {heading}
+    </motion.h1>
   );
 };
 

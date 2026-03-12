@@ -12,12 +12,21 @@ const FAQ: React.FC = () => {
     <section id="faq" className="py-10 lg:py-20">
       <div className="flex flex-col lg:flex-row gap-10">
         <div>
-          <p className="hidden lg:block text-foreground-accent">{t("label")}</p>
+          <p className="hidden lg:block text-xs font-semibold uppercase tracking-widest text-primary">
+            {t("label")}
+          </p>
           <SectionTitle>
-            <h2 className="my-3 !leading-snug lg:max-w-sm text-center lg:text-left">{t("title")}</h2>
+            <h2 className="my-3 !leading-snug lg:max-w-sm text-center lg:text-left">
+              {t("title")}
+            </h2>
           </SectionTitle>
-          <p className="lg:mt-10 text-foreground-accent text-center lg:text-left">{t("contact")}</p>
-          <a href={`mailto:${t("email")}`} className="mt-3 block text-xl lg:text-4xl text-secondary font-semibold hover:underline text-center lg:text-left">
+          <p className="lg:mt-10 text-foreground-accent text-center lg:text-left">
+            {t("contact")}
+          </p>
+          <a
+            href={`mailto:${t("email")}`}
+            className="mt-3 block text-xl lg:text-4xl text-secondary font-semibold hover:underline text-center lg:text-left"
+          >
             {t("email")}
           </a>
         </div>

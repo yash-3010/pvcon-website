@@ -1,0 +1,229 @@
+{
+  "hero": {
+    "tagline": "Services spécialisés de pharmacovigilance & GxP à l'échelle mondiale pour",
+    "heading": "CONSEIL PV & AUDITS GXP",
+    "description": "Chez PVCON, nous fournissons un conseil en pharmacovigilance de bout en bout, des audits GxP et des formations en entreprise — en partenariat avec les MAH, Sponsors et ORC du monde entier pour une conformité réglementaire durable et une excellence opérationnelle.",
+    "ctaPrimary": "Nous contacter",
+    "ctaSecondary": "À propos"
+  },
+  "logos": {
+    "tagline": "Reconnus par les MAH, ORC et Sponsors à travers le monde",
+    "stats": [
+      {
+        "value": "50+",
+        "label": "Clients accompagnés"
+      },
+      {
+        "value": "15+",
+        "label": "Pays couverts"
+      },
+      {
+        "value": "100%",
+        "label": "Taux de réussite des audits"
+      },
+      {
+        "value": "10+",
+        "label": "Années d'expérience"
+      }
+    ]
+  },
+  "aboutSection": {
+    "label": "À propos",
+    "heading": "PVCON",
+    "paragraphs": [
+      "Fondée par des professionnels expérimentés en pharmacovigilance, PVCON est un cabinet spécialisé en conseil et audit offrant des solutions complètes de sécurité des médicaments aux sociétés pharmaceutiques, biotech et CRO dans le monde entier.",
+      "Notre équipe apporte des décennies d'expérience combinée en audit GxP, services QPPV, gestion PSMF, préparation aux inspections, détection de signaux et conformité réglementaire — en partenariat avec des startups émergentes et des entreprises pharmaceutiques établies."
+    ],
+    "ctaLabel": "En savoir plus"
+  },
+  "visionMission": {
+    "label": "Notre raison d'être",
+    "heading": "Vision & Mission",
+    "items": [
+      {
+        "number": "01",
+        "title": "Vision",
+        "description": "Être le partenaire mondial le plus fiable en pharmacovigilance et conformité GxP, en établissant la norme industrielle pour la sécurité des médicaments, l'excellence réglementaire et la protection des patients."
+      },
+      {
+        "number": "02",
+        "title": "Mission",
+        "description": "Fournir un conseil en pharmacovigilance de bout en bout, des audits GxP et des formations en entreprise qui permettent aux MAH, Sponsors et ORC d'atteindre une conformité réglementaire durable, une préparation aux inspections et une excellence opérationnelle."
+      }
+    ]
+  },
+  "whyChooseUs": {
+    "heading": "Pourquoi nous choisir",
+    "paragraphs": [
+      "Chez PVCON, la qualité et la conformité sont au cœur de nos opérations, guidant chaque mission que nous entreprenons. Nous sommes profondément engagés à maintenir les plus hauts standards de pratique en pharmacovigilance.",
+      "Notre objectif est d'élever constamment la sécurité, la qualité et l'intégrité réglementaire des opérations de nos clients. Pour ce faire, nous déployons des cadres d'audit robustes, des programmes de formation complets et des stratégies de conformité proactives.",
+      "Notre équipe a accompagné une grande diversité d'organisations — des startups biotech émergentes aux grandes entreprises pharmaceutiques mondiales — en fournissant des solutions sur mesure en conseil PV, audits cliniques et préparation aux inspections réglementaires."
+    ]
+  },
+  "benefits": {
+    "srHeading": "Services",
+    "items": [
+      {
+        "title": "Audits et Inspections",
+        "description": "Services complets d'audit et de surveillance qualité en pharmacovigilance pour garantir la conformité réglementaire mondiale, l'excellence opérationnelle et la préparation aux inspections.",
+        "bullets": [
+          {
+            "title": "Audits PV Complets",
+            "description": "Audits des bureaux de pays affiliés, des systèmes, des fournisseurs et des partenaires de co-commercialisation réalisés à l'échelle mondiale avec des recommandations CAPA détaillées et une certification d'audit."
+          },
+          {
+            "title": "Développement et Supervision des Systèmes Qualité",
+            "description": "Conception et mise en œuvre de systèmes de management de la qualité PV robustes, incluant des plans qualité maîtres, des stratégies d'audit interne basées sur le risque et une gestion technologique des audits, inspections et CAPA."
+          },
+          {
+            "title": "Préparation aux Inspections et Support Réglementaire",
+            "description": "Support complet de préparation à l'inspection pour les MAH, incluant le développement structuré de réponses aux constatations d'inspection réglementaire et une surveillance continue de la conformité."
+          }
+        ]
+      },
+      {
+        "title": "Audit GxP",
+        "description": "Solutions d'audit GxP complètes garantissant la conformité réglementaire, l'assurance qualité et l'intégrité opérationnelle dans les environnements cliniques, de laboratoire, de fabrication et chez les fournisseurs.",
+        "bullets": [
+          {
+            "title": "Audits Cliniques et des Investigateurs (BPC)",
+            "description": "Audits de sites investigateurs, audits de Phase I, audits pour cause, audits des systèmes promoteur et ORC, et surveillance de l'approvisionnement en médicaments expérimentaux pour garantir la conformité complète aux BPC."
+          },
+          {
+            "title": "Qualification des Fournisseurs, ORC et Systèmes IT",
+            "description": "Audits de due diligence des ORC, audits de qualification des fournisseurs, audits de gestion des données et revues de qualification des systèmes IT pour garantir qualité et alignement réglementaire."
+          },
+          {
+            "title": "Conformité en Laboratoire et Fabrication",
+            "description": "Audits BPCC, BPL et BPF incluant des audits de sites d'archivage, d'unités de destruction de médicaments, et une exécution d'audit sur site ou à distance flexible pour une conformité sur l'ensemble du cycle de vie."
+          }
+        ]
+      },
+      {
+        "title": "Formation des Collaborateurs",
+        "description": "Programmes de formation structurés en pharmacovigilance pour renforcer les connaissances réglementaires, la préparation opérationnelle et la culture qualité dans les environnements MAH et parties prenantes.",
+        "bullets": [
+          {
+            "title": "Développement de Référentiels et Matrices de Formation",
+            "description": "Conception et mise en œuvre de matrices de formation complètes, de plans structurés et de supports de formation personnalisés en adéquation avec les exigences réglementaires."
+          },
+          {
+            "title": "Bootcamps MAH et Formation des Parties Prenantes",
+            "description": "Bootcamps intensifs et programmes de formation des parties prenantes ciblés pour les structures MAH afin d'améliorer la préparation aux inspections et la compétence opérationnelle."
+          },
+          {
+            "title": "Mises à Jour Réglementaires et Bonnes Pratiques PV",
+            "description": "Formation personnalisée sur les Bonnes Pratiques de Pharmacovigilance, l'évolution des réglementations de sécurité et les exigences de conformité mondiales."
+          }
+        ]
+      }
+    ]
+  },
+  "pricing": {
+    "sectionTitle": "Tarification",
+    "sectionDescription": "Des plans flexibles adaptés à vos besoins en pharmacovigilance.",
+    "getStarted": "Commencer",
+    "features": "FONCTIONNALITÉS",
+    "featuresSubtext": "Tout ce qui est inclus dans le plan de base, plus...",
+    "tiers": [
+      {
+        "name": "Essentiel",
+        "price": "Sur mesure",
+        "features": [
+          "Traitement des cas ICSR",
+          "Support rapports de sécurité périodiques",
+          "Mises à jour réglementaires",
+          "Support par e-mail"
+        ]
+      },
+      {
+        "name": "Professionnel",
+        "price": "Sur mesure",
+        "features": [
+          "Services QPPV dédiés",
+          "Mise en place et gestion du PSMF",
+          "Détection et évaluation des signaux",
+          "Support préparation audit GxP",
+          "Support prioritaire"
+        ]
+      },
+      {
+        "name": "Entreprise",
+        "price": "Sur mesure",
+        "features": [
+          "Mise en place complète du système PV",
+          "Support complet aux inspections réglementaires",
+          "Programmes de formation des collaborateurs",
+          "Responsable de compte dédié",
+          "Solutions de conformité personnalisées",
+          "Conseil sur site"
+        ]
+      }
+    ]
+  },
+  "testimonials": {
+    "sectionTitle": "Ce que disent nos clients",
+    "sectionDescription": "L'expérience de ceux qui nous font confiance.",
+    "items": [
+      {
+        "name": "Dr. Sarah Mitchell",
+        "role": "Responsable Pharmacovigilance, BioPharma Co.",
+        "message": "L'expertise de PVCON en services QPPV et préparation aux inspections a transformé nos opérations PV. Leur approche structurée nous a permis de réussir notre inspection EMA sans constatation critique."
+      },
+      {
+        "name": "James Thornton",
+        "role": "VP Affaires Réglementaires, CRO Solutions Ltd.",
+        "message": "Le support d'audit GxP de PVCON a été exceptionnel. La connaissance approfondie de l'équipe des lignes directrices GVP européennes et leur expérience pratique des audits nous ont donné la confiance nécessaire avant notre dossier réglementaire."
+      },
+      {
+        "name": "Dr. Yuki Nakamura",
+        "role": "Directrice Assurance Qualité, Global Pharma Inc.",
+        "message": "Les programmes de formation des collaborateurs de PVCON ont considérablement amélioré les compétences en pharmacovigilance de notre équipe. Les bootcamps personnalisés et les mises à jour réglementaires continues sont inestimables."
+      }
+    ]
+  },
+  "faq": {
+    "label": "FAQ",
+    "title": "Questions Fréquemment Posées",
+    "contact": "Posez-nous vos questions !",
+    "email": "support@pvcon.in",
+    "items": [
+      {
+        "question": "Qu'est-ce qu'un QPPV et quels services PVCON propose-t-il ?",
+        "answer": "Le QPPV (Personne Qualifiée pour la Pharmacovigilance) est un rôle légalement requis pour tous les titulaires d'autorisation de mise sur le marché dans l'UE/EEE. PVCON fournit des services QPPV dédiés, incluant la couverture QPPV adjoint, la supervision des systèmes PV, la gestion des signaux, la préparation des rapports périodiques et la liaison avec les autorités réglementaires."
+      },
+      {
+        "question": "Comment PVCON soutient-il la préparation à l'inspection des MAH ?",
+        "answer": "Nous fournissons un support complet à la préparation aux inspections : analyse des écarts de votre système PV par rapport aux exigences GVP, exercices d'inspection simulée, cadres de réponse structurés aux constatations réglementaires, gestion des CAPA et surveillance continue de la conformité post-inspection."
+      },
+      {
+        "question": "Avec quels cadres réglementaires travaillez-vous ?",
+        "answer": "PVCON opère dans le cadre de tous les principaux référentiels réglementaires mondiaux, incluant les Modules GVP de l'UE, FDA 21 CFR Part 312/314, les lignes directrices ICH E2, les exigences PMDA (Japon), les guidelines NMPA (Chine) et les réglementations CDSCO (Inde), entre autres."
+      },
+      {
+        "question": "Proposez-vous des services d'audit à distance ?",
+        "answer": "Oui. PVCON propose des options d'audit sur site et à distance. Notre méthodologie d'audit à distance est entièrement alignée sur les attentes réglementaires et a été validée dans plusieurs juridictions, offrant de la flexibilité sans compromettre la qualité ou la profondeur de l'audit."
+      },
+      {
+        "question": "Comment puis-je démarrer avec PVCON ?",
+        "answer": "Contactez-nous à support@pvcon.in avec une brève description de vos besoins. Notre équipe vous répondra dans un délai d'un jour ouvré pour planifier un appel découverte gratuit et présenter une proposition de service personnalisée."
+      }
+    ]
+  },
+  "stats": {
+    "items": [
+      {
+        "title": "500+",
+        "description": "Cas ICSR traités mensuellement avec une conformité réglementaire totale et une surveillance qualité."
+      },
+      {
+        "title": "98%",
+        "description": "Taux de réussite des audits clients, reflétant notre méthodologie rigoureuse de préparation aux inspections."
+      },
+      {
+        "title": "20+",
+        "description": "Référentiels réglementaires mondiaux couverts, de GVP UE à FDA, PMDA et CDSCO."
+      }
+    ]
+  }
+}

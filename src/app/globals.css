@@ -4,13 +4,13 @@
 
 :root {
   --background: #ffffff;
-  --foreground: #171717;
-  --primary: #58cbf9;
-  --secondary: #304fff;
+  --foreground: #0d1b2a;
+  --primary: #92b353;
+  --secondary: #202f63;
 
-  --primary-accent: #20a7db;
-  --foreground-accent: #454545;
-  --hero-background: #F3F3F5;
+  --primary-accent: #7da844;
+  --foreground-accent: #64748b;
+  --hero-background: #f1f5f9;
 }
 
 html {
@@ -36,4 +36,24 @@ body {
 
 .benefit-section:last-of-type > div {
   @apply mb-10;
+}
+
+/* Nav link underline hover animation */
+.nav-link {
+  position: relative;
+}
+.nav-link::after {
+  content: '';
+  position: absolute;
+  bottom: -4px;
+  left: 0;
+  width: 100%;
+  height: 2px;
+  background: var(--secondary);
+  transform: scaleX(0);
+  transition: transform 0.3s ease;
+  transform-origin: center;
+}
+.nav-link:hover::after {
+  transform: scaleX(1);
 }
