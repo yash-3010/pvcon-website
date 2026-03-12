@@ -1,0 +1,10 @@
+{
+  "gallery": {
+    "hero": {
+      "ariaLabel": "Gallery",
+      "tagline": "Our Work",
+      "title": "Gallery",
+      "subtitle": "Explore our portfolio of pharmacovigilance consulting projects, regulatory audits, and industry events."
+    }
+  }
+}

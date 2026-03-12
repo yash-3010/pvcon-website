@@ -11,7 +11,7 @@ const Footer: React.FC = async () => {
   const tNav = await getTranslations("nav");
 
   const quickLinks = [
-    { text: tNav("services"), url: "/#services" },
+    { text: tNav("services"), url: "/services" },
     { text: tNav("about"), url: "/about" },
     { text: tNav("blog"), url: "/blog" },
   ];

@@ -1,0 +1,394 @@
+{
+  "services": {
+    "hero": {
+      "tagline": "Nos services",
+      "title": "Services",
+      "subtitle": "Des services complets de consultation, de vérification, de formation et de réglementation en pharmacovigilance visant à renforcer les opérations de sécurité des médicaments et à assurer la conformité à l'échelle mondiale."
+    },
+    "categories": {
+      "sectionLabel": "Ce que nous offrons",
+      "heading": "Nos zones de service principales",
+      "subtitle": "Nous fournissons une expertise en pharmacovigilance de bout en bout dans quatre piliers de services spécialisés, chacun reposant sur des décennies d'expérience en matière de réglementation et d'exploitation."
+    },
+    "learnMore": "En savoir plus",
+    "productSpotlight": {
+      "tag": "Notre produit",
+      "heading": "Gestionnaire PSMF",
+      "badge": "Plateforme alimentée par l'IA",
+      "description": "La première plate-forme SaaS de l’industrie pour la gestion de fichiers maître du système de pharmacovigilance de l’industrie, qui permet d’automatiser la conformité, d’éliminer les erreurs manuelles et de rester toujours prêt à l’inspection.",
+      "features": {
+        "01": "Examen de conformité par AI-Driven",
+        "02": "Génération automatisée de documents",
+        "03": "Trace d'audit complète et contrôle de version",
+        "04": "Coordination PSMF globale et locale"
+      },
+      "cta": "Explorer le gestionnaire PSMF",
+      "secondaryCta": "Visitez psmfmanager.com",
+      "secondaryUrl": "https://www.psmfmanager.com"
+    },
+    "stats": {
+      "01": {
+        "value": "25+",
+        "label": "Pays desservis"
+      },
+      "02": {
+        "value": "50+",
+        "label": "Clients dans le monde entier"
+      },
+      "03": {
+        "value": "33+",
+        "label": "Expérience de l'année"
+      },
+      "04": {
+        "value": "4",
+        "label": "Continents"
+      }
+    },
+    "servicesPageCta": {
+      "heading": "Prêt à renforcer vos opérations PV?",
+      "text": "Partenaire du PVCON pour le conseil spécialisé en pharmacovigilance, l'audit GxP et le support de la conformité réglementaire.",
+      "button": "Demander une consultation"
+    },
+    "gxp-audits": {
+      "title": "Audits GxP",
+      "description": "Audit rigoureux et axé sur des normes dans toutes les disciplines PV, GCP, GLP, GMP, PIB et CSV, assurant ainsi la conformité et la préparation aux inspections.",
+      "hero": {
+        "tagline": "Audits GxP",
+        "title": "Services d'audit GxP\n",
+        "subtitle": "Audit rigoureux et axé sur des normes de pharmacovigilance, de domaines cliniques, de laboratoire, de fabrication et de systèmes informatisés — assuré par des vérificateurs expérimentés dans le monde entier."
+      },
+      "overview": {
+        "tag": "Aperçu",
+        "heading": "Audit complet de GxP",
+        "p1": "PVCON offre une gamme complète de services d'audit GxP qui aident les entreprises pharmaceutiques, les firmes biotechnologiques et les CROs à maintenir les normes les plus élevées de conformité réglementaire. Nos auditeurs apportent des décennies d'expérience pratique dans l'ICH, le GVP de l'UE, la FDA 21 CFR, et les directives de l'OMS — s'assurer que chaque audit est rigoureux, réalisable et conforme aux attentes réglementaires actuelles.",
+        "p2": "Que vous ayez besoin d'une vérification de qualification de fournisseur unique, d'une vérification complète du système PV ou d'un programme de vérification en cours. Notre équipe conçoit et exécute chaque engagement pour déceler les lacunes en matière de conformité, livrer des recommandations pratiques et renforcer vos systèmes de gestion de la qualité."
+      },
+      "subcategories": {
+        "sectionLabel": "Disciplines d'audit",
+        "heading": "Nos capacités d'audit GxP",
+        "pv-audits": {
+          "title": "Audits PV",
+          "description": "Audits de système de pharmacovigilance de bout en bout couvrant la signalisation d’événements indésirables, la détection de signaux, la conformité au PSMF, la surveillance du fournisseur et la gestion de la qualité. Nos vérifications PV sont menées contre les GVP de l’UE, l’ICH E2E et les cadres réglementaires locaux afin de s’assurer que vos opérations de sécurité répondent aux normes les plus strictes."
+        },
+        "gcp-audits": {
+          "title": "Audits GCP",
+          "description": "Des vérifications d'essai clinique à toutes les phases — des vérifications des sites des enquêteurs et des évaluations de l'ARC aux vérifications des systèmes et aux examens des FTM. Nous vérifions la conformité avec l'ICH GCP E6(R2), la CTRR de l'UE et la FDA 21 CFR Partie 11 afin de protéger l'intégrité des données et la sécurité des patients."
+        },
+        "glp-gmp-gdp-audits": {
+          "title": "Audits GLP / GMP / PIB",
+          "description": "Audits de laboratoire, de fabrication et de distribution assurant le respect des bonnes pratiques de laboratoire, des bonnes pratiques de fabrication et des normes de bonnes pratiques de distribution. Nos vérificateurs évaluent la conformité des installations, la validation des processus, l’intégrité de la documentation et les contrôles de la chaîne d’approvisionnement."
+        },
+        "csv-audits": {
+          "title": "Audits CSV",
+          "description": "Audits de validation du système informatique évaluant votre infrastructure informatique, gestion électronique des données et la validation des logiciels par GAMP 5, FDA 21 CFR Part 11, et les exigences de l'annexe 11 de l'UE. Nous évaluons la documentation sur le cycle de vie du système, les contrôles d'accès, les pistes d'audit et les contrôles d'intégrité des données."
+        }
+      },
+      "whyPvcon": {
+        "tag": "Pourquoi le PVCON",
+        "heading": "Pourquoi choisir le PVCON pour les comptes GxP ?",
+        "points": {
+          "01": {
+            "title": "Comptes expérimentés",
+            "description": "Nos vérificateurs ont en moyenne plus de 15 ans d'expérience pratique en matière de vérification réglementaire dans de multiples disciplines et régions géographiques de GxP."
+          },
+          "02": {
+            "title": "Couverture globale",
+            "description": "Nous effectuons des audits dans plus de 25 pays, en tirant parti des connaissances réglementaires locales et de la conscience culturelle pour fournir des résultats pertinents sur le plan contextuel."
+          },
+          "03": {
+            "title": "Résultats réalisables",
+            "description": "Chaque audit se termine par des recommandations pratiques et prioritaires et par des directives de l’APAC, non seulement des observations, mais aussi une voie claire vers la conformité."
+          }
+        }
+      },
+      "cta": {
+        "heading": "Prêt à élever votre programme de vérification ?",
+        "text": "Partenaire avec PVCON pour les services experts d’audit GxP qui renforcent la conformité et préparent votre organisation à des inspections réglementaires.",
+        "button": "Demander une consultation"
+      }
+    },
+    "pv-consulting": {
+      "title": "Consulting PV",
+      "description": "Consultation en pharmacovigilance de bout en bout — de la gestion de la qualité et de la préparation aux inspections, au soutien opérationnel et aux renseignements réglementaires.",
+      "hero": {
+        "tagline": "Consulting PV",
+        "title": "PV Consulting\nServices",
+        "subtitle": "Le conseil stratégique de pharmacovigilance qui renforce vos systèmes de gestion de la qualité, assure la préparation aux inspections et assure l'excellence opérationnelle dans l'ensemble de votre organisme de sécurité."
+      },
+      "overview": {
+        "tag": "Aperçu",
+        "heading": "Consulting stratégique PV",
+        "p1": "Les services de consultation en pharmacovigilance sont conçus pour intégrer une conformité durable et une efficacité opérationnelle à votre organisation de sécurité. Nous travaillons comme une extension de votre équipe — comprendre votre paysage réglementaire, identifier les lacunes et mettre en œuvre des solutions pratiques qui donnent des résultats mesurables.",
+        "p2": "Qu'il s'agisse de la mise en place de systèmes robustes de gestion de la qualité des PV et de la préparation d'inspections réglementaires ou de la fourniture de services de soutien opérationnel et de personnes qualifiées en cours Nos consultants apportent l'expertise et l'approche pratique nécessaires pour naviguer dans les complexités de la pharmacovigilance mondiale."
+      },
+      "subcategories": {
+        "sectionLabel": "Services de consultation",
+        "heading": "Nos capacités de conseil PV",
+        "pv-qms": {
+          "title": "PV QMS",
+          "description": "Conception, mise en œuvre et amélioration continue des systèmes de gestion de la qualité de Pharmacovigilance conformes aux directives européennes du module I et de l'ICH. Nous établissons des SOP, des instructions de travail, des paramètres de qualité et des cadres de gouvernance qui constituent l'épine dorsale d'une opération conforme aux PV."
+        },
+        "audit-inspection-readiness": {
+          "title": "Préparation à l’audit et à l’inspection",
+          "description": "Inspection complète des simulations, analyses des lacunes, plans structurés de l'ACAC qui reflètent les approches d'inspection nationales compétentes en matière d'EMA, de MHRA, de FDA et d'autorité compétente. Nous préparons vos équipes, vos documents et vos systèmes pour des inspections réglementaires réussies."
+        },
+        "pv-operational-support": {
+          "title": "Prise en charge opérationnelle PV",
+          "description": "Prise en charge pratique des opérations quotidiennes de pharmacovigilance, y compris le traitement ICSR, la préparation de rapports agrégés, la surveillance de la documentation, la détection des signaux et la gestion des bases de données de sécurité, évolutive à vos besoins."
+        },
+        "local-qpv-pvoi": {
+          "title": "QPV local / PvOI",
+          "description": "Personne qualifiée pour la surveillance de la pharmacovigilance et de la pharmacovigilance des services individuels dans les États membres de l'UE et les marchés mondiaux. Nos QPPV expérimentés veillent au respect total de la législation locale en matière de PV et des exigences de liaison réglementaire."
+        },
+        "corporate-trainings": {
+          "title": "Formations d'entreprise",
+          "description": "Des programmes de formation sur mesure en pharmacovigilance sont dispensés à vos équipes — couvrant les principes fondamentaux de la BVP, la déclaration des effets indésirables, la gestion des signaux, la préparation à l'inspection et le développement des compétences spécifiques à chaque rôle."
+        },
+        "regulatory-intelligence": {
+          "title": "Intelligence régulatrice",
+          "description": "Suivi et analyse proactifs de la réglementation de la pharmacovigilance, documents d'orientation et les tendances en matière de mise en application de la loi sur les marchés internationaux — tenir votre organisation à l’avance des changements réglementaires et des exigences en matière de conformité."
+        }
+      },
+      "whyPvcon": {
+        "tag": "Pourquoi le PVCON",
+        "heading": "Pourquoi choisir le PVCON pour le conseil PV ?",
+        "points": {
+          "01": {
+            "title": "Partenariat intégré",
+            "description": "Nous travaillons comme une extension de votre équipe, pas seulement des consultants externes. Notre approche garantit le transfert de connaissances et construit des capacités internes durables."
+          },
+          "02": {
+            "title": "Profondeur réglementaire",
+            "description": "Nos consultants ont une expérience directe avec les principaux organismes de réglementation tels que EMA, MHRA, FDA, et les autorités nationales compétentes dans plus de 20 juridictions."
+          },
+          "03": {
+            "title": "Historique de piste éprouvée",
+            "description": "Nous avons soutenu avec succès des dizaines d'organisations par le biais d'inspections réglementaires, d'implémentations de systèmes et de transformations de conformité."
+          }
+        }
+      },
+      "cta": {
+        "heading": "Besoin du soutien de Expert PV Consulting ?",
+        "text": "Laissez les consultants expérimentés de PVCON, en pharmacovigilance, renforcer votre cadre de conformité et optimiser vos opérations de sécurité.",
+        "button": "Entrez en contact"
+      }
+    },
+    "training-capability-development": {
+      "title": "Formation et développement des capacités",
+      "description": "Des programmes de formation structurés et des solutions de renforcement des capacités qui équipent vos équipes de connaissances pour maintenir la conformité et l'excellence opérationnelle.",
+      "hero": {
+        "tagline": "Formation et développement des capacités",
+        "title": "Capacité d'Entraînement &\n",
+        "subtitle": "Des programmes de formation structurés et dirigés par des experts conçus pour renforcer les compétences en pharmacovigilance, assurer la conformité à la réglementation et développer une culture d’apprentissage continu dans votre organisation."
+      },
+      "overview": {
+        "tag": "Aperçu",
+        "heading": "Compétence de construction PV",
+        "p1": "Les programmes de formation et de développement des capacités du PVCN sont conçus pour répondre à la demande croissante de professionnels qualifiés en pharmacovigilance. Nous offrons une formation structurée et spécifique à des rôles qui va au-delà des connaissances théoriques — équiper vos équipes de compétences pratiques, la sensibilisation à la réglementation et la confiance pour maintenir la conformité dans un paysage en évolution rapide.",
+        "p2": "Des camps de démarrage de PV de base pour les nouveaux entrants aux ateliers avancés de vérification et de préparation à l'inspection pour les professionnels expérimentés, Nos programmes sont adaptés au niveau de maturité de votre organisation, aux domaines thérapeutiques et aux instances de réglementation."
+      },
+      "subcategories": {
+        "sectionLabel": "Programmes de formation",
+        "heading": "Nos offres de formation",
+        "training-matrix": {
+          "title": "Matrice de formation et développement de contenu",
+          "description": "Nous concevons des matrices de formation complètes en fonction des rôles organisationnels et des exigences réglementaires, développons un contenu de formation sur mesure. et établir des cadres d'évaluation des compétences qui garantissent des résultats d'apprentissage mesurables et des documents prêts à être vérifiés."
+        },
+        "pv-boot-camp": {
+          "title": "Programmes de Camp de Boot PV",
+          "description": "Programmes intensifs et pratiques de démarrage du camp de la pharmacovigilance pour les nouveaux arrivants et les changements de carrière, couvrant les fondamentaux de la GVP, Traitement ICSR, bases de détection de signaux, rapports réglementaires et études de cas pratiques tirées de scénarios du monde réel."
+        },
+        "regulatory-compliance-training": {
+          "title": "Formation en matière de réglementation et de conformité",
+          "description": "Formation ciblée sur les modules GVP actuels de l'UE, lignes directrices ICH, exigences de la FDA en matière de déclaration de sécurité. et les attentes réglementaires émergentes, en veillant à ce que vos équipes restent alignées sur les normes de conformité les plus récentes sur les marchés internationaux."
+        },
+        "audit-inspection-training": {
+          "title": "Formation de préparation aux audits et à l'inspection",
+          "description": "Des ateliers pratiques qui préparent vos équipes aux inspections réglementaires et aux audits internes — couvrant les scénarios d'inspection, documenter les meilleures pratiques, les techniques d'entrevue et les conclusions courantes des inspections de l'EMA, du MHRA et de la FDA."
+        },
+        "customized-learnings": {
+          "title": "Apprentissages personnalisés",
+          "description": "Des programmes de formation personnalisés en fonction des besoins spécifiques de votre organisation — de la formation en photovoltaïque ciblée sur le domaine thérapeutique et des ateliers spécifiques à chaque processus, aux programmes de perfectionnement du leadership pour les gestionnaires et les agents de conformité."
+        }
+      },
+      "whyPvcon": {
+        "tag": "Pourquoi le PVCON",
+        "heading": "Pourquoi choisir le PVCON pour la formation ?",
+        "points": {
+          "01": {
+            "title": "Praticiens de l'industrie",
+            "description": "Nos formateurs sont des praticiens actifs de l’industrie qui ont une expérience directe en matière de réglementation et d’exploitation – non pas des conférenciers universitaires, mais des professionnels de la pratique."
+          },
+          "02": {
+            "title": "Approche personnalisée",
+            "description": "Chaque programme est adapté à la structure de rôle, à l'environnement réglementaire et au niveau de maturité de votre organisme, sans cours génériques et unidimensionnels."
+          },
+          "03": {
+            "title": "Résultats mesurables",
+            "description": "Nous établissons des repères de compétence, des cadres d'évaluation et des voies de certification qui démontrent l'efficacité de la formation aux organismes de réglementation et aux vérificateurs."
+          }
+        }
+      },
+      "cta": {
+        "heading": "Prêt à construire les capacités PV de votre équipe?",
+        "text": "Partenariat avec PVCON pour des programmes de formation en pharmacovigilance dirigés par des experts qui assurent une réelle compétence et une conformité durable.",
+        "button": "Explorer les options de formation"
+      }
+    },
+    "medical-writing": {
+      "title": "Écriture Médicale",
+      "description": "Des experts en rédaction médicale réglementaire couvrant les RMP/REMS, les rapports de sécurité globaux, la gestion des signaux, les documents cliniques et l'étiquetage mondial.",
+      "hero": {
+        "tagline": "Écriture Médicale",
+        "title": "Ecriture médicale\n",
+        "subtitle": "Des services de rédaction médicale d'expert en réglementation qui fournissent des services clairs et conformes et des documents de sécurité scientifiquement rigoureux — des rapports globaux et des plans de gestion des risques aux documents cliniques et étiquetés."
+      },
+      "overview": {
+        "tag": "Aperçu",
+        "heading": "Excellence de rédaction médicale régulatoire",
+        "p1": "L'équipe de rédaction médicale du PVCON, allie une expertise approfondie en pharmacovigilance et une compétence en rédaction réglementaire pour produire des documents de sécurité de haute qualité qui répondent aux attentes des autorités réglementaires mondiales. Nos rédacteurs comprennent à la fois la science et les exigences de conformité qui sous-tendent chaque document qu'ils produisent.",
+        "p2": "Nous soutenons le cycle de vie complet de la documentation sur la sécurité — depuis le développement initial du RMP et les rapports agrégés périodiques jusqu’à l’évaluation des signaux et l’harmonisation globale de l’étiquetage. Chaque livrable est fabriqué avec une rigueur scientifique, une précision réglementaire et un accent clair sur la sécurité des patients."
+      },
+      "subcategories": {
+        "sectionLabel": "Services d'écriture",
+        "heading": "Nos capacités d'écriture médicale",
+        "rmp-rems-writing": {
+          "title": "Écriture RMP / REMS",
+          "description": "Développement et maintenance des plans de gestion des risques (EU RMP) et stratégies d'évaluation des risques et d'atténuation (US REMS) — y compris les spécifications de sécurité, plan de pharmacovigilance, mesures de minimisation des risques et évaluation de l'efficacité. Nos rédacteurs veillent à l'alignement avec les conseils européens GVP Module V et FDA REMS."
+        },
+        "aggregate-report-writing": {
+          "title": "Écriture du rapport agrégé",
+          "description": "Préparation de rapports sur la sécurité des URF/REER, des RQQV et d'autres rapports de sécurité agrégés périodiques conformément aux lignes directrices ICH E2C(R2) et E2F. Nous fournissons des rapports scientifiquement sains et conformes à la réglementation qui communiquent efficacement le profil de risque-bénéfice de vos produits."
+        },
+        "signal-management": {
+          "title": "Gestion des signaux et analyse des données de sécurité",
+          "description": "Détection complète des signaux, évaluation et documentation d'évaluation du signal, y compris les rapports de suivi des signaux, les analyses de risque des avantages et les examens des données de sécurité. Nous supportons votre processus de gestion du signal avec des documents clairs et fondés sur des preuves."
+        },
+        "clinical-safety-documents": {
+          "title": "Documents cliniques et de sécurité",
+          "description": "Élaboration de documents sur l'innocuité clinique, y compris des brochures (sections sur l'innocuité), des rapports d'études cliniques (récits sur l'innocuité) et des mémoires réglementaires reliés à la sécurité. Nos rédacteurs comblent le fossé entre le développement clinique et la pharmacovigilance."
+        },
+        "global-labeling": {
+          "title": "Documents d'étiquetage globaux",
+          "description": "Élaboration et maintenance de fiches de données de base (CCDS), de renseignements sur la sécurité des entreprises (CCSI) et de documents d'étiquetage locaux. Nous assurons une harmonisation globale tout en satisfaisant aux exigences réglementaires propres à chaque pays en matière d'information sur les produits."
+        }
+      },
+      "whyPvcon": {
+        "tag": "Pourquoi le PVCON",
+        "heading": "Pourquoi choisir le PVCON pour l’écriture médicale ?",
+        "points": {
+          "01": {
+            "title": "Écritures spécialisées en PVC",
+            "description": "Nos rédacteurs médicaux se spécialisent dans la pharmacovigilance et la documentation sur la sécurité – apportant à chaque projet à la fois une expertise scientifique approfondie et une expertise en rédaction réglementaire."
+          },
+          "02": {
+            "title": "Précision régulatrice",
+            "description": "Chaque document est conçu pour répondre aux exigences spécifiques des organismes de réglementation ciblés, avec des processus rigoureux de contrôle de la qualité et d’examen de la conformité."
+          },
+          "03": {
+            "title": "Support de bout en bout",
+            "description": "De la rédaction initiale à la rétroaction réglementaire et aux mises à jour, nous fournissons un soutien continu tout au long du cycle de vie du document."
+          }
+        }
+      },
+      "cta": {
+        "heading": "Besoin d'un support d'écriture médicale pour les experts ?",
+        "text": "Faites confiance à l'équipe de rédaction médicale spécialisée de PVCON, pour fournir des documents de sécurité clairs, conformes et scientifiquement rigoureux.",
+        "button": "Discutez de votre projet"
+      }
+    },
+    "psmf": {
+      "title": "Gestionnaire PSMF",
+      "description": "Plateforme SaaS propulsée par AI, pour la conformité PSMF de bout en bout — génération automatisée, contrôle de versions et toujours prête à l'audit.",
+      "isProduct": "vrai",
+      "hero": {
+        "tagline": "Notre produit",
+        "title": "Gestionnaire PSMF\n",
+        "subtitle": "Solution de bout en bout gérée par IA pour la conformité avec le système de pharmacovigilance des fichiers principaux. Du contrôle de version à la génération automatique de documents — tout ce dont vous avez besoin pour rationaliser votre cycle de vie PSMF."
+      },
+      "overview": {
+        "tag": "La Plateforme",
+        "heading": "Gestion PSMF alimentée par l'IA",
+        "p1": "PSMF Manager est une plate-forme SaaS entièrement automatisée, basée sur le Web, construite par PVCON pour transformer la gestion du dossier principal des laboratoires pharmaceutiques. Propulsée par AI, la plateforme simplifie les examens de conformité complexes avec transparence et fiabilité — en éliminant les erreurs manuelles et en maintenant votre PSMF toujours prêt à être inspecté.",
+        "p2": "Que vous gériez un seul PSMF local ou que vous coordonniez des fichiers globaux et locaux dans plusieurs régions, PSMF Manager fournit une coordination en temps réel, le suivi automatique des changements et la génération instantanée de PDF conforme à la réglementation — le tout dans une plate-forme sécurisée et basée sur le cloud."
+      },
+      "features": {
+        "tag": "Fonctionnalités de la plateforme",
+        "heading": "Tout ce dont vous avez besoin pour la conformité PSMF",
+        "items": {
+          "01": {
+            "title": "Examen de conformité par AI-Driven",
+            "description": "Tirez parti de l'intelligence artificielle pour simplifier les examens complexes de pharmacovigilance. Notre moteur IA identifie les lacunes, suggère des améliorations et veille à ce que votre PSMF réponde à toutes les exigences réglementaires avec transparence et fiabilité."
+          },
+          "02": {
+            "title": "Gestion globale et locale PSMF",
+            "description": "Gérez les versions PSMF globales et locales à partir d'une seule plate-forme avec coordination en temps réel. Éliminer les licenciements, maintenir la cohérence entre les régions et veiller à ce que chaque version soit conforme aux exigences réglementaires des entreprises et des collectivités locales."
+          },
+          "03": {
+            "title": "Historique de version complète et piste d'audit",
+            "description": "Chaque changement est estampillé dans le temps et enregistré de façon sécurisée avec des pistes d'audit détaillées. Tenir à jour un historique complet de versions qui démontre la conformité à la réglementation et vous assure que vous êtes toujours préparé pour les inspections."
+          },
+          "04": {
+            "title": "Changements suivis automatisés",
+            "description": "La plate-forme met automatiquement en évidence chaque modification, réduisant considérablement les efforts de révision manuelle. Votre équipe peut immédiatement voir ce qui a changé, quand et par qui — rationalisant le processus d’examen et d’approbation."
+          },
+          "05": {
+            "title": "Intégration de données externes",
+            "description": "Synchronisation transparente avec les principales bases de données de pharmacovigilance et les systèmes d'entreprise. PSMF Manager s’intègre à votre infrastructure existante pour extraire les données automatiquement, éliminer la saisie de données en double et réduire les erreurs humaines."
+          },
+          "06": {
+            "title": "Génération de documents PSMF automatisée",
+            "description": "Générez instantanément des documents PSMF conformes à la réglementation en format PDF en un seul clic. Il n'y a plus de confusion dans la mise en forme manuelle ou la version — la plateforme produit des documents prêts à être vérifiés qui répondent aux normes EMA, MHRA, et aux normes réglementaires mondiales."
+          }
+        }
+      },
+      "compliance": {
+        "tag": "Conformité et sécurité",
+        "heading": "Construit pour l'excellence réglementaire",
+        "certifications": {
+          "01": {
+            "title": "EMA GVP Module II",
+            "description": "Un alignement total sur les exigences en matière de bonnes pratiques de pharmacovigilance de l'Agence européenne des médicaments."
+          },
+          "02": {
+            "title": "US FDA 21 CFR Part 11",
+            "description": "Conformité avec les enregistrements électroniques et la réglementation des signatures électroniques de la FDA."
+          },
+          "03": {
+            "title": "EU GMP Annex 11",
+            "description": "Répond aux exigences des systèmes informatisés de bonnes pratiques de fabrication de l'UE."
+          },
+          "04": {
+            "title": "GAMP 5",
+            "description": "Validé par une approche ISPE GAMP 5 basée sur les risques pour les systèmes informatisés conformes à la norme GxP."
+          }
+        },
+        "security": {
+          "01": {
+            "title": "Authentification à deux facteurs",
+            "description": "2FA robuste avec des contrôles de mot de passe protégeant chaque session utilisateur."
+          },
+          "02": {
+            "title": "Chiffrement SSL/TLS",
+            "description": "Toutes les données transmises via des canaux chiffrés standards de l'industrie."
+          },
+          "03": {
+            "title": "Sauvegarde AWS Cloud",
+            "description": "Protection automatique des sauvegardes sur une infrastructure cloud AWS sécurisée."
+          },
+          "04": {
+            "title": "Traces d'audit complètes",
+            "description": "Chaque action de l'utilisateur a été enregistrée et traçable pour une responsabilité complète."
+          }
+        }
+      },
+      "cta": {
+        "heading": "Prêt à transformer votre gestion PSMF?",
+        "text": "Expérimentez l'avenir de la conformité PSMF avec la plateforme PVCON. Demandez une démo pour voir PSMF Manager en action.",
+        "button": "Demander une démo",
+        "secondaryButton": "Visitez psmfmanager.com",
+        "secondaryUrl": "https://www.psmfmanager.com"
+      }
+    }
+  }
+}
