@@ -11,13 +11,19 @@
     "blog": {
       "title": "ファーマコビジランスブログ | PVCONインサイト",
       "description": "医薬品安全性、QPPVサービス、PSMFマネジメント、規制コンプライアンスに関する専門家記事。"
+    },
+    "company": {
+      "title": "会社概要 — PVCONリーダーシップとグローバルプレゼンス",
+      "description": "PVCONのリーダーシップチームを紹介し、4大陸25カ国以上をカバーするグローバルファーマコビジランスネットワークをご覧ください。"
     }
   },
   "nav": {
     "services": "サービス",
     "about": "会社概要",
     "blog": "ブログ",
-    "requestConsultation": "相談を申し込む",
+    "gallery": "ギャラリー",
+    "company": "会社",
+    "requestConsultation": "話しましょう",
     "getStarted": "始める"
   },
   "footer": {

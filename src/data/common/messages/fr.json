@@ -11,13 +11,19 @@
     "blog": {
       "title": "Blog Pharmacovigilance | Insights PVCON",
       "description": "Articles d'experts sur la sécurité des médicaments, les services QPPV, la gestion du PSMF et la conformité réglementaire."
+    },
+    "company": {
+      "title": "Entreprise — Direction & Présence mondiale de PVCON",
+      "description": "Découvrez l'équipe dirigeante et le réseau mondial de pharmacovigilance de PVCON, présent dans plus de 25 pays sur 4 continents."
     }
   },
   "nav": {
     "services": "Services",
     "about": "À propos",
     "blog": "Blog",
-    "requestConsultation": "Demander une consultation",
+    "gallery": "Galerie",
+    "company": "Entreprise",
+    "requestConsultation": "Parlons-en",
     "getStarted": "Commencer"
   },
   "footer": {

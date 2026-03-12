@@ -26,9 +26,11 @@ const Header: React.FC = () => {
   const toggleMenu = () => setIsOpen(!isOpen);
 
   const menuItems = [
-    { text: t("services"), url: "/#services" },
+    { text: t("company"), url: "/company" },
+    { text: t("services"), url: "/services" },
     { text: t("about"), url: "/about" },
     { text: t("blog"), url: "/blog" },
+    { text: t("gallery"), url: "/gallery" },
   ];
 
   return (

@@ -11,13 +11,19 @@
     "blog": {
       "title": "Pharmakovigilanz-Blog | PVCON Insights",
       "description": "Expertenbeiträge zu Arzneimittelsicherheit, QPPV-Diensten, PSMF-Management und regulatorischer Compliance."
+    },
+    "company": {
+      "title": "Unternehmen — PVCON Leitung & Globale Präsenz",
+      "description": "Lernen Sie das Führungsteam kennen und entdecken Sie PVCONs globales Pharmakovigilanz-Netzwerk in über 25 Ländern auf 4 Kontinenten."
     }
   },
   "nav": {
     "services": "Leistungen",
     "about": "Über uns",
     "blog": "Blog",
-    "requestConsultation": "Beratung anfragen",
+    "gallery": "Galerie",
+    "company": "Unternehmen",
+    "requestConsultation": "Laten we praten",
     "getStarted": "Jetzt starten"
   },
   "footer": {

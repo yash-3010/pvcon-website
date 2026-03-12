@@ -11,13 +11,19 @@
     "blog": {
       "title": "药物警戒博客 | PVCON见解",
       "description": "关于药品安全、QPPV服务、PSMF管理和监管合规的专家文章。"
+    },
+    "company": {
+      "title": "公司 — PVCON领导团队与全球布局",
+      "description": "了解PVCON的领导团队，探索覆盖4大洲25+国家的全球药物警戒网络。"
     }
   },
   "nav": {
     "services": "服务",
     "about": "关于我们",
     "blog": "博客",
-    "requestConsultation": "申请咨询",
+    "gallery": "画廊",
+    "company": "公司",
+    "requestConsultation": "让我们谈谈",
     "getStarted": "立即开始"
   },
   "footer": {

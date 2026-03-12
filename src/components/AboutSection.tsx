@@ -12,9 +12,9 @@ const AboutSection: React.FC = async () => {
     <section id="about" className="relative bg-[#0d1117] text-white overflow-hidden">
       <div className="max-w-7xl mx-auto flex flex-col lg:flex-row">
         {/* Left: image */}
-        <div className="lg:w-1/2 relative min-h-[400px] lg:p-8 md:p-8 lg:min-h-[600px]">
+        <div className="lg:w-1/2 relative min-h-[400px] p-4 lg:p-8 md:p-8 lg:min-h-[600px]">
           <Image
-            src="/images/consulting-professional.webp"
+            src="/images/about3.webp"
             alt="PVCON pharmacovigilance consulting professional"
             width={800}
             height={600}
