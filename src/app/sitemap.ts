@@ -12,7 +12,14 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const staticRoutes = [
     { path: "", changeFrequency: "monthly" as const, priority: 1 },
     { path: "/about", changeFrequency: "monthly" as const, priority: 0.8 },
+    { path: "/services", changeFrequency: "monthly" as const, priority: 0.9 },
+    { path: "/services/gxp-audits", changeFrequency: "monthly" as const, priority: 0.8 },
+    { path: "/services/pv-consulting", changeFrequency: "monthly" as const, priority: 0.8 },
+    { path: "/services/training-capability-development", changeFrequency: "monthly" as const, priority: 0.8 },
+    { path: "/services/medical-writing", changeFrequency: "monthly" as const, priority: 0.8 },
+    { path: "/services/psmf", changeFrequency: "monthly" as const, priority: 0.8 },
     { path: "/blog", changeFrequency: "weekly" as const, priority: 0.9 },
+    { path: "/gallery", changeFrequency: "monthly" as const, priority: 0.8 },
   ];
 
   // Blog post routes

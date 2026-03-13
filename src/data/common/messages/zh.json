@@ -15,6 +15,34 @@
     "company": {
       "title": "公司 — PVCON领导团队与全球布局",
       "description": "了解PVCON的领导团队，探索覆盖4大洲25+国家的全球药物警戒网络。"
+    },
+    "gallery": {
+      "title": "图库 | PVCON — 药物警戒咨询与监管审计",
+      "description": "探索PVCON图库，展示我们的全球药物警戒咨询项目、监管审计以及行业活动。"
+    },
+    "services": {
+      "title": "Services | PVCON — Pharmacovigilance & GxP Solutions",
+      "description": "Explore PVCON's comprehensive pharmacovigilance services including GxP audits, PV consulting, training, medical writing, and PSMF management for global life sciences organizations.",
+      "gxp-audits": {
+        "title": "GxP Audit Services | PVCON — Comprehensive GxP Auditing",
+        "description": "PVCON delivers expert GxP audit services covering PV, GCP, GLP, GMP, GDP, and CSV audits to ensure regulatory compliance and inspection readiness across global operations."
+      },
+      "pv-consulting": {
+        "title": "PV Consulting | PVCON — Pharmacovigilance Consulting Services",
+        "description": "PVCON provides end-to-end pharmacovigilance consulting including PV QMS, audit readiness, operational support, QPPV/PvOI services, and regulatory intelligence."
+      },
+      "training-capability-development": {
+        "title": "Training & Capability Development | PVCON — PV Training Programs",
+        "description": "PVCON offers tailored pharmacovigilance training programs including boot camps, compliance training, audit readiness workshops, and customized corporate learning solutions."
+      },
+      "medical-writing": {
+        "title": "Medical Writing | PVCON — Regulatory Medical Writing Services",
+        "description": "PVCON's medical writing team delivers RMP/REMS, aggregate safety reports, signal management documentation, clinical safety documents, and global labeling support."
+      },
+      "psmf": {
+        "title": "PSMF Manager | PVCON — AI-Powered PSMF Management Platform",
+        "description": "PSMF Manager is PVCON's AI-powered SaaS platform for end-to-end Pharmacovigilance System Master File compliance, automated generation, version control, and audit readiness."
+      }
     }
   },
   "nav": {

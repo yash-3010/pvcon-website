@@ -11,7 +11,7 @@ const SectionLabel: React.FC<SectionLabelProps> = ({ children, center = false, l
   <p
     className={[
       "text-xs font-semibold uppercase tracking-[0.2em] mb-3",
-      light ? "text-white/50" : "text-foreground-accent",
+      light ? "text-white/70" : "text-foreground-accent",
       center ? "text-center" : "",
     ]
       .filter(Boolean)

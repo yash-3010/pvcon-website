@@ -12,7 +12,7 @@ const FAQ: React.FC = () => {
     <section id="faq" className="py-10 lg:py-20">
       <div className="flex flex-col lg:flex-row gap-10">
         <div>
-          <p className="hidden lg:block text-xs font-semibold uppercase tracking-widest text-primary">
+          <p className="hidden lg:block text-xs font-semibold uppercase tracking-widest">
             {t("label")}
           </p>
           <SectionTitle>
