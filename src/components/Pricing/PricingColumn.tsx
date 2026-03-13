@@ -34,7 +34,7 @@ const PricingColumn: React.FC<Props> = ({ tier, highlight, getStarted, features:
         </button>
       </div>
       <div className="p-6 mt-1">
-        <p className={clsx("text-xs font-semibold uppercase tracking-wider mb-1", { "text-white/50": highlight, "text-foreground-accent": !highlight })}>{featuresLabel}</p>
+        <p className={clsx("text-xs font-semibold uppercase tracking-wider mb-1", { "text-white/70": highlight, "text-foreground-accent": !highlight })}>{featuresLabel}</p>
         <p className={clsx("text-sm mb-5", { "text-white/60": highlight, "text-foreground-accent": !highlight })}>{featuresSubtext}</p>
         <ul className="space-y-3.5 mb-8">
           {features.map((feature, index) => (

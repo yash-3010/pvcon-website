@@ -39,7 +39,7 @@ const Footer: React.FC = async () => {
           </p>
         </div>
         <div>
-          <h2 className="text-xs font-semibold uppercase tracking-wider mb-5 text-white/50">
+          <h2 className="text-xs font-semibold uppercase tracking-wider mb-5 text-white/70">
             {t("quickLinksTitle")}
           </h2>
           <ul>
@@ -53,7 +53,7 @@ const Footer: React.FC = async () => {
           </ul>
         </div>
         <div>
-          <h2 className="text-xs font-semibold uppercase tracking-wider mb-5 text-white/50">
+          <h2 className="text-xs font-semibold uppercase tracking-wider mb-5 text-white/70">
             {t("contactTitle")}
           </h2>
           {footerDetails.email && (
@@ -92,7 +92,7 @@ const Footer: React.FC = async () => {
           )}
         </div>
       </div>
-      <div className="mt-10 border-t border-white/10 pt-6 md:text-center text-white/40 text-sm px-6">
+      <div className="mt-10 border-t border-white/10 pt-6 md:text-center text-white/80 text-sm px-6">
         <p>
           Copyright &copy; {new Date().getFullYear()} {siteDetails.siteName}. {t("copyright")}
         </p>
