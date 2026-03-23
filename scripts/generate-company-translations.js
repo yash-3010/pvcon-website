@@ -9,7 +9,7 @@ const translations = {
       hero: {
         tagline: "Unser Unternehmen",
         title: "Leitung & Globale Pr\u00e4senz",
-        subtitle: "Lernen Sie die Menschen und das globale Netzwerk hinter PVCON kennen \u2014 Pharmakovigilanz-Exzellenz in 25+ L\u00e4ndern und 4 Kontinenten.",
+        subtitle: "Lernen Sie die Menschen und das globale Netzwerk hinter PVCON kennen \u2014 Pharmakovigilanz-Exzellenz in 96 L\u00e4ndern und 4 Kontinenten.",
       },
       leadership: {
         tag: "Unternehmensleitung",
@@ -34,7 +34,7 @@ const translations = {
         heading: "Unsere Globale Pr\u00e4senz",
         subtitle: "Von unserem Hauptsitz in Mumbai aus betreut PVCON Kunden auf der ganzen Welt \u2014 Pharmakovigilanz-Beratung, GxP-Audits und regulatorische Unterst\u00fctzung.",
         stats: [
-          { value: "25+", label: "Betreute L\u00e4nder" },
+          { value: "96", label: "Betreute L\u00e4nder" },
           { value: "4", label: "Kontinente" },
           { value: "50+", label: "Kunden weltweit" },
         ],
@@ -84,7 +84,7 @@ const translations = {
         heading: "Notre pr\u00e9sence mondiale",
         subtitle: "Depuis notre si\u00e8ge \u00e0 Mumbai, PVCON accompagne des clients \u00e0 travers le monde \u2014 conseil en pharmacovigilance, audits GxP et soutien r\u00e9glementaire.",
         stats: [
-          { value: "25+", label: "Pays desservis" },
+          { value: "96", label: "Pays desservis" },
           { value: "4", label: "Continents" },
           { value: "50+", label: "Clients dans le monde" },
         ],
@@ -134,7 +134,7 @@ const translations = {
         heading: "\u6211\u4eec\u7684\u5168\u7403\u5e03\u5c40",
         subtitle: "\u4ecePVCON\u5b5f\u4e70\u603b\u90e8\u51fa\u53d1\uff0c\u6211\u4eec\u4e3a\u5168\u7403\u5ba2\u6237\u63d0\u4f9b\u836f\u7269\u8b66\u6212\u54a8\u8be2\u3001GxP\u5ba1\u8ba1\u548c\u76d1\u7ba1\u652f\u6301\u670d\u52a1\u3002",
         stats: [
-          { value: "25+", label: "\u670d\u52a1\u56fd\u5bb6" },
+          { value: "96", label: "\u670d\u52a1\u56fd\u5bb6" },
           { value: "4", label: "\u5927\u6d32" },
           { value: "50+", label: "\u5168\u7403\u5ba2\u6237" },
         ],
@@ -184,7 +184,7 @@ const translations = {
         heading: "\u30b0\u30ed\u30fc\u30d0\u30eb\u30d7\u30ec\u30bc\u30f3\u30b9",
         subtitle: "\u30e0\u30f3\u30d0\u30a4\u672c\u793e\u304b\u3089\u3001PVCON\u306f\u4e16\u754c\u4e2d\u306e\u30af\u30e9\u30a4\u30a2\u30f3\u30c8\u306b\u30d5\u30a1\u30fc\u30de\u30b3\u30d3\u30b8\u30e9\u30f3\u30b9\u30b3\u30f3\u30b5\u30eb\u30c6\u30a3\u30f3\u30b0\u3001GxP\u76e3\u67fb\u3001\u898f\u5236\u30b5\u30dd\u30fc\u30c8\u3092\u63d0\u4f9b\u3057\u3066\u3044\u307e\u3059\u3002",
         stats: [
-          { value: "25+", label: "\u30b5\u30fc\u30d3\u30b9\u63d0\u4f9b\u56fd" },
+          { value: "96", label: "\u30b5\u30fc\u30d3\u30b9\u63d0\u4f9b\u56fd" },
           { value: "4", label: "\u5927\u9678" },
           { value: "50+", label: "\u4e16\u754c\u4e2d\u306e\u30af\u30e9\u30a4\u30a2\u30f3\u30c8" },
         ],

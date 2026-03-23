@@ -13,6 +13,7 @@ import { getAlternateUrls, getCanonicalUrl } from "@/lib/i18n-utils";
 import AboutSection from "@/components/AboutSection";
 import VisionMission from "@/components/VisionMission";
 import WhyChooseUs from "@/components/WhyChooseUs";
+import FlagshipSolutions from "@/components/FlagshipSolutions";
 
 interface Props {
   params: { locale: string };
@@ -86,6 +87,7 @@ export default async function HomePage({ params: { locale } }: Props) {
       <Hero />
       <AboutSection />
       <VisionMission />
+      <FlagshipSolutions />
       <WhyChooseUs />
       <Container>
         <Section

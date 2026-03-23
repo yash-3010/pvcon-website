@@ -20,65 +20,113 @@ export const companyConfig = {
  * Compact mainland countries can omit lat/lng — they auto-centre via getBBox().
  */
 export const companyPresence: { code: string; label: string; lat?: number; lng?: number }[] = [
-  // Americas
-  { code: "US", label: "United States",  lat:  39.50, lng:  -98.35 }, // continental center
-  { code: "CA", label: "Canada",         lat:  56.13, lng:  -96.80 }, // populated south
-  { code: "BR", label: "Brazil",         lat: -14.24, lng:  -51.93 },
-  { code: "MX", label: "Mexico",         lat:  23.63, lng: -102.55 },
-  { code: "AR", label: "Argentina",      lat: -38.42, lng:  -63.62 },
-  { code: "CL", label: "Chile",          lat: -35.68, lng:  -71.54 },
-
-  // Europe — compact shapes, bbox works fine
-  { code: "GB", label: "United Kingdom" },
-  { code: "IE", label: "Ireland" },
-  { code: "FR", label: "France" },
-  { code: "DE", label: "Germany" },
-  { code: "ES", label: "Spain" },
-  { code: "IT", label: "Italy" },
-  { code: "NL", label: "Netherlands" },
-  { code: "BE", label: "Belgium" },
-  { code: "CH", label: "Switzerland" },
-  { code: "AT", label: "Austria" },
-  { code: "SE", label: "Sweden" },
-  { code: "DK", label: "Denmark" },
-  { code: "NO", label: "Norway",         lat:  64.50, lng:   17.00 }, // avoid Svalbard pulling bbox north
-  { code: "FI", label: "Finland" },
-  { code: "PL", label: "Poland" },
-  { code: "CZ", label: "Czech Republic" },
-  { code: "HU", label: "Hungary" },
-  { code: "RO", label: "Romania" },
-
-  { code: "TR", label: "Turkey" },
-  { code: "RU", label: "Russia",         lat:  61.52, lng:  105.32 }, // vast — force Siberia center
-
-  // Middle East
-  { code: "AE", label: "United Arab Emirates" },
-  { code: "SA", label: "Saudi Arabia" },
-  { code: "IL", label: "Israel" },
-  { code: "QA", label: "Qatar" },
-  { code: "KW", label: "Kuwait" },
-
-  // Asia
-  { code: "IN", label: "India" },
-  { code: "CN", label: "China" },
-  { code: "JP", label: "Japan",          lat:  36.20, lng:  138.25 }, // Honshu
-  { code: "KR", label: "South Korea" },
-  { code: "SG", label: "Singapore" },
-  { code: "TH", label: "Thailand" },
-  { code: "MY", label: "Malaysia",       lat:   3.80, lng:  109.70 }, // Borneo midpoint
-  { code: "ID", label: "Indonesia",      lat:  -2.55, lng:  118.02 }, // archipelago
-  { code: "PH", label: "Philippines",    lat:  12.88, lng:  121.77 }, // archipelago
-  { code: "VN", label: "Vietnam" },
-  { code: "TW", label: "Taiwan",         lat:  23.70, lng:  121.00 },
-  { code: "HK", label: "Hong Kong",      lat:  22.35, lng:  114.10 },
-
-  // Oceania
-  { code: "AU", label: "Australia",      lat: -25.27, lng:  133.78 }, // inland center
-  { code: "NZ", label: "New Zealand",    lat: -40.90, lng:  174.89 }, // North Island
-
   // Africa
-  { code: "ZA", label: "South Africa",   lat: -28.47, lng:   24.68 },
+  { code: "DZ", label: "Algeria" },
   { code: "EG", label: "Egypt" },
-  { code: "NG", label: "Nigeria" },
   { code: "KE", label: "Kenya" },
+  { code: "LY", label: "Libya" },
+  { code: "MA", label: "Morocco" },
+  { code: "MU", label: "Mauritius" },
+  { code: "RW", label: "Rwanda" },
+  { code: "TN", label: "Tunisia" },
+  { code: "ZA", label: "South Africa", lat: -28.47, lng: 24.68 },
+
+  // Americas
+  { code: "AR", label: "Argentina", lat: -38.4161, lng: -63.6167 },
+  { code: "BR", label: "Brazil", lat: -14.235, lng: -51.9253 },
+  { code: "CA", label: "Canada", lat: 56.13, lng: -96.8 },
+  { code: "CL", label: "Chile", lat: -35.6751, lng: -71.543 },
+  { code: "CO", label: "Colombia" },
+  { code: "CR", label: "Costa Rica" },
+  { code: "DO", label: "Dominican Republic" },
+  { code: "EC", label: "Ecuador" },
+  { code: "SV", label: "El Salvador" },
+  { code: "GT", label: "Guatemala" },
+  { code: "HN", label: "Honduras" },
+  { code: "MX", label: "Mexico", lat: 23.6345, lng: -102.5528 },
+  { code: "NI", label: "Nicaragua" },
+  { code: "PE", label: "Peru" },
+  { code: "TT", label: "Trinidad and Tobago" },
+  { code: "US", label: "United States", lat: 39.5, lng: -98.35 },
+
+  // Asia / Middle East
+  { code: "AE", label: "United Arab Emirates", lat: 23.4241, lng: 53.8478 },
+  { code: "AM", label: "Armenia" },
+  { code: "AZ", label: "Azerbaijan" },
+  { code: "BD", label: "Bangladesh" },
+  { code: "BH", label: "Bahrain", lat: 26.0667, lng: 50.5577 },
+  { code: "BN", label: "Brunei" },
+  { code: "CN", label: "China" },
+  { code: "GE", label: "Georgia" },
+  { code: "HK", label: "Hong Kong", lat: 22.3193, lng: 114.1694 },
+  { code: "ID", label: "Indonesia", lat: -2.5489, lng: 118.0149 },
+  { code: "IN", label: "India" },
+  { code: "IQ", label: "Iraq" },
+  { code: "IR", label: "Iran" },
+  { code: "IL", label: "Israel" },
+  { code: "JO", label: "Jordan" },
+  { code: "JP", label: "Japan", lat: 36.2048, lng: 138.2529 },
+  { code: "KG", label: "Kyrgyzstan" },
+  { code: "KH", label: "Cambodia" },
+  { code: "KR", label: "South Korea", lat: 35.9078, lng: 127.7669 },
+  { code: "KW", label: "Kuwait", lat: 29.3117, lng: 47.4818 },
+  { code: "KZ", label: "Kazakhstan" },
+  { code: "LB", label: "Lebanon", lat: 33.8547, lng: 35.8623 },
+  { code: "LI", label: "Liechtenstein", lat: 47.166, lng: 9.5554 },
+  { code: "LK", label: "Sri Lanka" }, // only keep if you actually have presence there
+  { code: "MY", label: "Malaysia", lat: 4.2105, lng: 101.9758 },
+  { code: "NP", label: "Nepal" },
+  { code: "OM", label: "Oman" },
+  { code: "PH", label: "Philippines", lat: 12.8797, lng: 121.774 },
+  { code: "PK", label: "Pakistan" },
+  { code: "QA", label: "Qatar", lat: 25.3548, lng: 51.1839 },
+  { code: "SA", label: "Saudi Arabia" },
+  { code: "SG", label: "Singapore", lat: 1.3521, lng: 103.8198 },
+  { code: "TH", label: "Thailand" },
+  { code: "TJ", label: "Tajikistan" },
+  { code: "TW", label: "Taiwan", lat: 23.6978, lng: 120.9605 },
+  { code: "TR", label: "Turkey" },
+  { code: "UZ", label: "Uzbekistan" },
+  { code: "VN", label: "Vietnam" },
+  { code: "XK", label: "Kosovo" },
+
+  // Europe
+  { code: "AL", label: "Albania" },
+  { code: "AT", label: "Austria" },
+  { code: "BA", label: "Bosnia and Herzegovina" },
+  { code: "BE", label: "Belgium" },
+  { code: "BG", label: "Bulgaria" },
+  { code: "BY", label: "Belarus" },
+  { code: "CH", label: "Switzerland" },
+  { code: "CY", label: "Cyprus", lat: 35.1264, lng: 33.4299 },
+  { code: "CZ", label: "Czech Republic" },
+  { code: "DE", label: "Germany" },
+  { code: "DK", label: "Denmark" },
+  { code: "ES", label: "Spain" },
+  { code: "FI", label: "Finland" },
+  { code: "FR", label: "France" },
+  { code: "GB", label: "United Kingdom" },
+  { code: "GR", label: "Greece" },
+  { code: "HR", label: "Croatia" },
+  { code: "HU", label: "Hungary" },
+  { code: "IE", label: "Ireland" },
+  { code: "IS", label: "Iceland", lat: 64.9631, lng: -19.0208 },
+  { code: "IT", label: "Italy" },
+  { code: "LT", label: "Lithuania" },
+  { code: "LV", label: "Latvia" },
+  { code: "MD", label: "Moldova" },
+  { code: "ME", label: "Montenegro" },
+  { code: "MK", label: "North Macedonia" },
+  { code: "MT", label: "Malta", lat: 35.9375, lng: 14.3754 },
+  { code: "NL", label: "Netherlands" },
+  { code: "NO", label: "Norway", lat: 64.5, lng: 17.0 },
+  { code: "PL", label: "Poland" },
+  { code: "PT", label: "Portugal" },
+  { code: "RO", label: "Romania" },
+  { code: "RS", label: "Serbia" },
+  { code: "SE", label: "Sweden" },
+  { code: "SI", label: "Slovenia" },
+  { code: "SK", label: "Slovakia" },
+  { code: "UA", label: "Ukraine" },
+  { code: "RU", label: "Russia", lat: 61.524, lng: 105.3188 },
 ];
