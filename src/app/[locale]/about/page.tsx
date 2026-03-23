@@ -53,7 +53,6 @@ export async function generateMetadata({ params: { locale } }: Props): Promise<M
 }
 
 const coreValueKeys = ["01", "02", "03", "04"] as const;
-const expertiseKeys = ["qppv", "gxp", "psmf", "inspection", "signal", "regulatory"] as const;
 
 export default async function AboutPage({ params: { locale } }: Props) {
   const t = await getTranslations({ locale, namespace: "about" });
