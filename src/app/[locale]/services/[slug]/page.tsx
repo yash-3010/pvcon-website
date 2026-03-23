@@ -266,8 +266,12 @@ export default async function ServiceDetailPage({ params: { locale, slug } }: Pr
           </FadeInView>
           <FadeInView delay={0.15}>
             <div className="space-y-5">
-              <p className="text-foreground-accent text-base leading-relaxed">{t("overview.p1")}</p>
-              <p className="text-foreground-accent text-base leading-relaxed">{t("overview.p2")}</p>
+              <p className="text-foreground-accent text-base leading-relaxed">
+                {t.rich("overview.p1", { strong: (chunks) => <strong className="font-semibold text-foreground">{chunks}</strong> })}
+              </p>
+              <p className="text-foreground-accent text-base leading-relaxed">
+                {t.rich("overview.p2", { strong: (chunks) => <strong className="font-semibold text-foreground">{chunks}</strong> })}
+              </p>
             </div>
           </FadeInView>
         </div>
@@ -283,15 +287,27 @@ export default async function ServiceDetailPage({ params: { locale, slug } }: Pr
               {t("subcategories.heading")}
             </h2>
           </FadeInView>
-          <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
-            {service.subcategories.map((sub, i) => (
-              <SubServiceCard
-                key={sub.id}
-                index={i}
-                title={t(`subcategories.${sub.id}.title`)}
-                description={t(`subcategories.${sub.id}.description`)}
-              />
-            ))}
+          <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-6 items-stretch">
+            {service.subcategories.map((sub, i) => {
+              /* Safely retrieve the optional bullets array */
+              let bullets: string[] | undefined;
+              try {
+                bullets = t.raw(`subcategories.${sub.id}.bullets`) as string[];
+              } catch {
+                bullets = undefined;
+              }
+              return (
+                <SubServiceCard
+                  key={sub.id}
+                  index={i}
+                  title={t(`subcategories.${sub.id}.title`)}
+                  description={t.rich(`subcategories.${sub.id}.description`, {
+                    strong: (chunks) => <strong className="font-semibold text-foreground">{chunks}</strong>,
+                  })}
+                  bullets={bullets}
+                />
+              );
+            })}
           </div>
         </div>
       </section>

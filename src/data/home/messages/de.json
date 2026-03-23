@@ -52,6 +52,31 @@
       }
     ]
   },
+  "flagshipSolutions": {
+    "label": "Flaggschiff-Lösungen",
+    "heading": "Was wir am besten können",
+    "description": "Vier Kernkompetenzen, die PVCON definieren — jede mit Präzision, tiefgreifendem regulatorischem Wissen und dem Engagement für den Schutz der Patientensicherheit weltweit.",
+    "cta": "Alle Dienstleistungen entdecken",
+    "learnMore": "Mehr erfahren",
+    "services": {
+      "qppv": {
+        "title": "Lokale QPPV / PvOI",
+        "description": "Qualified Person for Pharmacovigilance und PV Oversight Individual Dienstleistungen in EU-Mitgliedstaaten und globalen Märkten — für volle Einhaltung der lokalen PV-Gesetzgebung."
+      },
+      "audit": {
+        "title": "Audit & Inspektion",
+        "description": "Umfassende PV-System-Audits, Mock-Inspektionen und strukturierte CAPA-Pläne zur Vorbereitung auf erfolgreiche regulatorische Inspektionen."
+      },
+      "psmf": {
+        "title": "PSMF Manager",
+        "description": "KI-gestützte SaaS-Plattform für durchgängige PSMF-Compliance — automatisierte Erstellung, Versionskontrolle und stets auditbereit."
+      },
+      "training": {
+        "title": "Schulung & Kompetenzentwicklung",
+        "description": "Strukturierte Schulungsprogramme und Kompetenzentwicklungslösungen, die Ihre Teams mit dem Wissen für Compliance und operative Exzellenz ausstatten."
+      }
+    }
+  },
   "whyChooseUs": {
     "heading": "Warum uns wählen",
     "paragraphs": [

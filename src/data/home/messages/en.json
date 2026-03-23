@@ -31,8 +31,8 @@
     "label": "About",
     "heading": "PVCON",
     "paragraphs": [
-      "Founded by seasoned pharmacovigilance professionals, PVCON is a specialized consulting and audit firm delivering comprehensive drug safety solutions to pharmaceutical companies, biotech firms, and CROs across the globe.",
-      "Our team brings decades of combined experience across GxP auditing, QPPV services, PSMF management, inspection readiness, signal detection, and regulatory compliance — partnering with both emerging startups and established pharmaceutical enterprises."
+      "PVCON is a premier global provider of independent GxP Auditing, Pharmacovigilance Consulting, and Professional Training services, supporting pharmaceutical, biotechnology, and medical device organizations across 60+ countries.",
+      "Recognized for its integrity, independence, and technical excellence, PVCON serves as a trusted \"One-Stop Partner\" for comprehensive Pharmacovigilance Audit and Quality solutions, helping clients navigate complex regulatory landscapes with confidence."
     ],
     "ctaLabel": "Explore Us"
   },
@@ -43,14 +43,39 @@
       {
         "number": "01",
         "title": "Vision",
-        "description": "To be the most trusted global partner in pharmacovigilance and GxP compliance, setting the industry standard for drug safety, regulatory excellence, and patient protection across all therapeutic areas and regulatory landscapes."
+        "description": "To be globally recognized as the benchmark for quality, integrity, and excellence in GxP Auditing, Consulting, and Training."
       },
       {
         "number": "02",
         "title": "Mission",
-        "description": "To deliver end-to-end pharmacovigilance consulting, GxP auditing, and corporate training that empowers MAHs, Sponsors, and CROs to achieve sustained regulatory compliance, inspection readiness, and operational excellence — safeguarding patient safety worldwide."
+        "description": "To be the leading service provider of choice for global independent GxP Auditing, Consulting and Training to the pharmaceutical, biotechnology and device industries"
       }
     ]
+  },
+  "flagshipSolutions": {
+    "label": "Flagship Solutions",
+    "heading": "What We Do Best",
+    "description": "Four core pillars of expertise that define PVCON — each delivered with precision, deep regulatory knowledge, and a commitment to safeguarding patient safety worldwide.",
+    "cta": "Explore All Services",
+    "learnMore": "Learn More",
+    "services": {
+      "qppv": {
+        "title": "Local QPPV / PvOI",
+        "description": "Qualified Person for Pharmacovigilance and PV Oversight Individual services across EU member states and global markets — ensuring full compliance with local PV legislation."
+      },
+      "audit": {
+        "title": "Audit & Inspection",
+        "description": "Comprehensive PV system audits, mock inspections, and structured CAPA plans that prepare your organization for successful regulatory inspections."
+      },
+      "psmf": {
+        "title": "PSMF Manager",
+        "description": "AI-powered SaaS platform for end-to-end Pharmacovigilance System Master File compliance — automated generation, version control, and always audit-ready."
+      },
+      "training": {
+        "title": "Training & Capability",
+        "description": "Structured training programs and capability-building solutions that equip your teams with the knowledge to maintain compliance and operational excellence."
+      }
+    }
   },
   "whyChooseUs": {
     "heading": "Why Choose Us",

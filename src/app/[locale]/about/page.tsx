@@ -193,14 +193,22 @@ export default async function AboutPage({ params: { locale } }: Props) {
         </div>
       </section>
 
-      {/* ── Core Values ──────────────────────────────────────── */}
+      {/* ── Why Choose PVCON ─────────────────────────────────── */}
       <section className="relative py-16 lg:py-28 px-5 overflow-hidden bg-gray-50">
         <div className="max-w-7xl mx-auto">
           <FadeInView>
-            <SectionLabel center>{t("coreValues.tag")}</SectionLabel>
-            <h2 className="text-3xl lg:text-5xl font-bold tracking-tight text-center mb-16">
-              {t("coreValues.heading")}
+            <SectionLabel center>{t("whyChoose.tag")}</SectionLabel>
+            <h2 className="text-3xl lg:text-5xl font-bold tracking-tight text-center mb-6">
+              {t("whyChoose.heading")}
             </h2>
+            <div className="max-w-3xl mx-auto text-center mb-16 space-y-4">
+              <p className="text-foreground-accent leading-relaxed text-sm">
+                {t("whyChoose.intro.p1")}
+              </p>
+              <p className="text-foreground-accent leading-relaxed text-sm">
+                {t("whyChoose.intro.p2")}
+              </p>
+            </div>
           </FadeInView>
 
           <div className="grid md:grid-cols-2 gap-8 lg:gap-14">
@@ -212,43 +220,11 @@ export default async function AboutPage({ params: { locale } }: Props) {
                       {key}
                     </span>
                     <h3 className="text-2xl font-bold uppercase tracking-tight">
-                      {t(`coreValues.${key}.title`)}
+                      {t(`whyChoose.${key}.title`)}
                     </h3>
                   </div>
                   <p className="text-foreground-accent leading-relaxed text-sm">
-                    {t(`coreValues.${key}.description`)}
-                  </p>
-                </div>
-              </FadeInView>
-            ))}
-          </div>
-        </div>
-      </section>
-
-      {/* ── Expertise Areas ──────────────────────────────────── */}
-      <section className="relative py-16 lg:py-28 px-5 overflow-hidden">
-        <GeometricBg />
-
-        <div className="max-w-7xl mx-auto">
-          <FadeInView>
-            <SectionLabel center>{t("expertise.tag")}</SectionLabel>
-            <h2 className="text-3xl lg:text-5xl font-bold tracking-tight text-center mb-6">
-              {t("expertise.heading")}
-            </h2>
-            <p className="text-foreground-accent text-center max-w-2xl mx-auto mb-16 text-sm leading-relaxed">
-              {t("expertise.subtitle")}
-            </p>
-          </FadeInView>
-
-          <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
-            {expertiseKeys.map((key, i) => (
-              <FadeInView key={key} delay={i * 0.08}>
-                <div className="p-7 rounded-2xl border border-gray-100 hover:border-primary/30 hover:shadow-sm transition-all h-full">
-                  <h3 className="text-lg font-bold uppercase tracking-tight mb-3 text-secondary">
-                    {t(`expertise.${key}.title`)}
-                  </h3>
-                  <p className="text-foreground-accent text-sm leading-relaxed">
-                    {t(`expertise.${key}.desc`)}
+                    {t(`whyChoose.${key}.description`)}
                   </p>
                 </div>
               </FadeInView>

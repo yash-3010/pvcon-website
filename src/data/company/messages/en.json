@@ -3,7 +3,7 @@
     "hero": {
       "tagline": "Our Company",
       "title": "Leadership & Global Presence",
-      "subtitle": "Meet the people and the global network behind PVCON — driving pharmacovigilance excellence across 25+ countries and 4 continents."
+      "subtitle": "Meet the people and the global network behind PVCON — driving pharmacovigilance excellence across 96 countries and 4 continents."
     },
     "leadership": {
       "tag": "Leadership",
@@ -28,7 +28,7 @@
       "heading": "Our Global Presence",
       "subtitle": "From our headquarters in Mumbai, PVCON serves clients across the globe — delivering pharmacovigilance consulting, GxP audits, and regulatory support wherever our partners need us.",
       "stats": [
-        { "value": "25+", "label": "Countries Served" },
+        { "value": "96", "label": "Countries Served" },
         { "value": "4", "label": "Continents" },
         { "value": "50+", "label": "Clients Worldwide" }
       ]

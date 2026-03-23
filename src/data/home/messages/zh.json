@@ -52,6 +52,31 @@
       }
     ]
   },
+  "flagshipSolutions": {
+    "label": "旗舰解决方案",
+    "heading": "我们的核心优势",
+    "description": "定义PVCON的四大核心专业领域——每一项都以精准、深厚的监管知识和保护全球患者安全的承诺来交付。",
+    "cta": "探索所有服务",
+    "learnMore": "了解更多",
+    "services": {
+      "qppv": {
+        "title": "本地 QPPV / PvOI",
+        "description": "在欧盟成员国和全球市场提供药物警戒合格人员和PV监管个人服务——确保完全符合当地PV法规。"
+      },
+      "audit": {
+        "title": "审计与检查",
+        "description": "全面的PV系统审计、模拟检查和结构化的CAPA计划，为您的组织准备成功的监管检查。"
+      },
+      "psmf": {
+        "title": "PSMF管理器",
+        "description": "AI驱动的SaaS平台，实现端到端PSMF合规——自动生成、版本控制，随时审计就绪。"
+      },
+      "training": {
+        "title": "培训与能力建设",
+        "description": "结构化培训项目和能力建设解决方案，为您的团队提供维持合规和卓越运营所需的知识。"
+      }
+    }
+  },
   "whyChooseUs": {
     "heading": "为什么选择我们",
     "paragraphs": [

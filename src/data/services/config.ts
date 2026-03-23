@@ -19,8 +19,7 @@ export const serviceCategories: ServiceCategory[] = [
     subcategories: [
       { id: "pv-audits" },
       { id: "gcp-audits" },
-      { id: "glp-gmp-gdp-audits" },
-      { id: "csv-audits" },
+      { id: "other-gxp-audits" },
     ],
   },
   {
@@ -29,9 +28,7 @@ export const serviceCategories: ServiceCategory[] = [
     subcategories: [
       { id: "pv-qms" },
       { id: "audit-inspection-readiness" },
-      { id: "pv-operational-support" },
-      { id: "local-qpv-pvoi" },
-      { id: "corporate-trainings" },
+      { id: "local-qppv-pvoi" },
       { id: "regulatory-intelligence" },
     ],
   },
@@ -42,7 +39,6 @@ export const serviceCategories: ServiceCategory[] = [
       { id: "training-matrix" },
       { id: "pv-boot-camp" },
       { id: "regulatory-compliance-training" },
-      { id: "audit-inspection-training" },
       { id: "customized-learnings" },
     ],
   },
@@ -52,9 +48,8 @@ export const serviceCategories: ServiceCategory[] = [
     subcategories: [
       { id: "rmp-rems-writing" },
       { id: "aggregate-report-writing" },
-      { id: "signal-management" },
-      { id: "clinical-safety-documents" },
       { id: "global-labeling" },
+      { id: "clinical-safety-documents" },
     ],
   },
   {

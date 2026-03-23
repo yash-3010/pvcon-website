@@ -4,7 +4,7 @@
       "ariaLabel": "Über PVCON",
       "tagline": "Über uns",
       "title": "Über PVCON",
-      "subtitle": "Eine spezialisierte Pharmakovigilanz-Beratungs- und Auditfirma, die umfassende Arzneimittelsicherheitslösungen für Pharmaunternehmen, Biotech-Firmen und CROs weltweit liefert."
+      "subtitle": "Ein führender globaler Anbieter unabhängiger GxP-Audits, Pharmakovigilanz-Beratung und professioneller Schulungen für Pharma-, Biotech- und Medizinprodukteunternehmen in über 60 Ländern."
     },
     "images": {
       "aboutAlt": "PVCON-Pharmakovigilanz-Team in professioneller Umgebung",
@@ -14,15 +14,15 @@
       "tag": "Wer wir sind",
       "heading": "Unsere Geschichte",
       "story": {
-        "p1": "Gegründet von erfahrenen Pharmakovigilanz-Experten, wurde PVCON gegründet, um die Lücke zwischen regulatorischen Anforderungen und operativer Realität zu schließen. Viele Organisationen — von aufstrebenden Biotech-Startups bis zu etablierten Pharmaunternehmen — benötigen einen vertrauenswürdigen Partner mit praxisorientierter Expertise.",
-        "p2": "Unser Team bringt jahrzehntelange kombinierte Erfahrung in GxP-Audits, QPPV-Services, PSMF-Management, Inspektionsvorbereitung, Signalerkennung und regulatorischer Compliance mit — erworben durch direkte Zusammenarbeit mit führenden MAHs, Sponsoren und CROs weltweit.",
-        "p3": "Heute ist PVCON als Spezialfirma anerkannt, die messbare und dauerhafte Verbesserungen in Arzneimittelsicherheitsprozessen und regulatorischer Compliance für Kunden in über 20 Rechtsordnungen liefert."
+        "p1": "PVCON ist ein führender globaler Anbieter unabhängiger GxP-Audits, Pharmakovigilanz-Beratung und professioneller Schulungsdienstleistungen für Pharma-, Biotech- und Medizinprodukteunternehmen in über 60 Ländern.",
+        "p2": "Anerkannt für Integrität, Unabhängigkeit und technische Exzellenz, dient PVCON als vertrauenswürdiger 'One-Stop-Partner' für umfassende Pharmakovigilanz-Audit- und Qualitätslösungen und hilft Kunden, komplexe regulatorische Landschaften mit Zuversicht zu navigieren.",
+        "p3": "PVCON wurde von dem weltweit anerkannten Pharmakovigilanz-Experten Moin Don, Executive Director, gegründet, dessen Führung und tiefgreifende Branchenexpertise die Organisation zu einem zuverlässigen strategischen Partner für Unternehmen gemacht haben, die Compliance-Exzellenz und Inspektionsbereitschaft anstreben."
       }
     },
     "approach": {
-      "tag": "Wie wir arbeiten",
-      "heading": "Unser Ansatz",
-      "p1": "Qualität und Compliance sind Eckpfeiler unserer Arbeit. Jedes Projekt beginnt mit einem gründlichen Verständnis Ihres regulatorischen Umfelds, Ihrer organisatorischen Reife und Ihrer strategischen Ziele — damit unsere Lösungen maßgeschneidert, praxisnah und sofort umsetzbar sind.",
+      "tag": "Unsere Philosophie",
+      "heading": "Ein strategischer Compliance-Partner",
+      "p1": "PVCON ist mehr als ein Dienstleister — wir sind ein strategischer Compliance-Partner. Wir unterstützen nicht einfach Pharmakovigilanz-Aktivitäten; wir entwickeln robuste, regulatorisch belastbare PV-Systeme, die Patientensicherheit, operative Exzellenz und langfristige Compliance-Nachhaltigkeit vorantreiben.",
       "p2": "Wir setzen robuste Audit-Frameworks, umfassende Schulungsprogramme und proaktive Compliance-Strategien ein, die mit aktuellen ICH-, EU-GVP- und globalen GxP-Richtlinien übereinstimmen. Unsere Berater arbeiten als eingebettete Partner in Ihren Teams und geben Wissen weiter.",
       "p3": "Von der Einrichtung von Pharmakovigilanz-Systemen und PSMF-Erstellung bis zur Lieferantenqualifikation und Inspektionsbereitschaft bieten wir End-to-End-Unterstützung zur Stärkung von Sicherheit, Qualität und regulatorischer Integrität."
     },
@@ -30,24 +30,28 @@
       "workWithUs": "Mit uns arbeiten",
       "getInTouch": "Kontakt aufnehmen"
     },
-    "coreValues": {
-      "tag": "Was uns antreibt",
-      "heading": "Kernwerte",
+    "whyChoose": {
+      "tag": "Warum PVCON",
+      "heading": "Warum PVCON wählen?",
+      "intro": {
+        "p1": "In einer zunehmend komplexen und streng regulierten GxP-Landschaft geht es bei Compliance nicht nur um die Erfüllung von Anforderungen — es geht darum, belastbare Systeme aufzubauen, die Patienten schützen, Marken sichern und regulatorischer Prüfung standhalten. PVCON ist Ihr strategischer Partner für operative Exzellenz, Inspektionssicherheit und nachhaltige Compliance-Reife.",
+        "p2": "Wir vereinen tiefgreifende Pharmakovigilanz-Expertise, regulatorische Intelligenz, Audit-Kompetenz und praktische Umsetzungserfahrung, um Lösungen zu liefern, die nicht theoretisch, sondern operativ, skalierbar und regulatorisch belastbar sind."
+      },
       "01": {
-        "title": "Regulatorische Exzellenz",
-        "description": "Wir halten die höchsten Standards in der Pharmakovigilanz ein, in Übereinstimmung mit ICH, EU GVP und globalen GxP-Richtlinien."
+        "title": "Vorausschauende regulatorische Intelligenz",
+        "description": "Proaktive Überwachung globaler PV-Vorschriften für Zukunftssicherheit. Wir verfolgen Veränderungen bei EMA, FDA, MHRA, PMDA und Schwellenländern — und übersetzen komplexe regulatorische Änderungen in umsetzbare Compliance-Strategien, bevor sie Ihre Abläufe beeinflussen."
       },
       "02": {
-        "title": "Kundenorientierte Partnerschaft",
-        "description": "Wir arbeiten als Erweiterung Ihres Teams — verstehen Ihre regulatorische Landschaft und liefern maßgeschneiderte Lösungen."
+        "title": "Integriertes End-to-End PV-Ökosystem",
+        "description": "Umfassende PV-Lösungen für Betrieb, Audits, Governance, Inspektionsbereitschaft und Schulung. Unser integriertes Modell stellt sicher, dass jedes Element Ihres PV-Systems zusammenwirkt — von ICSR-Verarbeitung und Signalmanagement bis zur PSMF-Pflege und Schulungsprogrammen."
       },
       "03": {
-        "title": "Patientensicherheit zuerst",
-        "description": "Jede Empfehlung und jedes Audit ist darauf ausgerichtet, die Patientensicherheit weltweit zu schützen."
+        "title": "Risikobasierter, inspektionsbereiter Ansatz",
+        "description": "Compliance-Strategien für Audit-Resilienz und regulatorisches Vertrauen. Wir entwickeln risikobasierte Frameworks, die kritische Bereiche priorisieren, Teams durch Scheininspektionen vorbereiten und CAPA-Prozesse etablieren, die nachhaltiges regulatorisches Engagement belegen."
       },
       "04": {
-        "title": "Kontinuierliche Innovation",
-        "description": "Wir bleiben regulatorisch und technologisch vorne, um proaktive Strategien und moderne Frameworks anzubieten."
+        "title": "Erstklassige Auditoren & Berater",
+        "description": "200+ Mannjahre Erfahrung mit führenden Pharmaunternehmen und PV-Dienstleistern. Auditoren mit MHRA-, EMA-, DCGI- und Infarmed-Erfahrung. Berater des Drug Controller General of India (PvPI) und anerkannte Redner bei DIA, RQA und UMC — mehrsprachige Berater strategisch weltweit positioniert."
       }
     },
     "expertise": {

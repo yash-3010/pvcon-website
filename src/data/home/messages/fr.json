@@ -52,6 +52,31 @@
       }
     ]
   },
+  "flagshipSolutions": {
+    "label": "Solutions phares",
+    "heading": "Ce que nous faisons de mieux",
+    "description": "Quatre piliers d'expertise qui définissent PVCON — chacun livré avec précision, une connaissance réglementaire approfondie et un engagement à protéger la sécurité des patients dans le monde entier.",
+    "cta": "Découvrir tous les services",
+    "learnMore": "En savoir plus",
+    "services": {
+      "qppv": {
+        "title": "QPPV local / PvOI",
+        "description": "Services de Personne Qualifiée en Pharmacovigilance et d'Individu de Surveillance PV dans les États membres de l'UE et les marchés mondiaux — assurant la pleine conformité avec la législation PV locale."
+      },
+      "audit": {
+        "title": "Audit & Inspection",
+        "description": "Audits complets des systèmes PV, inspections simulées et plans CAPA structurés pour préparer votre organisation aux inspections réglementaires."
+      },
+      "psmf": {
+        "title": "PSMF Manager",
+        "description": "Plateforme SaaS alimentée par l'IA pour la conformité PSMF de bout en bout — génération automatisée, contrôle de version et toujours prêt pour l'audit."
+      },
+      "training": {
+        "title": "Formation & Développement",
+        "description": "Programmes de formation structurés et solutions de développement des compétences pour équiper vos équipes des connaissances nécessaires au maintien de la conformité."
+      }
+    }
+  },
   "whyChooseUs": {
     "heading": "Pourquoi nous choisir",
     "paragraphs": [
