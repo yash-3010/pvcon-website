@@ -2,6 +2,7 @@
 
 # dependencies
 /node_modules
+/public/images/gallery/originals
 /.pnp
 .pnp.js
 .yarn/install-state.gz
