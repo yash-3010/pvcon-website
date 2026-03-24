@@ -1,0 +1,252 @@
+[
+  {
+    "src": "/images/gallery/dia-india-2023-02-jpg.webp",
+    "width": 1200,
+    "height": 800,
+    "aspectRatio": 1.5,
+    "blurDataURL": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAABwAwCdASoUAA0APzmGuVOvKSWisAgB4CcJYwAAUklW2cqb7kAA/oOGwm9FeLH88TN+Ukd2Ex9tJBsey0pWxlxrfEJP4EsNpltFxMjwbda3dcutNCPDLCAA",
+    "slug": "dia-india-2023-02-jpg",
+    "title": "DIA India. 2023.02.JPG",
+    "description": ""
+  },
+  {
+    "src": "/images/gallery/dia-india-2023-03-jpg.webp",
+    "width": 1200,
+    "height": 800,
+    "aspectRatio": 1.5,
+    "blurDataURL": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAACwAwCdASoUAA0APzmEuVOvKKWisAgB4CcJQAAK8jRRjKbdyXYv4AD8rGmvBQCxJVz4Vb70YAwh6wpQdt7y03LuFRNsSFtBWE3qPSvUSXP2y1acQZAgAA==",
+    "slug": "dia-india-2023-03-jpg",
+    "title": "DIA India. 2023.03.JPG",
+    "description": ""
+  },
+  {
+    "src": "/images/gallery/img-20220723-wa0000.webp",
+    "width": 1024,
+    "height": 768,
+    "aspectRatio": 1.3333,
+    "blurDataURL": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAADQAwCdASoUAA8APzmEuVOvKKWisAgB4CcJQBhmhDkUw0ya5rG6W5AA/q5xzi0jRmtf0AZqpNM+hOB72QLuUrvBeh2y0RRRwcra/6tYUMk6jX17f1IJpSiHccNAWKLDGyaYfSXs4UQAAA==",
+    "slug": "img-20220723-wa0000",
+    "title": "IMG 20220723 WA0000 ",
+    "description": ""
+  },
+  {
+    "src": "/images/gallery/img-9490-jpg.webp",
+    "width": 1200,
+    "height": 1800,
+    "aspectRatio": 0.6667,
+    "blurDataURL": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAABwBACdASoUAB4APzmEuVOvKCWisBgMAeAnCWMAs4AxUX4kWNrR27loLFX0QAD8XaCRnjzrzo8uQHdWs3irJlj04HPhVI2N74Rk43A22ffFuPHWLKt8dzS2PCmzuNNaOq9ODh36DtDNPX5hroydczwnLTBMYAAA",
+    "slug": "img-9490-jpg",
+    "title": "IMG 9490.JPG",
+    "description": ""
+  },
+  {
+    "src": "/images/gallery/img-9503-jpg.webp",
+    "width": 1200,
+    "height": 800,
+    "aspectRatio": 1.5,
+    "blurDataURL": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAADwAwCdASoUAA0APzmIvlOvKScisAgB4CcJYgCdAB6nW5gL7e5/uyswAM1Wc4nmvUw8rhIEw7lEJBcxEpeTzBXMLRn4Ndm0Q4BR2nQ8z7HOX+Yxwizfg55FXItpjNyAscGAAA==",
+    "slug": "img-9503-jpg",
+    "title": "IMG 9503.JPG",
+    "description": ""
+  },
+  {
+    "src": "/images/gallery/img-9513-jpg.webp",
+    "width": 1200,
+    "height": 800,
+    "aspectRatio": 1.5,
+    "blurDataURL": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADQAwCdASoUAA0APzmEuVOvKKWisAgB4CcJQBbZBDvfWnyw+CKS1UAA/t6nwab5aHo51MaDfGP7PiCen8+/tMEy0ZDZkPQ3+ZWo5RbRRS5GFya4J3YAAA==",
+    "slug": "img-9513-jpg",
+    "title": "IMG 9513.JPG",
+    "description": ""
+  },
+  {
+    "src": "/images/gallery/img-9518-jpg.webp",
+    "width": 1200,
+    "height": 800,
+    "aspectRatio": 1.5,
+    "blurDataURL": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAQBACdASoUAA0APzmEuVOvKKWisAgB4CcJQBOgBENhxtrvTPWF7lvGAAD+gfSzg9mB42deHvHQCA6J8NHH48050uOoOG89XvKmpGGQMKxZ/7MV/AFNnSMtKa9Wu5b5UQAAAA==",
+    "slug": "img-9518-jpg",
+    "title": "IMG 9518.JPG",
+    "description": ""
+  },
+  {
+    "src": "/images/gallery/photo-2023-02-24-07-02-01.webp",
+    "width": 1200,
+    "height": 801,
+    "aspectRatio": 1.4981,
+    "blurDataURL": "data:image/webp;base64,UklGRpAAAABXRUJQVlA4IIQAAAAQBACdASoUAA0APzmGuVOvKSWisAgB4CcJbAC22f/gMolrrtrSBM2xgAD8y9FeHUg8bnk6TTGK9gVTDDjOMLFmxW87i/DJhXadNaUvcQ32TDL+SAErcDc7lLrCeHcy0qf98uL5R7ATDDsdgTGjw9vn7coACpoDoFRwIdnxs9UYXOzbgAA=",
+    "slug": "photo-2023-02-24-07-02-01",
+    "title": "PHOTO 2023 02 24 07 02 01",
+    "description": ""
+  },
+  {
+    "src": "/images/gallery/photo-2023-02-24-07-04-08.webp",
+    "width": 1200,
+    "height": 801,
+    "aspectRatio": 1.4981,
+    "blurDataURL": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAACwAwCdASoUAA0APzmGulOvKKWisAgB4CcJbACdACFU6oqW9vn9oAD+ekjhPmefL7bQ+AuTsh0wKyGX/YiWZwfA4BBfNssvsCFAdaQQYw2osE0T4VhSTb2eFsnl+qzL1qHVaDHEVmPlOxrBYvUrFgfUrGa5G7OnMVAAAA==",
+    "slug": "photo-2023-02-24-07-04-08",
+    "title": "PHOTO 2023 02 24 07 04 08",
+    "description": ""
+  },
+  {
+    "src": "/images/gallery/photo-2023-06-06-15-45-18.webp",
+    "width": 900,
+    "height": 1200,
+    "aspectRatio": 0.75,
+    "blurDataURL": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAACwBACdASoUABsAPzmKulOvKaWisAgB4CcJQBTihC1+gsULLnac1+uFYMd0bBSQAPinvRQ8JTDd+62gZT7vEwkCvv8HPf415F4SppWRalkmjOy30L10rwTUTBfuGKyS2i5TGHnzYi/NeBVpBPWzPAEUxZDwAA==",
+    "slug": "photo-2023-06-06-15-45-18",
+    "title": "PHOTO 2023 06 06 15 45 18",
+    "description": ""
+  },
+  {
+    "src": "/images/gallery/photo-2023-06-06-15-46-35.webp",
+    "width": 1200,
+    "height": 900,
+    "aspectRatio": 1.3333,
+    "blurDataURL": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAAAwBACdASoUAA8APzmGuVOvKSWisAgB4CcJbACdICdJ/gHnSD+jlBq0qyAA/nhvd04+Mzh4eOSfZ3wGrHc8HGgQHIF0SpcMQ7PrazSPlYddHNElGxroy3Wt4qFS4npsY0tUw/lpp/LV4VNVcYVOeNoL2AAAAA==",
+    "slug": "photo-2023-06-06-15-46-35",
+    "title": "PHOTO 2023 06 06 15 46 35",
+    "description": ""
+  },
+  {
+    "src": "/images/gallery/photo-2023-08-12-17-20-20.webp",
+    "width": 1200,
+    "height": 900,
+    "aspectRatio": 1.3333,
+    "blurDataURL": "data:image/webp;base64,UklGRowAAABXRUJQVlA4IIAAAADwAwCdASoUAA8APzmEuVOvKKWisAgB4CcJYwC/OB5waUr4XKyWo7WgAOAJ7Y6lWboLLKLp/wgFa4XzjME/zlsr220PfSXaQvFZYXHOG3ciLPpsH6lLpBXeuhV9OhwFItobJrcsFhkOzQotHGqbORtDMe567fjxFsteJG5n5wAAAA==",
+    "slug": "photo-2023-08-12-17-20-20",
+    "title": "PHOTO 2023 08 12 17 20 20",
+    "description": ""
+  },
+  {
+    "src": "/images/gallery/photo-2024-06-28-15-49-33.webp",
+    "width": 1200,
+    "height": 900,
+    "aspectRatio": 1.3333,
+    "blurDataURL": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAAAwBACdASoUAA8APzmGuVOvKSWisAgB4CcJZgC7IKnDF96nP/G9L2y60/AA/KVZCvE6zw88FphEEVO/nKy1uijMjsEnoPIwP0YzmAAUU4aZtDjgRQgOXajsK4UFbtu34nKImlCzSWxq8SQAAAA=",
+    "slug": "photo-2024-06-28-15-49-33",
+    "title": "PHOTO 2024 06 28 15 49 33",
+    "description": ""
+  },
+  {
+    "src": "/images/gallery/photo-2024-09-25-19-21-41.webp",
+    "width": 1200,
+    "height": 900,
+    "aspectRatio": 1.3333,
+    "blurDataURL": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAADQAwCdASoUAA8APzmEuVOvKKWisAgB4CcJYgCdAA+VeBB8LJ3RZEAAhrPAG5UJSy2r48cW9yeVE20HLq2gB9q2dUvC66A981QhZD3MwTpuvOgSOjWgsvrSOUyYXASch0QTJiA/OOAAAA==",
+    "slug": "photo-2024-09-25-19-21-41",
+    "title": "PHOTO 2024 09 25 19 21 41",
+    "description": ""
+  },
+  {
+    "src": "/images/gallery/photo-2024-10-01-17-22-53.webp",
+    "width": 1200,
+    "height": 900,
+    "aspectRatio": 1.3333,
+    "blurDataURL": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAACwAwCdASoUAA8APzmGuVOvKSWisAgB4CcJYgCdABsl1EJ7uc3XAAD+gR2I4XNZgSrklBRU/VgnjRO4z3AIqDQNoMc60GHUX+g1BRyx3yfe5s/+Yj2ihuKCmYEH6V0fXogMDHBlwAA=",
+    "slug": "photo-2024-10-01-17-22-53",
+    "title": "PHOTO 2024 10 01 17 22 53",
+    "description": ""
+  },
+  {
+    "src": "/images/gallery/photo-2024-10-01-17-22-54-2.webp",
+    "width": 900,
+    "height": 1200,
+    "aspectRatio": 0.75,
+    "blurDataURL": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAADQAwCdASoUABsAPy1+uVOuqCYsMAwB0CWJZgDG9CEB5ek/tC+RLbYA/nbKs5DzeoWOKjoduJRjqiWF64cZ8edbgcuxFvwV9usfJ2McAuNait/BGnwQdI447mJapbcy5LP03UU8TtEpYAAA",
+    "slug": "photo-2024-10-01-17-22-54-2",
+    "title": "PHOTO 2024 10 01 17 22 54 2",
+    "description": ""
+  },
+  {
+    "src": "/images/gallery/photo-2024-10-01-17-22-54-4.webp",
+    "width": 1200,
+    "height": 900,
+    "aspectRatio": 1.3333,
+    "blurDataURL": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAACwAwCdASoUAA8APzmGulOvKKWisAgB4CcJagAAW7VlgOumfXxZAAD+eOGw2iAbpDQ41xjuKUl+AI6rY6XH8GKrCHt43dfQK7qY5vHLWayY7g0AcS1lFHZQ9GHOKwi4AAA=",
+    "slug": "photo-2024-10-01-17-22-54-4",
+    "title": "PHOTO 2024 10 01 17 22 54 4",
+    "description": ""
+  },
+  {
+    "src": "/images/gallery/photo-2024-10-01-17-22-55-2.webp",
+    "width": 900,
+    "height": 1200,
+    "aspectRatio": 0.75,
+    "blurDataURL": "data:image/webp;base64,UklGRo4AAABXRUJQVlA4IIIAAACQBACdASoUABsAPzmOwFevKacjqAqp4CcJYgDG9A6shZzrTeHF6B8pd0P2MAAA+co3fc/0lBoTHUzg0JRj+cUUSPHFsNue0bzxdv8j1FKHQI5ydpVElJ2+Cz4YaCY1qEiik9yWQIM3pPm7IUpYspqhlvmdmO5sUYRifJdrS56bAiAA",
+    "slug": "photo-2024-10-01-17-22-55-2",
+    "title": "PHOTO 2024 10 01 17 22 55 2",
+    "description": ""
+  },
+  {
+    "src": "/images/gallery/photo-2025-05-14-20-58-05.webp",
+    "width": 1200,
+    "height": 900,
+    "aspectRatio": 1.3333,
+    "blurDataURL": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAACwAwCdASoUAA8APzmEuVOvKKWisAgB4CcJQAAHKBSmVxvhVf6LAAD91TNxCTKdmbEFD1bWD8+sutTzKVcOYkhGLiI7Rc+aLw+REbS2sM26X7ViAL7Kau6YCcD2NkqTWz+KbNm2Wu33bxa2lRvoAA==",
+    "slug": "photo-2025-05-14-20-58-05",
+    "title": "PHOTO 2025 05 14 20 58 05",
+    "description": ""
+  },
+  {
+    "src": "/images/gallery/photo-2025-05-14-20-58-07.webp",
+    "width": 1200,
+    "height": 900,
+    "aspectRatio": 1.3333,
+    "blurDataURL": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAADQAwCdASoUAA8APzmEuVOvKKWisAgB4CcJZwAAYfALc+L4gZgBaIAA/NCowWp0PShG7sDkUrZN3xj/uCi5LfFncPDPrX+pVg2hjXUSg1NKpyv0gZv7ORPG+HARzfS5shwLW+D4xDBAVWgBwAA=",
+    "slug": "photo-2025-05-14-20-58-07",
+    "title": "PHOTO 2025 05 14 20 58 07",
+    "description": ""
+  },
+  {
+    "src": "/images/gallery/photo-2025-09-19-13-45-34.webp",
+    "width": 675,
+    "height": 1200,
+    "aspectRatio": 0.5625,
+    "blurDataURL": "data:image/webp;base64,UklGRuoAAABXRUJQVlA4IN4AAAAQBgCdASoUACQAPzmSxFovKaekJWmZ4CcJbACsM939mn/AbQ9yTrMmRp2PDCNA5javuEpd0GSUEhAA1tc84nruXBb+r++kkP+inwMnz8mi4RmyitJubUzTr6bjo24o5uVsP1mOXBnJs9ATlxQ/w3CEOnNSZURfT5oJpPvY9+caDICeUvNEaelVm9IaPM0Vl5gdMAHQaYs7ftoNjuafxI9Gx6n0ZTY+yKZu5riKFv+BWLPe8kCqch4CJCZacOnUiNn7Yd9LZHLf9e2pMcfGXihe3UNQUJ7uhdXbQyJgAAA=",
+    "slug": "photo-2025-09-19-13-45-34",
+    "title": "PHOTO 2025 09 19 13 45 34",
+    "description": ""
+  },
+  {
+    "src": "/images/gallery/photo-2025-10-09-03-03-52.webp",
+    "width": 1200,
+    "height": 900,
+    "aspectRatio": 1.3333,
+    "blurDataURL": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAACwAwCdASoUAA8APzmGuVOvKSWisAgB4CcJaACo9CPmULsXFG/xGAD3SOjjnIoKhX21fsBfQvOqp5IXXsjAXIEfn6xv3BIFJrJfHw/1q4EAvrYYpNBn94vDJMPS/paDtHjPcbnVfV01drWEMaHcmggAAAA=",
+    "slug": "photo-2025-10-09-03-03-52",
+    "title": "PHOTO 2025 10 09 03 03 52",
+    "description": ""
+  },
+  {
+    "src": "/images/gallery/photo-2025-10-09-03-05-24.webp",
+    "width": 900,
+    "height": 1200,
+    "aspectRatio": 0.75,
+    "blurDataURL": "data:image/webp;base64,UklGRrQAAABXRUJQVlA4IKgAAADQBACdASoUABsAPzmEt1OvKCUisAgB4CcJbACdMt8C4+4GViBsPtIyJYmdjBsWwAD8WoITr61gjjRxQefJCL6pR5qlhO7v32vCbIQ6qm0AYRam3K1+rVob6/Jfjzk2Rp33eJqypfFIsTlil4F3W1NLYzvoepMhyoh7STHaSzduc4vFF39Q0Q8y2uLvY2PGW95fqFkmdXLG3xuqyk7rFNc5LjupMoBPgAA=",
+    "slug": "photo-2025-10-09-03-05-24",
+    "title": "PHOTO 2025 10 09 03 05 24",
+    "description": ""
+  },
+  {
+    "src": "/images/gallery/whatsapp-image-2025-04-22-at-1-35-20-pm.webp",
+    "width": 1200,
+    "height": 813,
+    "aspectRatio": 1.476,
+    "blurDataURL": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAABwBACdASoUAA4APzmEuVOvKKWisAgB4CcJZAC7Ef/gPHLJKhkM6pdcY4u3gAD+i59m1fhdLixvb1QJKr/Gmd3L1liae//WZHoWDemAWfgHEkhXFZRzMLF1sgkLaivjvzhqnJFGSHcv23aQpmqICzyRAY0HNl42Y7C7YXwYAAA=",
+    "slug": "whatsapp-image-2025-04-22-at-1-35-20-pm",
+    "title": "WhatsApp Image 2025 04 22 At 1.35.20 PM",
+    "description": ""
+  },
+  {
+    "src": "/images/gallery/whatsapp-image-2025-04-22-at-1-35-22-pm.webp",
+    "width": 1200,
+    "height": 900,
+    "aspectRatio": 1.3333,
+    "blurDataURL": "data:image/webp;base64,UklGRowAAABXRUJQVlA4IIAAAABQBACdASoUAA8APzmEuVOvKKWisAgB4CcJbADG9B6Xgy/5uAr/cKXV6f7sAP7FgboVaAq2OjRC9VBDmq6Z0J7tfDpJGtZuN9PreIw0D8ut+JxTmDNaFrD4JjFUbREyclJPUdiawUhvJoXx0eQnb+G/GKLIsbK8CRvWD+FzQfUAAA==",
+    "slug": "whatsapp-image-2025-04-22-at-1-35-22-pm",
+    "title": "WhatsApp Image 2025 04 22 At 1.35.22 PM",
+    "description": ""
+  }
+]

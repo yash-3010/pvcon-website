@@ -3,6 +3,10 @@ import { getTranslations } from "next-intl/server";
 import { siteDetails } from "@/data/common/siteDetails";
 import { getAlternateUrls, getCanonicalUrl } from "@/lib/i18n-utils";
 import PageHero from "@/components/PageHero";
+import FadeInView from "@/components/FadeInView";
+import GeometricBg from "@/components/GeometricBg";
+import GalleryGrid from "@/components/gallery/GalleryGrid";
+import galleryImages from "@/data/gallery/images.json";
 
 interface Props {
   params: { locale: string };
@@ -62,10 +66,18 @@ export default async function GalleryPage({ params: { locale } }: Props) {
     },
     {
       "@context": "https://schema.org",
-      "@type": "GalleryPage",
+      "@type": "ImageGallery",
       name: tMeta("title"),
       description: tMeta("description"),
       url: canonical,
+      image: galleryImages.map((img) => ({
+        "@type": "ImageObject",
+        url: `${siteDetails.siteUrl}${img.src}`,
+        width: img.width,
+        height: img.height,
+        name: img.title,
+        description: img.description || img.title,
+      })),
     },
   ];
 
@@ -82,6 +94,16 @@ export default async function GalleryPage({ params: { locale } }: Props) {
         heading={t("hero.title")}
         subtitle={t("hero.subtitle")}
       />
+
+      {/* ── Gallery Grid ─────────────────────────────────────── */}
+      <section className="relative py-12 lg:py-20 px-5 overflow-hidden">
+        <GeometricBg />
+        <div className="max-w-7xl mx-auto">
+          <FadeInView>
+            <GalleryGrid images={galleryImages} />
+          </FadeInView>
+        </div>
+      </section>
     </>
   );
 }
