@@ -53,7 +53,7 @@ export default async function HomePage({ params: { locale } }: Props) {
         email: footerDetails.email,
         contactType: "customer service",
       },
-      sameAs: ["https://www.linkedin.com/company/pvcon"],
+      sameAs: ["https://www.linkedin.com/company/pvcon-consulting"],
     },
     {
       "@context": "https://schema.org",

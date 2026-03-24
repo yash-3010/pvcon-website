@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import Image from "next/image";
+import Link from "next/link";
 import { getTranslations } from "next-intl/server";
 import { siteDetails } from "@/data/common/siteDetails";
 import { companyConfig } from "@/data/company/config";
@@ -65,7 +66,7 @@ export default async function CompanyPage({ params: { locale } }: Props) {
       url: siteDetails.siteUrl,
       logo: `${siteDetails.siteUrl}/images/logo.webp`,
       description: tMeta("description"),
-      sameAs: ["https://linkedin.com/company/pvcon"],
+      sameAs: ["https://www.linkedin.com/company/pvcon-consulting"],
     },
     {
       "@context": "https://schema.org",
@@ -228,21 +229,24 @@ export default async function CompanyPage({ params: { locale } }: Props) {
             </p>
           </FadeInView>
 
-          <div className="grid md:grid-cols-2 gap-8 lg:gap-10 max-w-4xl mx-auto">
+          <div className="grid md:grid-cols-3 gap-8 lg:gap-10 max-w-5xl mx-auto">
             {companyConfig.teamMembers.map((member, i) => (
               <FadeInView key={member.id} delay={i * 0.1}>
-                <div className="flex flex-col items-center p-8 rounded-2xl bg-white border border-gray-200 hover:border-primary/30 hover:shadow-sm transition-all text-center">
-                  {/* Photo / Placeholder */}
+                <Link
+                  href={`/team/${member.id}`}
+                  className="group flex flex-col items-center p-8 rounded-2xl bg-white border border-gray-200 hover:border-primary/30 hover:shadow-md transition-all text-center"
+                >
+                  {/* Photo */}
                   <div
-                    className="w-[300px] h-[300px] rounded-lg overflow-hidden mb-5 border-2 border-gray-100"
+                    className="w-[220px] h-[220px] rounded-xl overflow-hidden mb-5 border-2 border-gray-100 group-hover:border-primary/20 transition-colors"
                     style={{ backgroundColor: member.color }}
                   >
                     <Image
                       src={member.imageSrc}
                       alt={t(`team.members.${member.id}.name`)}
-                      width={300}
-                      height={300}
-                      sizes="300px"
+                      width={220}
+                      height={220}
+                      sizes="220px"
                       quality={80}
                       className="object-cover w-full h-full"
                       loading="lazy"
@@ -255,10 +259,16 @@ export default async function CompanyPage({ params: { locale } }: Props) {
                   <p className="text-primary font-semibold text-sm mb-3">
                     {t(`team.members.${member.id}.role`)}
                   </p>
-                  <p className="text-foreground-accent text-sm leading-relaxed">
+                  <p className="text-foreground-accent text-sm leading-relaxed mb-4">
                     {t(`team.members.${member.id}.bio`)}
                   </p>
-                </div>
+                  <span className="inline-flex items-center gap-1.5 text-sm font-semibold text-primary group-hover:gap-2.5 transition-all">
+                    {t("team.viewProfile")}
+                    <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+                      <path strokeLinecap="round" strokeLinejoin="round" d="M9 5l7 7-7 7" />
+                    </svg>
+                  </span>
+                </Link>
               </FadeInView>
             ))}
           </div>

@@ -43,6 +43,26 @@
         "title": "PSMF Manager | PVCON — AI-Powered PSMF Management Platform",
         "description": "PSMF Manager is PVCON's AI-powered SaaS platform for end-to-end Pharmacovigilance System Master File compliance, automated generation, version control, and audit readiness."
       }
+    },
+    "privacy": {
+      "title": "Privacy Policy | PVCON — Pharmacovigilance Consulting",
+      "description": "PVCON's Privacy Policy explains how we collect, use, store, and protect your personal data in compliance with GDPR, India IT Act, and global data protection laws."
+    },
+    "terms": {
+      "title": "Terms of Service | PVCON — Pharmacovigilance Consulting",
+      "description": "PVCON's Terms of Service outline the conditions governing the use of our website and pharmacovigilance consulting services."
+    },
+    "cookies": {
+      "title": "Cookie Policy | PVCON — Pharmacovigilance Consulting",
+      "description": "Learn how PVCON uses cookies and similar tracking technologies on our website, and how you can manage your cookie preferences."
+    },
+    "disclaimer": {
+      "title": "Disclaimer | PVCON — Pharmacovigilance Consulting",
+      "description": "Important disclaimers regarding the information provided on PVCON's website and the limitations of our online content."
+    },
+    "impressum": {
+      "title": "Legal Notice (Impressum) | PVCON — Pharmacovigilance Consulting",
+      "description": "Legal notice (Impressum) for PVCON providing company registration details, contact information, and regulatory disclosures as required by law."
     }
   },
   "nav": {
@@ -60,7 +80,15 @@
     "contactTitle": "お問い合わせ",
     "emailLabel": "メール",
     "phoneLabel": "電話",
-    "copyright": "無断複写・転載を禁じます。"
+    "copyright": "無断複写・転載を禁じます。",
+    "legalTitle": "Legal",
+    "legalLinks": {
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "cookies": "Cookie Policy",
+      "disclaimer": "Disclaimer",
+      "impressum": "Impressum"
+    }
   },
   "cta": {
     "heading": "ファーマコビジランス業務を強化する準備はできていますか？",

@@ -9,7 +9,7 @@ export default getRequestConfig(async ({ requestLocale }) => {
     locale = routing.defaultLocale;
   }
 
-  const [common, home, about, blog, company, services, gallery] = await Promise.all([
+  const [common, home, about, blog, company, services, gallery, team, legal] = await Promise.all([
     import(`../data/common/messages/${locale}.json`),
     import(`../data/home/messages/${locale}.json`),
     import(`../data/about/messages/${locale}.json`),
@@ -17,6 +17,8 @@ export default getRequestConfig(async ({ requestLocale }) => {
     import(`../data/company/messages/${locale}.json`),
     import(`../data/services/messages/${locale}.json`),
     import(`../data/gallery/messages/${locale}.json`),
+    import(`../data/team/messages/${locale}.json`),
+    import(`../data/legal/messages/${locale}.json`),
   ]);
 
   return {
@@ -29,6 +31,8 @@ export default getRequestConfig(async ({ requestLocale }) => {
       ...company.default,
       ...services.default,
       ...gallery.default,
+      ...team.default,
+      ...legal.default,
     },
   };
 });

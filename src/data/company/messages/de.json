@@ -11,8 +11,8 @@
       "ceo": {
         "name": "Moin Don",
         "title": "Präsident & CEO, Gründer",
-        "message": "Mit über 33 Jahren Erfahrung in der Pharmaindustrie habe ich PVCON gegründet, um die Lücke zwischen regulatorischen Anforderungen und operativer Realität in der Pharmakovigilanz zu schließen. In Führungspositionen bei Sanofi Aventis und als Regional PV QA Director für den asiatisch-pazifischen Raum bei Johnson & Johnson erlebte ich den Bedarf an einem verlässlichen Beratungspartner.",
-        "message2": "Heute ist PVCON in der gesamten Branche für seinen rigorosen Ansatz bei PV-Audits, Qualitätssicherung und Unternehmensschulungen anerkannt. Unser Engagement für regulatorische Exzellenz und Patientensicherheit bleibt das Fundament all unserer Aktivitäten.",
+        "message": "Mit über 50 Jahren Erfahrung in der Pharmaindustrie habe ich PVCON gegründet, um die Lücke zwischen regulatorischen Anforderungen und operativer Realität in der Pharmakovigilanz zu schließen. In Führungspositionen bei Sanofi Aventis und Dr. Reddy's sowie als Regional PV QA Director für den asiatisch-pazifischen Raum bei Johnson & Johnson erlebte ich den Bedarf an einem verlässlichen Beratungspartner.",
+        "message2": "Heute ist PVCON in der gesamten Branche für seinen rigorosen Ansatz bei PV-Audits, Qualitätssicherung und Unternehmensschulungen anerkannt. Als Leiter des ISoP Südasien-Kapitels und Berater des DCGI und CDSCO in Indien bleibt unser Engagement für regulatorische Exzellenz und Patientensicherheit das Fundament all unserer Aktivitäten.",
         "credentials": [
           "Pharma Ratan 2016 Award — Lebenswerk in Arzneimittelsicherheit & PV",
           "Zertifizierter Lead Auditor — Ausbildung in USA, Deutschland, Frankreich & Singapur",
@@ -46,26 +46,22 @@
       "tag": "Unser Team",
       "heading": "Die Menschen hinter PVCON",
       "subtitle": "Ein Team erfahrener Pharmakovigilanz-Experten mit jahrzehntelanger kombinierter Erfahrung.",
+      "viewProfile": "Profil ansehen",
       "members": {
         "moin-don": {
           "name": "Moin Don",
-          "role": "Präsident & CEO",
-          "bio": "33+ Jahre in der Pharmaindustrie. Ehemaliger Regional PV QA Director bei Johnson & Johnson, Asien-Pazifik. Zertifizierter Lead Auditor."
+          "role": "Gründer & CEO",
+          "bio": "50+ Jahre in der Pharmaindustrie. Pharmazeut von Beruf, ehemaliger Regional PV QA Director bei Johnson & Johnson, Asien-Pazifik. Zertifizierter Lead Auditor, Adjunct Professor an der Jamia Hamdard University, Leiter des ISoP Südasien-Kapitels."
         },
         "rameez-don": {
           "name": "Rameez Don",
-          "role": "Senior Consultant",
-          "bio": "10 Jahre Erfahrung in Pharmakovigilanz, Qualitätssicherung und Training. Leiter der Geschäftsbereiche Operations und Training."
-        },
-        "sonam-garg": {
-          "name": "Sonam Garg",
-          "role": "Senior Consultant",
-          "bio": "5+ Jahre als GCP-Auditor und Dokumentationsspezialistin. Erfahrung in klinischer Forschungs-QA und Standort-Audits."
+          "role": "Direktor",
+          "bio": "15+ Jahre Erfahrung in Pharmakovigilanz, Qualitätssicherung, Audits, Training und Geschäftsentwicklung. Zertifizierter Lead Auditor, Promotion in Pharmaceutical Management an der IIHMR University (laufend). RQA-Mitglied."
         },
         "nazrul-khan": {
-          "name": "Nazrul Islam Khan",
-          "role": "EU-Afrika Netzwerk-Direktor",
-          "bio": "14 Jahre PV-Operations- und Audit-Erfahrung. Ehemals MHRA und Janssen/J&J. Direktor von GPVQA (UK)."
+          "name": "Nazrul Khan",
+          "role": "Consultant Lead Auditor",
+          "bio": "24+ Jahre in Pharma-F&E, Qualitätssicherung und PV-Auditierung. Ehemaliger MHRA Senior Pharmacovigilance Scientist und J&J Global System QA Program Manager. MSc Klinische Pharmakologie, Co-Autor des RQA PV Auditing Handbook."
         }
       }
     },

@@ -20,6 +20,15 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { path: "/services/psmf", changeFrequency: "monthly" as const, priority: 0.8 },
     { path: "/blog", changeFrequency: "weekly" as const, priority: 0.9 },
     { path: "/gallery", changeFrequency: "monthly" as const, priority: 0.8 },
+    { path: "/company", changeFrequency: "monthly" as const, priority: 0.8 },
+    { path: "/team/moin-don", changeFrequency: "monthly" as const, priority: 0.7 },
+    { path: "/team/rameez-don", changeFrequency: "monthly" as const, priority: 0.7 },
+    { path: "/team/nazrul-khan", changeFrequency: "monthly" as const, priority: 0.7 },
+    { path: "/privacy-policy", changeFrequency: "yearly" as const, priority: 0.3 },
+    { path: "/terms-of-service", changeFrequency: "yearly" as const, priority: 0.3 },
+    { path: "/cookie-policy", changeFrequency: "yearly" as const, priority: 0.3 },
+    { path: "/disclaimer", changeFrequency: "yearly" as const, priority: 0.3 },
+    { path: "/impressum", changeFrequency: "yearly" as const, priority: 0.3 },
   ];
 
   // Blog post routes
