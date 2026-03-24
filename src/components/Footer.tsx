@@ -16,9 +16,17 @@ const Footer: React.FC = async () => {
     { text: tNav("blog"), url: "/blog" },
   ];
 
+  const legalLinks = [
+    { text: t("legalLinks.privacy"), url: "/privacy-policy" },
+    { text: t("legalLinks.terms"), url: "/terms-of-service" },
+    { text: t("legalLinks.cookies"), url: "/cookie-policy" },
+    { text: t("legalLinks.disclaimer"), url: "/disclaimer" },
+    { text: t("legalLinks.impressum"), url: "/impressum" },
+  ];
+
   return (
     <footer className="bg-[#202f63] text-white py-14">
-      <div className="max-w-7xl w-full mx-auto px-6 grid grid-cols-1 md:grid-cols-3 gap-10">
+      <div className="max-w-7xl w-full mx-auto px-6 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-10">
         <div>
           <Link href="/" className="flex items-center gap-2">
             <Image
@@ -45,6 +53,20 @@ const Footer: React.FC = async () => {
           <ul>
             {quickLinks.map((link) => (
               <li key={link.text} className="mb-2.5">
+                <Link href={link.url} className="text-white/70 hover:text-white text-sm transition-colors">
+                  {link.text}
+                </Link>
+              </li>
+            ))}
+          </ul>
+        </div>
+        <div>
+          <h2 className="text-xs font-semibold uppercase tracking-wider mb-5 text-white/70">
+            {t("legalTitle")}
+          </h2>
+          <ul>
+            {legalLinks.map((link) => (
+              <li key={link.url} className="mb-2.5">
                 <Link href={link.url} className="text-white/70 hover:text-white text-sm transition-colors">
                   {link.text}
                 </Link>

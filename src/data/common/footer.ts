@@ -8,6 +8,6 @@ export const footerDetails: {
   email: "support@pvcon.in",
   telephone: "+91 123 456-7890",
   socials: {
-    linkedin: "https://www.linkedin.com/company/pvcon",
+    linkedin: "https://www.linkedin.com/company/pvcon-consulting",
   },
 };

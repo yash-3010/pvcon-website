@@ -7,6 +7,7 @@ import { Plus_Jakarta_Sans } from "next/font/google";
 
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
+import CookieConsent from "@/components/CookieConsent";
 import { siteDetails } from "@/data/common/siteDetails";
 import { routing, type Locale } from "@/i18n/routing";
 import { getAlternateUrls, getSiteUrl } from "@/lib/i18n-utils";
@@ -98,6 +99,7 @@ export default async function LocaleLayout({ children, params: { locale } }: Pro
           <Header />
           <main className="flex-1">{children}</main>
           <Footer />
+          <CookieConsent />
         </NextIntlClientProvider>
       </body>
     </html>
