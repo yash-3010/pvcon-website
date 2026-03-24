@@ -65,7 +65,7 @@ export default async function ServicesPage({ params: { locale } }: Props) {
       url: siteDetails.siteUrl,
       logo: `${siteDetails.siteUrl}/images/logo.webp`,
       description: tMeta("description"),
-      sameAs: ["https://linkedin.com/company/pvcon"],
+      sameAs: ["https://www.linkedin.com/company/pvcon-consulting"],
     },
     {
       "@context": "https://schema.org",

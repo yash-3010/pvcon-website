@@ -191,19 +191,14 @@
     "sectionDescription": "Hear from those who have partnered with us.",
     "items": [
       {
-        "name": "Dr. Sarah Mitchell",
-        "role": "Head of Pharmacovigilance, BioPharma Co.",
-        "message": "PVCON's expertise in QPPV services and inspection readiness transformed our PV operations. Their structured approach ensured we passed our EMA inspection with zero critical findings."
+        "role": "Chief Manager, CQA",
+        "company": "Indian Multinational Company",
+        "message": "Moin is one of the most well-known Pharmacovigilance Professionals in India. He has been instrumental in providing adequate guidance on Pharmacovigilance regulations and regulatory expectations. We hired Moin for auditing our PV department and country affiliates, and he and his team did an excellent job — not only auditing but also providing the right guidance for facing inspections. Moin has always been genuine and has always gone beyond his scope of work to help and support us. With his in-depth subject knowledge and very practical approach, it has been easy for us to gain deep insight into pharmacovigilance."
       },
       {
-        "name": "James Thornton",
-        "role": "VP Regulatory Affairs, CRO Solutions Ltd.",
-        "message": "The GxP audit support from PVCON was exceptional. Their team's deep knowledge of EU GVP guidelines and hands-on audit experience gave us the confidence we needed ahead of our regulatory submission."
-      },
-      {
-        "name": "Dr. Yuki Nakamura",
-        "role": "Director of Quality Assurance, Global Pharma Inc.",
-        "message": "PVCON's corporate training programs have significantly elevated our team's pharmacovigilance competency. The tailored boot camps and ongoing regulatory updates are invaluable."
+        "role": "Chairman & CEO",
+        "company": "Indian Contract Research Organization",
+        "message": "We engaged PVCON for setting up our Pharmacovigilance practices and processes from scratch. Moin did a phenomenal job in setting up our SOPs, training and upskilling the Medical & Safety Affairs and Clinical Operations team, and helping us develop a unique value proposition for sponsors — all within a few weeks. His professionalism, in-depth knowledge, industry experience, and most importantly his genuineness make it a pleasure working with him. He is one of the most high-calibre professionals I have had the pleasure of working with, and PVCON provided us with a quantum value add."
       }
     ]
   },

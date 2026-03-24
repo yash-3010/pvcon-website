@@ -3,7 +3,6 @@ export const companyConfig = {
   teamMembers: [
     { id: "moin-don", imageSrc: "/images/team/moin-don.webp", initials: "MD", color: "#202f63" },
     { id: "rameez-don", imageSrc: "/images/team/rameez-don.webp", initials: "RD", color: "#92b353" },
-    { id: "sonam-garg", imageSrc: "/images/team/sonam-garg.webp", initials: "SG", color: "#7da844" },
     { id: "nazrul-khan", imageSrc: "/images/team/nazrul-khan.webp", initials: "NK", color: "#202f63" },
   ],
 } as const;
