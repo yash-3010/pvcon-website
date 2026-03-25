@@ -27,7 +27,7 @@
       "secondaryUrl": "https://www.psmfmanager.com"
     },
     "stats": {
-      "01": { "value": "96", "label": "Countries Served" },
+      "01": { "value": "102", "label": "Countries Served" },
       "02": { "value": "50+", "label": "Clients Worldwide" },
       "03": { "value": "33+", "label": "Years Experience" },
       "04": { "value": "4", "label": "Continents" }
@@ -110,7 +110,7 @@
           },
           "02": {
             "title": "Global Coverage",
-            "description": "We conduct audits across 96 countries, leveraging local regulatory knowledge and cultural awareness to deliver contextually relevant findings."
+            "description": "We conduct audits across 102 countries, leveraging local regulatory knowledge and cultural awareness to deliver contextually relevant findings."
           },
           "03": {
             "title": "Actionable Outcomes",
