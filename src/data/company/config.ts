@@ -9,17 +9,13 @@ export const companyConfig = {
 
 /**
  * Countries where PVCON has a presence.
- * Uses ISO 3166-1 alpha-2 codes — must match the `id` attributes in world-map-paths.ts.
- * Dot positions are calculated automatically from each country's SVG path bounding box.
- * To add a country: just add its code + label. No coordinates needed.
+ * Uses ISO 3166-1 alpha-2 codes — must match the `id` attributes in world-map-paths.tsx.
+ * Dots are auto-centred via getBBox() on the SVG path.
+ * Countries with distant territories (e.g. Easter Island, Azores) use svgX/svgY
+ * overrides so the dot lands on the mainland instead of the ocean.
  */
-/**
- * lat/lng overrides: required for archipelagos, very large countries, or any
- * country whose dot lands in the ocean. Uses the map's geoViewBox for conversion.
- * Compact mainland countries can omit lat/lng — they auto-centre via getBBox().
- */
-export const companyPresence: { code: string; label: string; lat?: number; lng?: number }[] = [
-  // Africa
+export const companyPresence: { code: string; label: string; svgX?: number; svgY?: number }[] = [
+  // ── Africa ──────────────────────────────────────────────
   { code: "DZ", label: "Algeria" },
   { code: "EG", label: "Egypt" },
   { code: "KE", label: "Kenya" },
@@ -28,68 +24,68 @@ export const companyPresence: { code: string; label: string; lat?: number; lng?:
   { code: "MU", label: "Mauritius" },
   { code: "RW", label: "Rwanda" },
   { code: "TN", label: "Tunisia" },
-  { code: "ZA", label: "South Africa", lat: -28.47, lng: 24.68 },
+  { code: "ZA", label: "South Africa", svgX: 545, svgY: 548 },
 
-  // Americas
-  { code: "AR", label: "Argentina", lat: -38.4161, lng: -63.6167 },
-  { code: "BR", label: "Brazil", lat: -14.235, lng: -51.9253 },
-  { code: "CA", label: "Canada", lat: 56.13, lng: -96.8 },
-  { code: "CL", label: "Chile", lat: -35.6751, lng: -71.543 },
+  // ── Americas ────────────────────────────────────────────
+  { code: "AR", label: "Argentina" },
+  { code: "BR", label: "Brazil" },
+  { code: "CA", label: "Canada" },
+  { code: "CL", label: "Chile", svgX: 274, svgY: 587 },
   { code: "CO", label: "Colombia" },
   { code: "CR", label: "Costa Rica" },
   { code: "DO", label: "Dominican Republic" },
-  { code: "EC", label: "Ecuador" },
+  { code: "EC", label: "Ecuador", svgX: 253, svgY: 467 },
   { code: "SV", label: "El Salvador" },
   { code: "GT", label: "Guatemala" },
   { code: "HN", label: "Honduras" },
-  { code: "MX", label: "Mexico", lat: 23.6345, lng: -102.5528 },
+  { code: "MX", label: "Mexico" },
   { code: "NI", label: "Nicaragua" },
   { code: "PE", label: "Peru" },
   { code: "TT", label: "Trinidad and Tobago" },
-  { code: "US", label: "United States", lat: 39.5, lng: -98.35 },
+  { code: "US", label: "United States" },
 
-  // Asia / Middle East
-  { code: "AE", label: "United Arab Emirates", lat: 23.4241, lng: 53.8478 },
+  // ── Asia / Middle East ──────────────────────────────────
+  { code: "AE", label: "United Arab Emirates" },
   { code: "AM", label: "Armenia" },
   { code: "AZ", label: "Azerbaijan" },
   { code: "BD", label: "Bangladesh" },
-  { code: "BH", label: "Bahrain", lat: 26.0667, lng: 50.5577 },
+  { code: "BH", label: "Bahrain" },
   { code: "BN", label: "Brunei" },
   { code: "CN", label: "China" },
   { code: "GE", label: "Georgia" },
-  { code: "HK", label: "Hong Kong", lat: 22.3193, lng: 114.1694 },
-  { code: "ID", label: "Indonesia", lat: -2.5489, lng: 118.0149 },
+  { code: "HK", label: "Hong Kong" },
+  { code: "ID", label: "Indonesia" },
   { code: "IN", label: "India" },
   { code: "IQ", label: "Iraq" },
   { code: "IR", label: "Iran" },
   { code: "IL", label: "Israel" },
   { code: "JO", label: "Jordan" },
-  { code: "JP", label: "Japan", lat: 36.2048, lng: 138.2529 },
+  { code: "JP", label: "Japan" },
   { code: "KG", label: "Kyrgyzstan" },
   { code: "KH", label: "Cambodia" },
-  { code: "KR", label: "South Korea", lat: 35.9078, lng: 127.7669 },
-  { code: "KW", label: "Kuwait", lat: 29.3117, lng: 47.4818 },
+  { code: "KR", label: "South Korea" },
+  { code: "KW", label: "Kuwait" },
   { code: "KZ", label: "Kazakhstan" },
-  { code: "LB", label: "Lebanon", lat: 33.8547, lng: 35.8623 },
-  { code: "LI", label: "Liechtenstein", lat: 47.166, lng: 9.5554 },
-  { code: "LK", label: "Sri Lanka" }, // only keep if you actually have presence there
-  { code: "MY", label: "Malaysia", lat: 4.2105, lng: 101.9758 },
+  { code: "LB", label: "Lebanon" },
+  { code: "LI", label: "Liechtenstein" },
+  { code: "LK", label: "Sri Lanka" },
+  { code: "MY", label: "Malaysia" },
   { code: "NP", label: "Nepal" },
   { code: "OM", label: "Oman" },
-  { code: "PH", label: "Philippines", lat: 12.8797, lng: 121.774 },
+  { code: "PH", label: "Philippines" },
   { code: "PK", label: "Pakistan" },
-  { code: "QA", label: "Qatar", lat: 25.3548, lng: 51.1839 },
+  { code: "QA", label: "Qatar" },
   { code: "SA", label: "Saudi Arabia" },
-  { code: "SG", label: "Singapore", lat: 1.3521, lng: 103.8198 },
+  { code: "SG", label: "Singapore" },
   { code: "TH", label: "Thailand" },
   { code: "TJ", label: "Tajikistan" },
-  { code: "TW", label: "Taiwan", lat: 23.6978, lng: 120.9605 },
+  { code: "TW", label: "Taiwan" },
   { code: "TR", label: "Turkey" },
   { code: "UZ", label: "Uzbekistan" },
   { code: "VN", label: "Vietnam" },
   { code: "XK", label: "Kosovo" },
 
-  // Europe
+  // ── Europe ──────────────────────────────────────────────
   { code: "AL", label: "Albania" },
   { code: "AT", label: "Austria" },
   { code: "BA", label: "Bosnia and Herzegovina" },
@@ -97,11 +93,11 @@ export const companyPresence: { code: string; label: string; lat?: number; lng?:
   { code: "BG", label: "Bulgaria" },
   { code: "BY", label: "Belarus" },
   { code: "CH", label: "Switzerland" },
-  { code: "CY", label: "Cyprus", lat: 35.1264, lng: 33.4299 },
+  { code: "CY", label: "Cyprus" },
   { code: "CZ", label: "Czech Republic" },
   { code: "DE", label: "Germany" },
   { code: "DK", label: "Denmark" },
-  { code: "ES", label: "Spain" },
+  { code: "ES", label: "Spain", svgX: 465, svgY: 339 },
   { code: "FI", label: "Finland" },
   { code: "FR", label: "France" },
   { code: "GB", label: "United Kingdom" },
@@ -109,23 +105,23 @@ export const companyPresence: { code: string; label: string; lat?: number; lng?:
   { code: "HR", label: "Croatia" },
   { code: "HU", label: "Hungary" },
   { code: "IE", label: "Ireland" },
-  { code: "IS", label: "Iceland", lat: 64.9631, lng: -19.0208 },
+  { code: "IS", label: "Iceland" },
   { code: "IT", label: "Italy" },
   { code: "LT", label: "Lithuania" },
   { code: "LV", label: "Latvia" },
   { code: "MD", label: "Moldova" },
   { code: "ME", label: "Montenegro" },
   { code: "MK", label: "North Macedonia" },
-  { code: "MT", label: "Malta", lat: 35.9375, lng: 14.3754 },
+  { code: "MT", label: "Malta" },
   { code: "NL", label: "Netherlands" },
-  { code: "NO", label: "Norway", lat: 64.5, lng: 17.0 },
+  { code: "NO", label: "Norway" },
   { code: "PL", label: "Poland" },
-  { code: "PT", label: "Portugal" },
+  { code: "PT", label: "Portugal", svgX: 451, svgY: 342 },
   { code: "RO", label: "Romania" },
   { code: "RS", label: "Serbia" },
   { code: "SE", label: "Sweden" },
   { code: "SI", label: "Slovenia" },
   { code: "SK", label: "Slovakia" },
   { code: "UA", label: "Ukraine" },
-  { code: "RU", label: "Russia", lat: 61.524, lng: 105.3188 },
+  { code: "RU", label: "Russia" },
 ];

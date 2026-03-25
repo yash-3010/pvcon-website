@@ -13,6 +13,7 @@ export interface BlogPost {
   updatedAt: string;
   author: string;
   tags: string[];
+  heroImage: string;
   ogImage: string;
   featured: boolean;
   readingTime: string;
@@ -39,7 +40,8 @@ export function getAllPosts(): Omit<BlogPost, "content">[] {
         updatedAt: data.updatedAt,
         author: data.author,
         tags: data.tags ?? [],
-        ogImage: data.ogImage,
+        heroImage: `/images/blog/${slug}.webp`,
+        ogImage: `/images/blog/og/${slug}.webp`,
         featured: data.featured ?? false,
         readingTime: readingTime(content).text,
       };
@@ -61,7 +63,8 @@ export function getPostBySlug(slug: string): BlogPost {
     updatedAt: data.updatedAt,
     author: data.author,
     tags: data.tags ?? [],
-    ogImage: `/images/blog/${slug}.webp`,
+    heroImage: `/images/blog/${slug}.webp`,
+    ogImage: `/images/blog/og/${slug}.webp`,
     featured: data.featured ?? false,
     readingTime: readingTime(content).text,
     content,
