@@ -7,7 +7,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "gallery:process": "node scripts/process-gallery.mjs"
+    "gallery:process": "node scripts/process-gallery.mjs",
+    "og:process": "node scripts/process-og-images.mjs"
   },
   "dependencies": {
     "@headlessui/react": "^2.1.8",

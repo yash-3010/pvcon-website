@@ -176,7 +176,7 @@ export default async function BlogPostPage({ params: { locale, slug } }: Props) 
 
         {/* ── Hero Image ─────────────────────────────────────────────── */}
         <div className="relative w-full h-64 md:h-80 rounded-xl overflow-hidden mb-10">
-          <Image src={post.ogImage} alt={post.title} fill priority quality={85} className="object-cover" sizes="(max-width: 768px) 100vw, 768px" />
+          <Image src={post.heroImage} alt={post.title} fill priority quality={85} className="object-cover" sizes="(max-width: 768px) 100vw, 768px" />
         </div>
 
         {/* ── MDX Content ────────────────────────────────────────────── */}
