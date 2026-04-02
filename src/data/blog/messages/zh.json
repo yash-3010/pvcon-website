@@ -1,5 +1,10 @@
 {
   "blog": {
+    "hero": {
+      "tagline": "博客",
+      "title": "洞察与动态",
+      "subtitle": "了解我们团队的最新新闻、洞察和动态。"
+    },
     "featuredHeading": "精选文章",
     "recentHeading": "最新文章",
     "backToAll": "返回所有文章",

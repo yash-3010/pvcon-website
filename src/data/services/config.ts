@@ -1,5 +1,5 @@
 import type { IconType } from "react-icons";
-import { FiSearch, FiShield, FiBookOpen, FiFileText, FiFolder } from "react-icons/fi";
+import { FiSearch, FiShield, FiBookOpen, FiFileText } from "react-icons/fi";
 
 export interface SubService {
   id: string;
@@ -51,12 +51,6 @@ export const serviceCategories: ServiceCategory[] = [
       { id: "global-labeling" },
       { id: "clinical-safety-documents" },
     ],
-  },
-  {
-    slug: "psmf",
-    icon: FiFolder,
-    isProduct: true,
-    subcategories: [],
   },
 ];
 

@@ -52,10 +52,16 @@ const Header: React.FC = () => {
     { text: t("gallery"), url: "/gallery" },
   ];
 
-  const serviceLinks = serviceCategories.map((s) => ({
-    text: tSvc(`${s.slug}.title`),
-    url: `/services/${s.slug}`,
-  }));
+  const serviceLinks = [
+    ...serviceCategories.map((s) => ({
+      text: tSvc(`${s.slug}.title`),
+      url: `/services/${s.slug}`,
+    })),
+    {
+      text: tSvc("psmf.title"),
+      url: "/products/psmf-manager",
+    },
+  ];
 
   return (
     <header

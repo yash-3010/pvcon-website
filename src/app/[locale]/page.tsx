@@ -10,10 +10,9 @@ import CTA from "@/components/CTA";
 import { siteDetails } from "@/data/common/siteDetails";
 import { footerDetails } from "@/data/common/footer";
 import { getAlternateUrls, getCanonicalUrl } from "@/lib/i18n-utils";
-import AboutSection from "@/components/AboutSection";
-import VisionMission from "@/components/VisionMission";
-import WhyChooseUs from "@/components/WhyChooseUs";
 import FlagshipSolutions from "@/components/FlagshipSolutions";
+import GlobalPresence from "@/components/GlobalPresence";
+import PsmfSpotlight from "@/components/PsmfSpotlight";
 
 interface Props {
   params: { locale: string };
@@ -85,22 +84,21 @@ export default async function HomePage({ params: { locale } }: Props) {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
       <Hero />
-      <AboutSection />
-      <VisionMission />
       <FlagshipSolutions />
-      <WhyChooseUs />
       <Container>
-        <Section
-          id="testimonials"
-          title={tTestimonials("sectionTitle")}
-          description={tTestimonials("sectionDescription")}
-        >
-          <Testimonials />
-        </Section>
-
-        <FAQ />
-
         <Stats />
+        <GlobalPresence />
+      </Container>
+      <Section
+        id="testimonials"
+        title={tTestimonials("sectionTitle")}
+        description={tTestimonials("sectionDescription")}
+      >
+        <Testimonials />
+      </Section>
+      <PsmfSpotlight />
+      <Container>
+        <FAQ />
 
         <CTA />
       </Container>

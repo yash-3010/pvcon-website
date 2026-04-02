@@ -54,26 +54,26 @@
   },
   "flagshipSolutions": {
     "label": "Solutions phares",
-    "heading": "Ce que nous faisons de mieux",
+    "heading": "Services",
     "description": "Quatre piliers d'expertise qui définissent PVCON — chacun livré avec précision, une connaissance réglementaire approfondie et un engagement à protéger la sécurité des patients dans le monde entier.",
     "cta": "Découvrir tous les services",
     "learnMore": "En savoir plus",
     "services": {
-      "qppv": {
-        "title": "QPPV local / PvOI",
-        "description": "Services de Personne Qualifiée en Pharmacovigilance et d'Individu de Surveillance PV dans les États membres de l'UE et les marchés mondiaux — assurant la pleine conformité avec la législation PV locale."
-      },
       "audit": {
-        "title": "Audit & Inspection",
-        "description": "Audits complets des systèmes PV, inspections simulées et plans CAPA structurés pour préparer votre organisation aux inspections réglementaires."
+        "title": "Audits & Préparation aux Inspections",
+        "description": "Audits complets des systèmes PV, inspections simulées et plans CAPA structurés pour préparer votre organisation aux inspections réglementaires réussies."
       },
-      "psmf": {
-        "title": "PSMF Manager",
-        "description": "Plateforme SaaS alimentée par l'IA pour la conformité PSMF de bout en bout — génération automatisée, contrôle de version et toujours prêt pour l'audit."
+      "pvoi": {
+        "title": "Services PVoI Locaux",
+        "description": "PVCON fournit des services de support PvOI locaux en Inde, assurant une surveillance de pharmacovigilance dédiée conforme aux attentes du CDSCO."
+      },
+      "qms": {
+        "title": "QMS PV & Mise en Place",
+        "description": "Chez PVCON, nous concevons et mettons en œuvre des cadres QMS PV robustes — de la rédaction des SOP à la mise en place complète du système PV — pour des opérations évolutives et prêtes pour l'inspection."
       },
       "training": {
-        "title": "Formation & Développement",
-        "description": "Programmes de formation structurés et solutions de développement des compétences pour équiper vos équipes des connaissances nécessaires au maintien de la conformité."
+        "title": "Formation & Montée en Compétences",
+        "description": "PVCON propose des programmes de formation et de montée en compétences alignés sur l'industrie pour les étudiants et les professionnels de la pharmacovigilance."
       }
     }
   },
@@ -230,6 +230,16 @@
       }
     ]
   },
+  "globalPresence": {
+    "tag": "Portée mondiale",
+    "heading": "Notre présence mondiale",
+    "subtitle": "Depuis notre siège à Mumbai, PVCON accompagne des clients à travers le monde — conseil en pharmacovigilance, audits GxP et soutien réglementaire.",
+    "stats": [
+      { "value": "102", "label": "Pays desservis" },
+      { "value": "4", "label": "Continents" },
+      { "value": "50+", "label": "Clients dans le monde" }
+    ]
+  },
   "stats": {
     "items": [
       {
@@ -245,5 +255,20 @@
         "description": "Référentiels réglementaires mondiaux couverts, de GVP UE à FDA, PMDA et CDSCO."
       }
     ]
+  },
+  "productSpotlight": {
+    "tag": "Notre produit",
+    "heading": "Gestionnaire PSMF",
+    "badge": "Plateforme alimentée par l'IA",
+    "description": "La première plate-forme SaaS de l'industrie pour la gestion de fichiers maître du système de pharmacovigilance de l'industrie, qui permet d'automatiser la conformité, d'éliminer les erreurs manuelles et de rester toujours prêt à l'inspection.",
+    "features": {
+      "01": "Examen de conformité par AI-Driven",
+      "02": "Génération automatisée de documents",
+      "03": "Trace d'audit complète et contrôle de version",
+      "04": "Coordination PSMF globale et locale"
+    },
+    "cta": "Explorer le gestionnaire PSMF",
+    "secondaryCta": "Visitez psmfmanager.com",
+    "secondaryUrl": "https://www.psmfmanager.com"
   }
 }

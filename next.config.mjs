@@ -8,6 +8,20 @@ const nextConfig = {
   images: {
     formats: ['image/webp'],
   },
+  async redirects() {
+    return [
+      {
+        source: '/services/psmf',
+        destination: '/products/psmf-manager',
+        permanent: true,
+      },
+      {
+        source: '/:locale/services/psmf',
+        destination: '/:locale/products/psmf-manager',
+        permanent: true,
+      },
+    ];
+  },
   async headers() {
     return [
       {
