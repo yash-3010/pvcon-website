@@ -71,7 +71,7 @@ const Header: React.FC = () => {
       `}
     >
       <Container>
-        <nav className="mx-auto flex justify-between items-center py-3 md:py-5">
+        <nav className="mx-auto flex justify-between items-center">
           <Link href="/" className="flex items-center gap-2">
             <Image
               src="/images/logo.svg"

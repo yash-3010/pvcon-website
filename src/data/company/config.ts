@@ -68,7 +68,7 @@ export const companyPresence: { code: string; label: string; svgX?: number; svgY
   { code: "KZ", label: "Kazakhstan" },
   { code: "LB", label: "Lebanon" },
   { code: "LI", label: "Liechtenstein" },
-  { code: "LK", label: "Sri Lanka" },
+  { code: "AU", label: "Australia" },
   { code: "MY", label: "Malaysia" },
   { code: "NP", label: "Nepal" },
   { code: "OM", label: "Oman" },
