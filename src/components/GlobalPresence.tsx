@@ -2,7 +2,7 @@ import dynamic from "next/dynamic";
 import { getTranslations } from "next-intl/server";
 import FadeInView from "./FadeInView";
 import SectionLabel from "./SectionLabel";
-import { globeMarkers, globeColors } from "@/data/company/globe-markers";
+import { globeMarkers, globeColors, globeArcs } from "@/data/company/globe-markers";
 
 /** Lazy-load the WebGL globe — no SSR, keeps bundle lean. */
 const Globe = dynamic(
@@ -36,6 +36,9 @@ const GlobalPresence: React.FC = async () => {
             glowColor={globeColors.glowColor}
             markerSize={0.025}
             mapSamples={24000}
+            arcs={globeArcs}
+            arcColor={globeColors.arcColor}
+            arcHeight={0.3}
           />
         </FadeInView>
 

@@ -239,43 +239,45 @@ export function Globe({
           touchAction: "none",
         }}
       />
-      {markers.map((m) => (
-        <div
-          key={m.id}
-          style={{
-            position: "absolute",
-            positionAnchor: `--cobe-${m.id}`,
-            bottom: "anchor(top)",
-            left: "anchor(center)",
-            translate: "-50% 0",
-            marginBottom: 8,
-            padding: "2px 6px",
-            background: "#202f63",
-            color: "#fff",
-            fontFamily: "ui-monospace, SFMono-Regular, monospace",
-            fontSize: "0.6rem",
-            letterSpacing: "0.08em",
-            textTransform: "uppercase" as const,
-            whiteSpace: "nowrap" as const,
-            pointerEvents: "none" as const,
-            opacity: `var(--cobe-visible-${m.id}, 0)`,
-            filter: `blur(calc((1 - var(--cobe-visible-${m.id}, 0)) * 8px))`,
-            transition: "opacity 0.8s, filter 0.8s",
-          }}
-        >
-          {m.label}
-          <span
+      {markers
+        .filter((m) => m.label)
+        .map((m) => (
+          <div
+            key={m.id}
             style={{
               position: "absolute",
-              top: "100%",
-              left: "50%",
-              transform: "translate3d(-50%, -1px, 0)",
-              border: "5px solid transparent",
-              borderTopColor: "#202f63",
+              positionAnchor: `--cobe-${m.id}`,
+              bottom: "anchor(top)",
+              left: "anchor(center)",
+              translate: "-50% 0",
+              marginBottom: 8,
+              padding: "2px 6px",
+              background: "#92b353",
+              color: "#fff",
+              fontFamily: "ui-monospace, SFMono-Regular, monospace",
+              fontSize: "0.6rem",
+              letterSpacing: "0.08em",
+              textTransform: "uppercase" as const,
+              whiteSpace: "nowrap" as const,
+              pointerEvents: "none" as const,
+              opacity: `var(--cobe-visible-${m.id}, 0)`,
+              filter: `blur(calc((1 - var(--cobe-visible-${m.id}, 0)) * 8px))`,
+              transition: "opacity 0.8s, filter 0.8s",
             }}
-          />
-        </div>
-      ))}
+          >
+            {m.label}
+            <span
+              style={{
+                position: "absolute",
+                top: "100%",
+                left: "50%",
+                transform: "translate3d(-50%, -1px, 0)",
+                border: "5px solid transparent",
+                borderTopColor: "#92b353",
+              }}
+            />
+          </div>
+        ))}
       {arcs
         .filter((a) => a.label)
         .map((a) => (
