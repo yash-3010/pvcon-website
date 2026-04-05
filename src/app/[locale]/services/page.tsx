@@ -46,8 +46,6 @@ export async function generateMetadata({ params: { locale } }: Props): Promise<M
   };
 }
 
-const statKeys = ["01", "02", "03", "04"] as const;
-
 export default async function ServicesPage({ params: { locale } }: Props) {
   const t = await getTranslations({ locale, namespace: "services" });
   const tMeta = await getTranslations({ locale, namespace: "metadata.services" });
