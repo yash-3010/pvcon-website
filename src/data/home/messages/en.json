@@ -1,28 +1,28 @@
 {
   "hero": {
-    "tagline": "Specialized global pharmacovigilance & GxP services for",
-    "heading": "PV CONSULTING & GXP AUDITS",
-    "description": "At PVCON, we deliver end-to-end pharmacovigilance consulting, GxP auditing, and corporate training — partnering with MAHs, Sponsors, and CROs worldwide to achieve sustained regulatory compliance and operational excellence.",
-    "ctaPrimary": "Let's Talk",
+    "tagline": "Specialised GxP Auditing, PV Consulting & Training Services",
+    "heading": "GXP AUDITING & PV CONSULTING",
+    "description": "At PVCON, we deliver end-to-end GxP auditing, pharmacovigilance consulting, and corporate training — partnering with MAHs, Sponsors, and CROs worldwide to achieve sustained regulatory compliance and operational excellence.",
+    "ctaPrimary": "Contact Us",
     "ctaSecondary": "About Us"
   },
   "logos": {
     "tagline": "Trusted by MAHs, CROs & Sponsors across the globe",
     "stats": [
       {
-        "value": "50+",
+        "value": "25+",
         "label": "Clients Served"
       },
       {
-        "value": "15+",
+        "value": "100+",
         "label": "Countries"
       },
       {
-        "value": "100%",
-        "label": "Audit Success Rate"
+        "value": "450+",
+        "label": "Audits Experience"
       },
       {
-        "value": "10+",
+        "value": "15+",
         "label": "Years Experience"
       }
     ]
@@ -31,7 +31,7 @@
     "label": "About",
     "heading": "PVCON",
     "paragraphs": [
-      "PVCON is a premier global provider of independent GxP Auditing, Pharmacovigilance Consulting, and Professional Training services, supporting pharmaceutical, biotechnology, and medical device organizations across 60+ countries.",
+      "PVCON is a premier global provider of independent GxP Auditing, Pharmacovigilance Consulting, and Professional Training services, supporting pharmaceutical, biotechnology, and medical device organizations across 100+ countries.",
       "Recognized for its integrity, independence, and technical excellence, PVCON serves as a trusted \"One-Stop Partner\" for comprehensive Pharmacovigilance Audit and Quality solutions, helping clients navigate complex regulatory landscapes with confidence."
     ],
     "ctaLabel": "Explore Us"
@@ -48,28 +48,28 @@
       {
         "number": "02",
         "title": "Mission",
-        "description": "To be the leading service provider of choice for global independent GxP Auditing, Consulting and Training to the pharmaceutical, biotechnology and device industries"
+        "description": "To be the leading service provider of choice for global independent GxP Auditing, Consulting and Training to the pharmaceutical, biotechnology and device industries."
       }
     ]
   },
   "flagshipSolutions": {
     "label": "Flagship Solutions",
-    "heading": "Our Signature Services",
+    "heading": "What We Do Best",
     "description": "Four core pillars of expertise that define PVCON — each delivered with precision, deep regulatory knowledge, and a commitment to safeguarding patient safety worldwide.",
     "cta": "Explore All Services",
     "learnMore": "Learn More",
     "services": {
       "audit": {
         "title": "Audits & Inspection Readiness",
-        "description": "Comprehensive PV system audits, mock inspections, and structured CAPA plans that prepare your organization for successful regulatory inspections and compliance readiness."
+        "description": "Comprehensive PV, GCP and GxP Audits, CAPA Planning, Mock Inspections and Gap Analysis prepare organizations for successful regulatory inspections with proactive compliance readiness."
       },
       "pvoi": {
         "title": "Local PVoI Services",
-        "description": "PVCON provides Local PvOI support services in India, ensuring pharmacovigilance oversight aligned with CDSCO expectations. We enable organizations to maintain compliant, inspection-ready PV systems with clear accountability"
+        "description": "PVCON provides Local PvOI support services in India, ensuring dedicated pharmacovigilance oversight aligned with CDSCO expectations. We enable organizations for inspection-ready PV systems with clear accountability."
       },
       "qms": {
         "title": "PV QMS & System Setup",
-        "description": "At PVCON, we design and implement robust PV QMS frameworks — from SOP writing to complete PV system setup — ensuring inspection-ready, scalable, and sustainable pharmacovigilance operations."
+        "description": "At PVCON, we design and implement robust QMS frameworks—from SOP writing to complete PV system setup—ensuring inspection-ready, scalable, and sustainable Pharmacovigilance Systems."
       },
       "training": {
         "title": "Training & Upskilling",
@@ -203,56 +203,65 @@
     ]
   },
   "faq": {
-    "label": "FAQ'S",
+    "label": "FAQs",
     "title": "Frequently Asked Questions",
     "contact": "Ask us anything!",
-    "email": "support@pvcon.in",
+    "email": "info@pvcon.in",
     "items": [
       {
-        "question": "What is a QPPV and what services does PVCON provide?",
-        "answer": "A Qualified Person for Pharmacovigilance (QPPV) is a legally required role for all marketing authorization holders in the EU/EEA. PVCON provides dedicated QPPV services, including deputized QPPV coverage, oversight of PV systems, signal management, periodic report preparation, and liaison with regulatory authorities."
+        "question": "What services does PVCON provide?",
+        "answer": "PVCON provides dedicated GxP services from Pharmacovigilance & GCP Audits (including gap analysis and mock inspections) to PV system setup, from PSMF creation to Local PVoI services, a whole range of PV Consulting, especially for regulatory inspection readiness. We provide end-to-end support designed to elevate the safety, quality, and regulatory integrity of your operations; with PV training and mentorship services."
+      },
+      {
+        "question": "What is PvOI / Pharmacovigilance Officer in Charge?",
+        "answer": "PvOI (Pharmacovigilance Officer in Charge) is the designated person responsible for overseeing pharmacovigilance activities and ensuring regulatory compliance in India and is a legally required role for several global organizations, the way a ‘QPPV’ role is mandatory for MAHs in EEA. PVCON provides expert local QPPV/ PvOI services in India, including safety oversight, regulatory communication, deputized coverage, PSMF preparation, etc. ensuring an inspection-ready PV system."
       },
       {
         "question": "How does PVCON support MAH inspection readiness?",
-        "answer": "We provide end-to-end inspection readiness support: gap analysis of your PV system against GVP requirements, mock inspection exercises, structured response frameworks for regulatory findings, CAPA management, and ongoing post-inspection compliance oversight."
+        "answer": "PVCON provides end-to-end inspection readiness support for MAHs including gap analysis of the PV system against regulatory requirements, mock inspection exercises, structured response frameworks for regulatory findings, CAPA management, and ongoing post-inspection compliance oversight."
       },
       {
         "question": "Which regulatory frameworks do you work with?",
-        "answer": "PVCON operates across all major global regulatory frameworks including EU GVP Modules, FDA 21 CFR Part 312/314, ICH E2 guidelines, PMDA requirements (Japan), NMPA guidance (China), and CDSCO regulations (India), among others."
+        "answer": "PVCON operates across all major global regulatory frameworks with the presence of local Consultants, including the EMA GVP Modules, US FDA regulations, ICH guidelines, MHRA expectations (UK), PMDA requirements (Japan), Arab League (ME) , NMPA guidance (China), and CDSCO regulations (India), among other regulations and guidance."
       },
       {
         "question": "Do you offer remote auditing services?",
-        "answer": "Yes. PVCON offers both on-site and remote audit options. Our remote audit methodology is fully aligned with regulatory expectations and has been validated across multiple jurisdictions, offering flexibility without compromising audit quality or depth."
+        "answer": "Yes. PVCON offers both on-site and remote auditing options. Our remote/virtual audit methodology is fully aligned with regulatory expectations and has been validated across multiple jurisdictions, offering flexibility without compromising audit quality or depth. We also offer Desktop/Questionnaire audits."
       },
       {
         "question": "How can I get started with PVCON?",
-        "answer": "Contact us at support@pvcon.in with a brief description of your needs. Our team will respond within one business day to schedule a complimentary discovery call and outline a tailored service proposal."
+        "answer": "Contact us at info@pvcon.in with a brief description of your needs. Our team will reply back to you within one business day to schedule a complimentary discovery call and outline a tailored service proposal to suit your requirements. Upon mutual agreement, the actions immediately roll out, with PVCON’s dedicated point of contact (POC) ensuring the milestones are continuously met."
+      },
+      {
+        "question": "What PSMF services do you offer?",
+        "answer": "We offer all PSMF management services, including PSMF maintenance as a service; especially within our SaaS software, the ongoing updates and continuous upkeep of organization’s core PSMF and the annexures becomes extremely simplified because of the tool’s workflow automation, and with the help of AI."
       }
     ]
   },
   "globalPresence": {
     "tag": "Global Reach",
     "heading": "Our Global Presence",
-    "subtitle": "From our headquarters in Mumbai, PVCON serves clients across the globe — delivering pharmacovigilance consulting, GxP audits, and regulatory support wherever our partners need us.",
+    "subtitle": "From our headquarters in Mumbai (India), PVCON serves clients across the globe — delivering GxP audits, pharmacovigilance consulting, and regulatory support wherever our partners need us.",
     "stats": [
-      { "value": "102", "label": "Countries Served" },
-      { "value": "4", "label": "Continents" },
-      { "value": "50+", "label": "Clients Worldwide" }
+      { "value": "100+", "label": "Countries Served" },
+      { "value": "6", "label": "Continents" },
+      { "value": "25+", "label": "Clients Worldwide" },
+      { "value": "450+", "label": "Audits Conducted" }
     ]
   },
   "stats": {
     "items": [
       {
-        "title": "500+",
-        "description": "ICSR cases processed monthly with full regulatory compliance and quality oversight."
+        "title": "450+",
+        "description": "Audits Conducted across the globe, ensuring regulatory compliance and operational excellence for our clients."
       },
       {
-        "title": "98%",
-        "description": "Client audit pass rate, reflecting our rigorous inspection readiness methodology."
+        "title": "15+",
+        "description": "Years of experience in GxP Auditing, Pharmacovigilance Consulting, and Corporate Training services for the pharmaceutical industry."
       },
       {
-        "title": "20+",
-        "description": "Global regulatory frameworks covered, from EU GVP to FDA, PMDA, and CDSCO."
+        "title": "300+",
+        "description": "Man years of combined experience among our team of expert auditors and consultants, delivering high-quality services to clients worldwide."
       }
     ]
   },

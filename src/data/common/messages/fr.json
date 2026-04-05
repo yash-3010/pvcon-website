@@ -14,7 +14,15 @@
     },
     "company": {
       "title": "Entreprise — Direction & Présence mondiale de PVCON",
-      "description": "Découvrez l'équipe dirigeante et le réseau mondial de pharmacovigilance de PVCON, présent dans plus de 25 pays sur 4 continents."
+      "description": "Découvrez l'équipe dirigeante et le réseau mondial de pharmacovigilance de PVCON, présent dans plus de 100 pays sur 6 continents."
+    },
+    "team": {
+      "title": "Notre Équipe — Experts en pharmacovigilance PVCON",
+      "description": "Découvrez les professionnels chevronnés de la pharmacovigilance derrière PVCON — des décennies d'expérience combinée dans les paysages réglementaires mondiaux."
+    },
+    "contact": {
+      "title": "Contact | PVCON — Conseil en pharmacovigilance",
+      "description": "Contactez les experts en pharmacovigilance de PVCON. Demandez une consultation pour l'audit GxP, le conseil PV, la conformité réglementaire ou la formation."
     },
     "gallery": {
       "title": "Galerie | PVCON — Conseil et audits en pharmacovigilance",
@@ -25,19 +33,83 @@
       "description": "Explore PVCON's comprehensive pharmacovigilance services including GxP audits, PV consulting, training, medical writing, and PSMF management for global life sciences organizations.",
       "gxp-audits": {
         "title": "GxP Audit Services | PVCON — Comprehensive GxP Auditing",
-        "description": "PVCON delivers expert GxP audit services covering PV, GCP, GLP, GMP, GDP, and CSV audits to ensure regulatory compliance and inspection readiness across global operations."
+        "description": "PVCON delivers expert GxP audit services covering PV, GCP, GLP, GMP, GDP, and CSV audits to ensure regulatory compliance and inspection readiness across global operations.",
+        "sub": {
+          "pv-audits": {
+            "title": "PV Audit Services | PVCON — Pharmacovigilance Audits",
+            "description": "Expert pharmacovigilance audit services including global PV system audits, affiliate audits, mock inspections, CAPA management, and inspection readiness preparation."
+          },
+          "gcp-audits": {
+            "title": "GCP Audit Services | PVCON — Clinical Trial Audits",
+            "description": "Independent GCP audits covering investigator sites, clinical laboratories, TMF reviews, vendor qualification, and FDA/EMA mock inspections across all study phases."
+          },
+          "other-gxp-audits": {
+            "title": "GxP Audits — CSV, GLP, GMP, GDP | PVCON",
+            "description": "Specialized GxP audit services across CSV, GLP, GMP, GDP, due diligence, vendor qualification, and regulatory submission readiness — delivered by experienced auditors."
+          }
+        }
       },
       "pv-consulting": {
         "title": "PV Consulting | PVCON — Pharmacovigilance Consulting Services",
-        "description": "PVCON provides end-to-end pharmacovigilance consulting including PV QMS, audit readiness, operational support, QPPV/PvOI services, and regulatory intelligence."
+        "description": "PVCON provides end-to-end pharmacovigilance consulting including PV QMS, audit readiness, operational support, QPPV/PvOI services, and regulatory intelligence.",
+        "sub": {
+          "local-qppv-pvoi": {
+            "title": "Local PvOI Services India | PVCON — CDSCO Compliance",
+            "description": "Qualified Pharmacovigilance Officer of India (PvOI) services ensuring CDSCO compliance, PSMF maintenance, safety reporting oversight, and inspection readiness."
+          },
+          "pv-qms": {
+            "title": "PV Quality Management System | PVCON — PV QMS",
+            "description": "Build and scale your PV Quality Management System with expert SOPs, governance frameworks, CAPA systems, and pharmacovigilance agreement development services."
+          },
+          "audit-inspection-readiness": {
+            "title": "Audit & Inspection Readiness | PVCON Services",
+            "description": "Achieve continuous inspection readiness with risk-based audit planning, mock inspections, CAPA management, and internal auditor training from PVCON experts."
+          },
+          "regulatory-intelligence": {
+            "title": "Regulatory Intelligence | PVCON — PV Compliance",
+            "description": "Stay ahead of evolving global PV regulations with PVCON's regulatory intelligence services — monitoring, impact assessment, and compliance strategy support."
+          }
+        }
       },
-      "training-capability-development": {
-        "title": "Training & Capability Development | PVCON — PV Training Programs",
-        "description": "PVCON offers tailored pharmacovigilance training programs including boot camps, compliance training, audit readiness workshops, and customized corporate learning solutions."
+      "training-upskilling": {
+        "title": "Training & Upskilling | PVCON — PV Training Programs",
+        "description": "PVCON offers tailored pharmacovigilance training programs including boot camps, compliance training, audit readiness workshops, and customized corporate learning solutions.",
+        "sub": {
+          "training-matrix": {
+            "title": "Training Matrix Development | PVCON — PV Training",
+            "description": "Regulatory-aligned training matrices, role-based learning plans, and inspection-ready training materials for pharmacovigilance teams and organizations."
+          },
+          "pv-boot-camp": {
+            "title": "PV Boot Camp Programs | PVCON — PV Training",
+            "description": "Intensive pharmacovigilance boot camp programs with end-to-end PV training, real-world case studies, and practical industry exposure for aspiring PV professionals."
+          },
+          "regulatory-compliance-training": {
+            "title": "Regulatory & Compliance Training | PVCON",
+            "description": "Expert-led GVP, ICH-GCP, and GxP regulatory compliance training programs with global updates, audit readiness, and inspection preparation for pharma teams."
+          },
+          "customized-learnings": {
+            "title": "Customized PV Training Solutions | PVCON",
+            "description": "Tailored corporate pharmacovigilance training, refresher sessions, and continuous professional development programs designed for your organization's specific needs."
+          }
+        }
       },
       "medical-writing": {
         "title": "Medical Writing | PVCON — Regulatory Medical Writing Services",
-        "description": "PVCON's medical writing team delivers RMP/REMS, aggregate safety reports, signal management documentation, clinical safety documents, and global labeling support."
+        "description": "PVCON's medical writing team delivers RMP/REMS, aggregate safety reports, signal management documentation, clinical safety documents, and global labeling support.",
+        "sub": {
+          "rmp-rems-writing": {
+            "title": "RMP & REMS Writing Services | PVCON",
+            "description": "Expert Risk Management Plan and REMS development, lifecycle maintenance, risk minimization strategy planning, and safety surveillance framework documentation."
+          },
+          "aggregate-report-writing": {
+            "title": "Aggregate Safety Reports — PSUR/PBRER | PVCON",
+            "description": "Professional PSUR, PBRER, PADER, and DSUR preparation with safety data analysis, benefit-risk assessment, and ICH-compliant aggregate regulatory reporting."
+          },
+          "clinical-safety-documents": {
+            "title": "Clinical & Safety Documentation | PVCON Writing",
+            "description": "Comprehensive clinical and safety document writing including CSRs, protocols, investigator brochures, patient narratives, CTD sections, and regulatory submissions."
+          }
+        }
       },
       "psmf": {
         "title": "PSMF Manager | PVCON — AI-Powered PSMF Management Platform",
@@ -68,9 +140,10 @@
   "nav": {
     "services": "Services",
     "about": "À propos",
-    "blog": "Blog",
+    "blog": "Ressources",
     "gallery": "Galerie",
     "company": "Entreprise",
+    "team": "Équipe",
     "requestConsultation": "Parlons-en",
     "getStarted": "Commencer"
   },

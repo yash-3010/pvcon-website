@@ -1,13 +1,17 @@
+import { Link } from "@/i18n/navigation";
+import { FiArrowRight } from "react-icons/fi";
 import FadeInView from "./FadeInView";
 
 interface SubServiceCardProps {
   index: number;
   title: string;
-  description: string | React.ReactNode;
+  description?: string | React.ReactNode;
   bullets?: string[];
+  href?: string;
+  learnMoreLabel?: string;
 }
 
-const SubServiceCard: React.FC<SubServiceCardProps> = ({ index, title, description, bullets }) => (
+const SubServiceCard: React.FC<SubServiceCardProps> = ({ index, title, description, bullets, href, learnMoreLabel }) => (
   <FadeInView delay={index * 0.08}>
     <div className="relative p-8 lg:p-10 rounded-2xl bg-white border border-gray-100 hover:border-primary/30 hover:shadow-sm transition-all group h-full flex flex-col">
       <div className="flex items-center gap-4 mb-5">
@@ -16,7 +20,7 @@ const SubServiceCard: React.FC<SubServiceCardProps> = ({ index, title, descripti
         </span>
         <h3 className="text-lg font-bold uppercase tracking-tight">{title}</h3>
       </div>
-      <div className="text-foreground-accent text-sm leading-relaxed">{description}</div>
+      {description && <div className="text-foreground-accent text-sm leading-relaxed">{description}</div>}
       {bullets && bullets.length > 0 && (
         <ul className="mt-4 space-y-2 flex-1">
           {bullets.map((bullet, i) => (
@@ -26,6 +30,17 @@ const SubServiceCard: React.FC<SubServiceCardProps> = ({ index, title, descripti
             </li>
           ))}
         </ul>
+      )}
+      {href && learnMoreLabel && (
+        <div className="mt-6 pt-4 border-t border-gray-100">
+          <Link
+            href={href}
+            className="inline-flex items-center gap-2 text-sm font-semibold text-primary hover:gap-3 transition-all"
+          >
+            {learnMoreLabel}
+            <FiArrowRight className="w-4 h-4" />
+          </Link>
+        </div>
       )}
     </div>
   </FadeInView>

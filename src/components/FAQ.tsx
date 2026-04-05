@@ -37,10 +37,10 @@ const FAQ: React.FC = () => {
                 {({ open }) => (
                   <>
                     <DisclosureButton className="flex items-center justify-between w-full px-4 pt-7 text-lg text-left border-t">
-                      <span className="text-2xl font-semibold">{faq.question}</span>
+                      <span className="text-xl font-semibold">{faq.question}</span>
                       {open ? <BiMinus className="w-5 h-5 text-secondary" /> : <BiPlus className="w-5 h-5 text-secondary" />}
                     </DisclosureButton>
-                    <DisclosurePanel className="px-4 pt-4 pb-2 text-foreground-accent">
+                    <DisclosurePanel className="px-4 pt-4 pb-2 text-base text-foreground-accent">
                       {faq.answer}
                     </DisclosurePanel>
                   </>

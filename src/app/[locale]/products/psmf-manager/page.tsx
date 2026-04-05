@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { getTranslations } from "next-intl/server";
+import { Link } from "@/i18n/navigation";
 import { siteDetails } from "@/data/common/siteDetails";
 import { routing } from "@/i18n/routing";
 import { getAlternateUrls, getCanonicalUrl } from "@/lib/i18n-utils";
@@ -62,7 +63,7 @@ export default async function PsmfManagerPage({ params: { locale } }: Props) {
       "@type": "Organization",
       name: siteDetails.siteName,
       url: siteDetails.siteUrl,
-      logo: `${siteDetails.siteUrl}/images/logo.webp`,
+      logo: `${siteDetails.siteUrl}/images/logo.svg`,
     },
     {
       "@context": "https://schema.org",
@@ -206,12 +207,12 @@ export default async function PsmfManagerPage({ params: { locale } }: Props) {
                 </h2>
                 <p className="mx-auto max-w-xl md:px-5 text-white/70 mb-8">{t("cta.text")}</p>
                 <div className="flex flex-col sm:flex-row gap-4 justify-center">
-                  <a
-                    href="/#cta"
+                  <Link
+                    href="/contact"
                     className="inline-flex bg-primary hover:bg-primary-accent text-black font-semibold px-8 py-3 rounded-full transition-colors"
                   >
                     {t("cta.button")}
-                  </a>
+                  </Link>
                   <a
                     href={t("cta.secondaryUrl")}
                     target="_blank"

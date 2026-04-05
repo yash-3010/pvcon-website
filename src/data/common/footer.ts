@@ -5,8 +5,8 @@ export const footerDetails: {
   telephone: string;
   socials: ISocials;
 } = {
-  email: "support@pvcon.in",
-  telephone: "+91 123 456-7890",
+  email: "info@pvcon.in",
+  telephone: "+91 99675 55213",
   socials: {
     linkedin: "https://www.linkedin.com/company/pvcon-consulting",
   },

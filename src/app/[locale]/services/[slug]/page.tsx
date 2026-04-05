@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
+import { Link } from "@/i18n/navigation";
 import { getTranslations } from "next-intl/server";
 import { siteDetails } from "@/data/common/siteDetails";
 import { getServiceBySlug, getAllServiceSlugs } from "@/data/services/config";
@@ -66,6 +67,7 @@ export default async function ServiceDetailPage({ params: { locale, slug } }: Pr
   if (!service) notFound();
 
   const t = await getTranslations({ locale, namespace: `services.${slug}` });
+  const tServices = await getTranslations({ locale, namespace: "services" });
   const tMeta = await getTranslations({ locale, namespace: `metadata.services.${slug}` });
   const canonical = getCanonicalUrl(locale, `/services/${slug}`);
 
@@ -77,7 +79,7 @@ export default async function ServiceDetailPage({ params: { locale, slug } }: Pr
       "@type": "Organization",
       name: siteDetails.siteName,
       url: siteDetails.siteUrl,
-      logo: `${siteDetails.siteUrl}/images/logo.webp`,
+      logo: `${siteDetails.siteUrl}/images/logo.svg`,
     },
     {
       "@context": "https://schema.org",
@@ -224,12 +226,12 @@ export default async function ServiceDetailPage({ params: { locale, slug } }: Pr
                   </h2>
                   <p className="mx-auto max-w-xl md:px-5 text-white/70 mb-8">{t("cta.text")}</p>
                   <div className="flex flex-col sm:flex-row gap-4 justify-center">
-                    <a
-                      href="/#cta"
+                    <Link
+                      href="/contact"
                       className="inline-flex bg-primary hover:bg-primary-accent text-black font-semibold px-8 py-3 rounded-full transition-colors"
                     >
                       {t("cta.button")}
-                    </a>
+                    </Link>
                     <a
                       href={t("cta.secondaryUrl")}
                       target="_blank"
@@ -272,6 +274,11 @@ export default async function ServiceDetailPage({ params: { locale, slug } }: Pr
               <p className="text-foreground-accent text-base leading-relaxed">
                 {t.rich("overview.p2", { strong: (chunks) => <strong className="font-semibold text-foreground">{chunks}</strong> })}
               </p>
+              {t.has("overview.p3") && (
+                <p className="text-foreground-accent text-base leading-relaxed">
+                  {t.rich("overview.p3", { strong: (chunks) => <strong className="font-semibold text-foreground">{chunks}</strong> })}
+                </p>
+              )}
             </div>
           </FadeInView>
         </div>
@@ -283,9 +290,14 @@ export default async function ServiceDetailPage({ params: { locale, slug } }: Pr
         <div className="max-w-7xl mx-auto">
           <FadeInView>
             <SectionLabel center>{t("subcategories.sectionLabel")}</SectionLabel>
-            <h2 className="text-3xl lg:text-5xl font-bold tracking-tight text-center mb-16">
+            <h2 className="text-3xl lg:text-5xl font-bold tracking-tight text-center mb-4">
               {t("subcategories.heading")}
             </h2>
+            {t.has("subcategories.subtitle") ? (
+              <p className="text-foreground-accent text-base text-center max-w-2xl mx-auto mb-16">{t("subcategories.subtitle")}</p>
+            ) : (
+              <div className="mb-12" />
+            )}
           </FadeInView>
           <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-6 items-stretch">
             {service.subcategories.map((sub, i) => {
@@ -296,15 +308,18 @@ export default async function ServiceDetailPage({ params: { locale, slug } }: Pr
               } catch {
                 bullets = undefined;
               }
+              const hasDescription = t.has(`subcategories.${sub.id}.description`);
               return (
                 <SubServiceCard
                   key={sub.id}
                   index={i}
                   title={t(`subcategories.${sub.id}.title`)}
-                  description={t.rich(`subcategories.${sub.id}.description`, {
+                  description={hasDescription ? t.rich(`subcategories.${sub.id}.description`, {
                     strong: (chunks) => <strong className="font-semibold text-foreground">{chunks}</strong>,
-                  })}
+                  }) : undefined}
                   bullets={bullets}
+                  href={`/services/${slug}/${sub.id}`}
+                  learnMoreLabel={tServices("learnMore")}
                 />
               );
             })}
@@ -338,7 +353,7 @@ export default async function ServiceDetailPage({ params: { locale, slug } }: Pr
       {/* CTA */}
       <section className="px-5 pb-16 lg:pb-24">
         <div className="max-w-7xl mx-auto">
-          <CtaCard heading={t("cta.heading")} description={t("cta.text")} ctaLabel={t("cta.button")} ctaHref="/#cta" />
+          <CtaCard heading={t("cta.heading")} description={t("cta.text")} ctaLabel={t("cta.button")} ctaHref="/contact" />
         </div>
       </section>
     </>

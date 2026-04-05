@@ -1,5 +1,5 @@
 export const companyConfig = {
-  ceoImageSrc: "/images/team/moin-don.webp",
+  ceoImageSrc: "/images/team/ceo-image.webp",
   teamMembers: [
     { id: "moin-don", imageSrc: "/images/team/moin-don.webp", initials: "MD", color: "#202f63" },
     { id: "rameez-don", imageSrc: "/images/team/rameez-don.webp", initials: "RD", color: "#92b353" },

@@ -1,8 +1,8 @@
 {
   "hero": {
     "tagline": "Services spécialisés de pharmacovigilance & GxP à l'échelle mondiale pour",
-    "heading": "CONSEIL PV & AUDITS GXP",
-    "description": "Chez PVCON, nous fournissons un conseil en pharmacovigilance de bout en bout, des audits GxP et des formations en entreprise — en partenariat avec les MAH, Sponsors et ORC du monde entier pour une conformité réglementaire durable et une excellence opérationnelle.",
+    "heading": "AUDITS GXP & CONSEIL PV",
+    "description": "Chez PVCON, nous fournissons des audits GxP de bout en bout, du conseil en pharmacovigilance et des formations en entreprise — en partenariat avec les MAH, Sponsors et ORC du monde entier pour une conformité réglementaire durable et une excellence opérationnelle.",
     "ctaPrimary": "Nous contacter",
     "ctaSecondary": "À propos"
   },
@@ -10,19 +10,19 @@
     "tagline": "Reconnus par les MAH, ORC et Sponsors à travers le monde",
     "stats": [
       {
-        "value": "50+",
+        "value": "25+",
         "label": "Clients accompagnés"
       },
       {
-        "value": "15+",
+        "value": "100+",
         "label": "Pays couverts"
       },
       {
-        "value": "100%",
-        "label": "Taux de réussite des audits"
+        "value": "450+",
+        "label": "Expérience d'audit"
       },
       {
-        "value": "10+",
+        "value": "15+",
         "label": "Années d'expérience"
       }
     ]
@@ -48,7 +48,7 @@
       {
         "number": "02",
         "title": "Mission",
-        "description": "Fournir un conseil en pharmacovigilance de bout en bout, des audits GxP et des formations en entreprise qui permettent aux MAH, Sponsors et ORC d'atteindre une conformité réglementaire durable, une préparation aux inspections et une excellence opérationnelle."
+        "description": "Fournir des audits GxP de bout en bout, du conseil en pharmacovigilance et des formations en entreprise qui permettent aux MAH, Sponsors et ORC d'atteindre une conformité réglementaire durable, une préparation aux inspections et une excellence opérationnelle."
       }
     ]
   },
@@ -206,7 +206,7 @@
     "label": "FAQ",
     "title": "Questions Fréquemment Posées",
     "contact": "Posez-nous vos questions !",
-    "email": "support@pvcon.in",
+    "email": "info@pvcon.in",
     "items": [
       {
         "question": "Qu'est-ce qu'un QPPV et quels services PVCON propose-t-il ?",
@@ -226,18 +226,18 @@
       },
       {
         "question": "Comment puis-je démarrer avec PVCON ?",
-        "answer": "Contactez-nous à support@pvcon.in avec une brève description de vos besoins. Notre équipe vous répondra dans un délai d'un jour ouvré pour planifier un appel découverte gratuit et présenter une proposition de service personnalisée."
+        "answer": "Contactez-nous à info@pvcon.in avec une brève description de vos besoins. Notre équipe vous répondra dans un délai d'un jour ouvré pour planifier un appel découverte gratuit et présenter une proposition de service personnalisée."
       }
     ]
   },
   "globalPresence": {
     "tag": "Portée mondiale",
     "heading": "Notre présence mondiale",
-    "subtitle": "Depuis notre siège à Mumbai, PVCON accompagne des clients à travers le monde — conseil en pharmacovigilance, audits GxP et soutien réglementaire.",
+    "subtitle": "Depuis notre siège à Mumbai, PVCON accompagne des clients à travers le monde — audits GxP, conseil en pharmacovigilance et soutien réglementaire.",
     "stats": [
-      { "value": "102", "label": "Pays desservis" },
-      { "value": "4", "label": "Continents" },
-      { "value": "50+", "label": "Clients dans le monde" }
+      { "value": "100+", "label": "Pays desservis" },
+      { "value": "6", "label": "Continents" },
+      { "value": "25+", "label": "Clients dans le monde" }
     ]
   },
   "stats": {

@@ -38,7 +38,7 @@ export default function NotFound() {
               Back to Home
             </Link>
             <Link
-              href="/#cta"
+              href="/contact"
               className="inline-flex border border-secondary/20 hover:border-secondary/40 text-secondary font-semibold px-7 py-3 rounded-full transition-colors text-xs uppercase tracking-[0.15em]"
             >
               Contact Us

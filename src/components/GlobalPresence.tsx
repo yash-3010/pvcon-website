@@ -25,21 +25,28 @@ const GlobalPresence: React.FC = async () => {
 
         {/* Stat cards */}
         <FadeInView delay={0.25}>
-          <div className="grid grid-cols-1 sm:grid-cols-3 gap-6 mt-14 max-w-3xl mx-auto">
-            {[0, 1, 2].map((i) => (
-              <div
-                key={i}
-                className="text-center p-6 rounded-2xl border border-gray-100 hover:border-primary/30 hover:shadow-sm transition-all"
-              >
-                <p className="text-4xl md:text-5xl font-extrabold text-secondary mb-1">
-                  {t(`stats.${i}.value`)}
-                </p>
-                <p className="text-foreground-accent text-sm">
-                  {t(`stats.${i}.label`)}
-                </p>
-              </div>
-            ))}
-          </div>
+          {/* ── Stats Banner ─────────────────────────────────────── */}
+          <section className="relative mt-8 z-10 px-5">
+            <div className="max-w-5xl mx-auto">
+              <FadeInView>
+                <div className="grid grid-cols-2 md:grid-cols-4 gap-px rounded-2xl overflow-hidden shadow-lg">
+                  {[0, 1, 2, 3].map((i) => (
+                    <div
+                      key={i}
+                      className="bg-secondary text-center py-4 px-4"
+                    >
+                      <div className="text-3xl lg:text-3xl font-bold text-white mb-1">
+                        {t(`stats.${i}.value`)}
+                      </div>
+                      <div className="text-white/60 text-xs uppercase tracking-widest font-medium">
+                        {t(`stats.${i}.label`)}
+                      </div>
+                    </div>
+                  ))}
+                </div>
+              </FadeInView>
+            </div>
+          </section>
         </FadeInView>
       </div>
     </section>

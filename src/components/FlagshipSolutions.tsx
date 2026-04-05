@@ -10,7 +10,7 @@ const flagshipServices: FlagshipService[] = [
   { key: "audit", href: "/services/gxp-audits" },
   { key: "pvoi", href: "/services/pv-consulting" },
   { key: "qms", href: "/services/pv-consulting" },
-  { key: "training", href: "/services/training-capability-development" },
+  { key: "training", href: "/services/training-upskilling" },
 ];
 
 const FlagshipSolutions: React.FC = async () => {

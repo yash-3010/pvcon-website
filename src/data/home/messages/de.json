@@ -1,8 +1,8 @@
 {
   "hero": {
     "tagline": "Spezialisierte globale Pharmakovigilanz- & GxP-Dienste für",
-    "heading": "PV-BERATUNG & GXP-AUDITS",
-    "description": "Bei PVCON bieten wir End-to-End-Pharmakovigilanz-Beratung, GxP-Auditing und Unternehmensschulungen — in Partnerschaft mit MAHs, Sponsoren und CROs weltweit für nachhaltige regulatorische Compliance und operative Exzellenz.",
+    "heading": "GXP-AUDITING & PV-BERATUNG",
+    "description": "Bei PVCON bieten wir End-to-End-GxP-Auditing, Pharmakovigilanz-Beratung und Unternehmensschulungen — in Partnerschaft mit MAHs, Sponsoren und CROs weltweit für nachhaltige regulatorische Compliance und operative Exzellenz.",
     "ctaPrimary": "Kontakt aufnehmen",
     "ctaSecondary": "Über uns"
   },
@@ -10,19 +10,19 @@
     "tagline": "Vertraut von MAHs, CROs und Sponsoren weltweit",
     "stats": [
       {
-        "value": "50+",
+        "value": "25+",
         "label": "Betreute Kunden"
       },
       {
-        "value": "15+",
+        "value": "100+",
         "label": "Länder"
       },
       {
-        "value": "100%",
-        "label": "Audit-Erfolgsrate"
+        "value": "450+",
+        "label": "Audit-Erfahrung"
       },
       {
-        "value": "10+",
+        "value": "15+",
         "label": "Jahre Erfahrung"
       }
     ]
@@ -206,7 +206,7 @@
     "label": "FAQ",
     "title": "Häufig gestellte Fragen",
     "contact": "Stellen Sie uns Ihre Fragen!",
-    "email": "support@pvcon.in",
+    "email": "info@pvcon.in",
     "items": [
       {
         "question": "Was ist ein QPPV und welche Dienste bietet PVCON an?",
@@ -226,18 +226,18 @@
       },
       {
         "question": "Wie kann ich mit PVCON beginnen?",
-        "answer": "Kontaktieren Sie uns unter support@pvcon.in mit einer kurzen Beschreibung Ihrer Bedürfnisse. Unser Team antwortet innerhalb eines Werktages, um ein kostenloses Erstgespräch zu vereinbaren."
+        "answer": "Kontaktieren Sie uns unter info@pvcon.in mit einer kurzen Beschreibung Ihrer Bedürfnisse. Unser Team antwortet innerhalb eines Werktages, um ein kostenloses Erstgespräch zu vereinbaren."
       }
     ]
   },
   "globalPresence": {
     "tag": "Globale Reichweite",
     "heading": "Unsere Globale Präsenz",
-    "subtitle": "Von unserem Hauptsitz in Mumbai aus betreut PVCON Kunden auf der ganzen Welt — Pharmakovigilanz-Beratung, GxP-Audits und regulatorische Unterstützung.",
+    "subtitle": "Von unserem Hauptsitz in Mumbai aus betreut PVCON Kunden auf der ganzen Welt — GxP-Audits, Pharmakovigilanz-Beratung und regulatorische Unterstützung.",
     "stats": [
-      { "value": "102", "label": "Betreute Länder" },
-      { "value": "4", "label": "Kontinente" },
-      { "value": "50+", "label": "Kunden weltweit" }
+      { "value": "100+", "label": "Betreute Länder" },
+      { "value": "6", "label": "Kontinente" },
+      { "value": "25+", "label": "Kunden weltweit" }
     ]
   },
   "stats": {

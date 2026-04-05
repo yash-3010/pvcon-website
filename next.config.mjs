@@ -20,6 +20,26 @@ const nextConfig = {
         destination: '/:locale/products/psmf-manager',
         permanent: true,
       },
+      {
+        source: '/company',
+        destination: '/about',
+        permanent: true,
+      },
+      {
+        source: '/:locale/company',
+        destination: '/:locale/about',
+        permanent: true,
+      },
+      {
+        source: '/services/training-capability-development',
+        destination: '/services/training-upskilling',
+        permanent: true,
+      },
+      {
+        source: '/:locale/services/training-capability-development',
+        destination: '/:locale/services/training-upskilling',
+        permanent: true,
+      },
     ];
   },
   async headers() {

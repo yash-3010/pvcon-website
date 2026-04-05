@@ -6,7 +6,6 @@ import { getAllPosts } from "@/lib/blogs";
 import { siteDetails } from "@/data/common/siteDetails";
 import { getAlternateUrls, getCanonicalUrl } from "@/lib/i18n-utils";
 import PageHero from "@/components/PageHero";
-import GeometricBg from "@/components/GeometricBg";
 
 interface Props {
   params: { locale: string };

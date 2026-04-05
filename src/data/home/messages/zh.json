@@ -1,8 +1,8 @@
 {
   "hero": {
     "tagline": "专业的全球药物警戒与GxP服务",
-    "heading": "PV咨询与GXP审计",
-    "description": "PVCON提供端到端的药物警戒咨询、GxP审计和企业培训——与全球MAH、申办方和CRO合作，实现持续的监管合规和卓越运营。",
+    "heading": "GXP审计与PV咨询",
+    "description": "PVCON提供端到端的GxP审计、药物警戒咨询和企业培训——与全球MAH、申办方和CRO合作，实现持续的监管合规和卓越运营。",
     "ctaPrimary": "联系我们",
     "ctaSecondary": "关于我们"
   },
@@ -10,19 +10,19 @@
     "tagline": "深受全球MAH、CRO和申办方信赖",
     "stats": [
       {
-        "value": "50+",
+        "value": "25+",
         "label": "服务客户"
       },
       {
-        "value": "15+",
+        "value": "100+",
         "label": "覆盖国家"
       },
       {
-        "value": "100%",
-        "label": "审计成功率"
+        "value": "450+",
+        "label": "审计经验"
       },
       {
-        "value": "10+",
+        "value": "15+",
         "label": "年行业经验"
       }
     ]
@@ -48,7 +48,7 @@
       {
         "number": "02",
         "title": "使命",
-        "description": "提供端到端的药物警戒咨询、GxP审计和企业培训，使MAH、申办方和CRO能够实现持续的监管合规、检查准备和卓越运营——在全球范围内保障患者安全。"
+        "description": "提供端到端的GxP审计、药物警戒咨询和企业培训，使MAH、申办方和CRO能够实现持续的监管合规、检查准备和卓越运营——在全球范围内保障患者安全。"
       }
     ]
   },
@@ -206,7 +206,7 @@
     "label": "常见问题",
     "title": "常见问题解答",
     "contact": "欢迎咨询！",
-    "email": "support@pvcon.in",
+    "email": "info@pvcon.in",
     "items": [
       {
         "question": "什么是QPPV？PVCON提供哪些服务？",
@@ -226,18 +226,18 @@
       },
       {
         "question": "如何开始与PVCON合作？",
-        "answer": "请发送邮件至support@pvcon.in，简要描述您的需求。我们的团队将在一个工作日内回复，安排免费的初步沟通并提供量身定制的服务方案。"
+        "answer": "请发送邮件至info@pvcon.in，简要描述您的需求。我们的团队将在一个工作日内回复，安排免费的初步沟通并提供量身定制的服务方案。"
       }
     ]
   },
   "globalPresence": {
     "tag": "全球覆盖",
     "heading": "我们的全球布局",
-    "subtitle": "从PVCON孟买总部出发，我们为全球客户提供药物警戒咨询、GxP审计和监管支持服务。",
+    "subtitle": "从PVCON孟买总部出发，我们为全球客户提供GxP审计、药物警戒咨询和监管支持服务。",
     "stats": [
-      { "value": "102", "label": "服务国家" },
-      { "value": "4", "label": "大洲" },
-      { "value": "50+", "label": "全球客户" }
+      { "value": "100+", "label": "服务国家" },
+      { "value": "6", "label": "大洲" },
+      { "value": "25+", "label": "全球客户" }
     ]
   },
   "stats": {

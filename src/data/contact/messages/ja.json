@@ -1,0 +1,37 @@
+{
+  "contact": {
+    "hero": {
+      "tagline": "お問い合わせ",
+      "title": "ご相談ください",
+      "subtitle": "GxP監査、ファーマコビジランスコンサルティング、規制コンプライアンスに関するご質問がございましたら、以下のフォームにご記入ください。24時間以内にチームよりご連絡いたします。"
+    },
+    "form": {
+      "name": "氏名",
+      "company": "会社名",
+      "designation": "役職",
+      "email": "メールアドレス",
+      "phone": "電話番号",
+      "message": "メッセージ",
+      "namePlaceholder": "山田太郎",
+      "companyPlaceholder": "会社名を入力",
+      "designationPlaceholder": "例：PVオペレーション責任者",
+      "emailPlaceholder": "taro@company.co.jp",
+      "phonePlaceholder": "電話番号を入力",
+      "messagePlaceholder": "プロジェクトやお問い合わせの詳細をお聞かせください...",
+      "submit": "メッセージを送信",
+      "submitting": "送信中...",
+      "successHeading": "メッセージが正常に送信されました！",
+      "successMessage": "お問い合わせいただきありがとうございます。ファーマコビジランスの専門家がお問い合わせ内容を確認し、24時間以内にご返信いたします。",
+      "errorHeading": "エラーが発生しました",
+      "errorMessage": "もう一度お試しいただくか、info@pvcon.in まで直接ご連絡ください。",
+      "sendAnother": "別のメッセージを送信",
+      "required": "この項目は必須です",
+      "invalidEmail": "有効なメールアドレスを入力してください",
+      "captchaLabel": "セキュリティ認証"
+    },
+    "info": {
+      "emailLabel": "メール",
+      "phoneLabel": "電話"
+    }
+  }
+}

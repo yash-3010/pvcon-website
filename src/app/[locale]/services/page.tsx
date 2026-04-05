@@ -62,7 +62,7 @@ export default async function ServicesPage({ params: { locale } }: Props) {
       "@type": "Organization",
       name: siteDetails.siteName,
       url: siteDetails.siteUrl,
-      logo: `${siteDetails.siteUrl}/images/logo.webp`,
+      logo: `${siteDetails.siteUrl}/images/logo.svg`,
       description: tMeta("description"),
       sameAs: ["https://www.linkedin.com/company/pvcon-consulting"],
     },
@@ -88,26 +88,6 @@ export default async function ServicesPage({ params: { locale } }: Props) {
         heading={t("hero.title")}
         subtitle={t("hero.subtitle")}
       />
-
-      {/* ── Stats Banner ─────────────────────────────────────── */}
-      <section className="relative -mt-8 z-10 px-5">
-        <div className="max-w-5xl mx-auto">
-          <FadeInView>
-            <div className="grid grid-cols-2 md:grid-cols-4 gap-px rounded-2xl overflow-hidden shadow-lg">
-              {statKeys.map((key) => (
-                <div key={key} className="bg-secondary text-center py-8 px-4">
-                  <div className="text-3xl lg:text-4xl font-bold text-white mb-1">
-                    {t(`stats.${key}.value`)}
-                  </div>
-                  <div className="text-white/60 text-xs uppercase tracking-widest font-medium">
-                    {t(`stats.${key}.label`)}
-                  </div>
-                </div>
-              ))}
-            </div>
-          </FadeInView>
-        </div>
-      </section>
 
       {/* ── Service Categories — 2×2 grid ────────────────────── */}
       <section className="relative py-20 lg:py-32 px-5 overflow-hidden">
@@ -150,7 +130,7 @@ export default async function ServicesPage({ params: { locale } }: Props) {
             heading={t("servicesPageCta.heading")}
             description={t("servicesPageCta.text")}
             ctaLabel={t("servicesPageCta.button")}
-            ctaHref="/#cta"
+            ctaHref="/contact"
           />
         </div>
       </section>

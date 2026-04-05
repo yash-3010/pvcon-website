@@ -1,6 +1,6 @@
 "use client";
 
-import { motion, useInView } from "framer-motion";
+import { motion } from "framer-motion";
 import { useRef } from "react";
 import { Link } from "@/i18n/navigation";
 
@@ -141,7 +141,6 @@ export default function FlagshipCards({
   ctaHref,
 }: FlagshipCardsProps) {
   const sectionRef = useRef<HTMLDivElement>(null);
-  const isInView = useInView(sectionRef, { once: true, margin: "-100px" });
 
   return (
     <section

@@ -3,7 +3,7 @@
     "hero": {
       "tagline": "我们的公司",
       "title": "领导团队与全球布局",
-      "subtitle": "了解PVCON背后的团队和全球网络——在超过25个国家和4个大洲推动药物警戒卓越。"
+      "subtitle": "了解PVCON背后的团队和全球网络——在超过100个国家和6个大洲推动药物警戒卓越。"
     },
     "leadership": {
       "tag": "领导团队",
@@ -26,18 +26,18 @@
     "globalPresence": {
       "tag": "全球覆盖",
       "heading": "我们的全球布局",
-      "subtitle": "从PVCON孟买总部出发，我们为全球客户提供药物警戒咨询、GxP审计和监管支持服务。",
+      "subtitle": "从PVCON孟买总部出发，我们为全球客户提供GxP审计、药物警戒咨询和监管支持服务。",
       "stats": [
         {
-          "value": "102",
+          "value": "100+",
           "label": "服务国家"
         },
         {
-          "value": "4",
+          "value": "6",
           "label": "大洲"
         },
         {
-          "value": "50+",
+          "value": "25+",
           "label": "全球客户"
         }
       ]
