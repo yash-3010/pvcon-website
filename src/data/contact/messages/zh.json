@@ -1,0 +1,37 @@
+{
+  "contact": {
+    "hero": {
+      "tagline": "联系我们",
+      "title": "与我们对话",
+      "subtitle": "对GxP审计、药物警戒咨询或法规合规有疑问？请填写下面的表格，我们的团队将在24小时内回复您。"
+    },
+    "form": {
+      "name": "姓名",
+      "company": "公司",
+      "designation": "职位",
+      "email": "电子邮件",
+      "phone": "电话号码",
+      "message": "留言",
+      "namePlaceholder": "张三",
+      "companyPlaceholder": "您的公司名称",
+      "designationPlaceholder": "例如：PV运营负责人",
+      "emailPlaceholder": "zhang@company.com",
+      "phonePlaceholder": "您的电话号码",
+      "messagePlaceholder": "请告诉我们您的项目或咨询需求...",
+      "submit": "发送消息",
+      "submitting": "发送中...",
+      "successHeading": "消息发送成功！",
+      "successMessage": "感谢您的来信。我们的药物警戒专家将审核您的咨询，并在24小时内回复。",
+      "errorHeading": "出现了一些问题",
+      "errorMessage": "请重试或直接通过 info@pvcon.in 与我们联系。",
+      "sendAnother": "发送另一条消息",
+      "required": "此字段为必填项",
+      "invalidEmail": "请输入有效的电子邮件地址",
+      "captchaLabel": "安全验证"
+    },
+    "info": {
+      "emailLabel": "邮箱",
+      "phoneLabel": "电话"
+    }
+  }
+}

@@ -46,16 +46,22 @@ const Header: React.FC = () => {
   };
 
   const plainMenuItems = [
-    { text: t("company"), url: "/company" },
     { text: t("about"), url: "/about" },
+    { text: t("team"), url: "/team" },
     { text: t("blog"), url: "/blog" },
     { text: t("gallery"), url: "/gallery" },
   ];
 
-  const serviceLinks = serviceCategories.map((s) => ({
-    text: tSvc(`${s.slug}.title`),
-    url: `/services/${s.slug}`,
-  }));
+  const serviceLinks = [
+    ...serviceCategories.map((s) => ({
+      text: tSvc(`${s.slug}.title`),
+      url: `/services/${s.slug}`,
+    })),
+    {
+      text: tSvc("psmf.title"),
+      url: "/products/psmf-manager",
+    },
+  ];
 
   return (
     <header
@@ -65,20 +71,17 @@ const Header: React.FC = () => {
       `}
     >
       <Container>
-        <nav className="mx-auto flex justify-between items-center py-3 md:py-5">
+        <nav className="mx-auto flex justify-between items-center">
           <Link href="/" className="flex items-center gap-2">
             <Image
-              src="/images/logo.webp"
-              width={38}
-              height={28}
+              src="/images/logo.svg"
+              width={180}
+              height={60}
               quality={85}
               priority
               alt={`${siteDetails.siteName} logo`}
-              className="flex items-center mb-0.5 gap-2 invert"
+              className="flex items-center mb-0.5 gap-2"
             />
-            <span className="text-xl font-semibold text-foreground cursor-pointer">
-              {siteDetails.siteName}
-            </span>
           </Link>
 
           {/* ── Desktop nav ──────────────────────────────────── */}
@@ -153,7 +156,7 @@ const Header: React.FC = () => {
             <li><LanguageSwitcher /></li>
             <li>
               <Link
-                href="/#cta"
+                href="/contact"
                 className="bg-secondary hover:bg-secondary/90 text-white px-6 py-2.5 rounded-full transition-colors text-xs font-semibold uppercase tracking-[0.15em]"
               >
                 {t("requestConsultation")}
@@ -253,7 +256,7 @@ const Header: React.FC = () => {
             ))}
             <li>
               <Link
-                href="/#cta"
+                href="/contact"
                 className="bg-secondary hover:bg-secondary/90 text-white font-semibold px-5 py-2.5 rounded-full block w-fit text-xs uppercase tracking-wider"
                 onClick={toggleMenu}
               >

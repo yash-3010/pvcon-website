@@ -1,0 +1,37 @@
+{
+  "contact": {
+    "hero": {
+      "tagline": "Kontakt",
+      "title": "Sprechen Sie uns an",
+      "subtitle": "Haben Sie Fragen zu GxP-Auditing, Pharmakovigilanz-Beratung oder regulatorischer Compliance? Füllen Sie das Formular aus und unser Team meldet sich innerhalb von 24 Stunden bei Ihnen."
+    },
+    "form": {
+      "name": "Vollständiger Name",
+      "company": "Unternehmen",
+      "designation": "Position",
+      "email": "E-Mail-Adresse",
+      "phone": "Telefonnummer",
+      "message": "Nachricht",
+      "namePlaceholder": "Max Mustermann",
+      "companyPlaceholder": "Ihr Unternehmen",
+      "designationPlaceholder": "z.B. Leiter PV Operations",
+      "emailPlaceholder": "max@unternehmen.de",
+      "phonePlaceholder": "Ihre Telefonnummer",
+      "messagePlaceholder": "Erzählen Sie uns von Ihrem Projekt oder Ihrer Anfrage...",
+      "submit": "Nachricht senden",
+      "submitting": "Wird gesendet...",
+      "successHeading": "Nachricht erfolgreich gesendet!",
+      "successMessage": "Vielen Dank für Ihre Nachricht. Unsere Pharmakovigilanz-Experten werden Ihre Anfrage prüfen und innerhalb von 24 Stunden antworten.",
+      "errorHeading": "Etwas ist schiefgelaufen",
+      "errorMessage": "Bitte versuchen Sie es erneut oder kontaktieren Sie uns direkt unter info@pvcon.in.",
+      "sendAnother": "Weitere Nachricht senden",
+      "required": "Dieses Feld ist erforderlich",
+      "invalidEmail": "Bitte geben Sie eine gültige E-Mail-Adresse ein",
+      "captchaLabel": "Sicherheitsüberprüfung"
+    },
+    "info": {
+      "emailLabel": "E-Mail",
+      "phoneLabel": "Telefon"
+    }
+  }
+}

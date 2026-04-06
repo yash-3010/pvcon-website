@@ -1,5 +1,5 @@
 export const companyConfig = {
-  ceoImageSrc: "/images/team/moin-don.webp",
+  ceoImageSrc: "/images/team/ceo-image.webp",
   teamMembers: [
     { id: "moin-don", imageSrc: "/images/team/moin-don.webp", initials: "MD", color: "#202f63" },
     { id: "rameez-don", imageSrc: "/images/team/rameez-don.webp", initials: "RD", color: "#92b353" },
@@ -68,7 +68,7 @@ export const companyPresence: { code: string; label: string; svgX?: number; svgY
   { code: "KZ", label: "Kazakhstan" },
   { code: "LB", label: "Lebanon" },
   { code: "LI", label: "Liechtenstein" },
-  { code: "LK", label: "Sri Lanka" },
+  { code: "AU", label: "Australia" },
   { code: "MY", label: "Malaysia" },
   { code: "NP", label: "Nepal" },
   { code: "OM", label: "Oman" },

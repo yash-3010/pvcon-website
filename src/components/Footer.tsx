@@ -30,17 +30,14 @@ const Footer: React.FC = async () => {
         <div>
           <Link href="/" className="flex items-center gap-2">
             <Image
-              src="/images/logo.webp"
-              width={38}
-              height={28}
+              src="/images/logo-dark-secondary.svg"
+              width={180}
+              height={60}
               quality={85}
               loading="lazy"
               alt={`${siteDetails.siteName} logo`}
-              className="flex items-center mb-0.5 gap-2 invert"
+              className="flex items-center mb-0.5 gap-2"
             />
-            <span className="text-xl font-semibold cursor-pointer">
-              {siteDetails.siteName}
-            </span>
           </Link>
           <p className="mt-3.5 text-white/60 text-sm leading-relaxed">
             {t("subheading")}
@@ -116,7 +113,7 @@ const Footer: React.FC = async () => {
       </div>
       <div className="mt-10 border-t border-white/10 pt-6 md:text-center text-white/80 text-sm px-6">
         <p>
-          Copyright &copy; {new Date().getFullYear()} {siteDetails.siteName}. {t("copyright")}
+          Copyright &copy; {new Date().getFullYear()} {siteDetails.siteName} | {t("copyright")}
         </p>
       </div>
     </footer>

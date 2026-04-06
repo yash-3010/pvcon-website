@@ -1,3 +1,3 @@
 export const ctaDetails = {
-  ctaUrl: "mailto:support@pvcon.in",
+  ctaUrl: "/contact",
 } as const;

@@ -2,9 +2,9 @@
   "about": {
     "hero": {
       "ariaLabel": "About PVCON",
-      "tagline": "About Us",
+      "tagline": "Who We Are",
       "title": "About PVCON",
-      "subtitle": "A premier global provider of independent GxP Auditing, Pharmacovigilance Consulting, and Professional Training services, supporting pharmaceutical, biotechnology, and medical device organizations across 60+ countries."
+      "subtitle": "PVCON is a premier global leader in independent GxP Auditing, Pharmacovigilance Consulting, Professional Training, and Quality Services. It supports pharmaceutical, biotechnology, CRO, and medical device organizations across 100+ countries as a trusted One-Stop Partner."
     },
     "images": {
       "aboutAlt": "PVCON pharmacovigilance consulting team in a professional setting",
@@ -14,44 +14,44 @@
       "tag": "Who We Are",
       "heading": "Our Story",
       "story": {
-        "p1": "PVCON is a premier global provider of independent GxP Auditing, Pharmacovigilance Consulting, and Professional Training services, supporting pharmaceutical, biotechnology, and medical device organizations across 60+ countries.",
+        "p1": "PVCON is a premier global provider of independent GxP Auditing, Pharmacovigilance Consulting, and Professional Training services, supporting pharmaceutical, biotechnology, and medical device organizations across 100+ countries.",
         "p2": "Recognized for its integrity, independence, and technical excellence, PVCON serves as a trusted \"One-Stop Partner\" for comprehensive Pharmacovigilance Audit and Quality solutions, helping clients navigate complex regulatory landscapes with confidence.",
         "p3": "PVCON was founded by globally respected Pharmacovigilance expert Moin Don, Executive Director, whose leadership and deep industry expertise have shaped the organization into a reliable strategic partner for companies seeking compliance excellence and inspection readiness."
       }
     },
     "approach": {
-      "tag": "Our Philosophy",
+      "tag": "OUR STORY",
       "heading": "A Strategic Compliance Partner",
-      "p1": "PVCON is more than a service provider — we are a strategic compliance partner. We do not simply support pharmacovigilance activities; we architect robust, regulator-confident PV systems that drive patient safety, operational excellence, and long-term compliance sustainability.",
-      "p2": "We deploy robust audit frameworks, comprehensive training programs, and proactive compliance strategies aligned with current ICH, EU GVP, and global GxP guidelines. Our consultants work as embedded partners within your teams, transferring knowledge and building sustainable internal capabilities.",
-      "p3": "From pharmacovigilance system setup and PSMF creation to vendor qualification and regulatory inspection readiness, we provide end-to-end support designed to elevate the safety, quality, and regulatory integrity of your operations."
+      "p1": "Meet the people and global network behind PVCON — driving pharmacovigilance excellence through 100+ countries across 6 continents",
+      "p2": "PVCON was founded by globally respected Pharmacovigilance Expert of over 50+ years Moin Don, the Founder & CEO whose leadership and deep industry expertise shaped the organization into a reliable strategic partner, known for being an Advisor to India's Drug Controller General (PvPI) and Speaker at prominent industry forums such as DIA, RQA, UMC.",
+      "p3": "PVCON is more than just a service provider; we are a strategic compliance partner. Not simply supporting pharmacovigilance activities; we architect regulator-confident PV systems that drive patient safety, operational excellence, quality assurance and long-term compliance sustainability, with rigorous audit frameworks, comprehensive training programs, and proactive strategies aligned with current ICH, GVP, and global GxP guidelines."
     },
     "buttons": {
       "workWithUs": "Work With Us",
       "getInTouch": "Get in Touch"
     },
     "whyChoose": {
-      "tag": "Why PVCON",
+      "tag": "Our Strengths",
       "heading": "Why Choose PVCON?",
       "intro": {
         "p1": "In an increasingly complex and highly regulated GxP landscape, compliance is not just about meeting requirements — it is about building resilient systems that protect patients, safeguard brands, and withstand regulatory scrutiny. PVCON is designed to be your strategic partner in achieving operational excellence, inspection confidence, and sustainable compliance maturity.",
-        "p2": "We combine deep pharmacovigilance expertise, regulatory intelligence, audit proficiency, and practical implementation experience to deliver solutions that are not theoretical but operational, scalable, and regulator-ready."
+        "p2": "We leverage deep pharmacovigilance expertise, regulatory intelligence, audit proficiency, and practical implementation experience to deliver regulator-ready solutions."
       },
       "01": {
-        "title": "Forward-Looking Regulatory Intelligence",
-        "description": "Proactive monitoring of evolving global PV regulations to keep you future-ready. We track shifts across EMA, FDA, MHRA, PMDA, and emerging markets — translating complex regulatory changes into actionable compliance strategies before they impact your operations."
+        "title": "BEST IN CLASS AUDITORS & CONSULTANTS",
+        "description": "300+ man-years of experience with leading pharma companies, CROs and PV service providers. Auditors with regulatory experience spanning across global regulators like MHRA, EMA, US FDA, DCGI, BoMRA, etc. and with multilingual capabilities, our independent Consultants are positioned globally, for effectively facilitated audits."
       },
       "02": {
-        "title": "Integrated End-to-End PV Ecosystem",
-        "description": "Comprehensive PV solutions spanning operations, audits, governance, inspection readiness, and training. Our integrated model ensures every element of your pharmacovigilance system works in concert — from ICSR processing and signal management to PSMF maintenance and training."
+        "title": "INTEGRATED STRATEGIC PARTNERSHIP ECOSYSTEM",
+        "description": "Comprehensive pharmacovigilance solutions spanning operations, audits, governance, inspection readiness, and training. Our integrated approach ensures every component of your PV system works in harmony. Acting as an extension of your team, our consultants prioritize knowledge transfer to help you build robust, sustainable internal capabilities."
       },
       "03": {
-        "title": "Risk-Based, Inspection-Ready Approach",
+        "title": "RISK-BASED, INSPECTION-READY APPROACH",
         "description": "Compliance strategies built for audit resilience and regulator confidence. We design risk-based frameworks that prioritize critical compliance areas, prepare teams through mock inspections, and establish CAPA processes demonstrating sustained regulatory commitment."
       },
       "04": {
-        "title": "Best in Class Auditors & Consultants",
-        "description": "200+ man-years of experience with leading pharma companies and PV providers. Auditors with MHRA, EMA, DCGI, and Infarmed regulatory experience. Advisors to India's Drug Controller General (PvPI) and speakers at DIA, RQA, UMC — multilingual consultants positioned globally."
+        "title": "FORWARD-LOOKING REGULATORY INTELLIGENCE",
+        "description": "Proactive monitoring of evolving global PV regulations to keep you future-ready. We track shifts across EMA, US FDA, MHRA, PMDA, TGA and emerging markets — translating complex regulatory changes into actionable compliance strategies before they impact your operations."
       }
     },
     "expertise": {
@@ -84,8 +84,8 @@
       }
     },
     "cta": {
-      "heading": "Ready to Strengthen Your PV Operations?",
-      "text": "Partner with PVCON for expert pharmacovigilance consulting, GxP auditing, and regulatory compliance support."
+      "heading": "Ready to Strengthen organization’s PV Processes?",
+      "text": "Partner with PVCON for expert GxP auditing, Pharmacovigilance consulting, PVoI services and Regulatory compliance support."
     }
   }
 }

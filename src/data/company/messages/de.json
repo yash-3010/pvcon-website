@@ -3,7 +3,7 @@
     "hero": {
       "tagline": "Unser Unternehmen",
       "title": "Leitung & Globale Präsenz",
-      "subtitle": "Lernen Sie die Menschen und das globale Netzwerk hinter PVCON kennen — Pharmakovigilanz-Exzellenz in 102 Ländern und 4 Kontinenten."
+      "subtitle": "Lernen Sie die Menschen und das globale Netzwerk hinter PVCON kennen — Pharmakovigilanz-Exzellenz in 100+ Ländern und 6 Kontinenten."
     },
     "leadership": {
       "tag": "Unternehmensleitung",
@@ -26,18 +26,18 @@
     "globalPresence": {
       "tag": "Globale Reichweite",
       "heading": "Unsere Globale Präsenz",
-      "subtitle": "Von unserem Hauptsitz in Mumbai aus betreut PVCON Kunden auf der ganzen Welt — Pharmakovigilanz-Beratung, GxP-Audits und regulatorische Unterstützung.",
+      "subtitle": "Von unserem Hauptsitz in Mumbai aus betreut PVCON Kunden auf der ganzen Welt — GxP-Audits, Pharmakovigilanz-Beratung und regulatorische Unterstützung.",
       "stats": [
         {
-          "value": "102",
+          "value": "100+",
           "label": "Betreute Länder"
         },
         {
-          "value": "4",
+          "value": "6",
           "label": "Kontinente"
         },
         {
-          "value": "50+",
+          "value": "25+",
           "label": "Kunden weltweit"
         }
       ]

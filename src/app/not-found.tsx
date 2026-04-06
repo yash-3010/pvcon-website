@@ -67,7 +67,7 @@ export default function RootNotFound() {
                     Back to Home
                   </Link>
                   <Link
-                    href="/#cta"
+                    href="/contact"
                     className="inline-flex border border-[#202f63]/20 hover:border-[#202f63]/40 text-[#202f63] font-semibold px-7 py-3 rounded-full transition-colors text-xs uppercase tracking-[0.15em]"
                   >
                     Contact Us

@@ -17,7 +17,7 @@ export const teamMemberConfigs: TeamMemberConfig[] = [
   {
     ...companyConfig.teamMembers[0],
     linkedIn: "https://www.linkedin.com/in/moindon/",
-    location: "Mumbai, India",
+    location: "India",
     nationality: "Indian",
   },
   {
@@ -29,7 +29,7 @@ export const teamMemberConfigs: TeamMemberConfig[] = [
   {
     ...companyConfig.teamMembers[2],
     linkedIn: "https://www.linkedin.com/in/nazrulkhan/",
-    location: "London, United Kingdom",
+    location: "United Kingdom",
     nationality: "British",
   },
 ];

@@ -5,6 +5,7 @@ import { getTranslations } from "next-intl/server";
 import { getAllPosts } from "@/lib/blogs";
 import { siteDetails } from "@/data/common/siteDetails";
 import { getAlternateUrls, getCanonicalUrl } from "@/lib/i18n-utils";
+import PageHero from "@/components/PageHero";
 
 interface Props {
   params: { locale: string };
@@ -44,8 +45,6 @@ export default async function BlogPage({ params: { locale } }: Props) {
   const allPosts = getAllPosts();
   const featuredPosts = allPosts.filter((p) => p.featured);
   const recentPosts = allPosts.filter((p) => !p.featured);
-  const heroPosts = featuredPosts[0] ?? allPosts[0];
-
   // Blog posts are in English — links always go to /blog/[slug] (no locale prefix needed
   // for blog posts since content is English-only; locale UI chrome is translated)
   const blogHref = (slug: string) =>
@@ -59,38 +58,18 @@ export default async function BlogPage({ params: { locale } }: Props) {
     });
 
   return (
+    <>
+      {/* ── HERO ────────────────────────────────────────────────────────── */}
+      <PageHero
+        label={t("hero.tagline")}
+        heading={t("hero.title")}
+        subtitle={t("hero.subtitle")}
+      />
     <div className="min-h-screen bg-white">
 
-      {/* ── HERO BANNER ─────────────────────────────────────────────────── */}
-      <section aria-label="Featured hero post" className="relative w-full h-[420px] overflow-hidden">
-        <Image
-          src={`/images/blog/${heroPosts.slug}.webp`}
-          alt={heroPosts.title}
-          fill
-          priority
-          quality={85}
-          className="object-cover"
-          sizes="100vw"
-        />
-        <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/40 to-transparent" aria-hidden="true" />
-        <div className="absolute bottom-0 left-0 p-8 max-w-2xl">
-          {heroPosts.tags[0] && (
-            <span className="inline-block bg-white text-black text-xs font-bold uppercase tracking-wider px-3 py-1 rounded-full mb-3">
-              {heroPosts.tags[0]}
-            </span>
-          )}
-          <Link href={blogHref(heroPosts.slug)}>
-            <h1 className="text-white text-2xl md:text-3xl font-bold leading-snug hover:underline underline-offset-2">
-              {heroPosts.title}
-            </h1>
-          </Link>
-          <p className="text-white/80 text-sm mt-2 line-clamp-2">{heroPosts.description}</p>
-        </div>
-      </section>
 
       {/* ── MAIN CONTENT ────────────────────────────────────────────────── */}
       <div className="max-w-5xl mx-auto px-4 sm:px-6 py-14">
-
         {/* ── FEATURED POSTS ────────────────────────────────────────────── */}
         {featuredPosts.length > 0 && (
           <section aria-labelledby="featured-heading" className="mb-16">
@@ -173,5 +152,6 @@ export default async function BlogPage({ params: { locale } }: Props) {
 
       </div>
     </div>
+    </>
   );
 }

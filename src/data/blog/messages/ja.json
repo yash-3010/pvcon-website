@@ -1,5 +1,10 @@
 {
   "blog": {
+    "hero": {
+      "tagline": "ブログ",
+      "title": "インサイト＆最新情報",
+      "subtitle": "チームからの最新ニュース、インサイト、アップデートをお届けします。"
+    },
     "featuredHeading": "注目の記事",
     "recentHeading": "最新記事",
     "backToAll": "すべての記事に戻る",

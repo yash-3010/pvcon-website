@@ -1,0 +1,37 @@
+{
+  "contact": {
+    "hero": {
+      "tagline": "Contactez-nous",
+      "title": "Parlons ensemble",
+      "subtitle": "Vous avez une question sur l'audit GxP, le conseil en pharmacovigilance ou la conformité réglementaire ? Remplissez le formulaire ci-dessous et notre équipe vous répondra dans les 24 heures."
+    },
+    "form": {
+      "name": "Nom complet",
+      "company": "Entreprise",
+      "designation": "Fonction",
+      "email": "Adresse e-mail",
+      "phone": "Numéro de téléphone",
+      "message": "Message",
+      "namePlaceholder": "Jean Dupont",
+      "companyPlaceholder": "Votre entreprise",
+      "designationPlaceholder": "ex. Responsable des opérations PV",
+      "emailPlaceholder": "jean@entreprise.fr",
+      "phonePlaceholder": "Votre numéro de téléphone",
+      "messagePlaceholder": "Parlez-nous de votre projet ou de votre demande...",
+      "submit": "Envoyer le message",
+      "submitting": "Envoi en cours...",
+      "successHeading": "Message envoyé avec succès !",
+      "successMessage": "Merci de nous avoir contactés. Nos experts en pharmacovigilance examineront votre demande et vous répondront dans les 24 heures.",
+      "errorHeading": "Une erreur s'est produite",
+      "errorMessage": "Veuillez réessayer ou nous contacter directement à info@pvcon.in.",
+      "sendAnother": "Envoyer un autre message",
+      "required": "Ce champ est obligatoire",
+      "invalidEmail": "Veuillez saisir une adresse e-mail valide",
+      "captchaLabel": "Vérification de sécurité"
+    },
+    "info": {
+      "emailLabel": "E-mail",
+      "phoneLabel": "Téléphone"
+    }
+  }
+}

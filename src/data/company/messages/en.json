@@ -3,7 +3,7 @@
     "hero": {
       "tagline": "Our Company",
       "title": "Leadership & Global Presence",
-      "subtitle": "Meet the people and the global network behind PVCON — driving pharmacovigilance excellence across 102 countries and 4 continents."
+      "subtitle": "Meet the people and the global network behind PVCON — driving pharmacovigilance excellence across 100+ countries and 6 continents."
     },
     "leadership": {
       "tag": "Leadership",
@@ -11,8 +11,8 @@
       "ceo": {
         "name": "Moin Don",
         "title": "President & CEO, Founder",
-        "message": "With over 50 years in the pharmaceutical industry, I founded PVCON to bridge the gap between regulatory expectations and operational reality in pharmacovigilance. Having served in leadership roles at Sanofi Aventis and Dr. Reddy's, and as Regional PV QA Director for Asia Pacific at Johnson & Johnson, I witnessed firsthand the need for a trusted, hands-on consulting partner that could deliver measurable improvements in drug safety operations worldwide.",
-        "message2": "Today, PVCON is recognized across the industry for its rigorous approach to PV auditing, quality assurance, and corporate training. As the Lead of the South Asia Chapter for the International Society of Pharmacovigilance (ISoP) and an advisor to India's DCGI and CDSCO, our commitment to regulatory excellence and patient safety remains the foundation of everything we do — and I am proud to lead a team that shares this vision every day.",
+        "message": "With over 50 years in pharma, I founded PVCON to bridge regulatory expectations with real-world pharmacovigilance. I’ve held leadership roles at Sanofi Aventis, Dr. Reddy’s, and served as Regional PV QA Director (APAC) at Johnson & Johnson.",
+        "message2": "PVCON is recognized for PV auditing, quality assurance, and training. I serve as Lead of the South Asia Chapter for ISoP and advisor to India’s DCGI and CDSCO, with a continued focus on regulatory excellence and patient safety.",
         "credentials": [
           "Pharma Ratan 2016 Award — Lifetime Achievement in Drug Safety & PV",
           "Certified Lead Auditor — Trained in USA, Germany, France & Singapore",
@@ -26,23 +26,23 @@
     "globalPresence": {
       "tag": "Global Reach",
       "heading": "Our Global Presence",
-      "subtitle": "From our headquarters in Mumbai, PVCON serves clients across the globe — delivering pharmacovigilance consulting, GxP audits, and regulatory support wherever our partners need us.",
+      "subtitle": "From our headquarters in Mumbai (India), PVCON serves clients across the globe — delivering GxP audits, pharmacovigilance consulting, and regulatory support wherever our partners need us.",
       "stats": [
-        { "value": "102", "label": "Countries Served" },
-        { "value": "4", "label": "Continents" },
-        { "value": "50+", "label": "Clients Worldwide" }
+        { "value": "100+", "label": "Countries Served" },
+        { "value": "6", "label": "Continents" },
+        { "value": "25+", "label": "Clients Worldwide" }
       ]
     },
     "team": {
-      "tag": "Our Team",
-      "heading": "The People Behind PVCON",
-      "subtitle": "A team of seasoned pharmacovigilance professionals with decades of combined experience across global regulatory landscapes.",
+      "tag": "The People Behind PVCON",
+      "heading": "PVCON  Team",
+      "subtitle": "We are a team of seasoned pharmacovigilance professionals with over 300+ man-years of experience across global regulatory landscapes.",
       "viewProfile": "View Profile",
       "members": {
         "moin-don": {
           "name": "Moin Don",
           "role": "Founder & CEO",
-          "bio": "50+ years in the pharmaceutical industry. Pharmacist by education, former Regional PV QA Director at Johnson & Johnson, Asia Pacific. Certified Lead Auditor, Adjunct Professor at Jamia Hamdard University, and Lead of the South Asia Chapter for ISoP."
+          "bio": "50+ years of pharmaceutical expertise; former Regional PV QA Director at Johnson & Johnson, APac; Certified Lead Auditor; Adjunct Professor at Jamia Hamdard University; Lead of the South Asia Chapter for ISoP; Co-author of India's National Pharmacovigilance Program Protocol; Member of DIA India’s Central Advisory Committee and Pharma Ratan 2016 Award recipient for Lifetime Achievement in Drug Safety & PV."
         },
         "rameez-don": {
           "name": "Rameez Don",
@@ -51,7 +51,7 @@
         },
         "nazrul-khan": {
           "name": "Nazrul Khan",
-          "role": "Consultant Lead Auditor",
+          "role": "Senior Consultant & Lead Auditor",
           "bio": "24+ years in pharmaceutical R&D, quality assurance, and pharmacovigilance auditing. Former MHRA Senior Pharmacovigilance Scientist and J&J Global System QA Program Manager. MSc Clinical Pharmacology, co-author of the RQA PV Auditing Handbook."
         }
       }

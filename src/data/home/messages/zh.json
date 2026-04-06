@@ -1,8 +1,8 @@
 {
   "hero": {
     "tagline": "专业的全球药物警戒与GxP服务",
-    "heading": "PV咨询与GXP审计",
-    "description": "PVCON提供端到端的药物警戒咨询、GxP审计和企业培训——与全球MAH、申办方和CRO合作，实现持续的监管合规和卓越运营。",
+    "heading": "GXP审计与PV咨询",
+    "description": "PVCON提供端到端的GxP审计、药物警戒咨询和企业培训——与全球MAH、申办方和CRO合作，实现持续的监管合规和卓越运营。",
     "ctaPrimary": "联系我们",
     "ctaSecondary": "关于我们"
   },
@@ -10,19 +10,19 @@
     "tagline": "深受全球MAH、CRO和申办方信赖",
     "stats": [
       {
-        "value": "50+",
+        "value": "25+",
         "label": "服务客户"
       },
       {
-        "value": "15+",
+        "value": "100+",
         "label": "覆盖国家"
       },
       {
-        "value": "100%",
-        "label": "审计成功率"
+        "value": "450+",
+        "label": "审计经验"
       },
       {
-        "value": "10+",
+        "value": "15+",
         "label": "年行业经验"
       }
     ]
@@ -48,32 +48,32 @@
       {
         "number": "02",
         "title": "使命",
-        "description": "提供端到端的药物警戒咨询、GxP审计和企业培训，使MAH、申办方和CRO能够实现持续的监管合规、检查准备和卓越运营——在全球范围内保障患者安全。"
+        "description": "提供端到端的GxP审计、药物警戒咨询和企业培训，使MAH、申办方和CRO能够实现持续的监管合规、检查准备和卓越运营——在全球范围内保障患者安全。"
       }
     ]
   },
   "flagshipSolutions": {
     "label": "旗舰解决方案",
-    "heading": "我们的核心优势",
+    "heading": "服务",
     "description": "定义PVCON的四大核心专业领域——每一项都以精准、深厚的监管知识和保护全球患者安全的承诺来交付。",
     "cta": "探索所有服务",
     "learnMore": "了解更多",
     "services": {
-      "qppv": {
-        "title": "本地 QPPV / PvOI",
-        "description": "在欧盟成员国和全球市场提供药物警戒合格人员和PV监管个人服务——确保完全符合当地PV法规。"
-      },
       "audit": {
-        "title": "审计与检查",
+        "title": "审计与检查准备",
         "description": "全面的PV系统审计、模拟检查和结构化的CAPA计划，为您的组织准备成功的监管检查。"
       },
-      "psmf": {
-        "title": "PSMF管理器",
-        "description": "AI驱动的SaaS平台，实现端到端PSMF合规——自动生成、版本控制，随时审计就绪。"
+      "pvoi": {
+        "title": "本地PVoI服务",
+        "description": "PVCON在印度提供本地PvOI支持服务，确保符合CDSCO期望的专业药物警戒监管，帮助组织保持合规且随时可接受检查的PV系统。"
+      },
+      "qms": {
+        "title": "PV QMS与系统搭建",
+        "description": "在PVCON，我们设计和实施强大的PV QMS框架——从SOP编写到完整的PV系统搭建——确保可检查、可扩展和可持续的药物警戒运营。"
       },
       "training": {
-        "title": "培训与能力建设",
-        "description": "结构化培训项目和能力建设解决方案，为您的团队提供维持合规和卓越运营所需的知识。"
+        "title": "培训与技能提升",
+        "description": "PVCON为药物警戒领域的学生和专业人士提供与行业接轨的培训和技能提升项目，注重实践知识、实操经验和实战准备。"
       }
     }
   },
@@ -206,7 +206,7 @@
     "label": "常见问题",
     "title": "常见问题解答",
     "contact": "欢迎咨询！",
-    "email": "support@pvcon.in",
+    "email": "info@pvcon.in",
     "items": [
       {
         "question": "什么是QPPV？PVCON提供哪些服务？",
@@ -226,8 +226,18 @@
       },
       {
         "question": "如何开始与PVCON合作？",
-        "answer": "请发送邮件至support@pvcon.in，简要描述您的需求。我们的团队将在一个工作日内回复，安排免费的初步沟通并提供量身定制的服务方案。"
+        "answer": "请发送邮件至info@pvcon.in，简要描述您的需求。我们的团队将在一个工作日内回复，安排免费的初步沟通并提供量身定制的服务方案。"
       }
+    ]
+  },
+  "globalPresence": {
+    "tag": "全球覆盖",
+    "heading": "我们的全球布局",
+    "subtitle": "从PVCON孟买总部出发，我们为全球客户提供GxP审计、药物警戒咨询和监管支持服务。",
+    "stats": [
+      { "value": "100+", "label": "服务国家" },
+      { "value": "6", "label": "大洲" },
+      { "value": "25+", "label": "全球客户" }
     ]
   },
   "stats": {
@@ -245,5 +255,20 @@
         "description": "覆盖的全球监管框架，从EU GVP到FDA、PMDA和CDSCO。"
       }
     ]
+  },
+  "productSpotlight": {
+    "tag": "我们的产品",
+    "heading": "PSMF 管理器",
+    "badge": "AI驱动平台",
+    "description": "该行业的第一个AI驱动的 SAAS平台用于Pharmaco警戒系统主文件管理。自动遵守，消除手动错误，并随时准备检查——始终。",
+    "features": {
+      "01": "AI-驱动的遵约审查",
+      "02": "自动生成文档",
+      "03": "完整审计轨迹和版本控制",
+      "04": "全球和地方方案协调机制"
+    },
+    "cta": "探索PSMF 管理器",
+    "secondaryCta": "访问 psmfmanager.com",
+    "secondaryUrl": "https://www.psmfmanager.com"
   }
 }

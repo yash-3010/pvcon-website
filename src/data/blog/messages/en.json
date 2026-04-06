@@ -1,5 +1,10 @@
 {
   "blog": {
+    "hero": {
+      "tagline": "Resources",
+      "title": "Blogs & Updates",
+      "subtitle": "Stay informed with the latest news, insights, and updates from our team."
+    },
     "featuredHeading": "Featured Posts",
     "recentHeading": "Recent Posts",
     "backToAll": "Back to all posts",

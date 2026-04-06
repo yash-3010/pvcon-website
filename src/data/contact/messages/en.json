@@ -1,0 +1,37 @@
+{
+  "contact": {
+    "hero": {
+      "tagline": "Contact Us",
+      "title": "Let's Talk",
+      "subtitle": "Have a question about GxP auditing, pharmacovigilance consulting, or regulatory compliance? Fill out the form below and our team will get back to you within 24 hours."
+    },
+    "form": {
+      "name": "Full Name",
+      "company": "Company",
+      "designation": "Designation",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "message": "Message",
+      "namePlaceholder": "John Doe",
+      "companyPlaceholder": "Your company name",
+      "designationPlaceholder": "e.g. Head of PV Operations",
+      "emailPlaceholder": "john@company.com",
+      "phonePlaceholder": "Your phone number",
+      "messagePlaceholder": "Tell us about your project or inquiry...",
+      "submit": "Send Message",
+      "submitting": "Sending...",
+      "successHeading": "Message Sent Successfully!",
+      "successMessage": "Thank you for reaching out. Our pharmacovigilance experts will review your inquiry and respond within 24 hours.",
+      "errorHeading": "Something went wrong",
+      "errorMessage": "Please try again or contact us directly at info@pvcon.in.",
+      "sendAnother": "Send another message",
+      "required": "This field is required",
+      "invalidEmail": "Please enter a valid email address",
+      "captchaLabel": "Security verification"
+    },
+    "info": {
+      "emailLabel": "Email",
+      "phoneLabel": "Phone"
+    }
+  }
+}

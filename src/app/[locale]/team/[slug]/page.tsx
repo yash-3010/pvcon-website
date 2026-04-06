@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import Image from "next/image";
-import Link from "next/link";
+import { Link } from "@/i18n/navigation";
 import { notFound } from "next/navigation";
 import { getTranslations } from "next-intl/server";
 import { siteDetails } from "@/data/common/siteDetails";
@@ -108,7 +108,7 @@ export default async function TeamMemberPage({
       "@type": "Organization",
       name: "PVCON Consulting Pvt Ltd",
       url: siteDetails.siteUrl,
-      logo: `${siteDetails.siteUrl}/images/logo.webp`,
+      logo: `${siteDetails.siteUrl}/images/logo.svg`,
     },
     memberOf: {
       "@type": "Organization",
@@ -148,8 +148,8 @@ export default async function TeamMemberPage({
       {
         "@type": "ListItem",
         position: 2,
-        name: "Company",
-        item: `${siteDetails.siteUrl}/company`,
+        name: "Team",
+        item: `${siteDetails.siteUrl}/team`,
       },
       {
         "@type": "ListItem",
@@ -193,7 +193,7 @@ export default async function TeamMemberPage({
           {/* Back link */}
           <FadeInView>
             <Link
-              href="/company"
+              href="/team"
               className="inline-flex items-center gap-2 text-sm text-foreground-accent hover:text-primary transition-colors mb-10"
             >
               <svg
@@ -223,7 +223,7 @@ export default async function TeamMemberPage({
                   {role}
                 </p>
                 <p className="text-foreground-accent text-sm mb-6">
-                  {organization} {member.location && `· ${member.location}`}
+                  {organization}
                 </p>
 
                 {/* LinkedIn */}
@@ -289,7 +289,7 @@ export default async function TeamMemberPage({
             </h2>
           </FadeInView>
 
-          <div className="space-y-0">
+          <div className="space-y-6">
             {experience.map((exp, i) => (
               <FadeInView key={i} delay={i * 0.05}>
                 <div className="relative pl-8 pb-10 border-l-2 border-gray-200 last:border-l-0 last:pb-0">
@@ -322,7 +322,7 @@ export default async function TeamMemberPage({
             {/* Skills */}
             <FadeInView>
               <div className="group block h-full p-8 lg:p-10 rounded-2xl border border-gray-100 hover:border-primary/30 hover:shadow-md transition-all bg-white">
-                <SectionLabel>{t("skills")}</SectionLabel>
+                <SectionLabel>{t("tag-skills")}</SectionLabel>
                 <h2 className="text-2xl lg:text-3xl font-bold tracking-tight mb-6 mt-2">
                   {t("skills")}
                 </h2>
@@ -355,7 +355,7 @@ export default async function TeamMemberPage({
             {/* Qualifications */}
             <FadeInView delay={0.1}>
               <div className="group block h-full p-8 lg:p-10 rounded-2xl border border-gray-100 hover:border-primary/30 hover:shadow-md transition-all bg-white">
-                <SectionLabel>{t("qualifications")}</SectionLabel>
+                <SectionLabel>{t("tag-qualifications")}</SectionLabel>
                 <h2 className="text-2xl lg:text-3xl font-bold tracking-tight mb-6 mt-2">
                   {t("qualifications")}
                 </h2>
@@ -385,25 +385,6 @@ export default async function TeamMemberPage({
               </div>
             </FadeInView>
           </div>
-
-          {/* Languages */}
-          <FadeInView delay={0.15}>
-            <div className="mt-12 pt-10 border-t border-gray-100">
-              <h3 className="text-lg font-bold text-foreground mb-4">
-                {t("languages")}
-              </h3>
-              <div className="flex flex-wrap gap-3">
-                {languages.map((lang, i) => (
-                  <span
-                    key={i}
-                    className="px-4 py-2 rounded-full text-sm font-medium bg-gray-100 text-foreground-accent border border-gray-200"
-                  >
-                    {lang}
-                  </span>
-                ))}
-              </div>
-            </div>
-          </FadeInView>
         </div>
       </section>
 
@@ -414,7 +395,7 @@ export default async function TeamMemberPage({
             heading={tCta("cta.heading")}
             description={tCta("cta.text")}
             ctaLabel={tCta("buttons.getInTouch")}
-            ctaHref="/#cta"
+            ctaHref="/contact"
           />
         </div>
       </section>

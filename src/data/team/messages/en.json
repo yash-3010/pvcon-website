@@ -4,15 +4,17 @@
     "about": "About",
     "experience": "Professional Experience",
     "skills": "Core Expertise",
+    "tag-skills": "Skills",
     "qualifications": "Qualifications & Recognition",
+    "tag-qualifications": "Achievements",
     "languages": "Languages",
     "members": {
       "moin-don": {
         "name": "Moin Don",
         "role": "Founder & CEO",
-        "organization": "PVCON Consulting Pvt Ltd",
+        "organization": "PVCON Consulting",
         "shortBio": "Founder & CEO of PVCON with over 50 years of experience in the pharmaceutical industry. One of the most well-known Pharmacovigilance Professionals in Asia-Pacific.",
-        "fullBio": "Moin has over 50 years' experience in the pharmaceutical industry. Pharmacist by education, Moin is one of the most well-known Pharmacovigilance Professionals in Asia-Pacific. He has rich hands-on experience across practically every facet of Industrial Pharmacovigilance, while serving reputed international pharma companies like Sanofi Aventis and Dr. Reddy's, with his last corporate assignment being with Johnson & Johnson as Regional PV QA Director for Asia Pacific. Moin has undergone extensive training in the U.S., Germany, France and Singapore and is a Certified Lead Auditor. As a distinguished PV consultant and auditor, Moin has conducted audits across Asia Pacific, Middle East, CIS Countries, Europe, Africa and Australia, besides helping pharmaceutical companies in establishing PV systems in developing markets.",
+        "fullBio": "Moin has over 50 years' experience in the pharmaceutical industry. Pharmacist by education, Moin is one of the most well-known Pharmacovigilance Professionals in Asia-Pacific. He has rich hands-on experience across practically every facet of Industrial Pharmacovigilance, while serving reputed international pharma companies like Sanofi Aventis and Dr. Reddy's, with his last corporate assignment being with Johnson & Johnson as Regional PV QA Director for Asia Pacific. Moin has undergone extensive training in the U.S., Germany, France and Singapore and is a Certified Lead Auditor. As a distinguished PV consultant and auditor, Moin has conducted audits across Asia Pacific, Middle East, CIS Countries, Europe, Africa and Australia, besides helping pharmaceutical companies in establishing PV systems in developing markets, mentoring and training PV Teams.",
         "experience": [
           {
             "title": "Founder & CEO",
@@ -54,7 +56,7 @@
         "skills": [
           "Global PV Auditing (Affiliates, Systems, Vendors, Marketing Partners)",
           "GxP Quality Assurance & Risk-Based Audit Programmes",
-          "EU GVP, US FDA, ICH and Global PV/GCP Regulations",
+          "EMA GVP, MHRA, US FDA, ICH and Global PV/GCP Regulations",
           "PSMF Preparation & Quality Review",
           "Standard Operating Procedure Development",
           "Regulatory Inspection Readiness & CAPA Management",
@@ -80,19 +82,19 @@
       "rameez-don": {
         "name": "Rameez Don",
         "role": "Director",
-        "organization": "PVCON Consulting Pvt Ltd",
+        "organization": "PVCON Consulting",
         "shortBio": "Director at PVCON with over 15 years of professional experience across Pharmacovigilance, Quality Assurance, Audits, Training, and Business Development.",
         "fullBio": "Rameez has over 15 years of professional experience across diverse fields like Pharmacovigilance, Quality Assurance, Audits, Training, Business Development, Operations, and Staffing. He is a Certified Lead Auditor and Director at PVCON and is currently pursuing a PhD in Pharmaceutical Management from IIHMR University. Rameez has in-depth Pharmacovigilance knowledge and spearheads PVCON's business and client relations. He is a Member of the Research Quality Assurance (RQA), guest lecturer at PvPI (Ministry of Health) PV Skill Development program, with active participation in various regulatory and PV topics at industry associations, forums and seminars.",
         "experience": [
           {
             "title": "Director",
-            "company": "PVCON Consulting Pvt Ltd",
+            "company": "PVCON Consulting",
             "period": "2015 – Present",
-            "description": "Manages the entire business of PVCON including formulation of business strategies, overall project management, client relations, and team leadership. Conducts and manages global PV, GCP and Quality Assurance audit projects. Develops risk-based audit programmes, SOPs, training modules, and Quality Management Systems. Oversees all pre, during and post audit activities, CAPA plans, and financial operations."
+            "description": "Managed and executed global PV audit programmes, GxP Quality Assurance consultancy, CAPA management, inspection readiness support, developed training programme, and strategically advised on Quality Management Systems."
           }
         ],
         "skills": [
-          "Global PV Audit Management (Europe, Americas, Asia, Middle East, Africa)",
+          "Global PV Audit Management (EU & UK, Americas, Middle East, Africa, Asia Pacific, Australia)",
           "PV Regulations & Inspection Readiness",
           "Project & Team Leadership",
           "Standard Operating Procedure Development & Implementation",
@@ -115,8 +117,8 @@
       },
       "nazrul-khan": {
         "name": "Nazrul Khan",
-        "role": "Consultant Lead Auditor",
-        "organization": "PVCON Consulting Pvt Ltd",
+        "role": "Senior Consultant & Lead Auditor",
+        "organization": "PVCON Consulting",
         "shortBio": "Consultant Lead Auditor at PVCON with over 24 years of experience in Pharmaceutical R&D, Quality Assurance, and Pharmacovigilance auditing. Based in London, UK.",
         "fullBio": "Nazrul has over 24 years' experience within Pharmaceutical Research & Development, Quality Assurance, Quality Management Systems, clinical drug development, post-marketing regulatory affairs, drug safety/pharmacovigilance, and regulatory compliance. He has extensive global regulatory and PV QA auditing experience covering Local Operating Companies, Co-Development Partners, CROs, GxP service providers, and computer systems validation. He has a proven track record in fully managing and hosting numerous health authority PV and GCP inspections. Nazrul is actively involved in providing audit training within industry, a member of the Research Quality Assurance (RQA) and Drug Information Association (DIA), a tutor on the RQA Practical PV Auditing Course, and a co-author of the RQA PV Auditing Handbook.",
         "experience": [
@@ -124,25 +126,13 @@
             "title": "Independent GxP Auditor & Consultant Lead Auditor",
             "company": "PVCON Consulting",
             "period": "2017 – Present",
-            "description": "GVP audits covering Affiliates, Systems, Business Partners, and Vendors. GDP, GCP and CSV audit services. SOP support, QMS consultancy, gap analysis, inspection readiness, GVP risk assessment, and audit program development."
+            "description": "GVP audits covering Affiliates, Systems, Business Partners, and Vendors & GMP,GDP, GCP and CSV audit services. Additional support with SOP development, QMS consultancy, Gap analysis, Inspection readiness, GVP risk assessment, and Audit program development."
           },
           {
-            "title": "Long-term Contract — PV Auditing & QA",
-            "company": "Bristol Myers Squibb, UK",
-            "period": "2021 – 2022",
-            "description": "PV auditing, gap analysis, PV Auditor training, development of procedures and risk-based PV audit programs."
-          },
-          {
-            "title": "Long-term Contract — PV Auditing & QA",
-            "company": "Seagen Inc., UK",
-            "period": "2020 – 2021",
-            "description": "PV auditing, gap analysis, PV Auditor training, development of procedures and risk-based PV audit programs."
-          },
-          {
-            "title": "Long-term Contract — PV Auditing & QA",
-            "company": "Johnson & Johnson Ethicon, UK",
-            "period": "2018 – 2019",
-            "description": "PV auditing, gap analysis, PV Auditor training, development of procedures and risk-based PV audit programs."
+            "title": "PV Auditing & QA",
+            "company": "Bristol Myers Squibb/ Seagen Inc./ Johnson & Johnson Ethicon",
+            "period": "2018 – 2022",
+            "description": "PV auditing, gGap analysis, PV Auditor training, dDevelopment of procedures and rRisk-based PV audit programs."
           },
           {
             "title": "Director, Global LOC QA, R&D GCP & GVP QA",
@@ -154,7 +144,7 @@
             "title": "QA Program Manager (Janssen R&D, J&J Family)",
             "company": "Independent Consultant",
             "period": "2014 & 2015 – 2018",
-            "description": "Performed Janssen R&D Quality & Compliance QA PV audits. Coached, mentored and developed internal auditors. Delivered training on PV topics and systems."
+            "description": "Performed Janssen R&D Quality & Compliance QA PV audits. Coached, mentored and developed iInternal auditors’ coaching, development and mentoring. Delivered Training on PV topics and systems."
           },
           {
             "title": "Associate Director of Pharmacovigilance",

@@ -1,8 +1,8 @@
 {
   "hero": {
     "tagline": "Spezialisierte globale Pharmakovigilanz- & GxP-Dienste für",
-    "heading": "PV-BERATUNG & GXP-AUDITS",
-    "description": "Bei PVCON bieten wir End-to-End-Pharmakovigilanz-Beratung, GxP-Auditing und Unternehmensschulungen — in Partnerschaft mit MAHs, Sponsoren und CROs weltweit für nachhaltige regulatorische Compliance und operative Exzellenz.",
+    "heading": "GXP-AUDITING & PV-BERATUNG",
+    "description": "Bei PVCON bieten wir End-to-End-GxP-Auditing, Pharmakovigilanz-Beratung und Unternehmensschulungen — in Partnerschaft mit MAHs, Sponsoren und CROs weltweit für nachhaltige regulatorische Compliance und operative Exzellenz.",
     "ctaPrimary": "Kontakt aufnehmen",
     "ctaSecondary": "Über uns"
   },
@@ -10,19 +10,19 @@
     "tagline": "Vertraut von MAHs, CROs und Sponsoren weltweit",
     "stats": [
       {
-        "value": "50+",
+        "value": "25+",
         "label": "Betreute Kunden"
       },
       {
-        "value": "15+",
+        "value": "100+",
         "label": "Länder"
       },
       {
-        "value": "100%",
-        "label": "Audit-Erfolgsrate"
+        "value": "450+",
+        "label": "Audit-Erfahrung"
       },
       {
-        "value": "10+",
+        "value": "15+",
         "label": "Jahre Erfahrung"
       }
     ]
@@ -54,26 +54,26 @@
   },
   "flagshipSolutions": {
     "label": "Flaggschiff-Lösungen",
-    "heading": "Was wir am besten können",
+    "heading": "Dienstleistungen",
     "description": "Vier Kernkompetenzen, die PVCON definieren — jede mit Präzision, tiefgreifendem regulatorischem Wissen und dem Engagement für den Schutz der Patientensicherheit weltweit.",
     "cta": "Alle Dienstleistungen entdecken",
     "learnMore": "Mehr erfahren",
     "services": {
-      "qppv": {
-        "title": "Lokale QPPV / PvOI",
-        "description": "Qualified Person for Pharmacovigilance und PV Oversight Individual Dienstleistungen in EU-Mitgliedstaaten und globalen Märkten — für volle Einhaltung der lokalen PV-Gesetzgebung."
-      },
       "audit": {
-        "title": "Audit & Inspektion",
-        "description": "Umfassende PV-System-Audits, Mock-Inspektionen und strukturierte CAPA-Pläne zur Vorbereitung auf erfolgreiche regulatorische Inspektionen."
+        "title": "Audits & Inspektionsbereitschaft",
+        "description": "Umfassende PV-System-Audits, Mock-Inspektionen und strukturierte CAPA-Pläne zur Vorbereitung Ihrer Organisation auf erfolgreiche regulatorische Inspektionen."
       },
-      "psmf": {
-        "title": "PSMF Manager",
-        "description": "KI-gestützte SaaS-Plattform für durchgängige PSMF-Compliance — automatisierte Erstellung, Versionskontrolle und stets auditbereit."
+      "pvoi": {
+        "title": "Lokale PVoI-Dienstleistungen",
+        "description": "PVCON bietet lokale PvOI-Supportdienste in Indien an und gewährleistet eine dedizierte Pharmakovigilanz-Überwachung im Einklang mit den CDSCO-Anforderungen."
+      },
+      "qms": {
+        "title": "PV QMS & Systemaufbau",
+        "description": "Bei PVCON entwerfen und implementieren wir robuste PV-QMS-Frameworks — von der SOP-Erstellung bis zum vollständigen PV-Systemaufbau — für inspektionsbereite und skalierbare Pharmakovigilanz-Operationen."
       },
       "training": {
-        "title": "Schulung & Kompetenzentwicklung",
-        "description": "Strukturierte Schulungsprogramme und Kompetenzentwicklungslösungen, die Ihre Teams mit dem Wissen für Compliance und operative Exzellenz ausstatten."
+        "title": "Schulung & Weiterbildung",
+        "description": "PVCON bietet branchenorientierte Schulungs- und Weiterbildungsprogramme für Studierende und Fachleute der Pharmakovigilanz. Unsere Programme konzentrieren sich auf praktisches Wissen und Praxistauglichkeit."
       }
     }
   },
@@ -206,7 +206,7 @@
     "label": "FAQ",
     "title": "Häufig gestellte Fragen",
     "contact": "Stellen Sie uns Ihre Fragen!",
-    "email": "support@pvcon.in",
+    "email": "info@pvcon.in",
     "items": [
       {
         "question": "Was ist ein QPPV und welche Dienste bietet PVCON an?",
@@ -226,8 +226,18 @@
       },
       {
         "question": "Wie kann ich mit PVCON beginnen?",
-        "answer": "Kontaktieren Sie uns unter support@pvcon.in mit einer kurzen Beschreibung Ihrer Bedürfnisse. Unser Team antwortet innerhalb eines Werktages, um ein kostenloses Erstgespräch zu vereinbaren."
+        "answer": "Kontaktieren Sie uns unter info@pvcon.in mit einer kurzen Beschreibung Ihrer Bedürfnisse. Unser Team antwortet innerhalb eines Werktages, um ein kostenloses Erstgespräch zu vereinbaren."
       }
+    ]
+  },
+  "globalPresence": {
+    "tag": "Globale Reichweite",
+    "heading": "Unsere Globale Präsenz",
+    "subtitle": "Von unserem Hauptsitz in Mumbai aus betreut PVCON Kunden auf der ganzen Welt — GxP-Audits, Pharmakovigilanz-Beratung und regulatorische Unterstützung.",
+    "stats": [
+      { "value": "100+", "label": "Betreute Länder" },
+      { "value": "6", "label": "Kontinente" },
+      { "value": "25+", "label": "Kunden weltweit" }
     ]
   },
   "stats": {
@@ -245,5 +255,20 @@
         "description": "Globale regulatorische Rahmenwerke abgedeckt, von EU-GVP bis FDA, PMDA und CDSCO."
       }
     ]
+  },
+  "productSpotlight": {
+    "tag": "Unser Produkt",
+    "heading": "PSMF-Manager",
+    "badge": "KI-Powered Plattform",
+    "description": "Die branchenweit erste AI-basierte SaaS-Plattform für Pharmacovigilance System Master File Management.",
+    "features": {
+      "01": "AI-Driven Compliance-Überprüfung",
+      "02": "Automatisierte Dokumentenerstellung",
+      "03": "Vollständige Prüfprotokoll & Versionskontrolle",
+      "04": "Globale und lokale PSMF-Koordination"
+    },
+    "cta": "PSMF Manager erkunden",
+    "secondaryCta": "Besuchen Sie psmfmanager.com",
+    "secondaryUrl": "https://www.psmfmanager.com"
   }
 }

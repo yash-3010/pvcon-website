@@ -36,7 +36,7 @@ const Hero: React.FC = async () => {
             </p>
             <div className="mt-8 flex items-center gap-6">
               <Link
-                href="/#cta"
+                href="/contact"
                 className="bg-secondary hover:bg-secondary/90 text-white font-semibold px-7 py-3 rounded-full transition-colors text-xs uppercase tracking-[0.15em]"
               >
                 {t("ctaPrimary")}

@@ -3,7 +3,7 @@
     "hero": {
       "tagline": "Notre entreprise",
       "title": "Direction & Présence mondiale",
-      "subtitle": "Découvrez les personnes et le réseau mondial derrière PVCON — l’excellence en pharmacovigilance dans plus de 25 pays et 4 continents."
+      "subtitle": "Découvrez les personnes et le réseau mondial derrière PVCON — l’excellence en pharmacovigilance dans plus de 100 pays et 6 continents."
     },
     "leadership": {
       "tag": "Direction",
@@ -26,18 +26,18 @@
     "globalPresence": {
       "tag": "Portée mondiale",
       "heading": "Notre présence mondiale",
-      "subtitle": "Depuis notre siège à Mumbai, PVCON accompagne des clients à travers le monde — conseil en pharmacovigilance, audits GxP et soutien réglementaire.",
+      "subtitle": "Depuis notre siège à Mumbai, PVCON accompagne des clients à travers le monde — audits GxP, conseil en pharmacovigilance et soutien réglementaire.",
       "stats": [
         {
-          "value": "102",
+          "value": "100+",
           "label": "Pays desservis"
         },
         {
-          "value": "4",
+          "value": "6",
           "label": "Continents"
         },
         {
-          "value": "50+",
+          "value": "25+",
           "label": "Clients dans le monde"
         }
       ]

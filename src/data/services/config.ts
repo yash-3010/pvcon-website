@@ -1,5 +1,5 @@
 import type { IconType } from "react-icons";
-import { FiSearch, FiShield, FiBookOpen, FiFileText, FiFolder } from "react-icons/fi";
+import { FiSearch, FiShield, FiBookOpen, FiFileText } from "react-icons/fi";
 
 export interface SubService {
   id: string;
@@ -26,14 +26,14 @@ export const serviceCategories: ServiceCategory[] = [
     slug: "pv-consulting",
     icon: FiShield,
     subcategories: [
+      { id: "local-qppv-pvoi" },
       { id: "pv-qms" },
       { id: "audit-inspection-readiness" },
-      { id: "local-qppv-pvoi" },
       { id: "regulatory-intelligence" },
     ],
   },
   {
-    slug: "training-capability-development",
+    slug: "training-upskilling",
     icon: FiBookOpen,
     subcategories: [
       { id: "training-matrix" },
@@ -48,15 +48,8 @@ export const serviceCategories: ServiceCategory[] = [
     subcategories: [
       { id: "rmp-rems-writing" },
       { id: "aggregate-report-writing" },
-      { id: "global-labeling" },
       { id: "clinical-safety-documents" },
     ],
-  },
-  {
-    slug: "psmf",
-    icon: FiFolder,
-    isProduct: true,
-    subcategories: [],
   },
 ];
 
@@ -66,4 +59,19 @@ export function getServiceBySlug(slug: string) {
 
 export function getAllServiceSlugs() {
   return serviceCategories.map((s) => s.slug);
+}
+
+export function getSubServiceById(slug: string, subSlug: string) {
+  const service = getServiceBySlug(slug);
+  if (!service) return undefined;
+  return service.subcategories.find((sub) => sub.id === subSlug);
+}
+
+export function getAllSubServiceParams() {
+  return serviceCategories.flatMap((service) =>
+    service.subcategories.map((sub) => ({
+      slug: service.slug,
+      subSlug: sub.id,
+    }))
+  );
 }

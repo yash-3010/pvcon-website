@@ -60,7 +60,7 @@ export default async function GalleryPage({ params: { locale } }: Props) {
       "@type": "Organization",
       name: siteDetails.siteName,
       url: siteDetails.siteUrl,
-      logo: `${siteDetails.siteUrl}/images/logo.webp`,
+      logo: `${siteDetails.siteUrl}/images/logo.svg`,
       description: tMeta("description"),
       sameAs: ["https://www.linkedin.com/company/pvcon-consulting"],
     },

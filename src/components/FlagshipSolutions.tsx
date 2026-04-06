@@ -4,8 +4,8 @@ import { Link } from "@/i18n/navigation";
 import FadeInView from "./FadeInView";
 import SectionLabel from "./SectionLabel";
 import {
-  FiShield,
   FiSearch,
+  FiShield,
   FiFolder,
   FiBookOpen,
   FiArrowRight,
@@ -19,12 +19,77 @@ interface FlagshipService {
 }
 
 const flagshipServices: FlagshipService[] = [
-  { key: "qppv", icon: FiShield, href: "/services/pv-consulting" },
-  { key: "audit", icon: FiSearch, href: "/services/gxp-audits" },
-  { key: "psmf", icon: FiFolder, href: "/services/psmf" },
-  { key: "training", icon: FiBookOpen, href: "/services/training-capability-development" },
+  { key: "audit", href: "/services/gxp-audits", icon: FiSearch },
+  { key: "pvoi", href: "/services/pv-consulting", icon: FiShield },
+  { key: "qms", href: "/services/pv-consulting", icon: FiFolder },
+  { key: "training", href: "/services/training-upskilling", icon: FiBookOpen },
 ];
 
+/* ── Service tile ──────────────────────────────────────────── */
+interface TileProps {
+  service: FlagshipService;
+  t: Awaited<ReturnType<typeof getTranslations>>;
+  align?: "left" | "right";
+  num: string;
+}
+
+function ServiceTile({ service, t, align, num }: TileProps) {
+  const Icon = service.icon;
+  const isRight = align === "right";
+
+  return (
+    <Link href={service.href} className="group block">
+      <div
+        className={[
+          "relative p-6 lg:p-8 rounded-2xl border border-gray-100 bg-white",
+          "hover:border-primary/30 hover:shadow-lg transition-all duration-300",
+          isRight ? "lg:text-right" : "",
+        ].join(" ")}
+      >
+        {/* Number watermark */}
+        <span
+          className={[
+            "absolute top-4 text-6xl font-black text-primary/[0.06] leading-none select-none pointer-events-none",
+            isRight ? "left-4" : "right-4",
+          ].join(" ")}
+          aria-hidden="true"
+        >
+          {num}
+        </span>
+
+        <div
+          className={[
+            "flex items-center gap-3 mb-3",
+            isRight ? "lg:flex-row-reverse" : "",
+          ].join(" ")}
+        >
+          <div className="w-11 h-11 rounded-xl bg-primary/10 flex items-center justify-center shrink-0 group-hover:bg-primary/20 transition-colors">
+            <Icon className="w-5 h-5 text-primary" />
+          </div>
+          <h3 className="text-lg font-bold tracking-tight">
+            {t(`services.${service.key}.title`)}
+          </h3>
+        </div>
+
+        <p className="text-foreground-accent text-sm leading-relaxed mb-4">
+          {t(`services.${service.key}.description`)}
+        </p>
+
+        <div
+          className={[
+            "flex items-center gap-1.5 text-primary text-xs font-semibold uppercase tracking-widest group-hover:gap-2.5 transition-all",
+            isRight ? "lg:justify-end" : "",
+          ].join(" ")}
+        >
+          {t("learnMore")}
+          <FiArrowRight className="w-3.5 h-3.5" />
+        </div>
+      </div>
+    </Link>
+  );
+}
+
+/* ── Main exported component (server) ────────────────────── */
 const FlagshipSolutions: React.FC = async () => {
   const t = await getTranslations("flagshipSolutions");
 
@@ -138,7 +203,7 @@ const FlagshipSolutions: React.FC = async () => {
             </div>
           </FadeInView>
 
-          {/* Service cards — 2×2 on tablet, 1-col on mobile */}
+          {/* Service cards — 2x2 on tablet, 1-col on mobile */}
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-5">
             {flagshipServices.map((service, i) => (
               <FadeInView key={service.key} delay={i * 0.1}>
@@ -164,69 +229,5 @@ const FlagshipSolutions: React.FC = async () => {
     </section>
   );
 };
-
-/* ── Service tile ──────────────────────────────────────────── */
-interface TileProps {
-  service: FlagshipService;
-  t: Awaited<ReturnType<typeof getTranslations>>;
-  align?: "left" | "right";
-  num: string;
-}
-
-function ServiceTile({ service, t, align, num }: TileProps) {
-  const Icon = service.icon;
-  const isRight = align === "right";
-
-  return (
-    <Link href={service.href} className="group block">
-      <div
-        className={[
-          "relative p-6 lg:p-8 rounded-2xl border border-gray-100 bg-white",
-          "hover:border-primary/30 hover:shadow-lg transition-all duration-300",
-          isRight ? "lg:text-right" : "",
-        ].join(" ")}
-      >
-        {/* Number watermark */}
-        <span
-          className={[
-            "absolute top-4 text-6xl font-black text-primary/[0.06] leading-none select-none pointer-events-none",
-            isRight ? "left-4" : "right-4",
-          ].join(" ")}
-          aria-hidden="true"
-        >
-          {num}
-        </span>
-
-        <div
-          className={[
-            "flex items-center gap-3 mb-3",
-            isRight ? "lg:flex-row-reverse" : "",
-          ].join(" ")}
-        >
-          <div className="w-11 h-11 rounded-xl bg-primary/10 flex items-center justify-center shrink-0 group-hover:bg-primary/20 transition-colors">
-            <Icon className="w-5 h-5 text-primary" />
-          </div>
-          <h3 className="text-lg font-bold tracking-tight">
-            {t(`services.${service.key}.title`)}
-          </h3>
-        </div>
-
-        <p className="text-foreground-accent text-sm leading-relaxed mb-4">
-          {t(`services.${service.key}.description`)}
-        </p>
-
-        <div
-          className={[
-            "flex items-center gap-1.5 text-primary text-xs font-semibold uppercase tracking-widest group-hover:gap-2.5 transition-all",
-            isRight ? "lg:justify-end" : "",
-          ].join(" ")}
-        >
-          {t("learnMore")}
-          <FiArrowRight className="w-3.5 h-3.5" />
-        </div>
-      </div>
-    </Link>
-  );
-}
 
 export default FlagshipSolutions;

@@ -4,6 +4,7 @@ import { Link } from "@/i18n/navigation";
 import { getTranslations } from "next-intl/server";
 import { siteDetails } from "@/data/common/siteDetails";
 import { aboutConfig } from "@/data/about/config";
+import { companyConfig } from "@/data/company/config";
 import { getAlternateUrls, getCanonicalUrl } from "@/lib/i18n-utils";
 import FadeInView from "@/components/FadeInView";
 import GeometricBg from "@/components/GeometricBg";
@@ -15,7 +16,9 @@ interface Props {
   params: { locale: string };
 }
 
-export async function generateMetadata({ params: { locale } }: Props): Promise<Metadata> {
+export async function generateMetadata({
+  params: { locale },
+}: Props): Promise<Metadata> {
   const tMeta = await getTranslations({ locale, namespace: "metadata.about" });
   const canonical = getCanonicalUrl(locale, "/about");
 
@@ -56,6 +59,7 @@ const coreValueKeys = ["01", "02", "03", "04"] as const;
 
 export default async function AboutPage({ params: { locale } }: Props) {
   const t = await getTranslations({ locale, namespace: "about" });
+  const tCompany = await getTranslations({ locale, namespace: "company" });
   const tMeta = await getTranslations({ locale, namespace: "metadata.about" });
   const canonical = getCanonicalUrl(locale, "/about");
 
@@ -65,7 +69,7 @@ export default async function AboutPage({ params: { locale } }: Props) {
       "@type": "Organization",
       name: siteDetails.siteName,
       url: siteDetails.siteUrl,
-      logo: `${siteDetails.siteUrl}/images/logo.webp`,
+      logo: `${siteDetails.siteUrl}/images/logo.svg`,
       description: tMeta("description"),
       sameAs: ["https://www.linkedin.com/company/pvcon-consulting"],
     },
@@ -92,47 +96,75 @@ export default async function AboutPage({ params: { locale } }: Props) {
         subtitle={t("hero.subtitle")}
       />
 
-      {/* ── Who We Are — Image Left, Text Right ──────────────── */}
+      {/* ── Leadership / CEO ────────────────────────────────── */}
       <section className="relative overflow-hidden">
-        <div className="max-w-7xl mx-auto flex flex-col lg:flex-row">
-          <div className="lg:w-1/2 relative items-center flex min-h-[400px] lg:min-h-[600px] lg:p-8 md:p-8">
-            <Image
-              src={aboutConfig.storyImageSrc}
-              alt={t("images.aboutAlt")}
-              width={384}
-              height={200}
-              quality={80}
-              sizes="(max-width: 1024px) 100vw, 50vw"
-              className="object-cover mx-auto"
-              loading="lazy"
-            />
+        <div className="max-w-7xl mx-auto flex flex-col lg:flex-row items-center">
+          {/* Photo column (left) */}
+          <div className="lg:w-1/2 flex items-center justify-center p-8 lg:p-12">
+            <FadeInView>
+              
+                <div className=" min-h-[400px] lg:min-h-[600px]">
+                  <Image
+                    src={companyConfig.ceoImageSrc}
+                    alt={tCompany("leadership.ceo.name")}
+                    width={384}
+                    height={200}
+                    quality={80}
+                    sizes="(max-width: 1024px) 100vw, 50vw"
+                    className="object-cover mx-auto"
+                    loading="lazy"
+                  />
+                </div>
+            </FadeInView>
           </div>
 
-          <div className="lg:w-1/2 px-8 py-16 lg:px-16 lg:py-24 flex flex-col justify-center relative">
-            <div
-              className="absolute -right-20 -top-20 w-[300px] h-[300px] rounded-full border border-white/10"
-              aria-hidden="true"
-            />
-
-            <FadeInView>
-              <SectionLabel>{t("whoWeAre.tag")}</SectionLabel>
-              <h2 className="text-4xl md:text-5xl font-bold uppercase tracking-tight mb-10">
-                {t("whoWeAre.heading")}
+          {/* Bio & Credentials column (right) */}
+          <div className="lg:w-1/2 px-8 py-16 lg:px-16 lg:py-24 flex flex-col justify-center">
+            <FadeInView delay={0.1}>
+              <SectionLabel>{tCompany("leadership.tag")}</SectionLabel>
+              <h2 className="text-4xl md:text-5xl lg:text-[3.5rem] font-bold text-foreground mb-2 leading-tight">
+                {tCompany("leadership.ceo.name")}
               </h2>
+              <p className="text-foreground-accent text-base md:text-lg mb-8">
+                {tCompany("leadership.ceo.title")}
+              </p>
             </FadeInView>
 
-            <FadeInView delay={0.15}>
-              <div className="border-l-2 border-white/20 space-y-5">
+            <FadeInView delay={0.2}>
+              <div className="space-y-5 mb-10">
                 <p className="text-foreground-accent leading-relaxed text-base">
-                  {t("whoWeAre.story.p1")}
+                  {tCompany("leadership.ceo.message")}
                 </p>
                 <p className="text-foreground-accent leading-relaxed text-base">
-                  {t("whoWeAre.story.p2")}
-                </p>
-                <p className="text-foreground-accent leading-relaxed text-base">
-                  {t("whoWeAre.story.p3")}
+                  {tCompany("leadership.ceo.message2")}
                 </p>
               </div>
+            </FadeInView>
+
+            <FadeInView delay={0.3}>
+              <ul className="space-y-3 border-t border-gray-200 pt-8">
+                {Array.from({ length: 6 }, (_, i) => (
+                  <li
+                    key={i}
+                    className="flex items-start gap-3 text-foreground-accent text-sm"
+                  >
+                    <svg
+                      className="w-4 h-4 text-primary mt-0.5 shrink-0"
+                      fill="none"
+                      viewBox="0 0 24 24"
+                      stroke="currentColor"
+                      strokeWidth={2}
+                    >
+                      <path
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                        d="M5 13l4 4L19 7"
+                      />
+                    </svg>
+                    {tCompany(`leadership.ceo.credentials.${i}`)}
+                  </li>
+                ))}
+              </ul>
             </FadeInView>
           </div>
         </div>
@@ -168,7 +200,7 @@ export default async function AboutPage({ params: { locale } }: Props) {
             <FadeInView delay={0.25}>
               <div className="mt-8">
                 <Link
-                  href="/#cta"
+                  href="/contact"
                   className="inline-flex bg-secondary hover:bg-secondary/90 text-white font-semibold px-7 py-3 rounded-full transition-colors text-xs uppercase tracking-[0.15em]"
                 >
                   {t("buttons.workWithUs")}
@@ -201,9 +233,6 @@ export default async function AboutPage({ params: { locale } }: Props) {
               {t("whyChoose.heading")}
             </h2>
             <div className="max-w-3xl mx-auto text-center mb-16 space-y-4">
-              <p className="text-foreground-accent leading-relaxed text-sm">
-                {t("whyChoose.intro.p1")}
-              </p>
               <p className="text-foreground-accent leading-relaxed text-sm">
                 {t("whyChoose.intro.p2")}
               </p>
@@ -239,7 +268,7 @@ export default async function AboutPage({ params: { locale } }: Props) {
             heading={t("cta.heading")}
             description={t("cta.text")}
             ctaLabel={t("buttons.getInTouch")}
-            ctaHref="/#cta"
+            ctaHref="/contact"
           />
         </div>
       </section>
