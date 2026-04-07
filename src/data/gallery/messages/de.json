@@ -5,6 +5,13 @@
       "tagline": "Unsere Arbeit",
       "title": "Galerie",
       "subtitle": "Entdecken Sie unser Portfolio an Pharmakovigilanz-Beratungsprojekten, regulatorischen Prüfungen und Branchenveranstaltungen."
+    },
+    "timeline": {
+      "scrollHint": "Scroll to explore",
+      "lightboxPrev": "Previous photo",
+      "lightboxNext": "Next photo",
+      "lightboxClose": "Close",
+      "emptyState": "Gallery coming soon."
     }
   }
 }

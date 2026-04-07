@@ -5,6 +5,13 @@
       "tagline": "我们的工作",
       "title": "相册",
       "subtitle": "探索我们的药物警戒咨询项目、监管审计和行业活动。"
+    },
+    "timeline": {
+      "scrollHint": "Scroll to explore",
+      "lightboxPrev": "Previous photo",
+      "lightboxNext": "Next photo",
+      "lightboxClose": "Close",
+      "emptyState": "Gallery coming soon."
     }
   }
 }
