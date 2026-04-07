@@ -59,7 +59,7 @@ export default async function TeamPage({ params: { locale } }: Props) {
       "@type": "Organization",
       name: siteDetails.siteName,
       url: siteDetails.siteUrl,
-      logo: `${siteDetails.siteUrl}/images/logo.svg`,
+      logo: siteDetails.siteLogoUrl,
     },
   ];
 

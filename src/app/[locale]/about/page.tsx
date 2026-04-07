@@ -69,7 +69,7 @@ export default async function AboutPage({ params: { locale } }: Props) {
       "@type": "Organization",
       name: siteDetails.siteName,
       url: siteDetails.siteUrl,
-      logo: `${siteDetails.siteUrl}/images/logo.svg`,
+      logo: siteDetails.siteLogoUrl,
       description: tMeta("description"),
       sameAs: ["https://www.linkedin.com/company/pvcon-consulting"],
     },

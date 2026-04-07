@@ -108,7 +108,7 @@ export default async function TeamMemberPage({
       "@type": "Organization",
       name: "PVCON Consulting Pvt Ltd",
       url: siteDetails.siteUrl,
-      logo: `${siteDetails.siteUrl}/images/logo.svg`,
+      logo: siteDetails.siteLogoUrl,
     },
     memberOf: {
       "@type": "Organization",

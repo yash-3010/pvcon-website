@@ -67,7 +67,7 @@ export default async function SubServicePage({ params: { locale, slug, subSlug }
       "@type": "Organization",
       name: siteDetails.siteName,
       url: siteDetails.siteUrl,
-      logo: `${siteDetails.siteUrl}/images/logo.svg`,
+      logo: siteDetails.siteLogoUrl,
     },
     {
       "@context": "https://schema.org",
