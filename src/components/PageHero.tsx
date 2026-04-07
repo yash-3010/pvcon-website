@@ -27,7 +27,7 @@ const PageHero: React.FC<PageHeroProps> = ({ label, heading, subtitle }) => {
         </FadeInView>
 
         <FadeInView delay={0.1}>
-          <h1 className="text-5xl sm:text-7xl md:text-8xl lg:text-[7rem] leading-[0.95] font-extrabold text-foreground uppercase tracking-tighter mb-8">
+          <h1 className="text-5xl sm:text-7xl md:text-8xl leading-[0.95] font-extrabold text-foreground uppercase tracking-tighter mb-8">
             {heading}
           </h1>
         </FadeInView>

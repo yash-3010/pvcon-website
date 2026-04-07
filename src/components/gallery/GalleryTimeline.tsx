@@ -1,51 +1,33 @@
 // src/components/gallery/GalleryTimeline.tsx
 "use client";
 
-import React, { useEffect, useRef, useState } from "react";
+import React from "react";
 import EventBlock from "./EventBlock";
-import TimelineRail from "./TimelineRail";
 import ScrollHint from "./ScrollHint";
 import { useInfiniteEvents } from "./useInfiniteEvents";
-import type { HydratedEvent, YearGroup, EventLocale } from "@/types/gallery";
+import type { HydratedEvent, EventLocale } from "@/types/gallery";
 
 interface GalleryTimelineProps {
   events: HydratedEvent[]; // already sorted descending
-  yearGroups: YearGroup[];
   locale: EventLocale;
   scrollHintLabel: string;
   emptyStateLabel: string;
 }
 
+/**
+ * Editorial vertical timeline.
+ * - Year acts as a header on the left for the first event of each year group.
+ * - A continuous vertical line runs through a dedicated dot column.
+ * - Each event has a pulsing dot on the line, with content on the right.
+ * - Empty years are not rendered.
+ */
 const GalleryTimeline: React.FC<GalleryTimelineProps> = ({
   events,
-  yearGroups,
   locale,
   scrollHintLabel,
   emptyStateLabel,
 }) => {
   const { renderedCount, setSentinel } = useInfiniteEvents(events.length);
-  const [activeYear, setActiveYear] = useState<number | null>(
-    events[0]?.year ?? null
-  );
-  const eventRefs = useRef<Map<string, HTMLDivElement>>(new Map());
-
-  // Track which event is in the viewport center to update active year on the rail
-  useEffect(() => {
-    const io = new IntersectionObserver(
-      (entries) => {
-        const visible = entries
-          .filter((e) => e.isIntersecting)
-          .sort((a, b) => b.intersectionRatio - a.intersectionRatio);
-        if (visible[0]) {
-          const yearAttr = (visible[0].target as HTMLElement).dataset.year;
-          if (yearAttr) setActiveYear(Number(yearAttr));
-        }
-      },
-      { rootMargin: "-40% 0px -40% 0px", threshold: [0, 0.25, 0.5, 0.75, 1] }
-    );
-    eventRefs.current.forEach((el) => io.observe(el));
-    return () => io.disconnect();
-  }, [renderedCount]);
 
   if (events.length === 0) {
     return (
@@ -55,29 +37,63 @@ const GalleryTimeline: React.FC<GalleryTimelineProps> = ({
 
   const visibleEvents = events.slice(0, renderedCount);
 
+  // Group consecutive events by year (descending order preserved).
+  const yearGroups: { year: number; events: HydratedEvent[] }[] = [];
+  for (const event of visibleEvents) {
+    const last = yearGroups[yearGroups.length - 1];
+    if (last && last.year === event.year) {
+      last.events.push(event);
+    } else {
+      yearGroups.push({ year: event.year, events: [event] });
+    }
+  }
+
   return (
     <>
-      <div className="relative max-w-7xl mx-auto px-5 lg:px-10">
-        <div className="lg:grid lg:grid-cols-[8rem_1fr] lg:gap-12">
-          <TimelineRail groups={yearGroups} activeYear={activeYear} />
-          <div className="min-w-0">
-            {visibleEvents.map((event) => (
-              <div
-                key={event.id}
-                data-year={event.year}
-                ref={(el) => {
-                  if (el) eventRefs.current.set(event.id, el);
-                  else eventRefs.current.delete(event.id);
-                }}
-              >
+      <div className="relative max-w-5xl mx-auto px-5 lg:px-10 border-b-2 border-t-2 border-secondary/80">
+        {yearGroups.flatMap((group) =>
+          group.events.map((event, idx) => (
+            <div
+              key={event.id}
+              className="relative grid grid-cols-[3rem_2rem_1fr] lg:grid-cols-[7rem_3rem_1fr]"
+            >
+              {/* Col 1: Year label, only on the first event of each year */}
+              <div className="flex items-start justify-end pr-0 lg:pr-4 pt-1">
+                {idx === 0 && (
+                  <span className="font-serif font-bold leading-none text-right text-2xl lg:text-5xl text-secondary">
+                    {group.year}
+                  </span>
+                )}
+              </div>
+
+              {/* Col 2: Vertical line + pulsing dot */}
+              <div className="relative flex justify-center pt-1 lg:pt-6">
+                {/* Continuous vertical line through this column's center */}
+                <div
+                  aria-hidden
+                  className="absolute top-0 bottom-0 left-1/2 w-px -translate-x-1/2 bg-black"
+                />
+                {/* Pulsing dot */}
+                <span
+                  aria-hidden
+                  className="relative z-10 mt-2 lg:mt-0.5 flex h-3 w-3 lg:h-4 lg:w-4"
+                >
+                  <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-primary" />
+                  <span className="relative inline-flex h-3 w-3 lg:h-4 lg:w-4 rounded-full bg-primary" />
+                </span>
+              </div>
+
+              {/* Col 3: Event content */}
+              <div className="pl-4 lg:pl-8 min-w-0 pb-20 lg:pb-28 pt-2 lg:pt-6">
                 <EventBlock event={event} locale={locale} />
               </div>
-            ))}
-            {renderedCount < events.length && (
-              <div ref={setSentinel} aria-hidden className="h-10" />
-            )}
-          </div>
-        </div>
+            </div>
+          )),
+        )}
+
+        {renderedCount < events.length && (
+          <div ref={setSentinel} aria-hidden className="h-10" />
+        )}
       </div>
       <ScrollHint label={scrollHintLabel} />
     </>

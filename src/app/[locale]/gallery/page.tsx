@@ -5,7 +5,7 @@ import { getAlternateUrls, getCanonicalUrl } from "@/lib/i18n-utils";
 import PageHero from "@/components/PageHero";
 import GeometricBg from "@/components/GeometricBg";
 import GalleryTimeline from "@/components/gallery/GalleryTimeline";
-import { getHydratedEvents, getYearGroups } from "@/lib/gallery-events";
+import { getHydratedEvents } from "@/lib/gallery-events";
 import type { EventLocale } from "@/types/gallery";
 import galleryImages from "@/data/gallery/images.json";
 
@@ -56,7 +56,6 @@ export default async function GalleryPage({ params: { locale } }: Props) {
   const canonical = getCanonicalUrl(locale, "/gallery");
 
   const events = getHydratedEvents();
-  const yearGroups = getYearGroups(events);
 
   const jsonLd = [
     {
@@ -102,7 +101,6 @@ export default async function GalleryPage({ params: { locale } }: Props) {
         <GeometricBg />
         <GalleryTimeline
           events={events}
-          yearGroups={yearGroups}
           locale={locale as EventLocale}
           scrollHintLabel={t("timeline.scrollHint")}
           emptyStateLabel={t("timeline.emptyState")}

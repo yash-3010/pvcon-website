@@ -26,7 +26,7 @@ const Footer: React.FC = async () => {
 
   return (
     <footer className="bg-[#202f63] text-white py-14">
-      <div className="max-w-7xl w-full mx-auto px-6 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-10">
+      <div className="max-w-7xl w-full mx-auto px-6 grid grid-cols-2 lg:grid-cols-4 gap-10">
         <div>
           <Link href="/" className="flex items-center gap-2">
             <Image
@@ -43,7 +43,7 @@ const Footer: React.FC = async () => {
             {t("subheading")}
           </p>
         </div>
-        <div>
+        <div className="mt-14 lg:mt-0">
           <h2 className="text-xs font-semibold uppercase tracking-wider mb-5 text-white/70">
             {t("quickLinksTitle")}
           </h2>
@@ -111,7 +111,7 @@ const Footer: React.FC = async () => {
           )}
         </div>
       </div>
-      <div className="mt-10 border-t border-white/10 pt-6 md:text-center text-white/80 text-sm px-6">
+      <div className="mt-10 border-t border-white/10 pt-6 text-center text-white/80 text-sm px-6">
         <p>
           Copyright &copy; {new Date().getFullYear()} {siteDetails.siteName} | {t("copyright")}
         </p>

@@ -11,39 +11,34 @@ const ScrollHint: React.FC<ScrollHintProps> = ({ label }) => {
   const [visible, setVisible] = useState(true);
 
   useEffect(() => {
-    const onScroll = () => {
-      if (window.scrollY > 100) setVisible(false);
+    const update = () => {
+      const distanceFromBottom =
+        document.documentElement.scrollHeight -
+        (window.scrollY + window.innerHeight);
+      setVisible(distanceFromBottom > 700);
+      console.log(distanceFromBottom)
     };
-    window.addEventListener("scroll", onScroll, { passive: true });
-    return () => window.removeEventListener("scroll", onScroll);
+    update();
+    window.addEventListener("scroll", update, { passive: true });
+    window.addEventListener("resize", update);
+    return () => {
+      window.removeEventListener("scroll", update);
+      window.removeEventListener("resize", update);
+    };
   }, []);
 
   return (
     <div
       aria-hidden={!visible}
       className={[
-        "fixed bottom-8 left-1/2 -translate-x-1/2 z-30",
-        "flex flex-col items-center gap-2 pointer-events-none",
+        "fixed bottom-6 right-16 -translate-x-1/2 z-30",
+        "flex flex-col items-center gap-2 pointer-events-none animate-bounce",
         "transition-opacity duration-500",
         visible ? "opacity-60" : "opacity-0",
       ].join(" ")}
     >
       <span className="text-xs uppercase tracking-[0.2em] text-foreground/60">
         {label}
-      </span>
-      <span className="relative flex h-6 w-6 items-center justify-center">
-        <span className="absolute inline-flex h-full w-full rounded-full bg-primary/30 animate-ping" />
-        <svg
-          width="14"
-          height="14"
-          viewBox="0 0 24 24"
-          fill="none"
-          stroke="currentColor"
-          strokeWidth="2"
-          className="relative text-primary"
-        >
-          <path d="M6 9l6 6 6-6" strokeLinecap="round" strokeLinejoin="round" />
-        </svg>
       </span>
     </div>
   );

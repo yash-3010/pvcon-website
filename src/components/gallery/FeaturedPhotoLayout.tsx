@@ -23,12 +23,12 @@ const FeaturedPhotoLayout: React.FC<FeaturedPhotoLayoutProps> = ({
   const visibleThumbs = thumbnails.slice(0, 4);
 
   return (
-    <div className="grid grid-cols-1 lg:grid-cols-5 gap-3 mt-8">
+    <div className="grid grid-cols-1 lg:grid-cols-5 gap-4 mt-8">
       {/* Featured hero */}
       <button
         type="button"
         onClick={() => onPhotoClick(0)}
-        className="lg:col-span-3 group relative overflow-hidden rounded-lg aspect-[4/3] focus:outline-none focus-visible:ring-2 focus-visible:ring-primary"
+        className="lg:col-span-3 group relative overflow-hidden rounded-lg aspect-[16/8] focus:outline-none focus-visible:ring-2 focus-visible:ring-primary"
       >
         <Image
           src={featured.src}
@@ -44,13 +44,13 @@ const FeaturedPhotoLayout: React.FC<FeaturedPhotoLayoutProps> = ({
 
       {/* Thumbnail grid */}
       {visibleThumbs.length > 0 && (
-        <div className="lg:col-span-2 grid grid-cols-2 gap-3">
+        <div className="lg:col-span-2 grid grid-cols-2 gap-4">
           {visibleThumbs.map((img, i) => (
             <button
               key={img.src + i}
               type="button"
               onClick={() => onPhotoClick(i + 1)}
-              className="group relative overflow-hidden rounded-lg aspect-square focus:outline-none focus-visible:ring-2 focus-visible:ring-primary"
+              className="group relative overflow-hidden rounded-lg aspect-[4/3] focus:outline-none focus-visible:ring-2 focus-visible:ring-primary"
             >
               <Image
                 src={img.src}

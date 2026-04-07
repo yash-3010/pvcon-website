@@ -52,14 +52,14 @@ const EventBlock: React.FC<EventBlockProps> = ({ event, locale }) => {
   }));
 
   return (
-    <article data-event-year={event.year} className="py-16 lg:py-24 first:pt-0">
+    <article data-event-year={event.year}>
       <p className="text-xs lg:text-sm uppercase tracking-[0.2em] text-primary font-medium">
         {formatDate(event.date, locale)} · {event.location}
       </p>
-      <h2 className="mt-4 font-serif text-3xl lg:text-5xl leading-tight text-foreground">
+      <h2 className="mt-4 font-serif text-3xl lg:text-6xl leading-tight text-foreground">
         {pickLocalized(event.title, locale)}
       </h2>
-      <p className="mt-5 max-w-2xl text-base lg:text-lg text-foreground/70 leading-relaxed">
+      <p className="mt-5 max-w-2xl text-base lg:text-base text-gray-600 leading-relaxed">
         {pickLocalized(event.description, locale)}
       </p>
 
