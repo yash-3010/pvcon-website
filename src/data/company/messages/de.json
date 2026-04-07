@@ -2,35 +2,35 @@
   "company": {
     "hero": {
       "tagline": "Unser Unternehmen",
-      "title": "Leitung & Globale Präsenz",
-      "subtitle": "Lernen Sie die Menschen und das globale Netzwerk hinter PVCON kennen — Pharmakovigilanz-Exzellenz in 100+ Ländern und 6 Kontinenten."
+      "title": "Führung und globale Präsenz",
+      "subtitle": "Treffen Sie die Menschen und das globale Netzwerk hinter PVCON – die Pharmakovigilanz-Exzellenz in über 100 Ländern und 6 Kontinenten."
     },
     "leadership": {
-      "tag": "Unternehmensleitung",
-      "heading": "Botschaft des CEO",
+      "tag": "Führung",
+      "heading": "Nachricht vom CEO",
       "ceo": {
-        "name": "Moin Don",
-        "title": "Präsident & CEO, Gründer",
-        "message": "Mit über 50 Jahren Erfahrung in der Pharmaindustrie habe ich PVCON gegründet, um die Lücke zwischen regulatorischen Anforderungen und operativer Realität in der Pharmakovigilanz zu schließen. In Führungspositionen bei Sanofi Aventis und Dr. Reddy's sowie als Regional PV QA Director für den asiatisch-pazifischen Raum bei Johnson & Johnson erlebte ich den Bedarf an einem verlässlichen Beratungspartner.",
-        "message2": "Heute ist PVCON in der gesamten Branche für seinen rigorosen Ansatz bei PV-Audits, Qualitätssicherung und Unternehmensschulungen anerkannt. Als Leiter des ISoP Südasien-Kapitels und Berater des DCGI und CDSCO in Indien bleibt unser Engagement für regulatorische Exzellenz und Patientensicherheit das Fundament all unserer Aktivitäten.",
+        "name": "Moin-Don",
+        "title": "Präsident & CEO Gründer",
+        "message": "Mit über 50 Jahren Pharmakovigilanz habe ich PVCON gegründet, um die regulatorischen Erwartungen mit der Pharmakovigilanz in der realen Welt zu überbrücken. Ich hatte Führungsrollen bei Sanofi Aventis, Dr. Reddys, und war als Regional PV QA Director (APAC) bei Johnson & Johnson tätig.",
+        "message2": "PVCON ist für PV-Auditing, Qualitätssicherung und Schulung anerkannt. Ich arbeite als Leiter des Südasien-Kapitels für ISoP und Berater von Indiens DCGI und CDSCO, mit einem anhaltenden Fokus auf regulatorische Exzellenz und Patientensicherheit.",
         "credentials": [
-          "Pharma Ratan 2016 Award — Lebenswerk in Arzneimittelsicherheit & PV",
-          "Zertifizierter Lead Auditor — Ausbildung in USA, Deutschland, Frankreich & Singapur",
-          "Adjunct Professor, Jamia Hamdard University",
-          "Leiter, Südasien-Kapitel — International Society of Pharmacovigilance (ISoP)",
-          "Co-Autor, Indiens Nationales Pharmakovigilanz-Programm-Protokoll",
-          "Mitglied, Central Advisory Committee — DIA India"
+          "Pharma Ratan 2016 Award — lebenslange Errungenschaft in der Arzneimittelsicherheit & PV",
+          "Certified Lead Auditor — ausgebildet in den USA, Deutschland, Frankreich & Singapur",
+          "Adjunct Professor, Jamia Hamdard Universität",
+          "Lead, South Asia Chapter — Internationale Gesellschaft für Pharmakovigilanz (ISoP)",
+          "Ko-Autor, Indiens Nationales Arzneimittel-Programmprotokoll",
+          "Mitglied, Zentraler Beirat — DIA Indien"
         ]
       }
     },
     "globalPresence": {
       "tag": "Globale Reichweite",
-      "heading": "Unsere Globale Präsenz",
-      "subtitle": "Von unserem Hauptsitz in Mumbai aus betreut PVCON Kunden auf der ganzen Welt — GxP-Audits, Pharmakovigilanz-Beratung und regulatorische Unterstützung.",
+      "heading": "Unsere globale Präsenz",
+      "subtitle": "Von unserem Hauptsitz in Mumbai (Indien) aus bedient PVCON Kunden auf der ganzen Welt — liefert GxP-Audits, Pharmakovigilanz-Beratung und regulatorische Unterstützung überall dort, wo unsere Partner uns brauchen.",
       "stats": [
         {
           "value": "100+",
-          "label": "Betreute Länder"
+          "label": "Länder serviert"
         },
         {
           "value": "6",
@@ -43,31 +43,31 @@
       ]
     },
     "team": {
-      "tag": "Unser Team",
-      "heading": "Die Menschen hinter PVCON",
-      "subtitle": "Ein Team erfahrener Pharmakovigilanz-Experten mit jahrzehntelanger kombinierter Erfahrung.",
-      "viewProfile": "Profil ansehen",
+      "tag": "Die Menschen hinter PVCON",
+      "heading": "PVCON Team",
+      "subtitle": "Wir sind ein Team erfahrener Pharmakovigilanz-Profis mit über 300 Jahren Erfahrung in globalen regulatorischen Landschaften.",
+      "viewProfile": "Profil anzeigen",
       "members": {
         "moin-don": {
-          "name": "Moin Don",
+          "name": "Moin-Don",
           "role": "Gründer & CEO",
-          "bio": "50+ Jahre in der Pharmaindustrie. Pharmazeut von Beruf, ehemaliger Regional PV QA Director bei Johnson & Johnson, Asien-Pazifik. Zertifizierter Lead Auditor, Adjunct Professor an der Jamia Hamdard University, Leiter des ISoP Südasien-Kapitels."
+          "bio": "50+ Jahre pharmazeutische Expertise; ehemaliger Regionaler PV-QA-Direktor bei Johnson & Johnson, APac; Zertifizierter Blei-Auditor; junct-Professor an der Jamia Hamdard Universität; Leiter des Südasien-Kapitels für ISoP; Ko-Autor des indischen Protokolls zum Nationalen Pharmakovigilanz-Programm; Mitglied des Central Advisory Committee von DIA India und des Pharma Ratan 2016 Award für lebenslange Leistungen in Arzneimittelsicherheit & PV."
         },
         "rameez-don": {
           "name": "Rameez Don",
-          "role": "Direktor",
-          "bio": "15+ Jahre Erfahrung in Pharmakovigilanz, Qualitätssicherung, Audits, Training und Geschäftsentwicklung. Zertifizierter Lead Auditor, Promotion in Pharmaceutical Management an der IIHMR University (laufend). RQA-Mitglied."
+          "role": "Regisseur",
+          "bio": "Mehr als 15 Jahre Berufserfahrung in Pharmakovigilanz, Qualitätssicherung, Audits, Ausbildung und Unternehmensentwicklung. Dipl.-Ing."
         },
         "nazrul-khan": {
           "name": "Nazrul Khan",
-          "role": "Consultant Lead Auditor",
-          "bio": "24+ Jahre in Pharma-F&E, Qualitätssicherung und PV-Auditierung. Ehemaliger MHRA Senior Pharmacovigilance Scientist und J&J Global System QA Program Manager. MSc Klinische Pharmakologie, Co-Autor des RQA PV Auditing Handbook."
+          "role": "Senior Consultant & Lead Auditor",
+          "bio": "24+ Jahre in der pharmazeutischen Forschung und Entwicklung, Qualitätssicherung und Pharmakovigilanzprüfung. Ehemalige MHRA Senior Pharmacovigilance Scientist and J&J Global System QA Program Manager."
         }
       }
     },
     "cta": {
       "heading": "Bereit, mit unserem Team zu arbeiten?",
-      "text": "Kontaktieren Sie unsere Pharmakovigilanz-Experten und erfahren Sie, wie PVCON Ihre regulatorische Compliance unterstützen kann."
+      "text": "Verbinden Sie sich mit unseren Pharmakovigilanz-Experten und entdecken Sie, wie PVCON Ihre regulatorischen Compliance- und Arzneimittelsicherheitsoperationen unterstützen kann."
     },
     "buttons": {
       "getInTouch": "Kontakt aufnehmen"

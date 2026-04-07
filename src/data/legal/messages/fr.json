@@ -2,108 +2,108 @@
   "legal": {
     "privacy": {
       "hero": {
-        "label": "Legal",
-        "heading": "Privacy Policy",
-        "subtitle": "How we collect, use, and protect your personal data."
+        "label": "Mentions légales",
+        "heading": "Politique de confidentialité",
+        "subtitle": "Comment nous recueillons, utilisons et protégeons vos données personnelles."
       },
-      "lastUpdated": "Last updated: March 24, 2026",
+      "lastUpdated": "Dernière mise à jour : 24 mars 2026",
       "sections": [
         {
           "title": "1. Introduction",
-          "content": "PVCON (\"we\", \"our\", or \"us\") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your personal information when you visit our website (pvcon.in) or engage with our pharmacovigilance consulting services.\n\nThis policy applies to all visitors, clients, and users of our website and services. By accessing our website, you consent to the data practices described in this policy."
+          "content": "PVCON (\"nous\", \"notre\" ou \"nous\") s'engage à protéger votre vie privée. La présente politique de confidentialité explique comment nous recueillons, utilisons, divulguons et protégeons vos renseignements personnels lorsque vous visitez notre site Web (pvcon. n) ou de s'engager avec nos services de consultation en pharmacovigilance.\n\nCette politique s'applique à tous les visiteurs, clients et utilisateurs de notre site Web et de nos services. En accédant à notre site Web, vous acceptez les pratiques en matière de données décrites dans la présente politique."
         },
         {
-          "title": "2. Information We Collect",
-          "content": "We may collect the following types of information:\n\n**Personal Information You Provide:**\n- Name, email address, phone number, and company name when you fill out contact forms or Get in Touch\n- Professional credentials and organizational details when you engage our consulting services\n- Communication records when you correspond with us via email or other channels\n\n**Information Collected Automatically:**\n- IP address, browser type, operating system, and device information\n- Pages visited, time spent on pages, and navigation patterns\n- Referring website addresses and search terms used to find our site\n- Cookies and similar tracking technologies (see our Cookie Policy for details)"
+          "title": "2. Informations que nous recueillons",
+          "content": "Nous pouvons recueillir les types d'information suivants :\n\n**Informations personnelles que vous fournissez :**\n- Nom, adresse e-mail, numéro de téléphone et le nom de la société lorsque vous remplissez des formulaires de contact ou Prenez contact avec\n- Identifiants professionnels et détails organisationnels lorsque vous engagez nos services de consultation\n- Enregistrements de communication lorsque vous correspondez avec nous par e-mail ou d'autres canaux\n\n**Informations collectées automatiquement:**\n- Adresse IP, type de navigateur, système d'exploitation et informations de périphérique\n- Pages visitées, temps passé sur les pages, et les modèles de navigation\n- Adresses Web référant et termes de recherche utilisés pour trouver notre site\n- Cookies et technologies de suivi similaires (voir notre politique sur les cookies pour plus de détails)"
         },
         {
-          "title": "3. How We Use Your Information",
-          "content": "We use the information we collect for the following purposes:\n\n- To respond to your inquiries and provide requested services\n- To deliver pharmacovigilance consulting, audit, and training services\n- To send relevant updates about our services, regulatory changes, and industry insights (with your consent)\n- To improve our website, services, and user experience\n- To comply with legal obligations and regulatory requirements\n- To analyze website traffic and usage patterns through Google Analytics\n- To protect against fraudulent, unauthorized, or illegal activity"
+          "title": "3. Comment nous utilisons vos informations",
+          "content": "Nous utilisons les informations que nous recueillons aux fins suivantes :\n\n- Pour répondre à vos demandes et fournir les services demandés\n- Pour fournir des conseils en pharmacovigilance, audit, et services de formation\n- Pour envoyer les mises à jour pertinentes sur nos services, les changements réglementaires, et les aperçus de l'industrie (avec votre consentement)\n- Pour améliorer notre site Web, les services et expérience utilisateur\n- Pour se conformer aux obligations légales et aux exigences réglementaires\n- Analyser le trafic et les habitudes d'utilisation du site Web via Google Analytics\n- Pour se protéger contre les frauduleuses, non autorisé, ou activité illégale"
         },
         {
-          "title": "4. Legal Basis for Processing (GDPR)",
-          "content": "For individuals in the European Economic Area (EEA), we process personal data under the following legal bases:\n\n- **Consent:** When you voluntarily provide your data through forms or subscribe to communications\n- **Contractual Necessity:** When processing is required to fulfill a consulting engagement or service agreement\n- **Legitimate Interest:** For improving our services, website security, and business operations\n- **Legal Obligation:** When required to comply with applicable laws and regulations"
+          "title": "4. Bases juridiques pour le traitement (RGPD)",
+          "content": "Pour les individus de l'Espace économique européen (EEE), nous traitons les données personnelles sous les bases légales suivantes :\n\n- **Consentement :** Lorsque vous fournissez volontairement vos données par le biais de formulaires ou vous vous abonnez aux communications\n- **Nécessité contractuelle :** Lorsque le traitement est requis pour remplir un contrat de consultation ou de service\n- **Intérêt légitime :** Pour améliorer nos services, la sécurité du site web, et les opérations commerciales\n- **Obligation juridique:** Lorsqu'il est nécessaire de se conformer aux lois et règlements applicables."
         },
         {
-          "title": "5. Data Sharing and Disclosure",
-          "content": "We do not sell, rent, or trade your personal information to third parties. We may share your data with:\n\n- **Service Providers:** Trusted third-party vendors who assist us in operating our website (e.g., hosting providers, analytics services like Google Analytics)\n- **Legal Requirements:** When required by law, court order, or governmental authority\n- **Business Transfers:** In connection with any merger, acquisition, or sale of company assets\n\nAll third-party service providers are contractually obligated to protect your data and use it only for the purposes for which it was shared."
+          "title": "5. Partage de données et divulgation",
+          "content": "Nous ne vendons pas, ne louons pas ou n'échangeons pas vos renseignements personnels à des tiers. Nous pouvons partager vos données avec :\n\n- **Fournisseurs de services:** Fournisseurs tiers de confiance qui nous aident à gérer notre site Web (par ex. fournisseurs d'hébergement, services d'analyse comme Google Analytics)\n- **Exigences légales:** Si requis par la loi, ordonnance du tribunal, ou autorité gouvernementale\n- **Transferts d'entreprise:** En relation avec toute fusion, acquisition, ou la vente des actifs de la société\n\nTous les fournisseurs de services tiers sont contractuellement tenus de protéger vos données et de les utiliser uniquement aux fins pour lesquelles elles ont été partagées."
         },
         {
-          "title": "6. Data Retention",
-          "content": "We retain your personal data only for as long as necessary to fulfill the purposes described in this policy, or as required by law. Specifically:\n\n- Contact form submissions: Retained for up to 3 years from the date of last communication\n- Client engagement records: Retained for the duration of the engagement plus 7 years for regulatory compliance\n- Analytics data: Retained for 26 months (as configured in Google Analytics)\n\nYou may request deletion of your data at any time by contacting us."
+          "title": "6. Rétention des données",
+          "content": "Nous ne conservons vos données personnelles que pour le temps nécessaire à la réalisation des objectifs décrits dans la présente politique ou selon les exigences de la loi. Spécifiquement :\n\n- Soumissions de formulaire de contact : conservées jusqu'à 3 ans à compter de la date de la dernière communication\n- Enregistrements d'engagement client : Contenus pour la durée de l'engagement plus 7 ans pour la conformité réglementaire\n- Données analytiques : conservées pendant 26 mois (comme configuré dans Google Analytics)\n\nVous pouvez demander la suppression de vos données à tout moment en nous contactant ."
         },
         {
-          "title": "7. Your Rights",
-          "content": "Depending on your jurisdiction, you may have the following rights regarding your personal data:\n\n- **Right to Access:** Request a copy of the personal data we hold about you\n- **Right to Rectification:** Request correction of inaccurate or incomplete data\n- **Right to Erasure:** Request deletion of your personal data (\"right to be forgotten\")\n- **Right to Restrict Processing:** Request that we limit how we use your data\n- **Right to Data Portability:** Receive your data in a structured, machine-readable format\n- **Right to Object:** Object to the processing of your data for certain purposes\n- **Right to Withdraw Consent:** Withdraw previously given consent at any time\n\nTo exercise any of these rights, please contact us at info@pvcon.in."
+          "title": "7. Vos droits",
+          "content": "Selon votre juridiction, vous pouvez avoir les droits suivants concernant vos données personnelles :\n\n- **Droit d'accès :** Demander une copie des données personnelles que nous détenons à votre sujet\n- **Droit de Rectification:** Demander une correction de données inexactes ou incomplètes\n- **Droit à Erasure :** Demander la suppression de vos données personnelles (\"droit d'être oublié\")\n- **Droit de Restrict Traitement :** Demander que nous limitions la manière dont nous utilisons vos données\n- **Droit à la portabilité des données :** Recevoir vos données dans une structure format lisible par machine\n- **Droit à l'objet :** Objet au traitement de vos données à certaines fins\n- **Droit de Retirer le Consentement :** Retirer le consentement précédemment donné à tout moment\n\nPour exercer l'un de ces droits, veuillez nous contacter à info@pvcon.in."
         },
         {
-          "title": "8. International Data Transfers",
-          "content": "Your data may be transferred to and processed in countries outside your country of residence, including India. When we transfer data internationally, we ensure appropriate safeguards are in place, including standard contractual clauses approved by the European Commission where applicable."
+          "title": "8. Transferts de données internationaux",
+          "content": "Vos données peuvent être transférées et traitées dans des pays extérieurs à votre pays de résidence, y compris en Inde. Lorsque nous transférons des données sur le plan international, nous veillons à ce que des garanties appropriées soient en place, y compris des clauses contractuelles normalisées approuvées par la Commission européenne, le cas échéant."
         },
         {
-          "title": "9. Data Security",
-          "content": "We implement appropriate technical and organizational measures to protect your personal data against unauthorized access, alteration, disclosure, or destruction. These measures include:\n\n- SSL/TLS encryption for data in transit\n- Secure hosting infrastructure with regular security updates\n- Access controls and authentication mechanisms\n- Regular security assessments and monitoring\n\nHowever, no method of transmission over the Internet is 100% secure, and we cannot guarantee absolute security."
+          "title": "9. Sécurité des données",
+          "content": "Nous mettons en œuvre des mesures techniques et organisationnelles appropriées pour protéger vos données personnelles contre l'accès non autorisé, la modification, la divulgation ou la destruction. Ces mesures incluent :\n\n- cryptage SSL/TLS pour les données en transit\n- infrastructure d'hébergement sécurisé avec mises à jour de sécurité régulières\n- Contrôles d'accès et mécanismes d'authentification\n- Évaluation régulière de la sécurité et suivi\n\nCependant, aucune méthode de transmission sur Internet n'est 100 % sécurisée et nous ne pouvons pas garantir une sécurité absolue."
         },
         {
-          "title": "10. Children's Privacy",
-          "content": "Our website and services are not directed to individuals under the age of 18. We do not knowingly collect personal information from children. If you believe we have inadvertently collected data from a minor, please contact us immediately so we can take appropriate action."
+          "title": "10. Confidentialité des enfants",
+          "content": "Notre site Web et nos services ne sont pas dirigés vers des personnes de moins de 18 ans et nous ne recueillons pas sciemment des renseignements personnels sur des enfants. Si vous pensez que nous avons recueilli par inadvertance des données auprès d'un mineur, veuillez nous contacter immédiatement afin que nous puissions prendre les mesures appropriées."
         },
         {
-          "title": "11. Changes to This Policy",
-          "content": "We may update this Privacy Policy from time to time to reflect changes in our practices, technology, legal requirements, or other factors. We will post the updated policy on this page with a revised \"Last updated\" date. We encourage you to review this policy periodically."
+          "title": "11. Modifications apportées à cette politique",
+          "content": "Il se peut que nous mettions à jour cette politique de confidentialité de temps à autre afin de tenir compte des changements dans nos pratiques, notre technologie, nos exigences légales ou d'autres facteurs. Nous publierons la politique mise à jour sur cette page avec une date révisée « Dernière mise à jour ». Nous vous encourageons à consulter cette politique périodiquement."
         },
         {
-          "title": "12. Contact Us",
-          "content": "If you have any questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us at:\n\nPVCON\nEmail: info@pvcon.in\nWebsite: https://pvcon.in"
+          "title": "12. Contactez-nous",
+          "content": "Si vous avez des questions, des préoccupations ou des demandes concernant cette politique de confidentialité ou nos pratiques en matière de données, veuillez nous contacter à l'adresse suivante:\n\nPVCON\nE-mail: info@pvcon. n\nSite Web: https://pvcon.in"
         }
       ]
     },
     "terms": {
       "hero": {
-        "label": "Legal",
-        "heading": "Terms of Service",
-        "subtitle": "The terms and conditions governing your use of our website and services."
+        "label": "Mentions légales",
+        "heading": "Conditions d'utilisation",
+        "subtitle": "Les conditions générales régissant votre utilisation de notre site Web et de nos services."
       },
-      "lastUpdated": "Last updated: March 24, 2026",
+      "lastUpdated": "Dernière mise à jour : 24 mars 2026",
       "sections": [
         {
-          "title": "1. Acceptance of Terms",
+          "title": "1. Acceptation des conditions",
           "content": "By accessing and using the PVCON website (pvcon.in) and our services, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service. If you do not agree with any part of these terms, you must not use our website or services.\n\nThese terms constitute a legally binding agreement between you and PVCON."
         },
         {
-          "title": "2. Description of Services",
+          "title": "2. Description des Services",
           "content": "PVCON provides GxP auditing, pharmacovigilance consulting, corporate training, medical writing, PSMF management, and related professional services to pharmaceutical, biotechnology, and medical device organizations worldwide.\n\nThe specific scope, deliverables, and terms of any engagement are governed by separate service agreements between PVCON and its clients."
         },
         {
-          "title": "3. Use of Website",
-          "content": "You agree to use our website only for lawful purposes and in accordance with these terms. You must not:\n\n- Use the website in any way that violates applicable laws or regulations\n- Attempt to gain unauthorized access to our systems, servers, or databases\n- Transmit any malicious code, viruses, or harmful software\n- Engage in any activity that could damage, disable, or impair the website\n- Use automated tools to scrape, crawl, or extract data from the website without prior written consent\n- Impersonate any person or entity, or misrepresent your affiliation with any person or entity"
+          "title": "3. Utilisation du site Web",
+          "content": "Vous acceptez d’utiliser notre site Web uniquement à des fins licites et conformément aux présentes conditions. Vous ne devez pas :\n\n- Utiliser le site Web d'une manière qui viole les lois ou règlements applicables\n- Tentative d'accès non autorisé à nos systèmes, serveurs, ou bases de données\n- Transmettre tout code malveillant, virus ou logiciel nuisible\n- Engager dans toute activité qui pourrait endommager, désactiver, ou entraver le site\n- Utilisez des outils automatisés pour piller, explorer, ou extraire des données du site web sans le consentement écrit préalable\n- Identifier toute personne ou entité, ou dénaturer votre affiliation avec une personne ou une entité"
         },
         {
-          "title": "4. Intellectual Property",
+          "title": "4. Propriété intellectuelle",
           "content": "All content on this website — including text, graphics, logos, images, design elements, and software — is the property of PVCON or its licensors and is protected by applicable intellectual property laws.\n\nYou may not reproduce, distribute, modify, display, or create derivative works from any content on this website without prior written permission from PVCON.\n\nThe PVCON name, logo, and all related product and service names are trademarks of PVCON."
         },
         {
-          "title": "5. Confidentiality",
+          "title": "5. Confidentialité",
           "content": "Any confidential information shared between PVCON and its clients during the course of a professional engagement shall be treated with the utmost confidentiality. Neither party shall disclose confidential information to third parties without prior written consent, except as required by law.\n\nThis obligation of confidentiality survives the termination of any engagement."
         },
         {
-          "title": "6. Limitation of Liability",
-          "content": "To the fullest extent permitted by applicable law, PVCON shall not be liable for any indirect, incidental, special, consequential, or punitive damages arising from:\n\n- Your use of or inability to use the website or services\n- Any errors, omissions, or inaccuracies in the content\n- Unauthorized access to or alteration of your data\n- Any third-party conduct or content on the website\n\nOur total liability for any claim shall not exceed the fees paid by you for the specific service giving rise to the claim."
+          "title": "6. Limitation de responsabilité",
+          "content": "Dans toute la mesure permise par la loi applicable, PVCON ne peut être tenu responsable d'aucun dommage indirect, accessoire, spécial, consécutif, ou des dommages punitifs découlant de :\n\n- Votre utilisation ou votre incapacité à utiliser le site Web ou les services\n- Toute erreur, omission, ou des inexactitudes dans le contenu\n- Accès non autorisé ou altération de vos données\n- Toute conduite ou contenu de tiers sur le site\n\nNotre responsabilité totale pour toute réclamation ne doit pas excéder les frais payés par vous pour le service spécifique donnant lieu à la réclamation."
         },
         {
-          "title": "7. Indemnification",
-          "content": "You agree to indemnify, defend, and hold harmless PVCON, its directors, officers, employees, and agents from any claims, liabilities, damages, losses, or expenses (including legal fees) arising out of your use of the website, violation of these terms, or infringement of any third-party rights."
+          "title": "7. Indemnisation",
+          "content": "Vous acceptez d'indemniser, de défendre et de dégager de toute responsabilité PVCON, ses administrateurs, dirigeants, employés et agents en cas de réclamations, responsabilités, dommages, pertes, ou les dépenses (y compris les frais juridiques) découlant de votre utilisation du site Web, de la violation des présentes modalités ou de la violation de tout droit de tiers."
         },
         {
-          "title": "8. Third-Party Links",
+          "title": "8. Liens tiers",
           "content": "Our website may contain links to third-party websites or services that are not owned or controlled by PVCON. We have no control over, and assume no responsibility for, the content, privacy policies, or practices of any third-party websites.\n\nThe inclusion of any link does not imply endorsement by PVCON. You acknowledge and agree that PVCON shall not be responsible for any damages or losses caused by your use of any third-party website."
         },
         {
-          "title": "9. Termination",
+          "title": "9. Résiliation",
           "content": "We reserve the right to suspend or terminate your access to the website at any time, without notice, for conduct that we believe violates these terms or is harmful to other users, us, or third parties.\n\nAll provisions of these terms which by their nature should survive termination shall survive, including intellectual property provisions, warranty disclaimers, indemnity, and limitations of liability."
         },
         {
-          "title": "10. Governing Law and Jurisdiction",
+          "title": "10. Droit applicable et Juridiction",
           "content": "These Terms of Service shall be governed by and construed in accordance with the laws of India. Any disputes arising from or relating to these terms shall be subject to the exclusive jurisdiction of the courts in Mumbai, India.\n\nFor clients in the European Economic Area, nothing in these terms affects your statutory rights under applicable consumer protection laws."
         },
         {
@@ -111,138 +111,138 @@
           "content": "PVCON reserves the right to modify these Terms of Service at any time. Changes will be effective immediately upon posting on this page. Your continued use of the website after any modifications constitutes acceptance of the updated terms.\n\nWe encourage you to review these terms periodically for any changes."
         },
         {
-          "title": "12. Contact Us",
-          "content": "If you have any questions about these Terms of Service, please contact us at:\n\nPVCON\nEmail: info@pvcon.in\nWebsite: https://pvcon.in"
+          "title": "12. Contactez-nous",
+          "content": "Si vous avez des questions au sujet de ces conditions d'utilisation, veuillez nous contacter à l'adresse suivante:\n\nPVCON\nE-mail: info@pvcon.in\nSite Web: https://pvcon.in"
         }
       ]
     },
     "cookies": {
       "hero": {
-        "label": "Legal",
-        "heading": "Cookie Policy",
-        "subtitle": "How we use cookies and similar technologies on our website."
+        "label": "Mentions légales",
+        "heading": "Politique sur les cookies",
+        "subtitle": "Comment nous utilisons des cookies et des technologies similaires sur notre site Web."
       },
-      "lastUpdated": "Last updated: March 24, 2026",
+      "lastUpdated": "Dernière mise à jour : 24 mars 2026",
       "sections": [
         {
-          "title": "1. What Are Cookies?",
+          "title": "1. Que sont les cookies ?",
           "content": "Cookies are small text files that are placed on your device (computer, tablet, or mobile phone) when you visit a website. They are widely used to make websites work efficiently, improve user experience, and provide information to website owners.\n\nCookies can be \"session cookies\" (which expire when you close your browser) or \"persistent cookies\" (which remain on your device for a set period or until you delete them)."
         },
         {
-          "title": "2. How We Use Cookies",
+          "title": "2. Comment nous utilisons les cookies",
           "content": "PVCON uses cookies and similar technologies for the following purposes:\n\n**Essential Cookies:**\nThese cookies are necessary for the website to function properly. They enable core functionality such as page navigation, language preferences, and access to secure areas. The website cannot function properly without these cookies.\n\n**Analytics Cookies (Google Analytics):**\nWe use Google Analytics to collect information about how visitors use our website. This includes data such as the number of visitors, the pages they visit, and the time spent on each page. This data is aggregated and anonymized, and is used to improve our website and services.\n\nGoogle Analytics cookies used:\n- _ga: Used to distinguish unique users (expires after 2 years)\n- _ga_*: Used to persist session state (expires after 2 years)\n- _gid: Used to distinguish unique users (expires after 24 hours)\n- _gat: Used to throttle request rate (expires after 1 minute)\n\n**Preference Cookies:**\nThese cookies remember your preferences and settings, such as your language selection, to provide a personalized experience on subsequent visits."
         },
         {
-          "title": "3. Third-Party Cookies",
-          "content": "Some cookies on our website are set by third-party services. These include:\n\n- **Google Analytics:** For website traffic analysis and usage statistics\n- **Google Search Console:** For search performance monitoring\n\nThese third-party services have their own privacy policies governing how they use information collected through their cookies. We encourage you to review:\n- Google's Privacy Policy: https://policies.google.com/privacy"
+          "title": "3. Cookies tiers",
+          "content": "Certains cookies de notre site Web sont configurés par des services tiers. Celles-ci incluent :\n\n- **Google Analytics:** Pour l'analyse du trafic des sites Web et les statistiques d'utilisation\n- **Google Search Console:** Pour la surveillance des performances de la recherche\n\nCes services tiers ont leurs propres politiques de confidentialité régissant la manière dont ils utilisent les informations collectées par leurs cookies. Nous vous encourageons à revoir :\n- Politique de confidentialité de Google : https://policies.google.com/privacy"
         },
         {
-          "title": "4. Managing Cookies",
-          "content": "You can control and manage cookies in several ways:\n\n**Browser Settings:**\nMost web browsers allow you to manage cookies through their settings. You can typically:\n- View what cookies are stored on your device\n- Delete individual cookies or all cookies\n- Block third-party cookies\n- Block all cookies from all sites\n- Clear all cookies when you close your browser\n\n**Cookie Consent:**\nWhen you first visit our website, you will see a cookie consent banner. You can choose to accept or decline non-essential cookies. You can change your preferences at any time.\n\n**Opt-Out Links:**\n- Google Analytics: https://tools.google.com/dlpage/gaoptout\n\nPlease note that blocking certain cookies may affect the functionality of our website."
+          "title": "4. Gestion des cookies",
+          "content": "Vous pouvez contrôler et gérer les cookies de plusieurs façons :\n\n**Paramètres du navigateur :**\nLa plupart des navigateurs Web vous permettent de gérer les cookies dans leurs paramètres. Vous pouvez typiquement :\n- Afficher quels cookies sont stockés sur votre appareil\n- Supprimer les cookies individuels ou tous les cookies\n- Bloquer les cookies tiers\n- Bloquer tous les cookies de tous les sites\n- Effacer tous les cookies lorsque vous fermez votre navigateur\n\n**Consentement des cookies :**\nLorsque vous visitez notre site Web pour la première fois vous verrez une bannière de consentement des cookies. Vous pouvez choisir d'accepter ou de refuser les cookies non essentiels. Vous pouvez modifier vos préférences à tout moment.\n\n**Liens opt-out:**\n- Google Analytics: https://tools. oogle.com/dlpage/gaoptout\n\nVeuillez noter que le blocage de certains cookies peut affecter la fonctionnalité de notre site Web."
         },
         {
-          "title": "5. Cookie Table",
-          "content": "Below is a summary of the cookies used on our website:\n\n| Cookie | Type | Purpose | Duration |\n|--------|------|---------|----------|\n| cookie_consent | Essential | Stores your cookie consent preference | 1 year |\n| NEXT_LOCALE | Essential | Stores your language preference | Session |\n| _ga | Analytics | Google Analytics - distinguishes users | 2 years |\n| _ga_* | Analytics | Google Analytics - session state | 2 years |\n| _gid | Analytics | Google Analytics - distinguishes users | 24 hours |\n| _gat | Analytics | Google Analytics - throttle requests | 1 minute |"
+          "title": "5. Table de cookies",
+          "content": "Voici un résumé des cookies utilisés sur notre site Web :\n\n| Cookie | Type | Objectif | Durée |\n|--------|------|---------|----------|\n| cookie_consent | Essentiel | Stocke votre préférence de consentement aux cookies | 1 an |\n| NEXT_LOCALE | Essentiel | Stocke votre préférence linguistique | Session |\n| _ga | Analytique | Google Analytics – distingue les utilisateurs | 2 ans |\n| _ga_* | Analytique | Google Analytics – état de session | 2 ans |\n| _gid | Analytique | Google Analytics – distingue les utilisateurs | 24 heures |\n| _gat | Analytique | Google Analytics – limitation des requêtes | 1 minute |"
         },
         {
-          "title": "6. Changes to This Cookie Policy",
-          "content": "We may update this Cookie Policy from time to time to reflect changes in technology, legislation, or our data practices. We will post any changes on this page with an updated \"Last updated\" date."
+          "title": "6. Modifications apportées à cette politique sur les cookies",
+          "content": "Il se peut que nous mettions à jour cette politique de temps à autre afin de refléter les changements dans la technologie, la législation ou nos pratiques en matière de données. Nous publierons tous les changements sur cette page avec une date mise à jour \"Dernière mise à jour\"."
         },
         {
-          "title": "7. Contact Us",
-          "content": "If you have any questions about our use of cookies, please contact us at:\n\nPVCON\nEmail: info@pvcon.in\nWebsite: https://pvcon.in"
+          "title": "7. Contactez-nous",
+          "content": "Si vous avez des questions sur notre utilisation des cookies, veuillez nous contacter à l'adresse suivante:\n\nPVCON\nE-mail: info@pvcon.in\nSite Web: https://pvcon.in"
         }
       ]
     },
     "disclaimer": {
       "hero": {
-        "label": "Legal",
-        "heading": "Disclaimer",
-        "subtitle": "Important notices regarding the information provided on our website."
+        "label": "Mentions légales",
+        "heading": "Clause de non-responsabilité",
+        "subtitle": "Avis importants concernant les renseignements fournis sur notre site Web."
       },
-      "lastUpdated": "Last updated: March 24, 2026",
+      "lastUpdated": "Dernière mise à jour : 24 mars 2026",
       "sections": [
         {
-          "title": "1. General Disclaimer",
-          "content": "The information provided on the PVCON website (pvcon.in) is for general informational purposes only. While we strive to keep the information up to date and accurate, PVCON makes no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability, or availability of the information, products, services, or related graphics contained on the website."
+          "title": "1. Avertissement général",
+          "content": "Les informations fournies sur le site Internet du PVCON (pvcon.in) ne sont fournies qu'à des fins d'information générale. Bien que nous nous efforcions de tenir les informations à jour et exactes, PVCON ne fait aucune représentation ou garantie d'aucune sorte, expresse ou implicite, sur l'exhaustivité, l'exactitude, la fiabilité, la pertinence ou la disponibilité de l'information, des produits, des services ou des graphiques connexes contenus sur le site Web."
         },
         {
-          "title": "2. No Professional Advice",
+          "title": "2. Aucun conseil professionnel",
           "content": "The content on this website does not constitute professional pharmacovigilance, regulatory, legal, or medical advice. The information provided should not be used as a substitute for professional consultation.\n\nPVCON's website content is intended to provide a general overview of our services and the pharmacovigilance landscape. For specific regulatory guidance, compliance requirements, or professional advice tailored to your organization's needs, please engage our consulting services directly or consult with qualified professionals."
         },
         {
-          "title": "3. Regulatory Information",
+          "title": "3. Renseignements réglementaires",
           "content": "Pharmacovigilance regulations, guidelines, and requirements vary by jurisdiction and are subject to frequent updates. While PVCON endeavors to keep regulatory information current, we cannot guarantee that all information on this website reflects the latest regulatory developments.\n\nUsers should always verify regulatory requirements with the relevant national competent authorities or regulatory bodies (e.g., EMA, FDA, CDSCO, PMDA) before making compliance decisions."
         },
         {
-          "title": "4. No Guarantees",
-          "content": "While PVCON has a strong track record of helping clients achieve regulatory compliance, we do not guarantee specific outcomes from the use of our services, including but not limited to:\n\n- Successful regulatory inspections or audit outcomes\n- Approval of marketing authorization applications\n- Compliance with specific regulatory requirements\n\nResults depend on multiple factors including client cooperation, organizational readiness, and regulatory authority decisions."
+          "title": "4. Aucune garantie",
+          "content": "Bien que PVCON ait une solide expérience en matière d'aide aux clients pour la conformité réglementaire, nous ne garantissons pas des résultats spécifiques grâce à l'utilisation de nos services, incluant, mais non limité à:\n\n- Des inspections réglementaires réussies ou des résultats d'audit\n- Approbation des demandes d'autorisation de mise en marché\n- La conformité aux exigences réglementaires spécifiques\n\nLes résultats dépendent de plusieurs facteurs, y compris la coopération avec le client. la préparation organisationnelle et les décisions des organismes de réglementation."
         },
         {
-          "title": "5. External Links",
+          "title": "5. Liens externes",
           "content": "This website may contain links to external websites and resources. PVCON has no control over the nature, content, and availability of those external sites. The inclusion of any links does not necessarily imply a recommendation or endorsement of the views expressed within them.\n\nWe are not responsible for the content, accuracy, or privacy practices of external websites."
         },
         {
-          "title": "6. Availability",
-          "content": "We make every effort to keep the website running smoothly. However, PVCON takes no responsibility for, and will not be liable for, the website being temporarily unavailable due to technical issues, maintenance, or circumstances beyond our control."
+          "title": "6. Disponibilité",
+          "content": "Nous faisons tout notre possible pour que le site Web fonctionne correctement. Toutefois, PVCON n'assume aucune responsabilité et ne sera pas responsable de le site web étant temporairement indisponible en raison de problèmes techniques, de maintenance ou de circonstances indépendantes de notre volonté."
         },
         {
-          "title": "7. Limitation of Liability",
+          "title": "7. Limitation de responsabilité",
           "content": "To the maximum extent permitted by applicable law, PVCON shall not be held liable for any loss or damage, including without limitation, indirect or consequential loss or damage, arising from or in connection with the use of this website.\n\nYour use of any information or materials on this website is entirely at your own risk, for which PVCON shall not be liable."
         },
         {
-          "title": "8. Contact Us",
-          "content": "If you have any questions about this disclaimer, please contact us at:\n\nPVCON\nEmail: info@pvcon.in\nWebsite: https://pvcon.in"
+          "title": "8. Contactez-nous",
+          "content": "Si vous avez des questions au sujet de cet avis de non-responsabilité, veuillez nous contacter à l'adresse suivante:\n\nPVCON\nE-mail: info@pvcon.in\nSite Web: https://pvcon.in"
         }
       ]
     },
     "impressum": {
       "hero": {
-        "label": "Legal Notice",
+        "label": "Mentions légales",
         "heading": "Impressum",
-        "subtitle": "Legal information and company details as required by applicable law."
+        "subtitle": "Renseignements juridiques et données de la société conformément à la loi applicable."
       },
-      "lastUpdated": "Last updated: March 24, 2026",
+      "lastUpdated": "Dernière mise à jour : 24 mars 2026",
       "sections": [
         {
-          "title": "Company Information",
-          "content": "**PVCON**\nGxP Audit & Pharmacovigilance Consulting Services\n\n**Registered Office:**\nMumbai, Maharashtra, India\n\n**Email:** info@pvcon.in\n**Website:** https://pvcon.in"
+          "title": "Informations sur la société",
+          "content": "**PVCON**\nGxP Audit & Pharmacovigilance Services\n\n**Bureau:**\nMumbai, Maharashtra, Inde\n\n**E-mail:** info@pvcon.in\n**Site Web :** https://pvcon.in"
         },
         {
-          "title": "Responsible Person",
-          "content": "**Moin Don**\nFounder & CEO, PVCON\n\nResponsible for the content of this website in accordance with applicable press and media laws."
+          "title": "Personne responsable",
+          "content": "**Moin Don**\nFondateur et chef de la direction, PVCON\n\nresponsable du contenu de ce site web conformément aux lois sur la presse et les médias applicables."
         },
         {
-          "title": "Business Description",
+          "title": "Description de l'entreprise",
           "content": "PVCON is a professional services firm specializing in GxP auditing, pharmacovigilance consulting, corporate training, medical writing, and PSMF management for pharmaceutical, biotechnology, and medical device organizations worldwide.\n\nOur services are provided across 100+ countries, supporting organizations with regulatory compliance, inspection readiness, and quality management in drug safety."
         },
         {
-          "title": "Intellectual Property",
+          "title": "Propriété intellectuelle",
           "content": "All content published on this website — including text, images, graphics, logos, and design — is protected by applicable intellectual property laws and is the property of PVCON unless otherwise stated.\n\nUnauthorized reproduction, distribution, or use of the content is prohibited without prior written consent from PVCON."
         },
         {
-          "title": "Liability for Content",
-          "content": "As a service provider, we are responsible for our own content on these pages in accordance with general laws. However, we are not obligated to monitor transmitted or stored third-party information or to investigate circumstances that indicate illegal activity.\n\nObligations to remove or block the use of information under general laws remain unaffected. Liability in this regard, however, is only possible from the date of knowledge of a concrete infringement. Upon becoming aware of corresponding infringements, we will remove this content immediately."
+          "title": "Responsabilité pour le contenu",
+          "content": "En tant que fournisseur de services, nous sommes responsables de notre propre contenu sur ces pages conformément aux lois générales. Cependant, nous ne sommes pas tenus de surveiller les informations transmises ou stockées par des tiers ni d'enquêter sur les circonstances qui indiquent une activité illégale.\n\nLes obligations de supprimer ou de bloquer l'utilisation des informations en vertu des lois générales restent intactes. La responsabilité à cet égard n'est toutefois possible qu'à partir de la date de la connaissance d'une infraction concrète. Après avoir pris connaissance des infractions correspondantes, nous supprimerons ce contenu immédiatement."
         },
         {
-          "title": "Liability for Links",
+          "title": "Responsabilité pour les liens",
           "content": "Our website contains links to external third-party websites over whose content we have no influence. Therefore, we cannot assume any liability for this third-party content. The respective provider or operator of the linked pages is always responsible for their content.\n\nThe linked pages were checked for possible legal violations at the time of linking. Illegal content was not recognizable at the time of linking. Permanent monitoring of the content of the linked pages is not reasonable without concrete evidence of a legal violation."
         },
         {
-          "title": "EU Dispute Resolution",
-          "content": "The European Commission provides a platform for online dispute resolution (ODR): https://ec.europa.eu/consumers/odr\n\nWe are not obligated and not willing to participate in dispute resolution proceedings before a consumer arbitration board."
+          "title": "Résolution des différends de l'UE",
+          "content": "La Commission européenne fournit une plate-forme pour la résolution des litiges en ligne (ODR): https://ec.europa. u/consommateurs/odr\n\nNous ne sommes pas obligés et ne sommes pas disposés à participer aux procédures de règlement des différends devant une commission d'arbitrage du consommateur."
         },
         {
-          "title": "Data Protection",
-          "content": "For detailed information about how we handle your personal data, please refer to our Privacy Policy.\n\nData Protection Contact: info@pvcon.in"
+          "title": "Protection des données",
+          "content": "Pour des informations détaillées sur la façon dont nous traitons vos données personnelles, veuillez vous référer à notre politique de confidentialité.\n\nContact de protection des données : info@pvcon.in"
         }
       ]
     },
     "consentBanner": {
-      "message": "We use cookies to enhance your browsing experience and analyze website traffic.",
-      "learnMore": "Learn more",
-      "accept": "Accept All",
-      "decline": "Essential Only"
+      "message": "Nous utilisons des cookies pour améliorer votre expérience de navigation et analyser le trafic des sites Web.",
+      "learnMore": "En savoir plus",
+      "accept": "Accepter tout",
+      "decline": "Essentiel uniquement"
     }
   }
 }

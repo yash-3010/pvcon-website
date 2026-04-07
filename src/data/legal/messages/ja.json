@@ -3,57 +3,57 @@
     "privacy": {
       "hero": {
         "label": "Legal",
-        "heading": "Privacy Policy",
-        "subtitle": "How we collect, use, and protect your personal data."
+        "heading": "プライバシーポリシー",
+        "subtitle": "お客様の個人データの収集、使用、保護方法。"
       },
-      "lastUpdated": "Last updated: March 24, 2026",
+      "lastUpdated": "最終更新日：2026年3月24日",
       "sections": [
         {
-          "title": "1. Introduction",
-          "content": "PVCON (\"we\", \"our\", or \"us\") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your personal information when you visit our website (pvcon.in) or engage with our pharmacovigilance consulting services.\n\nThis policy applies to all visitors, clients, and users of our website and services. By accessing our website, you consent to the data practices described in this policy."
+          "title": "1.はじめに",
+          "content": "PVCON(「当社」、「当社」、「当社」)は、お客様のプライバシーを保護することに努めています。 本プライバシーポリシーは、お客様が当社のウェブサイトにアクセスされた際にお客様の個人情報を収集、使用、開示、および保護する方法について説明します(pvcon.in)または当社の薬物乱用コンサルティングサービスに従事します。\n\nこのポリシーは、当社のウェブサイトおよびサービスのすべての訪問者、クライアント、およびユーザーに適用されます。 当社のウェブサイトにアクセスすることにより、お客様はこのポリシーに記載されているデータ慣行に同意したものとみなされます。"
         },
         {
-          "title": "2. Information We Collect",
+          "title": "2. 当社が収集する情報",
           "content": "We may collect the following types of information:\n\n**Personal Information You Provide:**\n- Name, email address, phone number, and company name when you fill out contact forms or Get in Touch\n- Professional credentials and organizational details when you engage our consulting services\n- Communication records when you correspond with us via email or other channels\n\n**Information Collected Automatically:**\n- IP address, browser type, operating system, and device information\n- Pages visited, time spent on pages, and navigation patterns\n- Referring website addresses and search terms used to find our site\n- Cookies and similar tracking technologies (see our Cookie Policy for details)"
         },
         {
-          "title": "3. How We Use Your Information",
+          "title": "3. お客様の情報の利用方法",
           "content": "We use the information we collect for the following purposes:\n\n- To respond to your inquiries and provide requested services\n- To deliver pharmacovigilance consulting, audit, and training services\n- To send relevant updates about our services, regulatory changes, and industry insights (with your consent)\n- To improve our website, services, and user experience\n- To comply with legal obligations and regulatory requirements\n- To analyze website traffic and usage patterns through Google Analytics\n- To protect against fraudulent, unauthorized, or illegal activity"
         },
         {
-          "title": "4. Legal Basis for Processing (GDPR)",
+          "title": "4. 処理の法的基盤(GDPR)",
           "content": "For individuals in the European Economic Area (EEA), we process personal data under the following legal bases:\n\n- **Consent:** When you voluntarily provide your data through forms or subscribe to communications\n- **Contractual Necessity:** When processing is required to fulfill a consulting engagement or service agreement\n- **Legitimate Interest:** For improving our services, website security, and business operations\n- **Legal Obligation:** When required to comply with applicable laws and regulations"
         },
         {
-          "title": "5. Data Sharing and Disclosure",
+          "title": "5. データの共有と開示",
           "content": "We do not sell, rent, or trade your personal information to third parties. We may share your data with:\n\n- **Service Providers:** Trusted third-party vendors who assist us in operating our website (e.g., hosting providers, analytics services like Google Analytics)\n- **Legal Requirements:** When required by law, court order, or governmental authority\n- **Business Transfers:** In connection with any merger, acquisition, or sale of company assets\n\nAll third-party service providers are contractually obligated to protect your data and use it only for the purposes for which it was shared."
         },
         {
-          "title": "6. Data Retention",
-          "content": "We retain your personal data only for as long as necessary to fulfill the purposes described in this policy, or as required by law. Specifically:\n\n- Contact form submissions: Retained for up to 3 years from the date of last communication\n- Client engagement records: Retained for the duration of the engagement plus 7 years for regulatory compliance\n- Analytics data: Retained for 26 months (as configured in Google Analytics)\n\nYou may request deletion of your data at any time by contacting us."
+          "title": "6. データの保持",
+          "content": "当社は、本方針に記載されている目的、または法律で要求される目的を達成するために必要な限り、お客様の個人情報を保持します。 具体的には:\n\n- お問い合わせフォームの提出: 最後の連絡日から最大3年間保持されます\n- クライアントのエンゲージメント記録: 規制遵守のためにエンゲージメントの期間と7年間保持されます\n- 分析データ: 26ヶ月間保持されます (Google Analyticsで設定されている場合)\n\n当社に連絡することにより、いつでもデータの削除を要求することができます。"
         },
         {
-          "title": "7. Your Rights",
+          "title": "7. あなたの権利",
           "content": "Depending on your jurisdiction, you may have the following rights regarding your personal data:\n\n- **Right to Access:** Request a copy of the personal data we hold about you\n- **Right to Rectification:** Request correction of inaccurate or incomplete data\n- **Right to Erasure:** Request deletion of your personal data (\"right to be forgotten\")\n- **Right to Restrict Processing:** Request that we limit how we use your data\n- **Right to Data Portability:** Receive your data in a structured, machine-readable format\n- **Right to Object:** Object to the processing of your data for certain purposes\n- **Right to Withdraw Consent:** Withdraw previously given consent at any time\n\nTo exercise any of these rights, please contact us at info@pvcon.in."
         },
         {
-          "title": "8. International Data Transfers",
-          "content": "Your data may be transferred to and processed in countries outside your country of residence, including India. When we transfer data internationally, we ensure appropriate safeguards are in place, including standard contractual clauses approved by the European Commission where applicable."
+          "title": "8.インターナショナルなデータ転送",
+          "content": "お客様のデータは、インドを含む居住国外の国に転送され、処理される場合があります。 当社が国際的にデータを転送する場合、当社は、該当する場合には欧州委員会によって承認された標準的な契約条項を含む適切な保護措置が講じられていることを確認します。"
         },
         {
-          "title": "9. Data Security",
+          "title": "9. データセキュリティ",
           "content": "We implement appropriate technical and organizational measures to protect your personal data against unauthorized access, alteration, disclosure, or destruction. These measures include:\n\n- SSL/TLS encryption for data in transit\n- Secure hosting infrastructure with regular security updates\n- Access controls and authentication mechanisms\n- Regular security assessments and monitoring\n\nHowever, no method of transmission over the Internet is 100% secure, and we cannot guarantee absolute security."
         },
         {
-          "title": "10. Children's Privacy",
-          "content": "Our website and services are not directed to individuals under the age of 18. We do not knowingly collect personal information from children. If you believe we have inadvertently collected data from a minor, please contact us immediately so we can take appropriate action."
+          "title": "10. お子様のプライバシー",
+          "content": "当社のウェブサイトおよびサービスは、18歳未満の個人に向けられていません。 未成年者から誤ってデータを収集したと思われる場合は、適切な措置を講じるため、直ちにご連絡ください。"
         },
         {
-          "title": "11. Changes to This Policy",
-          "content": "We may update this Privacy Policy from time to time to reflect changes in our practices, technology, legal requirements, or other factors. We will post the updated policy on this page with a revised \"Last updated\" date. We encourage you to review this policy periodically."
+          "title": "11. このポリシーの変更",
+          "content": "当社は、当社の慣行、技術、法的要件、またはその他の要因の変更を反映するために、本プライバシーポリシーを随時更新することがあります。 更新されたポリシーは、「最終更新日」とともにこのページに掲載されます。定期的にこのポリシーを確認することをお勧めします。"
         },
         {
-          "title": "12. Contact Us",
+          "title": "12.お問い合わせ",
           "content": "If you have any questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us at:\n\nPVCON\nEmail: info@pvcon.in\nWebsite: https://pvcon.in"
         }
       ]
@@ -61,188 +61,188 @@
     "terms": {
       "hero": {
         "label": "Legal",
-        "heading": "Terms of Service",
-        "subtitle": "The terms and conditions governing your use of our website and services."
+        "heading": "利用規約",
+        "subtitle": "当社のウェブサイトおよびサービスの利用に関する利用規約。"
       },
-      "lastUpdated": "Last updated: March 24, 2026",
+      "lastUpdated": "最終更新日：2026年3月24日",
       "sections": [
         {
-          "title": "1. Acceptance of Terms",
-          "content": "By accessing and using the PVCON website (pvcon.in) and our services, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service. If you do not agree with any part of these terms, you must not use our website or services.\n\nThese terms constitute a legally binding agreement between you and PVCON."
+          "title": "1. 利用規約の承認",
+          "content": "PVCONのウェブサイトにアクセスし、使用することにより、 (pvcon. n)および当社のサービス、お客様は、本利用規約を読み、理解し、これに同意したことに同意するものとします。 本規約のいずれかの部分に同意しない場合は、当社のウェブサイトまたはサービスを使用しないでください。\n\n本規約は、お客様とPVCONの間の法的拘束力のある合意を構成します。"
         },
         {
-          "title": "2. Description of Services",
-          "content": "PVCON provides GxP auditing, pharmacovigilance consulting, corporate training, medical writing, PSMF management, and related professional services to pharmaceutical, biotechnology, and medical device organizations worldwide.\n\nThe specific scope, deliverables, and terms of any engagement are governed by separate service agreements between PVCON and its clients."
+          "title": "2. サービスの説明",
+          "content": "PVCONは、世界中の製薬、バイオテクノロジー、および医療機器組織にGxP監査、薬物動態コンサルティング、企業トレーニング、医療ライティング、PSMF管理、および関連する専門的サービスを提供しています。\n\n特定の範囲、成果物、および契約条件は、PVCONとその顧客間の別々のサービス契約によって管理されます。"
         },
         {
-          "title": "3. Use of Website",
+          "title": "3. ウェブサイトの使用",
           "content": "You agree to use our website only for lawful purposes and in accordance with these terms. You must not:\n\n- Use the website in any way that violates applicable laws or regulations\n- Attempt to gain unauthorized access to our systems, servers, or databases\n- Transmit any malicious code, viruses, or harmful software\n- Engage in any activity that could damage, disable, or impair the website\n- Use automated tools to scrape, crawl, or extract data from the website without prior written consent\n- Impersonate any person or entity, or misrepresent your affiliation with any person or entity"
         },
         {
-          "title": "4. Intellectual Property",
+          "title": "4. 知的財産権",
           "content": "All content on this website — including text, graphics, logos, images, design elements, and software — is the property of PVCON or its licensors and is protected by applicable intellectual property laws.\n\nYou may not reproduce, distribute, modify, display, or create derivative works from any content on this website without prior written permission from PVCON.\n\nThe PVCON name, logo, and all related product and service names are trademarks of PVCON."
         },
         {
-          "title": "5. Confidentiality",
-          "content": "Any confidential information shared between PVCON and its clients during the course of a professional engagement shall be treated with the utmost confidentiality. Neither party shall disclose confidential information to third parties without prior written consent, except as required by law.\n\nThis obligation of confidentiality survives the termination of any engagement."
+          "title": "5. 守秘性",
+          "content": "PVCONとお客様との間でプロフェッショナルなエンゲージメントの過程で共有される機密情報は、最大限の機密性をもって取り扱われます。 いずれの当事者も、法令に定められている場合を除き、書面による事前の同意なしに機密情報を第三者に開示してはなりません。\n\nこの守秘義務は、あらゆる契約の終了を生き残ります。"
         },
         {
-          "title": "6. Limitation of Liability",
+          "title": "6. 責任の制限",
           "content": "To the fullest extent permitted by applicable law, PVCON shall not be liable for any indirect, incidental, special, consequential, or punitive damages arising from:\n\n- Your use of or inability to use the website or services\n- Any errors, omissions, or inaccuracies in the content\n- Unauthorized access to or alteration of your data\n- Any third-party conduct or content on the website\n\nOur total liability for any claim shall not exceed the fees paid by you for the specific service giving rise to the claim."
         },
         {
-          "title": "7. Indemnification",
-          "content": "You agree to indemnify, defend, and hold harmless PVCON, its directors, officers, employees, and agents from any claims, liabilities, damages, losses, or expenses (including legal fees) arising out of your use of the website, violation of these terms, or infringement of any third-party rights."
+          "title": "7. 補償",
+          "content": "お客様は、いかなる請求、責任、損害、損失からのPVCON、その取締役、役員、従業員、および代理人を補償、防御、および無害にすることに同意するものとします。 お客様によるウェブサイトの使用、本規約の違反、第三者の権利侵害に起因する経費(法的費用を含む)を含みます。"
         },
         {
-          "title": "8. Third-Party Links",
-          "content": "Our website may contain links to third-party websites or services that are not owned or controlled by PVCON. We have no control over, and assume no responsibility for, the content, privacy policies, or practices of any third-party websites.\n\nThe inclusion of any link does not imply endorsement by PVCON. You acknowledge and agree that PVCON shall not be responsible for any damages or losses caused by your use of any third-party website."
+          "title": "8.サードパーティのリンク",
+          "content": "当社のウェブサイトには、PVCONが所有または管理していない第三者のウェブサイトまたはサービスへのリンクが含まれている場合があります。 当社は、第三者のウェブサイトのコンテンツ、プライバシーポリシー、または慣行を管理することはできず、責任を負いません。\n\nリンクを含めることは、PVCONによる推奨を意味するものではありません。 お客様は、PVCONが第三者のウェブサイトの使用によって生じたいかなる損害または損失についても責任を負わないことを認め、同意するものとします。"
         },
         {
-          "title": "9. Termination",
-          "content": "We reserve the right to suspend or terminate your access to the website at any time, without notice, for conduct that we believe violates these terms or is harmful to other users, us, or third parties.\n\nAll provisions of these terms which by their nature should survive termination shall survive, including intellectual property provisions, warranty disclaimers, indemnity, and limitations of liability."
+          "title": "9. 終了",
+          "content": "当社は、予告なしにいつでもお客様のウェブサイトへのアクセスを停止または終了する権利を留保します。 本規約に違反したり他のユーザーや第三者に害を及ぼす行為についてです\n\nこれらの用語のすべての規定は終了後も存続するものとします。 知的財産に関する規定、保証免責、補償、責任の制限を含む。"
         },
         {
-          "title": "10. Governing Law and Jurisdiction",
-          "content": "These Terms of Service shall be governed by and construed in accordance with the laws of India. Any disputes arising from or relating to these terms shall be subject to the exclusive jurisdiction of the courts in Mumbai, India.\n\nFor clients in the European Economic Area, nothing in these terms affects your statutory rights under applicable consumer protection laws."
+          "title": "10.準拠法・管轄権",
+          "content": "これらのサービス利用規約は、インドの法律に準拠し、解釈されます。 これらの条件から生じた、またはこれに関連する紛争は、インドのムンバイの裁判所の専属管轄権を受けるものとします。\n\n欧州経済領域のお客様にとって、これらの条件は適用される消費者保護法の下でお客様の法定権利に影響を与えるものではありません。"
         },
         {
-          "title": "11. Modifications",
-          "content": "PVCON reserves the right to modify these Terms of Service at any time. Changes will be effective immediately upon posting on this page. Your continued use of the website after any modifications constitutes acceptance of the updated terms.\n\nWe encourage you to review these terms periodically for any changes."
+          "title": "11. 変更",
+          "content": "PVCONは、いつでも本利用規約を変更する権利を留保します。変更は、このページに掲載された直後に有効になります。 変更後のウェブサイトの継続的な使用は、更新された規約の受諾となります。\n\n変更については定期的にこれらの条件を確認することをお勧めします。"
         },
         {
-          "title": "12. Contact Us",
-          "content": "If you have any questions about these Terms of Service, please contact us at:\n\nPVCON\nEmail: info@pvcon.in\nWebsite: https://pvcon.in"
+          "title": "12.お問い合わせ",
+          "content": "本サービス規約についてご質問がある場合は、\n\nPVCON\nEmail: info@pvcon.in\nWebsite: https://pvcon.in"
         }
       ]
     },
     "cookies": {
       "hero": {
         "label": "Legal",
-        "heading": "Cookie Policy",
-        "subtitle": "How we use cookies and similar technologies on our website."
+        "heading": "クッキーポリシー",
+        "subtitle": "当社のウェブサイトでのクッキーおよび同様の技術の使用方法。"
       },
-      "lastUpdated": "Last updated: March 24, 2026",
+      "lastUpdated": "最終更新日：2026年3月24日",
       "sections": [
         {
-          "title": "1. What Are Cookies?",
-          "content": "Cookies are small text files that are placed on your device (computer, tablet, or mobile phone) when you visit a website. They are widely used to make websites work efficiently, improve user experience, and provide information to website owners.\n\nCookies can be \"session cookies\" (which expire when you close your browser) or \"persistent cookies\" (which remain on your device for a set period or until you delete them)."
+          "title": "1. クッキーとは?",
+          "content": "クッキーとは、お客様がウェブサイトにアクセスしたときにお客様のデバイス(コンピュータ、タブレット、携帯電話)に保存される小さなテキストファイルのことです。 これらは、ウェブサイトを効率的に動作させ、ユーザーエクスペリエンスを向上させ、ウェブサイトの所有者に情報を提供するために広く使用されています。\n\nCookieは「セッションCookie」(ブラウザを閉じると期限切れになります)または「永続Cookie」(一定期間、または削除するまでデバイスに残ります)。"
         },
         {
-          "title": "2. How We Use Cookies",
+          "title": "2. クッキーの使用方法",
           "content": "PVCON uses cookies and similar technologies for the following purposes:\n\n**Essential Cookies:**\nThese cookies are necessary for the website to function properly. They enable core functionality such as page navigation, language preferences, and access to secure areas. The website cannot function properly without these cookies.\n\n**Analytics Cookies (Google Analytics):**\nWe use Google Analytics to collect information about how visitors use our website. This includes data such as the number of visitors, the pages they visit, and the time spent on each page. This data is aggregated and anonymized, and is used to improve our website and services.\n\nGoogle Analytics cookies used:\n- _ga: Used to distinguish unique users (expires after 2 years)\n- _ga_*: Used to persist session state (expires after 2 years)\n- _gid: Used to distinguish unique users (expires after 24 hours)\n- _gat: Used to throttle request rate (expires after 1 minute)\n\n**Preference Cookies:**\nThese cookies remember your preferences and settings, such as your language selection, to provide a personalized experience on subsequent visits."
         },
         {
-          "title": "3. Third-Party Cookies",
+          "title": "3. サードパーティのクッキー",
           "content": "Some cookies on our website are set by third-party services. These include:\n\n- **Google Analytics:** For website traffic analysis and usage statistics\n- **Google Search Console:** For search performance monitoring\n\nThese third-party services have their own privacy policies governing how they use information collected through their cookies. We encourage you to review:\n- Google's Privacy Policy: https://policies.google.com/privacy"
         },
         {
-          "title": "4. Managing Cookies",
+          "title": "4. クッキーの管理",
           "content": "You can control and manage cookies in several ways:\n\n**Browser Settings:**\nMost web browsers allow you to manage cookies through their settings. You can typically:\n- View what cookies are stored on your device\n- Delete individual cookies or all cookies\n- Block third-party cookies\n- Block all cookies from all sites\n- Clear all cookies when you close your browser\n\n**Cookie Consent:**\nWhen you first visit our website, you will see a cookie consent banner. You can choose to accept or decline non-essential cookies. You can change your preferences at any time.\n\n**Opt-Out Links:**\n- Google Analytics: https://tools.google.com/dlpage/gaoptout\n\nPlease note that blocking certain cookies may affect the functionality of our website."
         },
         {
-          "title": "5. Cookie Table",
+          "title": "5. クッキーテーブル",
           "content": "Below is a summary of the cookies used on our website:\n\n| Cookie | Type | Purpose | Duration |\n|--------|------|---------|----------|\n| cookie_consent | Essential | Stores your cookie consent preference | 1 year |\n| NEXT_LOCALE | Essential | Stores your language preference | Session |\n| _ga | Analytics | Google Analytics - distinguishes users | 2 years |\n| _ga_* | Analytics | Google Analytics - session state | 2 years |\n| _gid | Analytics | Google Analytics - distinguishes users | 24 hours |\n| _gat | Analytics | Google Analytics - throttle requests | 1 minute |"
         },
         {
-          "title": "6. Changes to This Cookie Policy",
-          "content": "We may update this Cookie Policy from time to time to reflect changes in technology, legislation, or our data practices. We will post any changes on this page with an updated \"Last updated\" date."
+          "title": "6. この Cookie ポリシーの変更",
+          "content": "当社は、技術、法律、または当社のデータ慣行の変更を反映するために、このCookieポリシーを随時更新することがあります。 私たちは、このページに更新された「最終更新日」と変更を投稿します。"
         },
         {
-          "title": "7. Contact Us",
-          "content": "If you have any questions about our use of cookies, please contact us at:\n\nPVCON\nEmail: info@pvcon.in\nWebsite: https://pvcon.in"
+          "title": "7. お問い合わせ",
+          "content": "Cookieの使用についてご質問がある場合は、\n\nPVCON\nEmail: info@pvcon.in\nWebsite: https://pvcon.in"
         }
       ]
     },
     "disclaimer": {
       "hero": {
         "label": "Legal",
-        "heading": "Disclaimer",
-        "subtitle": "Important notices regarding the information provided on our website."
+        "heading": "免責事項",
+        "subtitle": "当社のウェブサイトで提供される情報に関する重要な通知。"
       },
-      "lastUpdated": "Last updated: March 24, 2026",
+      "lastUpdated": "最終更新日：2026年3月24日",
       "sections": [
         {
-          "title": "1. General Disclaimer",
-          "content": "The information provided on the PVCON website (pvcon.in) is for general informational purposes only. While we strive to keep the information up to date and accurate, PVCON makes no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability, or availability of the information, products, services, or related graphics contained on the website."
+          "title": "1. 一般的な免責事項",
+          "content": "PVCONウェブサイト(pvcon.in)で提供される情報は、一般的な情報提供のみを目的としています。 当社は、最新かつ正確な情報を保持するよう努めていますが、PVCONは、明示または黙示を問わず、いかなる種類の表明または保証も行いません。 ウェブサイトに含まれる情報、製品、サービス、または関連グラフィックスの完全性、正確性、信頼性、適合性または可用性について説明します。"
         },
         {
-          "title": "2. No Professional Advice",
-          "content": "The content on this website does not constitute professional pharmacovigilance, regulatory, legal, or medical advice. The information provided should not be used as a substitute for professional consultation.\n\nPVCON's website content is intended to provide a general overview of our services and the pharmacovigilance landscape. For specific regulatory guidance, compliance requirements, or professional advice tailored to your organization's needs, please engage our consulting services directly or consult with qualified professionals."
+          "title": "2. プロのアドバイスはありません",
+          "content": "本ウェブサイトの内容は、プロの薬物乱用、規制、法的または医学的アドバイスを構成するものではありません。 提供された情報は、専門家の相談の代わりに使用しないでください。\n\nPVCONのウェブサイトの内容は、当社のサービスおよび薬物乱用状況の概要を提供することを目的としています。 具体的な規制ガイダンス、コンプライアンス要件、または組織のニーズに合わせた専門的なアドバイスについては、当社のコンサルティングサービスを直接ご利用いただくか、適格な専門家に相談してください。"
         },
         {
-          "title": "3. Regulatory Information",
-          "content": "Pharmacovigilance regulations, guidelines, and requirements vary by jurisdiction and are subject to frequent updates. While PVCON endeavors to keep regulatory information current, we cannot guarantee that all information on this website reflects the latest regulatory developments.\n\nUsers should always verify regulatory requirements with the relevant national competent authorities or regulatory bodies (e.g., EMA, FDA, CDSCO, PMDA) before making compliance decisions."
+          "title": "3. 規制情報",
+          "content": "Pharmacovigilanceの規制、ガイドライン、および要件は管轄区域によって異なり、頻繁に更新されます。 PVCONは規制情報を最新の状態に保つよう努めていますが、このウェブサイトに掲載されているすべての情報が最新の規制事情を反映していることを保証するものではありません。\n\nユーザーは、コンプライアンス決定を行う前に、関連する国の有能な当局または規制当局(EMA、FDA、CDSCO、PMDAなど)に常に規制要件を検証する必要があります。"
         },
         {
-          "title": "4. No Guarantees",
-          "content": "While PVCON has a strong track record of helping clients achieve regulatory compliance, we do not guarantee specific outcomes from the use of our services, including but not limited to:\n\n- Successful regulatory inspections or audit outcomes\n- Approval of marketing authorization applications\n- Compliance with specific regulatory requirements\n\nResults depend on multiple factors including client cooperation, organizational readiness, and regulatory authority decisions."
+          "title": "4. いいえ保証",
+          "content": "PVCONは、お客様が規制遵守を達成するための強力な実績を有していますが、当社は、当社のサービスの利用による特定の成果を保証するものではありません。\n\n- 成功した規制検査または監査結果\n- マーケティング許可申請の承認\n- 特定の規制要件への遵守\n\n結果は、クライアントの協力を含む複数の要因に依存します。 組織の準備と規制当局の判断です"
         },
         {
-          "title": "5. External Links",
-          "content": "This website may contain links to external websites and resources. PVCON has no control over the nature, content, and availability of those external sites. The inclusion of any links does not necessarily imply a recommendation or endorsement of the views expressed within them.\n\nWe are not responsible for the content, accuracy, or privacy practices of external websites."
+          "title": "5. 外部リンク",
+          "content": "このウェブサイトには、外部のウェブサイトおよびリソースへのリンクが含まれている場合があります。PVCONは、それらの外部サイトの性質、コンテンツ、および可用性を管理するものではありません。 リンクを含めることは、必ずしもそれらの中で表明された見解の推奨または推奨を意味するものではありません。\n\n外部サイトのコンテンツ、正確性、プライバシー慣行については責任を負いません。"
         },
         {
-          "title": "6. Availability",
-          "content": "We make every effort to keep the website running smoothly. However, PVCON takes no responsibility for, and will not be liable for, the website being temporarily unavailable due to technical issues, maintenance, or circumstances beyond our control."
+          "title": "6. アベイラビリティー",
+          "content": "私たちは、ウェブサイトをスムーズに動作させ続けるためにあらゆる努力をしています。 ただし、PVCONは一切の責任を負わず、責任を負いません。 技術的な問題、メンテナンス、状況により、ウェブサイトが一時的に利用できなくなりました。"
         },
         {
-          "title": "7. Limitation of Liability",
-          "content": "To the maximum extent permitted by applicable law, PVCON shall not be held liable for any loss or damage, including without limitation, indirect or consequential loss or damage, arising from or in connection with the use of this website.\n\nYour use of any information or materials on this website is entirely at your own risk, for which PVCON shall not be liable."
+          "title": "7. 責任の制限",
+          "content": "適用される法律で認められる最大限の範囲において、PVCONはいかなる損失または損害についても責任を負いません。 本ウェブサイトの使用に起因または関連して生じる間接的または間接的な損失または損害を含みますがこれに限定されません。\n\n本ウェブサイト上の情報または資料の使用は、お客様ご自身の責任において行われます。そのため、PVCONは責任を負いません。"
         },
         {
-          "title": "8. Contact Us",
-          "content": "If you have any questions about this disclaimer, please contact us at:\n\nPVCON\nEmail: info@pvcon.in\nWebsite: https://pvcon.in"
+          "title": "8. お問い合わせ",
+          "content": "この免責事項についてご質問がある場合は、\n\nPVCON\nEmail: info@pvcon.in\nWebsite: https://pvcon.in"
         }
       ]
     },
     "impressum": {
       "hero": {
-        "label": "Legal Notice",
+        "label": "法的通知",
         "heading": "Impressum",
-        "subtitle": "Legal information and company details as required by applicable law."
+        "subtitle": "適用される法律で要求される法的情報および会社の詳細。"
       },
-      "lastUpdated": "Last updated: March 24, 2026",
+      "lastUpdated": "最終更新日：2026年3月24日",
       "sections": [
         {
-          "title": "Company Information",
+          "title": "会社情報",
           "content": "**PVCON**\nGxP Audit & Pharmacovigilance Consulting Services\n\n**Registered Office:**\nMumbai, Maharashtra, India\n\n**Email:** info@pvcon.in\n**Website:** https://pvcon.in"
         },
         {
-          "title": "Responsible Person",
-          "content": "**Moin Don**\nFounder & CEO, PVCON\n\nResponsible for the content of this website in accordance with applicable press and media laws."
+          "title": "担当者",
+          "content": "**Moin Don**\nPVCON\n\n適用されるプレスおよびメディア法に従い、本ウェブサイトのコンテンツを担当します。"
         },
         {
-          "title": "Business Description",
-          "content": "PVCON is a professional services firm specializing in GxP auditing, pharmacovigilance consulting, corporate training, medical writing, and PSMF management for pharmaceutical, biotechnology, and medical device organizations worldwide.\n\nOur services are provided across 100+ countries, supporting organizations with regulatory compliance, inspection readiness, and quality management in drug safety."
+          "title": "ビジネスの説明",
+          "content": "PVCONは、GxP監査、薬物動態コンサルティング、企業研修に特化した専門サービス会社です。 世界中の医薬品、バイオテクノロジー、医療機器組織のためのPSMF管理。\n\n当社のサービスは100カ国以上で提供されており、規制遵守、検査の準備、および医薬品の安全性における品質管理を支援しています。"
         },
         {
-          "title": "Intellectual Property",
-          "content": "All content published on this website — including text, images, graphics, logos, and design — is protected by applicable intellectual property laws and is the property of PVCON unless otherwise stated.\n\nUnauthorized reproduction, distribution, or use of the content is prohibited without prior written consent from PVCON."
+          "title": "知的財産権",
+          "content": "本ウェブサイトに掲載されているすべてのコンテンツ — テキスト、画像、画像、ロゴなど。 また、デザインは適用される知的財産法によって保護されており、特に明記されていない限りPVCONの財産です。\n\nPVCONからの書面による事前の承諾なく、コンテンツの不正な複製、配布、または使用は禁止されています。"
         },
         {
-          "title": "Liability for Content",
-          "content": "As a service provider, we are responsible for our own content on these pages in accordance with general laws. However, we are not obligated to monitor transmitted or stored third-party information or to investigate circumstances that indicate illegal activity.\n\nObligations to remove or block the use of information under general laws remain unaffected. Liability in this regard, however, is only possible from the date of knowledge of a concrete infringement. Upon becoming aware of corresponding infringements, we will remove this content immediately."
+          "title": "コンテンツに対する責任",
+          "content": "サービスプロバイダーとして、当社は一般的な法律に従ってこれらのページ上のコンテンツに対して責任を負います。 ただし、当社は、送信または保存された第三者の情報を監視したり、違法行為を示す状況を調査する義務を負いません。\n\n一般法に基づく情報の使用を削除またはブロックする義務は影響を受けません。 しかし、この点に関しての責任は、具体的な侵害の知識の日からのみ可能です。 対応する侵害を認識した場合、当社は直ちにこのコンテンツを削除します。"
         },
         {
-          "title": "Liability for Links",
-          "content": "Our website contains links to external third-party websites over whose content we have no influence. Therefore, we cannot assume any liability for this third-party content. The respective provider or operator of the linked pages is always responsible for their content.\n\nThe linked pages were checked for possible legal violations at the time of linking. Illegal content was not recognizable at the time of linking. Permanent monitoring of the content of the linked pages is not reasonable without concrete evidence of a legal violation."
+          "title": "リンクの責任",
+          "content": "当社のウェブサイトには外部第三者のウェブサイトへのリンクが含まれており、そのコンテンツには影響を与えません。 したがって、当社はこの第三者のコンテンツについて一切の責任を負うことはできません。リンクされたページのそれぞれのプロバイダーまたはオペレーターは、常にそのコンテンツに対して責任を負います。\n\nリンクされたページは、リンク時に法的違反の可能性があるかどうかを確認しました。リンク時に違法なコンテンツが認識されませんでした。 リンクされたページの内容の永続的な監視は、法的違反の具体的な証拠がなければ合理的ではありません。"
         },
         {
-          "title": "EU Dispute Resolution",
-          "content": "The European Commission provides a platform for online dispute resolution (ODR): https://ec.europa.eu/consumers/odr\n\nWe are not obligated and not willing to participate in dispute resolution proceedings before a consumer arbitration board."
+          "title": "EUの紛争解決",
+          "content": "欧州委員会は、オンライン紛争解決のためのプラットフォームを提供します (ODR): https://ec.europa. u/consumers/odr\n\n我々は義務付けられておらず、消費者仲裁委員会の前に紛争解決手続に参加する意思がありません."
         },
         {
-          "title": "Data Protection",
-          "content": "For detailed information about how we handle your personal data, please refer to our Privacy Policy.\n\nData Protection Contact: info@pvcon.in"
+          "title": "データ保護",
+          "content": "当社がお客様の個人情報をどのように取り扱うかについての詳細は、当社のプライバシーポリシーをご覧ください。\n\nデータ保護連絡先: info@pvcon.in"
         }
       ]
     },
     "consentBanner": {
-      "message": "We use cookies to enhance your browsing experience and analyze website traffic.",
-      "learnMore": "Learn more",
-      "accept": "Accept All",
-      "decline": "Essential Only"
+      "message": "私たちは、あなたのブラウジング体験を向上させ、ウェブサイトのトラフィックを分析するためにクッキーを使用します。",
+      "learnMore": "もっと詳しく",
+      "accept": "すべて承認",
+      "decline": "必須のみ"
     }
   }
 }

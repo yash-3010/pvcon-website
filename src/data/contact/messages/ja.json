@@ -2,36 +2,36 @@
   "contact": {
     "hero": {
       "tagline": "お問い合わせ",
-      "title": "ご相談ください",
-      "subtitle": "GxP監査、ファーマコビジランスコンサルティング、規制コンプライアンスに関するご質問がございましたら、以下のフォームにご記入ください。24時間以内にチームよりご連絡いたします。"
+      "title": "レッツトーク",
+      "subtitle": "GxP監査、薬物乱用コンサルティング、規制遵守について質問がありますか? 以下のフォームに必要事項を記入すると、24時間以内に弊社チームからご連絡いたします。"
     },
     "form": {
-      "name": "氏名",
+      "name": "フルネーム",
       "company": "会社名",
-      "designation": "役職",
+      "designation": "名称",
       "email": "メールアドレス",
       "phone": "電話番号",
       "message": "メッセージ",
-      "namePlaceholder": "山田太郎",
-      "companyPlaceholder": "会社名を入力",
-      "designationPlaceholder": "例：PVオペレーション責任者",
-      "emailPlaceholder": "taro@company.co.jp",
-      "phonePlaceholder": "電話番号を入力",
-      "messagePlaceholder": "プロジェクトやお問い合わせの詳細をお聞かせください...",
+      "namePlaceholder": "ジョン・ドゥ",
+      "companyPlaceholder": "会社名",
+      "designationPlaceholder": "例: PV操作のHead",
+      "emailPlaceholder": "john@company.com",
+      "phonePlaceholder": "電話番号",
+      "messagePlaceholder": "あなたのプロジェクトやお問い合わせについて教えてください...",
       "submit": "メッセージを送信",
       "submitting": "送信中...",
-      "successHeading": "メッセージが正常に送信されました！",
-      "successMessage": "お問い合わせいただきありがとうございます。ファーマコビジランスの専門家がお問い合わせ内容を確認し、24時間以内にご返信いたします。",
-      "errorHeading": "エラーが発生しました",
-      "errorMessage": "もう一度お試しいただくか、info@pvcon.in まで直接ご連絡ください。",
+      "successHeading": "メッセージを送信しました！",
+      "successMessage": "お問い合わせいただきありがとうございます。当社の薬局の専門家は、お問い合わせを確認し、24時間以内に対応いたします。",
+      "errorHeading": "問題が発生しました",
+      "errorMessage": "もう一度お試しいただくか、info@pvcon.inまでお問い合わせください。",
       "sendAnother": "別のメッセージを送信",
-      "required": "この項目は必須です",
+      "required": "このフィールドは必須項目です",
       "invalidEmail": "有効なメールアドレスを入力してください",
       "captchaLabel": "セキュリティ認証"
     },
     "info": {
-      "emailLabel": "メール",
-      "phoneLabel": "電話"
+      "emailLabel": "Eメールアドレス",
+      "phoneLabel": "電話番号"
     }
   }
 }

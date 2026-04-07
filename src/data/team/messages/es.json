@@ -1,0 +1,207 @@
+{
+  "team": {
+    "backToTeam": "Volver al equipo",
+    "about": "Acerca de",
+    "experience": "Experiencia profesional",
+    "skills": "Experto en el núcleo",
+    "tag-skills": "Habilidades",
+    "qualifications": "Calificaciones y reconocimiento",
+    "tag-qualifications": "Logros",
+    "languages": "Idiomas",
+    "members": {
+      "moin-don": {
+        "name": "Luna Don",
+        "role": "Fundador y CEO",
+        "organization": "Consulta PVCON",
+        "shortBio": "Fundador y CEO de PVCON con más de 50 años de experiencia en la industria farmacéutica.",
+        "fullBio": "Moin tiene más de 50 años de experiencia en la industria farmacéutica. Tiene una rica experiencia práctica en prácticamente todas las facetas de la Farmacovigilancia Industrial, al tiempo que presta servicios a prestigiosas compañías farmacéuticas internacionales como Sanofi Aventis y Dr. Reddy's, con su última tarea corporativa junto a Johnson & Johnson como Director Regional de PV QA para Asia . Moin ha sido entrenado extensamente en los Estados Unidos, Alemania, Francia y Singapur y es un jefe de gestión certificado. Como distinguido consultor y auditor PV, Moin ha llevado a cabo auditorías a lo largo y ancho de Asia: fic, Oriente Medio, Países CIS, Europa, África y Australia, además de ayudar a las empresas farmacéuticas en el establecimiento de sistemas fotovoltaicos en el desarrollo de mercados, mentoría y formación de equipos fotovoltaicos.",
+        "experience": [
+          {
+            "title": "Fundador y CEO",
+            "company": "Consulta PVCON Pvt Ltd",
+            "period": "2011 – Presente",
+            "description": "Gestión y ejecución de programas globales de auditoría fotográfica, consultoría de control de calidad de GxP, gestión de CAPA, apoyo a la preparación, desarrollo de programas de capacitación y asesoramiento estratégico sobre Sistemas de Gestión de Calidad."
+          },
+          {
+            "title": "Directora Regional – Asia Fic, Global Systems Quality Assurance",
+            "company": "PRD de Johnson y Johnson",
+            "period": "2008 – 2011",
+            "description": "Auditorías realizadas basadas en el sistema de J&J global PV/GCP y compañías operativas. Las funciones de PV QA y Clinical QA gestionadas se centran en el desarrollo del personal y en el cumplimiento de las empresas afiliadas a J&J, proveedores y socios de marketing."
+          },
+          {
+            "title": "Cabeza, Farmacovigilancia",
+            "company": "Reliance Clinical Research Services",
+            "period": "2007 – 2008",
+            "description": "Supervisó todas las actividades de vigilancia de la inocuidad de los medicamentos relacionadas con los proyectos clínicos desde la fase temprana hasta la fase IV."
+          },
+          {
+            "title": "Gerente Senior, Farmacovigilancia",
+            "company": "Laboratorios del Dr. Reddy",
+            "period": "2006 – 2007",
+            "description": "Creación de un centro fotovoltaico mundial con capacidad para 35 países, incluyendo los Estados Unidos y la UE."
+          },
+          {
+            "title": "Cabeza de farmacovigilancia de afiliados",
+            "company": "Sanofi Aventis Ltd Pharma",
+            "period": "2001 – 2006",
+            "description": "Manejo de la seguridad durante ensayos clínicos y vigilancia de seguridad post-comercialización para medicamentos y dispositivos médicos."
+          },
+          {
+            "title": "Gerente, PV y Epidemiología / Formulaciones Pharma",
+            "company": "Sanofi Aventis (Hoechst Marion Roussel)",
+            "period": "1976 – 2000",
+            "description": "Enlace regulatorio y licencias, registro de fármacos y ensayos clínicos, gestión externa de fabricación y operaciones de fabricación de tablets."
+          }
+        ],
+        "skills": [
+          "VP Global (afiliados, sistemas, vendedores, socios de marketing)",
+          "Programas de auditoría basados en riesgos y control de calidad GxP",
+          "Regulaciones EMA GVP, MHRA, US FDA, ICH y Global PV/GCP",
+          "PSMF Preparación y revisión de calidad",
+          "Desarrollo de procedimientos de operación estándar",
+          "Prestación de Inspección Regulatoria y Gestión de CAPA",
+          "Desarrollo del Programa Corporativo de Formación PV"
+        ],
+        "qualifications": [
+          "Profesor adjunto — Jamia Hamdard University, Delhi",
+          "Líder, Capítulo de Asia Meridional — Sociedad Internacional de Farmacovigilancia (ISoP)",
+          "Premio Pharma Ratan — Logro de por vida en la farmacia de DCGI",
+          "Consultor PV nombrado por la Autoridad Reguladora de Botswana (BoMRA)",
+          "Presidente y miembro del programa — Conferencias DIA India PV (más de 11 años)",
+          "Contador de plomo Certificado — Entrenado en Estados Unidos, Alemania, Francia y Singapur",
+          "Director del curso — PG Diploma en Farmacovigilancia, Facultad de Farmacia de Bombay",
+          "Formador — Taller PV de Uppsala (UMC) en Asia Pacific PV",
+          "Entrenador — Programa de Farmacovigilancia de la India (PvPI) para DCGI y CDSCO"
+        ],
+        "languages": [
+          "Inglés (Fluente)",
+          "Urdu (Nativo)",
+          "Árabe (principiante)"
+        ],
+        "meta": {
+          "title": "Moin Don — Fundador y CEO de PVCON | Experto de Farmacovigilancia",
+          "description": "Moin Don es el fundador y CEO de PVCON con más de 50 años en la industria farmacéutica. Ex J&J Director Regional de PV QA para Asia: ///////////////////////// / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /"
+        }
+      },
+      "rameez-don": {
+        "name": "Rameez Don",
+        "role": "Director",
+        "organization": "Consulta PVCON",
+        "shortBio": "Director de PVCON con más de 15 años de experiencia profesional a través de la Farmacovigilancia, Garantía de Calidad, Garantía de Calidad, Garantía de Capacitación, y Desarrollo de Negocios.",
+        "fullBio": "Rameez cuenta con más de 15 años de experiencia profesional en diversos campos como Farmacovigilancia, Garantía de Calidad, Garantías, Formación, Desarrollo de Negocios, Operaciones y personal. Es Consejero y Director Certificado en PVCON y actualmente está cursando un doctorado en Administración de Doctorado por la Universidad de IIHMR. Rameez tiene un profundo conocimiento de farmacovigilancia y lidera las relaciones comerciales y de clientes de PVCON. Es miembro del Programa de Desarrollo de Habilidades PV de Investigación (RQA), profesor invitado en el programa de Desarrollo de Habilidades PvPI (Ministerio de Salud) con participación activa en diversos temas regulatorios y fotovoltaicos en asociaciones de la industria, foros y seminarios.",
+        "experience": [
+          {
+            "title": "Director",
+            "company": "Consulta PVCON",
+            "period": "2015 – Presente",
+            "description": "Programas globales de auditoría fotográfica gestionados y ejecutados, consultoría de control de calidad de GxP, gestión de CAPA, soporte de preparación para inspecciones, desarrollo de programas de formación y asesoramiento estratégico sobre Sistemas de Gestión de Calidad."
+          }
+        ],
+        "skills": [
+          "Global PV Audit Management (EU & UK, Americas, Medio Oriente, Africa, Asia:fic, áfica)",
+          "PV Regulaciones y Predicción de Inspección",
+          "Liderazgo de proyectos y equipos",
+          "Desarrollo e Implementación de Procedimientos de Operación Estándar",
+          "Desarrollo de Módulos de Entrenamiento y Entrega",
+          "Configuración de Sistemas de Gestión de Calidad (QMS) y Supervisión",
+          "Desarrollo de Negocios y Relaciones con Clientes",
+          "Programas de auditoría basados en riesgos y planes de CAPA"
+        ],
+        "qualifications": [
+          "Clientes de plomo certificados",
+          "Doctorado en Administración de Photos (Pursuing) — Universidad de IIHMR",
+          "Miembro — Garantía de Calidad de Investigación (RQA)",
+          "Profesor invitado — Programa de Desarrollo de Habilidades PV (PvPI, Ministerio de Salud)"
+        ],
+        "languages": [
+          "Inglés (Fluente)"
+        ],
+        "meta": {
+          "title": "Rameez Don — Director de PVCON | Farmacovigilancia y Aseguramiento de Calidad",
+          "description": "Rameez Don es Director de PVCON con más de 15 años de experiencia en Farmacovigilancia, Garantía de Calidad, y Desarrollo de Negocios."
+        }
+      },
+      "nazrul-khan": {
+        "name": "Nazrul Khan",
+        "role": "Senior Consultante y Responsable",
+        "organization": "Consulta PVCON",
+        "shortBio": "Responsable de Consultores de PVCON con más de 24 años de experiencia en I+D, Control de Calidad y Auditoría de Farmacovigilancia con sede en Londres, Reino Unido.",
+        "fullBio": "Nazrul cuenta con más de 24 años de experiencia en Investigación y Desarrollo Farmacéuticos, Aseguramiento de Calidad, Sistemas de Gestión de Calidad, desarrollo de medicamentos clínicos, asuntos regulatorios post-comercialización, farmacovigilancia y cumplimiento regulatorio. Tiene amplia experiencia mundial en auditoría de regulación y PV QA cubriendo empresas operativas locales, socios de codesarrollo, CROs, proveedores de servicios GxP y validación de sistemas informáticos. Tiene un historial comprobado en la gestión y el alojamiento completo de numerosas inspecciones de las autoridades sanitarias PV y GCP. Nazrul está activamente involucrado en proporcionar capacitación de auditoría dentro de la industria, un miembro de Research Quality Assurance (RQA) y Drug Information Association (DIA), un tutor en el RQA Practical PV, y un co-autor del RQA PV Parlamentititing Handbook.",
+        "experience": [
+          {
+            "title": "Clientes de GxP independientes y líder de consultores",
+            "company": "Consulta PVCON",
+            "period": "2017 - Regalo",
+            "description": "Las auditorías de GVP cubren los servicios de auditoría de afiliados, sistemas, socios de negocios y vendedores y GMP, PIB, GCP y CSV. Soporte adicional con desarrollo de SOP, consultoría QMS, análisis de brechas, preparación para la inspección, evaluación de riesgos GVP y desarrollo de programas de auditoría."
+          },
+          {
+            "title": "PV y QA",
+            "company": "Bristol Myers Squibb/ Seagen Inc./ Ícono de Johnson y Johnson",
+            "period": "2018 – 2022",
+            "description": "PV auditoría, análisis de lagunas, formación de seguidores de VP, desarrollo de procedimientos y programas de auditoría fotovoltaica basados en el riesgo."
+          },
+          {
+            "title": "Director, Global LOC QA, R&D GCP y GVP QA",
+            "company": "Físicos de Takeda Europa Limitada",
+            "period": "2014 – 2015",
+            "description": "Global PV Líder para auditorías de la compañía operadora local incluyendo actividades GCP y QMS QA. Supervisión de las actividades regionales de PV, GCP y QMS y proveedores externos de servicios de QA."
+          },
+          {
+            "title": "Gestor de programas de QA (Janssen I&D, J&J Familia)",
+            "company": "Consultante independiente",
+            "period": "2014 & 2015 – 2018",
+            "description": "Realizado auditoría QA PV de Calidad y Cumplimiento de R&D Jansssen. Entrenamiento en temas y sistemas de fotovoltaica y de coaching, desarrollo y mentorización de los auditores iInternos."
+          },
+          {
+            "title": "Director asociado de Farmacovigilancia",
+            "company": "Zigzag Asociados Ltd, Reino Unido",
+            "period": "2012 – 2013",
+            "description": "Gestión de programas de auditoría de sistemas fotovoltaicos, facilitación de inspecciones regulatorias, planificación de CAPA, desarrollo de QMS y gestión de líneas de personal."
+          },
+          {
+            "title": "Gestor de Programas, Garantía de Calidad del Sistema Global",
+            "company": "Johnson y Johnson PRD, Reino Unido",
+            "period": "2006 – 2012",
+            "description": "Auditorías basadas en sistemas de J&J global PV/GCP. Managed UK MHRA y US FDA PV y GCP inspecciones (anunciadas e inadvertidas). Autorización de licencias y actividades de diligencia debidas."
+          },
+          {
+            "title": "Científico de Farmacovigilancia Senior",
+            "company": "MHRA (Medicamentos y Asistencia Sanitaria Agencia de Productos Regulatorios), Reino Unido",
+            "period": "2001 – 2005",
+            "description": "Revisión de ICSRs para el cumplimiento y detección de señales, revisión PSUR, evaluaciones de variaciones de seguridad, Oversight of UK ADR Regional Monitoring Centres, and presentations at MHRA Sub-Committee on Safety of Medicines."
+          }
+        ],
+        "skills": [
+          "EU/US FDA y Global PV & GCP Regulaciones",
+          "Estrategias basadas en riesgos y cumplimiento de PV & GCP QA",
+          "Legislación de PV de la UE e Implementación de Módulos GVP",
+          "PSMF Preparación y revisión de calidad",
+          "Global LOC/Afiliate PV (UE, Américas, Oriente Medio, África, Asia mañana)",
+          "Inspecciones de la Autoridad de Salud PV y GCP (MHRA, FDA, EMA)",
+          "Estrategias de gestión de QA y programas de auditoría basados en riesgos",
+          "Desarrollo SOP y Sistemas de Gestión de Calidad",
+          "Competencia de GMP, PIB y validación de sistemas de computación"
+        ],
+        "qualifications": [
+          "MSc Pharmacología Clínica — Universidad de Surrey, Reino Unido",
+          "HND Pharmacología (Distinción) — University of East London, Reino Unido",
+          "Miembro — Garantía de Calidad de Investigación (RQA)",
+          "Miembro — Asociación de Información sobre Drogas (DIA)",
+          "Copautor — RQA PV volviendo a manual",
+          "Profesor — Curso Práctico PV RQA (Madingley Hall, Cambridge, UK)",
+          "Hablante — DIA Conference India, foros de BARQA, UK ePharma Day",
+          "Delegate — Simposio de Farmacovigilancia MHRA, Conferencias ISOP"
+        ],
+        "languages": [
+          "Inglés (Nativo)",
+          "Bengalí (Nativo)",
+          "Urdu (Intermedio)"
+        ],
+        "meta": {
+          "title": "Nazrul Khan — Responsable consultivo en PVCON | Experto de Farmacovigilancia",
+          "description": "Nazrul Khan es un líder consultivo de control en PVCON con más de 24 años en I+D, QA y auditoría PV. MSc Clinical Pharmacology, coautor de la RQA PV Auditing Handbook."
+        }
+      }
+    }
+  }
+}

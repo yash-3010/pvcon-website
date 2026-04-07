@@ -2,204 +2,204 @@
   "team": {
     "backToTeam": "返回团队",
     "about": "关于",
-    "experience": "职业经历",
-    "skills": "核心专长",
-    "qualifications": "资质与荣誉",
-    "languages": "语言能力",
+    "experience": "专业经验",
+    "skills": "核心专门知识",
+    "tag-skills": "技能",
+    "qualifications": "资历与识别",
+    "tag-qualifications": "成就",
+    "languages": "语文",
     "members": {
       "moin-don": {
         "name": "Moin Don",
-        "role": "创始人兼首席执行官",
-        "organization": "PVCON Consulting Pvt Ltd",
-        "shortBio": "PVCON创始人兼首席执行官，拥有超过50年的制药行业经验。亚太地区最知名的药物警戒专业人士之一。",
-        "fullBio": "Moin在制药行业拥有超过50年的经验。药学专业出身的Moin是亚太地区最知名的药物警戒专业人士之一。他在工业药物警戒的几乎每个方面都拥有丰富的实践经验，曾服务于Sanofi Aventis和Dr. Reddy's等知名国际制药公司，最后的企业任职是在Johnson & Johnson担任亚太区药物警戒质量保证区域总监。Moin曾在美国、德国、法国和新加坡接受过广泛的培训，是一名认证主审核员。作为杰出的药物警戒顾问和审核员，Moin在亚太地区、中东、独联体国家、欧洲、非洲和澳大利亚进行了审核，并帮助制药公司在发展中市场建立药物警戒体系。",
+        "role": "创始人和首席执行官",
+        "organization": "PVCON Consulting",
+        "shortBio": "聚氯乙烯创办人兼首席执行官，拥有50多年制药业的经验，是亚太地区最著名的药剂警戒专业人员之一。",
+        "fullBio": "月球在制药业有50多年的经验，教育药剂师，月球是亚太地区最著名的药剂警戒专业人员之一。 他在工业药剂警戒的几乎每个方面都有丰富的实践经验，同时为著名的国际药剂公司，如Sanofi Aventis and Dr. Reddy's,他最后一次的公司任务是由Johnson & Johnson担任亚太区域光电校主任。 月球在美国、德国、法国和新加坡接受了广泛培训，是注册审计师。 作为杰出的光电转换顾问和审计师，Moin在整个亚洲太平洋、中东、独联体国家、欧洲进行了审计。 非洲和澳大利亚除了帮助制药公司建立发展市场的光电系统、指导和培训光电转换小组。",
         "experience": [
           {
-            "title": "创始人兼首席执行官",
+            "title": "创始人和首席执行官",
             "company": "PVCON Consulting Pvt Ltd",
-            "period": "2011 – 至今",
-            "description": "管理和执行全球药物警戒审核项目、GxP质量保证咨询、CAPA管理、检查准备支持、培训项目开发以及质量管理体系的战略建议。"
+            "period": "2011 — present",
+            "description": "全球光电转换审计方案的管理和执行，GxP质量保证咨询服务，CAPA管理 为视察做好准备提供支助、制订培训方案和就质量管理系统提供战略咨询。"
           },
           {
-            "title": "亚太区区域总监，全球系统质量保证",
+            "title": "区域主任——亚洲太平洋，全球系统质量保证",
             "company": "Johnson & Johnson PRD",
             "period": "2008 – 2011",
-            "description": "执行J&J全球药物警戒/GCP系统和运营公司的系统审核。管理药物警戒质量保证和临床质量保证职能，重点关注J&J关联公司、供应商和营销合作伙伴的人员发展和合规性。"
+            "description": "对J&J全球PV/GCP系统和经营公司进行系统审计。 管理下的光学质量评估和临床质量评估的功能，重点是工作人员的发展和对J&J所属公司、供应商和销售伙伴的遵守情况。"
           },
           {
-            "title": "药物警戒负责人",
-            "company": "Reliance Clinical Research Services",
+            "title": "药剂警戒主任",
+            "company": "依赖临床研究服务",
             "period": "2007 – 2008",
-            "description": "监督从早期阶段到IV期临床项目相关的所有药物安全监测活动。"
+            "description": "从早期阶段到第四阶段，监督与临床项目有关的所有药物安全监测活动。"
           },
           {
-            "title": "高级经理，药物警戒",
+            "title": "药剂警觉高级经理",
             "company": "Dr. Reddy's Laboratories",
             "period": "2006 – 2007",
-            "description": "建立服务35个国家（包括美国和欧盟）的全球药物警戒中心。为药物警戒部门创建基础设施和标准操作规程。"
+            "description": "为包括美国和欧盟在内的35个国家建立了全球光电中心，并为光电部建立了光电基础设施和可视设施。"
           },
           {
-            "title": "分公司药物警戒负责人",
+            "title": "联盟药剂警觉头",
             "company": "Sanofi Aventis Pharma Ltd",
             "period": "2001 – 2006",
-            "description": "临床试验期间的安全管理以及药品和医疗器械的上市后安全监测。"
+            "description": "临床试验期间的安全管理以及药品和医疗设备销售后的安全监视。"
           },
           {
-            "title": "经理，药物警戒与流行病学/制药制剂",
+            "title": "PV & Epidemiology / Pharma 配方经理；",
             "company": "Sanofi Aventis (Hoechst Marion Roussel)",
             "period": "1976 – 2000",
-            "description": "法规联络和许可、药品和临床试验注册、外部生产管理以及片剂生产运营。"
+            "description": "管制联络和许可证发放、药物和临床试验登记、外部制造管理和制片机制造业务。"
           }
         ],
         "skills": [
-          "全球药物警戒审核（分公司、系统、供应商、营销合作伙伴）",
-          "GxP质量保证与基于风险的审核项目",
-          "EU GVP、US FDA、ICH及全球药物警戒/GCP法规",
-          "PSMF编制与质量审核",
-          "标准操作规程开发",
-          "法规检查准备与CAPA管理",
-          "企业药物警戒培训项目开发"
+          "Global PV Auditing (Affiliates, Systems, Vendors, Marketing Partners)",
+          "GxP 质量保证和基于风险的审计方案",
+          "EMA GVP, MHRA, US FDA, ICH and Global PV/GCP Regulations",
+          "PSMF 准备和质量审查",
+          "B. 标准业务程序制订情况",
+          "监管检查准备情况和CAPA 管理",
+          "公司PV培训方案开发"
         ],
         "qualifications": [
-          "兼职教授 — Jamia Hamdard University，德里",
-          "南亚分会负责人 — International Society of Pharmacovigilance (ISoP)",
-          "Pharma Ratan奖 — DCGI颁发的药学终身成就奖",
-          "受Botswana Regulatory Authority (BoMRA)聘任的药物警戒顾问",
-          "项目主席与委员 — DIA印度药物警戒会议（11年以上）",
-          "认证主审核员 — 在美国、德国、法国和新加坡接受培训",
-          "课程总监 — Bombay College of Pharmacy药物警戒研究生文凭",
-          "培训师 — Uppsala Monitoring Centre (UMC)亚太药物警戒研讨会",
-          "培训师 — 印度药物警戒项目(PvPI)，为DCGI和CDSCO提供培训"
+          "德里Jamia Hamdard大学副教授",
+          "南亚分会——国际药理警觉学会(ISOP)",
+          "药剂学奖——DCGI终身药业成就",
+          "PV 由博茨瓦纳管理局任命的顾问 (BoMRA)",
+          "方案主席和成员——DIA 印度光电大会(11岁以上)",
+          "经认证的审计员——在美国、德国、法国和新加坡接受培训",
+          "课程主任——孟买药业学院药剂警觉证书",
+          "培训员——乌普萨拉监测中心 (UMC)",
+          "培训员——印度DCGI & CDSCO 药剂警觉方案(PvPI)"
         ],
-        "languages": ["英语（流利）", "乌尔都语（母语）", "阿拉伯语（初级）"],
+        "languages": [
+          "英语(流利)",
+          "乌尔都语(Native)",
+          "阿拉伯语(初级)"
+        ],
         "meta": {
-          "title": "Moin Don — PVCON创始人兼首席执行官 | 药物警戒专家",
-          "description": "Moin Don是PVCON的创始人兼首席执行官，拥有50多年的制药行业经验。前Johnson & Johnson亚太区药物警戒质量保证区域总监，认证主审核员，ISoP南亚分会负责人。"
+          "title": "Moin Don——PVCON创始人和首席执行官|Pharmaco警觉专家",
+          "description": "Moin Don是PVCON的创始人和首席执行官，在制药业工作50多年。 前J&J Asia Pacific区域PVQA Director for Asia Pacific, Certified Chairman and ISoP South Asia Chapter Lead。"
         }
       },
       "rameez-don": {
         "name": "Rameez Don",
-        "role": "董事",
-        "organization": "PVCON Consulting Pvt Ltd",
-        "shortBio": "PVCON董事，拥有超过15年的药物警戒、质量保证、审核、培训和业务开发专业经验。",
-        "fullBio": "Rameez在药物警戒、质量保证、审核、培训、业务开发、运营和人员配置等多个领域拥有超过15年的专业经验。他是认证主审核员和PVCON董事，目前正在IIHMR University攻读制药管理博士学位。Rameez拥有深入的药物警戒知识，主导PVCON的业务和客户关系。他是Research Quality Assurance (RQA)会员，PvPI（卫生部）药物警戒技能发展项目客座讲师，并积极参与行业协会、论坛和研讨会中的各类法规和药物警戒议题。",
+        "role": "Director",
+        "organization": "PVCON Consulting",
+        "shortBio": "PVCON主任，拥有药理警戒、质量保证、审计、培训和商业发展方面15年的专业经验。",
+        "fullBio": "Rameez在药理警觉、质量保证、审计、培训、商业发展、业务和人员配备等不同领域拥有15年以上的专业经验。 他是注册首席审计员兼PVCON主任，目前正在从IHMR大学攻读药品管理博士学位。 Rameez拥有深入的Pharmaco警觉知识，并领导PVCON的业务和客户关系。 他是PvPI (卫生部)技能发展方案客座讲师研究质量保证(RQA)方案的成员。 在行业协会、论坛和研讨会上积极参加各种规范性议题和光电转换议题。",
         "experience": [
           {
-            "title": "董事",
-            "company": "PVCON Consulting Pvt Ltd",
-            "period": "2015 – 至今",
-            "description": "管理PVCON的全部业务，包括制定业务策略、整体项目管理、客户关系和团队领导。执行和管理全球药物警戒、GCP和质量保证审核项目。开发基于风险的审核项目、标准操作规程、培训模块和质量管理体系。监督所有审核前、审核中和审核后的活动、CAPA计划和财务运营。"
+            "title": "Director",
+            "company": "PVCON Consulting",
+            "period": "2015 — 目前的",
+            "description": "管理和执行全球光电转换审计方案，GxP质量保证咨询服务，CAPA管理 为视察做好准备提供支助，制定培训方案，并就质量管理系统提供战略咨询。"
           }
         ],
         "skills": [
-          "全球药物警戒审核管理（欧洲、美洲、亚洲、中东、非洲）",
-          "药物警戒法规与检查准备",
-          "项目与团队领导",
-          "标准操作规程开发与实施",
-          "培训模块开发与交付",
-          "质量管理体系(QMS)建立与监督",
-          "业务开发与客户关系",
-          "CAPA规划与基于风险的审核项目"
+          "Global PV Audit Management (EU & UK, Americas, Middle East, Africa, Asia Pacific, Australia)",
+          "PV条例与检查",
+          "项目和团队领导能力",
+          "B. 标准业务程序制定和执行",
+          "培训模块开发与提供",
+          "质量管理系统(QMS) 设置和监督",
+          "业务发展和客户关系",
+          "CAA 规划和基于风险的审计方案"
         ],
         "qualifications": [
-          "认证主审核员",
-          "制药管理博士（在读）— IIHMR University",
-          "会员 — Research Quality Assurance (RQA)",
-          "客座讲师 — PvPI（卫生部）药物警戒技能发展项目"
+          "经认证的审计组长",
+          "药物管理(追求)博士-研究所大学",
+          "成员——研究质量保证 (RQA)",
+          "客座讲师——PvPI (卫生部) PV 技能发展方案"
         ],
-        "languages": ["英语（流利）"],
+        "languages": [
+          "英语(流利)"
+        ],
         "meta": {
-          "title": "Rameez Don — PVCON董事 | 药物警戒与质量保证",
-          "description": "Rameez Don是PVCON董事，拥有15年以上的药物警戒、质量保证、审核和业务开发经验。认证主审核员和RQA会员。"
+          "title": "Rameez Don——PVCON主任|Pharmaco警觉和质量保证",
+          "description": "Rameez Don是PVCON主任，在药理警觉、质量保证、审计和商业发展方面具有15年以上的经验。"
         }
       },
       "nazrul-khan": {
         "name": "Nazrul Khan",
-        "role": "顾问主审核员",
-        "organization": "PVCON Consulting Pvt Ltd",
-        "shortBio": "PVCON顾问主审核员，拥有超过24年的制药研发、质量保证和药物警戒审核经验。常驻英国伦敦。",
-        "fullBio": "Nazrul在制药研发、质量保证、质量管理体系、临床药物开发、上市后法规事务、药物安全/药物警戒和法规合规方面拥有超过24年的经验。他在全球法规和药物警戒质量保证审核方面拥有丰富经验，涵盖本地运营公司、联合开发合作伙伴、CRO、GxP服务提供商和计算机系统验证。他在全面管理和承接众多卫生当局药物警戒和GCP检查方面有着出色的业绩记录。Nazrul积极参与行业内的审核培训，是Research Quality Assurance (RQA)和Drug Information Association (DIA)的会员，RQA实用药物警戒审核课程的导师，也是RQA药物警戒审核手册的联合作者。",
+        "role": "高级顾问兼审计员",
+        "organization": "PVCON Consulting",
+        "shortBio": "在制药研发、质量保证和药品警戒审计方面具有超过24年经验的PVCON顾问首席审计员。",
+        "fullBio": "纳兹鲁尔在药品研究与发展、质量保证、质量管理制度等领域拥有24年的经验。 临床药物开发、营销后管理事务、药物安全/药理警戒以及管制遵守情况。 他具有广泛的全球管理和VQA审计经验，涉及当地经营公司、共同发展伙伴、CRO、GxP服务供应商和计算机系统验证。 他在充分管理和主持卫生当局的多次光电检查和GCP检查方面成绩斐然。 纳兹鲁尔积极参与工业内部的审计培训、研究质量保证(RQA)和药物信息协会(DIA)的一名成员。 一名RQA实用PV审计课程辅导员和一名RQAV审计手册合著者。",
         "experience": [
           {
-            "title": "独立GxP审核员与顾问主审核员",
+            "title": "GxP 独立审计员和顾问首席审计员",
             "company": "PVCON Consulting",
-            "period": "2017 – 至今",
-            "description": "GVP审核涵盖分公司、系统、业务合作伙伴和供应商。GDP、GCP和CSV审核服务。标准操作规程支持、QMS咨询、差距分析、检查准备、GVP风险评估和审核项目开发。"
+            "period": "2017年——存在",
+            "description": "GVP审计包括附属公司、系统、业务伙伴和供应商与GMP、国内生产总值、GCP和CSV审计服务。 在以下方面提供额外支助：战略支助方案、质量管理系统咨询、差距分析、检查准备、全球价值链风险评估和审计方案的制订。"
           },
           {
-            "title": "长期合同 — 药物警戒审核与质量保证",
-            "company": "Bristol Myers Squibb，英国",
-            "period": "2021 – 2022",
-            "description": "药物警戒审核、差距分析、药物警戒审核员培训、程序和基于风险的药物警戒审核项目开发。"
+            "title": "PV 审计 & QA",
+            "company": "Bristol Myers Squibb/ Seagen Inc./ Johnson & Johnson Ethicon",
+            "period": "2018 – 2022",
+            "description": "V审计、gap分析、V审计员培训、制定程序和基于风险的VV审计方案。"
           },
           {
-            "title": "长期合同 — 药物警戒审核与质量保证",
-            "company": "Seagen Inc.，英国",
-            "period": "2020 – 2021",
-            "description": "药物警戒审核、差距分析、药物警戒审核员培训、程序和基于风险的药物警戒审核项目开发。"
-          },
-          {
-            "title": "长期合同 — 药物警戒审核与质量保证",
-            "company": "Johnson & Johnson Ethicon，英国",
-            "period": "2018 – 2019",
-            "description": "药物警戒审核、差距分析、药物警戒审核员培训、程序和基于风险的药物警戒审核项目开发。"
-          },
-          {
-            "title": "总监，全球本地运营公司质量保证，研发GCP与GVP质量保证",
+            "title": "Director, Global LOC QA, R&D GCP & GVP QA",
             "company": "Takeda Pharmaceuticals Limited Europe",
             "period": "2014 – 2015",
-            "description": "全球药物警戒负责人，负责本地运营公司审核，包括GCP和QMS质量保证活动。监督区域药物警戒、GCP和QMS活动以及外部质量保证服务提供商。"
+            "description": "对当地经营公司的全球光电转换潜能线，包括GCP和QMS质量评估活动进行审计。 监督区域方案优先事项、全球合作方案和高质量管理活动以及外部质量管理服务供应商。"
           },
           {
-            "title": "质量保证项目经理（Janssen R&D，J&J旗下）",
+            "title": "QA 程序管理器 (Janssen R&D, J&J 家庭)",
             "company": "独立顾问",
             "period": "2014 & 2015 – 2018",
-            "description": "执行Janssen R&D质量与合规质量保证药物警戒审核。指导、辅导和培养内部审核员。提供药物警戒主题和系统的培训。"
+            "description": "执行Janssen R&D Quality & Compliance QA PV审计。 指导、辅导和发展内部审计员辅导、发展和辅导。"
           },
           {
-            "title": "药物警戒副总监",
-            "company": "Zigzag Associates Ltd，英国",
+            "title": "协理药剂警戒主任",
+            "company": "Zigzag Associates Ltd, UK",
             "period": "2012 – 2013",
-            "description": "管理药物警戒系统审核项目、法规检查协助、CAPA规划、QMS开发和人员管理。"
+            "description": "对光电系统审计方案的管理、监管检查便利化、CAPA规划、质量管理系统的开发和人员的业务管理。"
           },
           {
-            "title": "项目经理，全球系统质量保证",
-            "company": "Johnson & Johnson PRD，英国",
+            "title": "方案主管，全球系统质量保证",
+            "company": "Johnson & Johnson PRD, 联合王国",
             "period": "2006 – 2012",
-            "description": "J&J全球药物警戒/GCP系统的系统审核。管理英国MHRA和美国FDA的药物警戒和GCP检查（预通知和突击检查）。支持许可和尽职调查活动。"
+            "description": "对J&J全球PV/GCP系统进行系统性审计，管理联合王国妇幼保健协会和美国食品和药物管理局的PV和GCP检查(宣布和未通知)。 支持颁发许可证和尽职调查活动。"
           },
           {
-            "title": "高级药物警戒科学家",
-            "company": "MHRA (Medicines & Healthcare Regulatory Products Agency)，英国",
+            "title": "高级药剂警戒科学",
+            "company": "MHRA (Medicines & Healthcare Regulatory Products Agency), UK",
             "period": "2001 – 2005",
-            "description": "审查个例安全性报告的合规性和信号检测、PSUR审核、安全性变更评估、监督英国不良反应区域监测中心，以及在MHRA药品安全性分委会上进行演示。"
+            "description": "审查用于遵守和探测信号的《国际化学品安全标准规则》；污染物审查和安全变化评估。 • 在医学协进会药品安全小组委员会上作介绍。"
           }
         ],
         "skills": [
-          "欧盟/美国FDA及全球药物警戒与GCP法规",
-          "药物警戒与GCP质量保证合规及基于风险的策略",
-          "欧盟药物警戒立法与GVP模块实施",
-          "PSMF编制与质量审核",
-          "全球本地运营公司/分公司药物警戒审核（欧盟、美洲、中东、非洲、亚太、澳大利亚）",
-          "卫生当局药物警戒与GCP检查（MHRA、FDA、EMA）",
-          "质量保证管理策略与基于风险的审核项目",
-          "标准操作规程开发与质量管理体系",
-          "GMP、GDP和计算机系统验证审核"
+          "欧盟/美国林业发展局和全球光电循环公司条例",
+          "PV & GCP QA 合规和基于风险的战略",
+          "EU PV Legislation & GVP Module",
+          "PSMF 准备和质量审查",
+          "Global LOC/Affiliate PV Audites (EU, Americas, Middle East, Africa, Asia Pacific, Australia)",
+          "卫生局光电检查和GCP检查(MHRA、FDA、EMA)",
+          "QA 管理战略和基于风险的审计方案",
+          "SOP 发展与质量管理系统",
+          "GMP, GDP, and Computer Systems Validing"
         ],
         "qualifications": [
-          "临床药理学硕士 — University of Surrey，英国",
-          "药理学高级国家文凭（优秀）— University of East London，英国",
-          "会员 — Research Quality Assurance (RQA)",
-          "会员 — Drug Information Association (DIA)",
-          "联合作者 — RQA药物警戒审核手册",
-          "导师 — RQA实用药物警戒审核课程（Madingley Hall, Cambridge，英国）",
-          "演讲嘉宾 — DIA印度会议、BARQA论坛、英国ePharma Day",
-          "代表 — MHRA药物警戒研讨会、ISOP会议"
+          "MSC 临床药理学——联合王国Surrey大学",
+          "HND Pharmacology (Distinction) — University of East London, UK",
+          "成员——研究质量保证 (RQA)",
+          "药物信息协会成员 (DIA)",
+          "合著者——RQA PV审计手册",
+          "导师——RQA Practical PV Auditing Course (Madingley Hall，联合王国剑桥)",
+          "演讲人：印度DIA 会议、ARQA 论坛、联合王国ePharma Day",
+          "代表 - MHRA Pharmaco警觉专题讨论会，ISOP 会议"
         ],
-        "languages": ["英语（母语）", "孟加拉语（母语）", "乌尔都语（中级）"],
+        "languages": [
+          "英语(Native)",
+          "孟加拉语(Native)",
+          "乌尔都(中级)"
+        ],
         "meta": {
-          "title": "Nazrul Khan — PVCON顾问主审核员 | 药物警戒专家",
-          "description": "Nazrul Khan是PVCON的顾问主审核员，拥有24年以上的制药研发、质量保证和药物警戒审核经验。前MHRA科学家和J&J全球质量保证项目经理。临床药理学硕士，RQA药物警戒审核手册联合作者。"
+          "title": "Nazrul Khan——PVCON顾问首席审计员|Pharmaco警觉专家",
+          "description": "Nazrul Khan是PVCON的顾问首席审计员，有24多年的制药研发、质量保证和光电器审计。 前MHRA Scientist and J&J Global QA Program Manager. MSc 临床药理学，共同撰写RQA PV审计手册。"
         }
       }
     }

@@ -1,0 +1,295 @@
+{
+  "hero": {
+    "tagline": "Servicios de Consulta y Capacitación de VPs Especializados",
+    "heading": "AUDITANDO GXP y CONSULTING PV",
+    "description": "En PVCON, entregamos auditorías de GxP de extremo a extremo, consultoría de farmacovigilancia y capacitación corporativa — colaborando con MAHs, Patrocinadores y OPC en todo el mundo para lograr el cumplimiento sostenido de las normativas y la excelencia operativa.",
+    "ctaPrimary": "Contáctenos",
+    "ctaSecondary": "Acerca de nosotros"
+  },
+  "logos": {
+    "tagline": "Confiado por MAHs, CROs y Patrocinadores en todo el mundo",
+    "stats": [
+      {
+        "value": "25+",
+        "label": "Clientes"
+      },
+      {
+        "value": "100+",
+        "label": "Países"
+      },
+      {
+        "value": "450+",
+        "label": "Su Experiencia"
+      },
+      {
+        "value": "15+",
+        "label": "Experiencia anual"
+      }
+    ]
+  },
+  "aboutSection": {
+    "label": "Acerca de",
+    "heading": "PVCON",
+    "paragraphs": [
+      "PVCON es uno de los principales proveedores mundiales de GxP independiente, consultoría en farmacovigilancia y servicios de capacitación profesional, Apoyo a organizaciones de dispositivos técnicos, biotecnológicos y médicos en más de 100 países.",
+      "Reconocido por su integridad, independencia y excelencia técnica, PVCON sirve como un socio confiable para las soluciones completas de auditoría y calidad de la farmacovigilancia, ayudando a los clientes a navegar con confianza por complejos límites regulatorios."
+    ],
+    "ctaLabel": "Explóranos"
+  },
+  "visionMission": {
+    "label": "Nuestro propósito",
+    "heading": "Visión y Misión",
+    "items": [
+      {
+        "number": "01",
+        "title": "Visión",
+        "description": "Ser reconocido globalmente como el punto de referencia para la calidad, la integridad, y la excelencia en GxP en la promoción, Consulta y Entrenamiento."
+      },
+      {
+        "number": "02",
+        "title": "Misión",
+        "description": "Ser el proveedor de servicios líder en la elección para la industria mundial independiente de GxP, la consultoría y la capacitación a las industrias de la industria de productos químicos, biotecnológicos y de dispositivos."
+      }
+    ]
+  },
+  "flagshipSolutions": {
+    "label": "Soluciones de banderas",
+    "heading": "Lo que hacemos mejor",
+    "description": "Cuatro pilares básicos de experiencia que definen PVCON – cada uno de ellos entregado con precisión, profundo conocimiento regulatorio y un compromiso para salvaguardar la seguridad de los pacientes en todo el mundo.",
+    "cta": "Explorar todos los servicios",
+    "learnMore": "Más información",
+    "services": {
+      "audit": {
+        "title": "· Predicción de Inspección y Realidad",
+        "description": "PV, GCP y GxP completos, CAPA Planning, Mock Inspections y Gap Analysis preparan a las organizaciones para inspecciones regulatorias exitosas con preparación proactiva de cumplimiento."
+      },
+      "pvoi": {
+        "title": "Servicios locales de PVoI",
+        "description": "PVCON proporciona servicios locales de apoyo PvOI en la India, asegurando que la farmacovigilancia se ha dedicado en exceso con las expectativas de CDSCO. Permitimos a las organizaciones para sistemas fotovoltaicos preparados para inspecciones con una clara responsabilidad."
+      },
+      "qms": {
+        "title": "Configuración del sistema y QMS PV",
+        "description": "En PVCON, diseñamos e implementamos marcos QMS robustos, desde la escritura SOP hasta la configuración completa del sistema PV, garantizando la preparación de inspecciones, escalables y sostenibles Sistemas de Farmacovigilancia."
+      },
+      "training": {
+        "title": "Formación y perfeccionamiento",
+        "description": "PVCON ofrece programas de formación y perfeccionamiento diseñados tanto para estudiantes como para profesionales de farmacovigilancia. Nuestros programas se centran en el conocimiento práctico, la experiencia práctica y la preparación del mundo real."
+      }
+    }
+  },
+  "whyChooseUs": {
+    "heading": "Por qué elegirnos",
+    "paragraphs": [
+      "En PVCON, la calidad y el cumplimiento sirven como piedra angular de nuestras operaciones, impulsando cada compromiso que emprendemos. Estamos profundamente comprometidos con el mantenimiento de los más altos estándares de farmacovigilancia - un compromiso que abarca todos los servicios que prestamos y todos los paisajes reguladores que navegamos.",
+      "Nuestro objetivo es elevar consistentemente la seguridad, la calidad y la integridad regulatoria de las operaciones de nuestros clientes. Para lograrlo, implementamos sólidos marcos de auditoría, programas de capacitación integrales y estrategias de cumplimiento proactivas alineadas con las directrices actuales del ICH, el VGP de la UE y el GxP global.",
+      "Nuestro equipo se ha asociado con una amplia gama de organizaciones, desde nuevas empresas biotecnológicas hasta empresas farmacéuticas globales establecidas, entregando soluciones a medida a través de consultas de farmacovigilancia, auditorías clínicas, calificaciones de proveedores, servicios de QPPV y preparación de inspecciones regulatorias."
+    ]
+  },
+  "benefits": {
+    "srHeading": "Servicios",
+    "items": [
+      {
+        "title": "&Inspección",
+        "description": "Servicios de auditoría completa de farmacovigilancia y servicios de supervisión de calidad diseñados para garantizar la conformidad con la reglamentación global, la excelencia operativa y la preparación de las inspecciones.",
+        "bullets": [
+          {
+            "title": "PV integral",
+            "description": "Las auditorías de la Oficina de Afiliados de País, Sistema, Vendor y Co-Marketing Asociados realizadas globalmente con recomendaciones detalladas de CAPA y certificación de auditoría."
+          },
+          {
+            "title": "Desarrollo de Sistema de Calidad y Supervisión",
+            "description": "Diseño e implementación de sólidos Sistemas de Gestión de Calidad PV incluyendo Planes de Calidad Maestros, estrategias de auditoría interna basadas en el riesgo y gestión de auditorías, inspecciones y CAPA con tecnología habilitada."
+          },
+          {
+            "title": "Prestación de Inspección y apoyo regulatorio",
+            "description": "Apoyo para la preparación de inspecciones MAH de extremo a extremo, incluyendo el desarrollo estructurado de respuesta para los resultados de las inspecciones regulatorias y el cumplimiento sostenido en exceso."
+          }
+        ]
+      },
+      {
+        "title": "GxP",
+        "description": "Soluciones integrales de auditoría de GxP que garantizan la conformidad con la normativa, la garantía de calidad y la integridad operativa en entornos clínicos, de laboratorio, de fabricación y de proveedores.",
+        "bullets": [
+          {
+            "title": "Clínica e Investigadora (GCP)",
+            "description": "Auditorías del sitio del investigador, auditorías de Fase I, auditorías para la causa, auditoría del sistema de patrocinadores y CRO y suministro de productos de investigación para asegurar la plena conformidad con GCP."
+          },
+          {
+            "title": "Proveedores, CRO y Calificación de TI",
+            "description": "Las auditorías de diligencia debidas de CRO, las auditorías de calificación de los vendedores, las auditorías de gestión de datos y las revisiones de calificaciones del sistema de TI para salvaguardar la calidad y el alineamiento regulatorio."
+          },
+          {
+            "title": "Conformación de Laboratorio y Manufactura",
+            "description": "Las auditorías GCLP, GLP y GMP incluyen auditorías de archivos, auditorías de destrucción de medicamentos, y ejecución flexible de auditorías in situ o remota para asegurar el cumplimiento de los ciclos de vida de extremo a extremo."
+          }
+        ]
+      },
+      {
+        "title": "Formación Corporativa",
+        "description": "Programas de capacitación estructurados de farmacovigilancia diseñados para fortalecer el conocimiento regulatorio, la preparación operacional y la cultura de calidad dentro del MAH y los entornos de las partes interesadas.",
+        "bullets": [
+          {
+            "title": "Marco de formación y desarrollo de matrices",
+            "description": "Diseño e implementación de matrices de formación integrales, planes estructurados y materiales de formación personalizados alineados con las expectativas regulatorias."
+          },
+          {
+            "title": "Campamentos de Arrancamiento y Capacitación de Partes",
+            "description": "Campamentos de arranque intensivos y programas de capacitación de las partes interesadas adaptados a las configuraciones del MAH para mejorar la preparación de las inspecciones y la competencia operativa."
+          },
+          {
+            "title": "Actualizaciones regulatorias y buenas prácticas fotográficas",
+            "description": "Capacitación personalizada sobre Buenas Prácticas de Farmacovigilancia, normas de seguridad evolucionantes y requisitos de cumplimiento global."
+          }
+        ]
+      }
+    ]
+  },
+  "pricing": {
+    "sectionTitle": "Precios",
+    "sectionDescription": "Planes flexibles adaptados a sus necesidades de farmacovigilancia.",
+    "getStarted": "Empezar",
+    "features": "FUNCIONES",
+    "featuresSubtext": "Todo en lo básico, más...",
+    "tiers": [
+      {
+        "name": "Esencial",
+        "price": "Personalizado",
+        "features": [
+          "Procesamiento de casos ICSR",
+          "Soporte para informes de seguridad perioicos",
+          "Actualizaciones de inteligencia regulatorias",
+          "Soporte por email"
+        ]
+      },
+      {
+        "name": "Profesional",
+        "price": "Personalizado",
+        "features": [
+          "Servicios QPPV dedicados",
+          "Configuración y gestión de PSMF",
+          "Detección y evaluación de señales",
+          "Soporte para auditoría GxP",
+          "Soporte prioritario"
+        ]
+      },
+      {
+        "name": "Empresa",
+        "price": "Personalizado",
+        "features": [
+          "Configuración del sistema PV de extremo a extremo",
+          "Soporte completo de inspección regulatoria",
+          "Programas de formación corporativa",
+          "Gestor de cuentas dedicado",
+          "Soluciones de cumplimiento personalizadas",
+          "Consultoría en el sitio"
+        ]
+      }
+    ]
+  },
+  "testimonials": {
+    "sectionTitle": "Lo que dicen nuestros clientes",
+    "sectionDescription": "Escuche a aquellos que se han asociado con nosotros.",
+    "items": [
+      {
+        "role": "Director Principal, CQA",
+        "company": "Empresa multinacional india",
+        "message": "Moin es uno de los Profesionales de Farmacovigilancia más conocidos de la India. Contratamos a Moin para auditar nuestro departamento de PV y afiliados de países, y él y su equipo hicieron un excelente trabajo, no sólo auditando sino también proporcionando la guía adecuada para hacer frente a las inspecciones. Moin siempre ha sido genuino y siempre ha ido más allá de su ámbito de trabajo para ayudarnos y apoyarnos. Con su profundo conocimiento del tema y su enfoque muy práctico, nos ha resultado fácil profundizar en la farmacovigilancia."
+      },
+      {
+        "role": "Presidente y CEO",
+        "company": "Organización de Investigación de Contratos Indios",
+        "message": "Nos dedicamos a PVCON para establecer nuestras prácticas y procesos de farmacovigilancia desde cero. Moin realizó un trabajo fenomenal en la creación de nuestro equipo de SOPs, formación y perfeccionamiento del equipo de Asuntos Médicos y Seguridad y Operaciones Clínicas y ayudándonos a desarrollar una propuesta de valor único para los patrocinadores — todo en pocas semanas. Su profesionalidad, su profundo conocimiento, experiencia en la industria y, lo más importante, su autenticidad lo convierten en un placer trabajar con él. Es uno de los profesionales más calificados con los que he tenido el placer de trabajar y PVCON nos ha proporcionado un valor añadido cuántico."
+      }
+    ]
+  },
+  "faq": {
+    "label": "FAQs",
+    "title": "Preguntas frecuentes",
+    "contact": "¡Pregúntanos algo!",
+    "email": "info@pvcon.in",
+    "items": [
+      {
+        "question": "¿Qué servicios ofrece PVCON?",
+        "answer": "PVCON proporciona servicios GxP dedicados desde Pharmacovigilance y GCP (incluyendo análisis de huecos e inspecciones simuladas) a la configuración del sistema fotovoltaico, desde la creación de PSMF hasta los servicios de PVoI Local, una amplia gama de Consultores fotovoltaicos, especialmente para la preparación de inspecciones regulatorias. Proporcionamos apoyo extremo a extremo diseñado para elevar la integridad de seguridad, calidad y regulación de sus operaciones; con servicios de capacitación y mentoría fotográfica."
+      },
+      {
+        "question": "¿Qué es PvOI / Oficial de Farmacovigilancia en carga?",
+        "answer": "PvOI (Oficina de Farmacovigilancia en el cargo) es la persona designada responsable de supervisar las actividades de farmacovigilancia y garantizar el cumplimiento de la normativa en la India y es un papel legalmente requerido para varias organizaciones globales. el modo en que un papel de “QPPV” es obligatorio para los MAHs en EEE. PVCON proporciona servicios expertos locales de QPPV/ PvOI en la India, incluyendo seguridad excesiva, comunicación regulatoria, cobertura adjunta, preparación de PSMF, etc. asegurando un sistema fotovoltaico listo para la inspección."
+      },
+      {
+        "question": "¿Cómo apoya PVCON la preparación de las inspecciones MAH?",
+        "answer": "PVCON proporciona apoyo a las inspecciones de punto a punto para los MAHs, incluyendo el análisis desfase del sistema fotovoltaico frente a los requisitos regulatorios. ejercicios de inspección de simulaciones, marcos estructurados de respuesta para hallazgos regulatorios, gestión de CAPA y cumplimiento continuo posterior a la inspección."
+      },
+      {
+        "question": "¿Con qué marcos reglamentarios trabaja?",
+        "answer": "PVCON opera en todos los principales marcos regulatorios mundiales con la presencia de consultores locales, incluyendo los módulos GVP de EMA, las regulaciones de la FDA de los Estados Unidos, las directrices de ICH, Las expectativas del MHRA (Reino Unido), los requisitos del PMDA (Japón), la Liga Árabe (ME) , la Dirección de la NMPA (China) y las regulaciones del CDSCO (India), entre otras regulaciones y orientaciones."
+      },
+      {
+        "question": "¿Ofrecen servicios de auditoría remota?",
+        "answer": "Sí. PVCON ofrece tanto opciones de auditoría in situ como remota. Nuestra metodología de auditoría remota/virtual está totalmente alineada con las expectativas reguladoras y ha sido validada en múltiples jurisdicciones, ofreciendo flexibilidad sin comprometer la calidad de la auditoría ni la profundidad. También ofrecemos auditorías de escritorio/cuestionario."
+      },
+      {
+        "question": "¿Cómo puedo empezar con PVCON?",
+        "answer": "Contáctenos a info@pvcon.in con una breve descripción de sus necesidades. Nuestro equipo le responderá en el plazo de un día hábil para programar una llamada de descubrimiento gratuita y esbozar una propuesta de servicio adaptada a sus necesidades. Tras un acuerdo mutuo, las acciones se lanzan inmediatamente, con el punto de contacto de PVCON que garantiza que los hitos se cumplan continuamente. (POC)"
+      },
+      {
+        "question": "¿Qué servicios de PSMF ofrece?",
+        "answer": "Ofrecemos todos los servicios de gestión de PSMF, incluyendo el mantenimiento de PSMF como servicio; especialmente dentro de nuestro software SaaS, las actualizaciones en curso y el mantenimiento continuo del núcleo PSMF de la organización y los anexos se simplifican extremadamente debido a la automatización del flujo de trabajo de la herramienta, y con la ayuda de AI."
+      }
+    ]
+  },
+  "globalPresence": {
+    "tag": "Alcance global",
+    "heading": "Nuestra presencia global",
+    "subtitle": "Desde nuestra sede central en Mumbai (India), PVCON atiende a clientes de todo el mundo — entregando auditorías GxP, consulta de farmacovigilancia y apoyo regulatorio dondequiera que nuestros socios nos necesiten.",
+    "stats": [
+      {
+        "value": "100+",
+        "label": "Países afectados"
+      },
+      {
+        "value": "6",
+        "label": "Continentes"
+      },
+      {
+        "value": "25+",
+        "label": "Clientes en todo el mundo"
+      },
+      {
+        "value": "450+",
+        "label": "Se lleva a cabo"
+      }
+    ]
+  },
+  "stats": {
+    "items": [
+      {
+        "title": "450+",
+        "description": "Se lleva a cabo en todo el mundo, garantizando el cumplimiento de la normativa y la excelencia operativa para nuestros clientes."
+      },
+      {
+        "title": "15+",
+        "description": "Años de experiencia en GxP, Consultoría de Farmacovigilancia y Servicios de Formación Corporativa para la industria farmacéutica."
+      },
+      {
+        "title": "300+",
+        "description": "Años de experiencia combinada entre nuestro equipo de expertos auditores y consultores, ofreciendo servicios de alta calidad a clientes de todo el mundo."
+      }
+    ]
+  },
+  "productSpotlight": {
+    "tag": "Nuestro producto",
+    "heading": "Gestor PSMF",
+    "badge": "Plataforma de energía IA",
+    "description": "La primera plataforma SaaS impulsada por la industria para la gestión de archivos de sistemas de Pharmacovigilance System Master.",
+    "features": {
+      "01": "Revisión de Cumplimiento de AI",
+      "02": "Generación automática de documentos",
+      "03": "Control completo de Auditoría y Versiones",
+      "04": "Coordinación global y local de PSMF"
+    },
+    "cta": "Explorar gestor de PSMF",
+    "secondaryCta": "Visita psmfmanager.com",
+    "secondaryUrl": "https://www.psmfmanager.com"
+  }
+}
