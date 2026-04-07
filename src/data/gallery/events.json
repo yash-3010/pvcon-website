@@ -1,0 +1,174 @@
+[
+  {
+    "id": "dia-europe-amsterdam-2025",
+    "date": "2025-10-09",
+    "year": 2025,
+    "location": "Amsterdam, Netherlands",
+    "title": {
+      "en": "DIA Europe Annual Meeting"
+    },
+    "description": {
+      "en": "PVCON joined the global pharmacovigilance community at the DIA Europe Annual Meeting, sharing insights on signal management and PSMF best practices."
+    },
+    "featuredImage": "/images/gallery/photo-2025-10-09-03-03-52.webp",
+    "images": [
+      { "src": "/images/gallery/photo-2025-10-09-03-05-24.webp", "alt": "Conference floor at DIA Europe Amsterdam" },
+      { "src": "/images/gallery/photo-2025-09-19-13-45-34.webp", "alt": "PVCON team networking at DIA Europe" }
+    ]
+  },
+  {
+    "id": "isop-annual-2025",
+    "date": "2025-09-19",
+    "year": 2025,
+    "location": "Pune, India",
+    "title": {
+      "en": "ISoP Annual Meeting"
+    },
+    "description": {
+      "en": "Representing PVCON at the International Society of Pharmacovigilance annual meeting — a forum for the latest in drug safety science and regulatory dialogue."
+    },
+    "featuredImage": "/images/gallery/photo-2025-05-14-20-58-05.webp",
+    "images": [
+      { "src": "/images/gallery/photo-2025-05-14-20-58-07.webp", "alt": "ISoP session" },
+      { "src": "/images/gallery/whatsapp-image-2025-04-22-at-1-35-20-pm.webp", "alt": "PVCON delegates at ISoP" },
+      { "src": "/images/gallery/whatsapp-image-2025-04-22-at-1-35-22-pm.webp", "alt": "Networking break at ISoP" }
+    ]
+  },
+  {
+    "id": "dia-india-2024",
+    "date": "2024-10-01",
+    "year": 2024,
+    "location": "Mumbai, India",
+    "title": {
+      "en": "DIA India Annual Conference"
+    },
+    "description": {
+      "en": "PVCON exhibited and led discussions at the DIA India Annual Conference on the evolving landscape of pharmacovigilance compliance in India."
+    },
+    "featuredImage": "/images/gallery/photo-2024-10-01-17-22-53.webp",
+    "images": [
+      { "src": "/images/gallery/photo-2024-10-01-17-22-54-2.webp", "alt": "DIA India booth" },
+      { "src": "/images/gallery/photo-2024-10-01-17-22-54-4.webp", "alt": "Panel discussion" },
+      { "src": "/images/gallery/photo-2024-10-01-17-22-55-2.webp", "alt": "Audience at DIA India" },
+      { "src": "/images/gallery/photo-2024-10-01-17-22-54-2.webp", "alt": "DIA India booth" },
+      { "src": "/images/gallery/photo-2024-10-01-17-22-54-4.webp", "alt": "Panel discussion" },
+      { "src": "/images/gallery/photo-2024-10-01-17-22-55-2.webp", "alt": "Audience at DIA India" },
+      { "src": "/images/gallery/photo-2024-09-25-19-21-41.webp", "alt": "Speaker presentation" }
+    ]
+  },
+  {
+    "id": "psmf-launch-2024",
+    "date": "2024-06-28",
+    "year": 2024,
+    "location": "Pune, India",
+    "title": {
+      "en": "PSMF Launch Event"
+    },
+    "description": {
+      "en": "Launch of the PVCON PSMF advisory service — bringing structured Pharmacovigilance System Master File expertise to mid-size life sciences sponsors."
+    },
+    "featuredImage": "/images/gallery/photo-2024-06-28-15-49-33.webp",
+    "images": [
+      { "src": "/images/gallery/img-9490-jpg.webp", "alt": "PSMF launch reception" },
+      { "src": "/images/gallery/img-9503-jpg.webp", "alt": "Service walkthrough" }
+    ]
+  },
+  {
+    "id": "dia-india-2023",
+    "date": "2023-02-24",
+    "year": 2023,
+    "location": "Mumbai, India",
+    "title": {
+      "en": "DIA India 2023"
+    },
+    "description": {
+      "en": "PVCON's first major presence at the DIA India conference, marking a milestone in the firm's growth and visibility within the regulatory community."
+    },
+    "featuredImage": "/images/gallery/dia-india-2023-02-jpg.webp",
+    "images": [
+      { "src": "/images/gallery/dia-india-2023-03-jpg.webp", "alt": "DIA India 2023 floor" },
+      { "src": "/images/gallery/photo-2023-02-24-07-02-01.webp", "alt": "DIA India 2023 networking" },
+      { "src": "/images/gallery/photo-2023-02-24-07-04-08.webp", "alt": "DIA India 2023 panel" },
+      { "src": "/images/gallery/photo-2023-06-06-15-45-18.webp", "alt": "Side event" },
+      { "src": "/images/gallery/photo-2023-06-06-15-46-35.webp", "alt": "Side event continued" },
+      { "src": "/images/gallery/photo-2023-08-12-17-20-20.webp", "alt": "Follow-up workshop" }
+    ]
+  },
+  {
+    "id": "early-pv-workshop-2022",
+    "date": "2022-07-23",
+    "year": 2022,
+    "location": "Pune, India",
+    "title": {
+      "en": "Pharmacovigilance Workshop"
+    },
+    "description": {
+      "en": "An invited workshop on pharmacovigilance fundamentals for emerging pharma sponsors — part of PVCON's training portfolio."
+    },
+    "featuredImage": "/images/gallery/img-20220723-wa0000.webp",
+    "images": [
+      { "src": "/images/gallery/img-9513-jpg.webp", "alt": "Workshop session" },
+      { "src": "/images/gallery/img-9518-jpg.webp", "alt": "Workshop attendees" }
+    ]
+  },
+  {
+    "id": "industry-symposium-2019",
+    "date": "2019-09-15",
+    "year": 2019,
+    "location": "Hyderabad, India",
+    "title": {
+      "en": "Industry Symposium"
+    },
+    "description": {
+      "en": "Speaking engagement at a regional industry symposium on emerging trends in adverse event reporting and risk management."
+    },
+    "featuredImage": "/images/gallery/img-9490-jpg.webp",
+    "images": [
+      { "src": "/images/gallery/img-9503-jpg.webp", "alt": "Symposium hall" }
+    ]
+  },
+  {
+    "id": "regulatory-workshop-2017",
+    "date": "2017-05-10",
+    "year": 2017,
+    "location": "Bengaluru, India",
+    "title": {
+      "en": "Regulatory Compliance Workshop"
+    },
+    "description": {
+      "en": "A focused workshop on navigating CDSCO and global regulatory expectations for pharmacovigilance documentation."
+    },
+    "featuredImage": "/images/gallery/img-9513-jpg.webp",
+    "images": [
+      { "src": "/images/gallery/img-9518-jpg.webp", "alt": "Workshop floor" }
+    ]
+  },
+  {
+    "id": "early-training-2015",
+    "date": "2015-11-20",
+    "year": 2015,
+    "location": "Pune, India",
+    "title": {
+      "en": "Early Training Program"
+    },
+    "description": {
+      "en": "An early-stage training program for in-house pharmacovigilance teams — building the foundations of what would become PVCON's signature offering."
+    },
+    "featuredImage": "/images/gallery/photo-2023-08-12-17-20-20.webp",
+    "images": []
+  },
+  {
+    "id": "origins-2012",
+    "date": "2012-03-01",
+    "year": 2012,
+    "location": "Pune, India",
+    "title": {
+      "en": "Origins — First PV Initiative"
+    },
+    "description": {
+      "en": "Where the PVCON story begins — the very first pharmacovigilance consulting engagement that would grow into today's practice."
+    },
+    "featuredImage": "/images/gallery/img-20220723-wa0000.webp",
+    "images": []
+  }
+]

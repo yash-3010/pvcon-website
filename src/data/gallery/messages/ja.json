@@ -5,6 +5,13 @@
       "tagline": "私たちの仕事",
       "title": "ギャラリー",
       "subtitle": "薬物動態コンサルティングプロジェクト、規制監査、および業界イベントのポートフォリオをご覧ください。"
+    },
+    "timeline": {
+      "scrollHint": "Scroll to explore",
+      "lightboxPrev": "Previous photo",
+      "lightboxNext": "Next photo",
+      "lightboxClose": "Close",
+      "emptyState": "Gallery coming soon."
     }
   }
 }

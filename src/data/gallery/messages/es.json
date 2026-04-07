@@ -5,6 +5,13 @@
       "tagline": "Nuestro trabajo",
       "title": "Galería",
       "subtitle": "Explore nuestra cartera de proyectos de consultoría de farmacovigilancia, auditorías regulatorias y eventos industriales."
+    },
+    "timeline": {
+      "scrollHint": "Scroll to explore",
+      "lightboxPrev": "Previous photo",
+      "lightboxNext": "Next photo",
+      "lightboxClose": "Close",
+      "emptyState": "Gallery coming soon."
     }
   }
 }

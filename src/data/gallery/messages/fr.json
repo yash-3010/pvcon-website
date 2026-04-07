@@ -5,6 +5,13 @@
       "tagline": "Notre travail",
       "title": "Galerie",
       "subtitle": "Explorez notre portefeuille de projets de consultation en pharmacovigilance, de vérifications réglementaires et d'événements de l'industrie."
+    },
+    "timeline": {
+      "scrollHint": "Scroll to explore",
+      "lightboxPrev": "Previous photo",
+      "lightboxNext": "Next photo",
+      "lightboxClose": "Close",
+      "emptyState": "Gallery coming soon."
     }
   }
 }

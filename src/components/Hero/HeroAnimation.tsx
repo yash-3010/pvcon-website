@@ -8,7 +8,7 @@ interface Props {
 const HeroAnimation: React.FC<Props> = ({ heading }) => {
   return (
     <motion.h1
-      className="text-5xl sm:text-7xl md:text-8xl lg:text-[7rem] leading-[0.95] font-extrabold text-foreground uppercase tracking-tighter"
+      className="text-5xl sm:text-7xl md:text-8xl leading-[0.95] font-extrabold text-foreground uppercase tracking-tighter"
       initial={{ opacity: 0, y: 60 }}
       animate={{ opacity: 1, y: 0 }}
       transition={{ duration: 0.8, ease: [0.25, 0.46, 0.45, 0.94] }}
