@@ -63,7 +63,7 @@ export default async function PsmfManagerPage({ params: { locale } }: Props) {
       "@type": "Organization",
       name: siteDetails.siteName,
       url: siteDetails.siteUrl,
-      logo: `${siteDetails.siteUrl}/images/logo.svg`,
+      logo: siteDetails.siteLogoUrl,
     },
     {
       "@context": "https://schema.org",

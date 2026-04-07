@@ -4,7 +4,7 @@ import { getTranslations } from "next-intl/server";
 import { Link } from "@/i18n/navigation";
 import { siteDetails } from "@/data/common/siteDetails";
 import { footerDetails } from "@/data/common/footer";
-import { getPlatformIconByName } from "@/utils";
+import { getPlatformIconByName } from "@/lib/social-icons";
 
 const Footer: React.FC = async () => {
   const t = await getTranslations("footer");

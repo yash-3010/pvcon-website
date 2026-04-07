@@ -104,7 +104,7 @@ export default async function BlogPostPage({ params: { locale, slug } }: Props) 
       url: siteDetails.siteUrl,
       logo: {
         "@type": "ImageObject",
-        url: `${siteDetails.siteUrl}/images/logo.svg`,
+        url: siteDetails.siteLogoUrl,
       },
     },
     mainEntityOfPage: { "@type": "WebPage", "@id": postUrl },

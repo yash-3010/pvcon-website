@@ -45,7 +45,7 @@ export default async function HomePage({ params: { locale } }: Props) {
       "@type": "Organization",
       name: siteDetails.siteName,
       url: siteDetails.siteUrl,
-      logo: `${siteDetails.siteUrl}/images/logo.svg`,
+      logo: siteDetails.siteLogoUrl,
       description: siteDetails.metadata.description,
       contactPoint: {
         "@type": "ContactPoint",
