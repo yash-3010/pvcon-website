@@ -37,3 +37,15 @@ export type YearGroup = {
   year: number;
   events: HydratedEvent[]; // empty array means dimmed marker
 };
+
+/** Shape consumed by GalleryLightbox (kept stable for the existing component). */
+export interface GalleryImage {
+  src: string;
+  width: number;
+  height: number;
+  aspectRatio: number;
+  blurDataURL: string;
+  slug: string;
+  title: string;
+  description: string;
+}

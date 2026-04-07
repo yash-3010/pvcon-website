@@ -3,7 +3,7 @@
 import React, { useEffect, useCallback } from "react";
 import Image from "next/image";
 import { motion, AnimatePresence } from "framer-motion";
-import type { GalleryImage } from "./GalleryGrid";
+import type { GalleryImage } from "@/types/gallery";
 
 interface GalleryLightboxProps {
   images: GalleryImage[];

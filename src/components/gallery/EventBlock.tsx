@@ -4,8 +4,7 @@
 import React, { useState } from "react";
 import FeaturedPhotoLayout from "./FeaturedPhotoLayout";
 import GalleryLightbox from "./GalleryLightbox";
-import type { GalleryImage } from "./GalleryGrid";
-import type { HydratedEvent, EventLocale, HydratedImage } from "@/types/gallery";
+import type { GalleryImage, HydratedEvent, EventLocale, HydratedImage } from "@/types/gallery";
 
 interface EventBlockProps {
   event: HydratedEvent;
