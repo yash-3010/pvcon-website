@@ -1,0 +1,738 @@
+{
+  "services": {
+    "hero": {
+      "tagline": "Nuestros servicios",
+      "title": "Servicios",
+      "subtitle": "GxP Integral, Consulta de Farmacovigilancia, Entrenamiento, Calidad y Servicios Regulatorios diseñados para fortalecer las operaciones de seguridad de los medicamentos y asegurar la conformidad global."
+    },
+    "categories": {
+      "sectionLabel": "Lo que ofrecemos",
+      "heading": "Nuestras áreas de servicio central",
+      "subtitle": "Ofrecemos una amplia experiencia en cuatro pilares de servicios especializados, cada uno respaldado por varias décadas de experiencia en regulación y operación."
+    },
+    "learnMore": "Más información",
+    "productSpotlight": {
+      "tag": "Nuestro producto",
+      "heading": "Gestor PSMF",
+      "badge": "Plataforma de energía IA",
+      "description": "La primera plataforma SaaS impulsada por la industria para la gestión de archivos de sistemas de Pharmacovigilance System Master.",
+      "features": {
+        "01": "Revisión de Cumplimiento de AI",
+        "02": "Generación automática de documentos",
+        "03": "Control completo de Auditoría y Versiones",
+        "04": "Coordinación global y local de PSMF"
+      },
+      "cta": "Explorar gestor de PSMF",
+      "secondaryCta": "Visita psmfmanager.com",
+      "secondaryUrl": "https://www.psmfmanager.com"
+    },
+    "stats": {
+      "01": {
+        "value": "100+",
+        "label": "Países afectados"
+      },
+      "02": {
+        "value": "25+",
+        "label": "Clientes en todo el mundo"
+      },
+      "03": {
+        "value": "15+",
+        "label": "Experiencia anual"
+      },
+      "04": {
+        "value": "6",
+        "label": "Continentes"
+      }
+    },
+    "servicesPageCta": {
+      "heading": "¿Listo para fortalecer los procesos fotovoltaicos de la organización?",
+      "text": "Asociado con PVCON para auditoría experta de GxP, consultoría en farmacovigilancia, servicios de PVoI y asistencia en cumplimiento regular.",
+      "button": "Ponte en contacto"
+    },
+    "gxp-audits": {
+      "title": "GxP",
+      "description": "Auditorías estratégicas, basadas en riesgos e independientes entre las disciplinas PV, GCP, GLP, GMP, PBI y CSV — asegurando el cumplimiento y la preparación de la inspección.",
+      "hero": {
+        "tagline": "Servicios de reproducción de GxP",
+        "title": "GxP Auditing\nServices",
+        "subtitle": "Las auditorías de GxP a través de la farmacovigilancia, clínica, de laboratorio, de fabricación y de sistemas computarizados — entregadas por auditorías experimentadas en todo el mundo."
+      },
+      "overview": {
+        "tag": "Resumen",
+        "heading": "GxP",
+        "p1": "PVCON proporciona <strong>auditorías estratégicas, basadas en riesgos e independientes de GxP</strong> para evaluar la madurez de cumplimiento regulatorio en empresas de Pharma, CROs, CMOs, laboratorios, proveedores y socios estratégicos.",
+        "p2": "Our auditors combine <strong>technical expertise and regulatory insight</strong> to deliver focused risk-assessments that strengthen governance, mitigate risk, and support inspection readiness across the product lifecycle.",
+        "p3": "Las auditorías se llevan a cabo como metodologías in situ, virtuales y de escritorio/cuestionario, según sea necesario."
+      },
+      "subcategories": {
+        "sectionLabel": "Disciplinas de auditoría",
+        "heading": "Nuestras capacidades de recolección de GxP",
+        "subtitle": "Proporcionamos los siguientes servicios integrales.",
+        "pv-audits": {
+          "title": "Farmacovigilancia",
+          "description": "Las auditorías de farmacovigilancia (PV) evalúan la efectividad de los sistemas fotovoltaicos y garantizan el cumplimiento de las normas de seguridad mundiales.",
+          "bullets": [
+            "Auditorías globales del sistema PV",
+            "Auditorías de País/Afiliados locales",
+            "Socio de Negocios / Auditorías de Distribuidores",
+            "Auditorías globales / locales del proveedor de servicios PV",
+            "Auditorías MRP / PSP Vendor",
+            "Estrategia y seguimiento de CAPA",
+            "Análisis de brechas de sistema PV",
+            "Preparación simulada de las inspecciones y la preparación de la inspección",
+            "Planificación de auditoría basada en riesgos y apoyo estratégico",
+            "Revisión de documentación de inspección",
+            "Formación de auditor interno"
+          ]
+        },
+        "gcp-audits": {
+          "title": "GCP -/s",
+          "description": "Las auditorías GCP salvaguardan <strong>la integridad de los ensayos clínicos y la seguridad del paciente</strong> verificando el cumplimiento de los requisitos regulatorios, los estándares éticos y los protocolos de estudio aprobados.",
+          "bullets": [
+            "Auditorías del sitio de investigación",
+            "Auditorías clínicas de laboratorio",
+            "Estudios clínicos de Fase I, incluyendo estudios Bioequivalencia/Bioanalíticos",
+            "Fase II a IV auditorías de estudios clínicos",
+            "Auditorías de documentos: Protocoles, ICF, IB, CRF, CSRs, PSURs, DSURs, ISS/ISE",
+            "Base de datos clínica, gestión de datos y evaluaciones de estadísticas biológicas",
+            "Auditorías y Bioequivalencia IVRS / Laboratorios bioanalíticos",
+            "Auditorías de calificación del vendedor y inspecciones simuladas de FDA/EMA",
+            "Revisión de los archivos maestros de prueba completos (TMF) para la presentación regulatoria"
+          ]
+        },
+        "other-gxp-audits": {
+          "title": "Otros GxP",
+          "description": "Auditorías especializadas de GxP entre dominios de sistemas de laboratorio, fabricación, distribución y computarizados — garantizando la conformidad del ciclo de vida de extremo a extremo.",
+          "bullets": [
+            "Auditorías de validación de Sistemas de Computación TV (CSV)",
+            "Buenas auditorías de prácticas laboratorias (GLP)",
+            "Buenas evaluaciones de prácticas de manipulación (GMP)",
+            "Buena Práctica de Distribución (PIB) auditorías",
+            "Valoraciones de Diligencia",
+            "Para evaluaciones de causa",
+            "Archivar auditorías de instalaciones",
+            "Auditorías de cualificación de proveedores y proveedores",
+            "Revisiones de preparación de los envíos regulares"
+          ]
+        }
+      },
+      "whyPvcon": {
+        "tag": "Por qué PVCON",
+        "heading": "¿Por qué elegir PVCON para GxP?",
+        "points": {
+          "01": {
+            "title": "Cuentas experimentadas",
+            "description": "Nuestros auditores promedio de más de 15 años de experiencia en auditoría regulatoria a través de múltiples disciplinas GxP y regiones geográficas."
+          },
+          "02": {
+            "title": "Cobertura global",
+            "description": "Realizamos auditorías en más de 100 países, aprovechando los conocimientos regulatorios locales y la conciencia cultural para ofrecer observaciones contextualmente relevantes."
+          },
+          "03": {
+            "title": "Resultados Accionables",
+            "description": "Cada auditoría concluye con recomendaciones prácticas prioritarias y directrices de CAPA — no sólo observaciones, sino también un camino claro hacia la conformidad."
+          }
+        }
+      },
+      "cta": {
+        "heading": "¿Estás listo para acumular tu programa de auditoría?",
+        "text": "Asociado con PVCON para servicios expertos de auditoría GxP que fortalecen el cumplimiento y preparan a su organización para inspecciones regulatorias.",
+        "button": "Ponte en contacto"
+      },
+      "subPages": {
+        "pv-audits": {
+          "hero": {
+            "tagline": "Servicios de auditoría de farmacovigilancia",
+            "title": "Farmacovigilancia\n",
+            "subtitle": "Auditorías independientes y basadas en el riesgo de farmacovigilancia para evaluar la eficacia del sistema fotovoltaico y asegurar la conformidad con la reglamentación y mejorar la preparación de las inspecciones en todas las operaciones globales."
+          },
+          "overview": {
+            "tag": "Resumen",
+            "heading": "Farmacovigilancia",
+            "p1": "PVCON entrega <strong>auditorías completas de farmacovigilancia</strong> diseñadas para evaluar la efectividad, conformidad, y madurez de sus sistemas fotovoltaicos contra las expectativas regulatorias globales, incluyendo <strong>EU GVP, FDA 21 CFR, y ICH E2E directrices</strong>. Nuestros auditores experimentados evalúan los sistemas globales de VP, las operaciones locales de afiliados, los arreglos de socios de negocios y los marcos excesivos del proveedor de servicios.",
+            "p2": "Nuestra metodología de auditoría fotográfica cubre todo el espectro de operaciones de farmacovigilancia, desde la detección de señales y el procesamiento de ICSR hasta el mantenimiento de PSMF y los informes de agregación. Realizamos auditorías de sistemas MAH, distribuidores y proveedores de MRP/PSP, así como la conformidad local con los programas PV afiliados para identificar lagunas antes que los reguladores.",
+            "p3": "Más allá de la ejecución de auditorías, PVCON proporciona planificación de auditoría basada en riesgos, desarrollo y seguimiento de estrategias CAPA, análisis de diferencias de sistemas fotovoltaicos, inspecciones simuladas y capacitación de auditores internos. Nuestro objetivo es la transición de su organización del cumplimiento reactivo a la preparación continua de inspecciones a través de todas las operaciones de farmacovigilancia."
+          },
+          "cta": {
+            "heading": "Fortalecer tu programa de auditoría PV",
+            "text": "Colabore con PVCON para realizar auditorías de farmacovigilancia expertas que identifiquen las lagunas de cumplimiento, mitiguen el riesgo y aseguren que sus sistemas fotovoltaicos estén siempre listos para la inspección.",
+            "button": "Ponte en contacto"
+          }
+        },
+        "gcp-audits": {
+          "hero": {
+            "tagline": "Servicios de auditoría GCP",
+            "title": "\nGCP A/S",
+            "subtitle": "Rigorosas auditorías de Buenas Prácticas Clínicas para salvaguardar la integridad de los ensayos clínicos, proteger la seguridad del paciente y asegurar el cumplimiento de la normativa en todas las fases del estudio."
+          },
+          "overview": {
+            "tag": "Resumen",
+            "heading": "GCP -/s",
+            "p1": "PVCON proporciona <strong>directrices independientes de Buen Práctica Clínica (GCP) de auditoría</strong> que verifican el cumplimiento de los ensayos clínicos con <strong>directrices ICH-GCP E6(R2), FDA 21 Partes CFR 11/50/56 y UE Regulación de Ensayos Clínicos</strong>. Nuestros auditores evalúan sitios de investigadores, laboratorios clínicos y documentación de estudio para asegurar la integridad de los datos, la seguridad del paciente y la adherencia del protocolo.",
+            "p2": "Realizamos auditorías GCP en todas las fases de desarrollo clínico — desde la bioequivalencia de la Fase I y estudios bioanalíticos a través de ensayos de Fase I-IV. Nuestro ámbito de aplicación incluye auditorías de documentos que cubren protocolos, formularios de consentimiento informado, folletos de investigadores, CRFs, RSE, PSUR, DSURs y sumarios de seguridad integrados, así como auditorías de bases de datos clínicas y biostestadísticas.",
+            "p3": "PVCON también realiza auditorías IVRS, evaluaciones de calificaciones de los proveedores, revisiones completas del Archivo de Pruebas de Pruebas para presentaciones regulatorias e inspecciones simuladas de FDA/EMA. Nuestro enfoque sistemático asegura que sus programas clínicos mantengan la preparación de la auditoría durante el ciclo de vida del estudio y el proceso de presentación de la normativa."
+          },
+          "cta": {
+            "heading": "Asegurar el cumplimiento de los ensayos clínicos",
+            "text": "Incorporar auditorías GCP experimentadas de PVCON para proteger la integridad de su ensayo clínico y preparar a su organización para inspecciones regulatorias.",
+            "button": "Ponte en contacto"
+          }
+        },
+        "other-gxp-audits": {
+          "hero": {
+            "tagline": "Servicios de auditoría GxP Especializados",
+            "title": "Otro GxP\nse enfrenta a",
+            "subtitle": "Servicios especializados de auditoría a través de CSV, GLP, GMP, PBI y otras disciplinas GxP, asegurando el cumplimiento de la regulación de extremo a extremo en todo el ciclo de vida del producto."
+          },
+          "overview": {
+            "tag": "Resumen",
+            "heading": "Otros GxP",
+            "p1": "PVCON extends its audit expertise beyond pharmacovigilance and clinical practice to deliver <strong>specialized GxP audits across CSV, GLP, GMP, and GDP disciplines</strong>. Our auditors evaluate compliance with <strong>EU Annex 11, 21 CFR Part 11, OECD GLP principles, and global GDP guidelines</strong>, providing organizations with a complete compliance assessment across all regulated operations.",
+            "p2": "Nuestro portafolio de auditoría incluye auditorías de Validación de Sistemas de Computación para sistemas electrónicos e integridad de datos, auditorías de Buenas Prácticas Laboratorias para sitios de estudio no clínicos, Buenas auditorías de Prácticas de Manufactura para instalaciones de producción, y Buenas Prácticas de Distribución aseguran la integridad de la cadena de suministro. También llevamos a cabo la diligencia debida y para las auditorías de causa según sea necesario.",
+            "p3": "Adicionalmente, PVCON realiza auditorías de instalaciones de archivo, evaluaciones de calificaciones de proveedores y proveedores, y reseñas de preparación para presentaciones regulatorias. Ya sea que su organización requiera una verificación de cumplimiento específica o un programa de auditoría multidisciplinaria integral, nuestro equipo experimentado ofrece resultados accionables y recomendaciones prácticas para la remediación."
+          },
+          "cta": {
+            "heading": "¿Necesita soporte para auditoría GxP especializada?",
+            "text": "Aproveche las capacidades de auditoría multidisciplinaria de PVCON para asegurar el cumplimiento en toda su operación regulada, desde laboratorios hasta redes de distribución.",
+            "button": "Ponte en contacto"
+          }
+        }
+      }
+    },
+    "pv-consulting": {
+      "title": "Consulta de farmacovigilancia",
+      "description": "Asesoramiento en farmacovigilancia de extremo a extremo — desde la instalación de sistemas fotovoltaicos hasta los servicios PvOI y la gestión de calidad hasta los servicios de inteligencia regulatoria.",
+      "hero": {
+        "tagline": "Servicios de consulta PV",
+        "title": "Farmacovigilancia\nConsultando",
+        "subtitle": "PVCON apoya a empresas de productos químicos, biotecnológicos y de dispositivos médicos en la construcción y mantenimiento de sistemas de farmacovigilancia compatibles con las inspecciones."
+      },
+      "overview": {
+        "tag": "Resumen",
+        "heading": "Consulta de farmacovigilancia",
+        "p1": "Nuestros servicios de consultoría impulsan la alineación regulatoria, la eficiencia operativa y la preparación de inspecciones globales.",
+        "p2": ""
+      },
+      "subcategories": {
+        "sectionLabel": "Servicios de consulta",
+        "heading": "Nuestras capacidades de consulta PV",
+        "local-qppv-pvoi": {
+          "title": "Servicios locales de PvOI",
+          "description": "Proporcionamos servicios locales PvOI para asegurar el cumplimiento de CDSCO y PV en exceso.",
+          "bullets": [
+            "Punto de contacto de los reguladores en materia de seguridad de los medicamentos",
+            "Revisión y mantenimiento de PSMF",
+            "Cumplimiento y presentación de informes PV en exceso",
+            "Coordinación regular (CDSCO/PvPI)",
+            "Soporte de preparación para la inspección"
+          ]
+        },
+        "pv-qms": {
+          "title": "Sistema de Gestión de Calidad PV (PV QMS)",
+          "description": "Apoyamos a las pequeñas y medianas empresas farmacéuticas en el establecimiento o la escalada de sistemas robustos fotovoltaicos.",
+          "bullets": [
+            "Organograma y descripciones de trabajo",
+            "Desarrollo de instrucciones de trabajo e instrucciones de trabajo",
+            "Políticas de calidad y marcos de gobernanza",
+            "Sistemas de gestión de desviación y CAPA",
+            "Acuerdos de SDEA / Farmacovigilancia (PVA)"
+          ]
+        },
+        "audit-inspection-readiness": {
+          "title": "Planificación de auditoría y preparación de inspección",
+          "description": "Permitimos la preparación continua de las inspecciones a través de un exceso basado en el riesgo.",
+          "bullets": [
+            "Planificación y ejecución de auditoría PV",
+            "Inspecciones simuladas",
+            "Estrategia y seguimiento de CAPA",
+            "Revisión de documentación de inspección",
+            "Formación de auditor interno"
+          ]
+        },
+        "regulatory-intelligence": {
+          "title": "Inteligencia regular",
+          "description": "Ayudamos a las organizaciones a adelantarse a la evolución de las regulaciones globales de las fotovoltaicas.",
+          "bullets": [
+            "Seguimiento regular y actualizaciones",
+            "Estrategia de evaluación de impacto y aplicación",
+            "Alineación de informes de seguridad",
+            "Evaluación de rendimiento y asesoramiento de cumplimiento"
+          ]
+        }
+      },
+      "whyPvcon": {
+        "tag": "Por qué PVCON",
+        "heading": "¿Por qué elegir PVCON para la consulta fotográfica?",
+        "points": {
+          "01": {
+            "title": "Asociación Incrustada",
+            "description": "Trabajamos como una extensión de tu equipo, permitiendo la transferencia de conocimientos y capacidades sostenibles."
+          },
+          "02": {
+            "title": "Experto regulatorio",
+            "description": "Nuestros consultores tienen experiencia práctica con reguladores clave como la FDA, EMA, MHRA y otras autoridades globales."
+          },
+          "03": {
+            "title": "Registro de pista probado",
+            "description": "Hemos guiado con éxito a numerosas organizaciones a través de inspecciones regulatorias, implementaciones de sistemas y transformaciones de cumplimiento."
+          }
+        }
+      },
+      "cta": {
+        "heading": "¿Necesita soporte para consultoría PV experta?",
+        "text": "Deje que los consultores de farmacovigilancia experimentados de PVCON fortalezcan su marco de cumplimiento y optimicen sus operaciones de seguridad.",
+        "button": "Ponte en contacto"
+      },
+      "subPages": {
+        "local-qppv-pvoi": {
+          "hero": {
+            "tagline": "Servicios locales de PvOI",
+            "title": "Servicios locales PvOI\n",
+            "subtitle": "Servicios dedicados a la Farmacovigilancia de la India (PvOI) que garantizan la conformidad con el CDSCO, la coordinación regulatoria y la continua evolución de la fotovoltaica para sus operaciones de mercado en la India."
+          },
+          "overview": {
+            "tag": "Resumen",
+            "heading": "Servicios locales de PvOI",
+            "p1": "PVCON proporciona un Oficial de Farmacovigilancia <strong>cualificado de la India (PvOI) servicios</strong> para asegurar que su organización cumpla con todos los requisitos regulatorios <strong>CDSCO y PvPI (Programa de Pharmacovigilancia de la India)</strong>. Nuestros profesionales de PvOI sirven como punto de contacto designado para los reguladores indios en todas las cuestiones de seguridad de los medicamentos, proporcionando una coordinación perfecta entre sus operaciones globales de fotovoltaje y sus necesidades de cumplimiento local.",
+            "p2": "Nuestros servicios locales PvOI abarcan la revisión y el mantenimiento de PSMF para el mercado indio, monitoreo de cumplimiento de PV, información sobre seguridad en exceso y coordinación regulatoria con las autoridades de CDSCO y PvPI. Nos aseguramos de que todos los Informes de Seguridad de Casos Individuales, informes agregados y actividades de manejo de señales se ajusten a los plazos y requisitos de regulación indios.",
+            "p3": "PVCON también apoya a las organizaciones con preparación para inspecciones específicas a las expectativas de CDSCO, asegurando que su documentación, procesos y personal estén preparados para el escrutinio regulatorio. Nuestros profesionales experimentados de PvOI se integran con su marco global de PV manteniendo el pleno cumplimiento de las regulaciones locales de farmacovigilancia india."
+          },
+          "cta": {
+            "heading": "¿Necesita un PvOI calificado para la India?",
+            "text": "Permita que PVCON provea servicios con experiencia en Pharmacovigilancia de la India para asegurar que su cumplimiento de CDSCO y PV local se mantengan en todo momento.",
+            "button": "Ponte en contacto"
+          }
+        },
+        "pv-qms": {
+          "hero": {
+            "tagline": "Sistema de Gestión de Calidad PV",
+            "title": "Sistema de gestión\nde calidad PV",
+            "subtitle": "Soporte experto para construir y escalar sólidos Sistemas de Gestión de la Calidad de PV — desde los marcos de gobierno y SOP hasta los acuerdos de gestión y farmacovigilancia de CAPA."
+          },
+          "overview": {
+            "tag": "Resumen",
+            "heading": "Sistema de Gestión de Calidad PV (PV QMS)",
+            "p1": "PVCON ayuda a las empresas farmacéuticas y de biotecnología a establecer, mejorar, o escala su <strong>Farmacovigilancia de Sistemas de Gestión de Calidad (PV QMS)</strong> en alineación con <strong>Módulo GVP de la UE I Guía de la FDA, y principios de calidad de ICH Q10</strong>. Apoyamos a las organizaciones en la construcción de marcos de calidad PV estructurados y preparados para inspecciones que garanticen el cumplimiento consistente y la gobernanza operativa.",
+            "p2": "Nuestros servicios de QMS de PV incluyen el desarrollo de estructuras organizacionales y descripciones de trabajo específicas para el rol, la creación de instrucciones de trabajo e instrucciones de trabajo integrales, establecimiento de políticas de calidad y marcos de gobernanza, e implementación de sistemas de gestión de desviación y CAPA diseñados para operaciones de farmacovigilancia.",
+            "p3": "PVCON también prepara acuerdos de intercambio de datos de seguridad (SDEAs) y acuerdos de farmacovigilancia (PVAs) para asegurar el intercambio de datos de seguridad compatible con socios, licenciatarios y distribuidores. Ya sea que usted sea una empresa de construcción de su primer sistema fotovoltaico o una empresa establecida de escala de operaciones, entregamos soluciones QMS a medida que crecen con su organización."
+          },
+          "cta": {
+            "heading": "Construye un sistema robusto de calidad PV",
+            "text": "Colaborar con PVCON para diseñar e implementar un Sistema de Gestión de Calidad PV que cumpla con los estándares regulatorios mundiales y apoye la conformidad sostenible.",
+            "button": "Ponte en contacto"
+          }
+        },
+        "audit-inspection-readiness": {
+          "hero": {
+            "tagline": "Planificación de auditoría y preparación de inspección",
+            "title": "Planificación de auditoría y\nPredicción de inspección",
+            "subtitle": "Servicios proactivos de planificación de auditoría y preparación de inspecciones que permiten el cumplimiento continuo a través de inspecciones basadas en riesgos excesivos, simulaciones y gestión de CAPA."
+          },
+          "overview": {
+            "tag": "Resumen",
+            "heading": "Planificación de auditoría y preparación de inspección",
+            "p1": "PVCON enables organizations to achieve and maintain <strong>continuous inspection readiness</strong> through structured <strong>risk-based audit planning, mock inspections, and systematic CAPA management</strong>. Our approach shifts your PV compliance posture from reactive remediation to proactive preparedness, ensuring your systems and teams are always audit-ready.",
+            "p2": "Nuestros servicios incluyen el desarrollo de planes de auditoría fotovoltaica basados en el riesgo, la ejecución de auditorías fotovoltaicas internas, y llevar a cabo inspecciones realistas de simulaciones que simulan el escrutinio de la autoridad reguladora de agencias incluyendo la EMA, la FDA, el MHRA y el CDSCO. Estas simulaciones ayudan a identificar vulnerabilidades y capacitan a sus equipos para que respondan con seguridad en condiciones de inspección.",
+            "p3": "PVCON también proporciona un completo desarrollo y seguimiento de estrategias CAPA, revisión de la documentación de inspección para asegurar la integridad y precisión y programas de capacitación de auditores internos. Nuestros consultores experimentados han guiado exitosamente a las organizaciones a través de numerosas inspecciones regulatorias y ayudan a crear las capacidades internas que su equipo necesita para una conformidad sostenida."
+          },
+          "cta": {
+            "heading": "Prepárate para tu próxima inspección",
+            "text": "Incorporar PVCON para que las inspecciones sean preparadas en sus operaciones diarias a través de la planificación de auditoría de expertos, las inspecciones simuladas y el apoyo a la gestión de CAPA.",
+            "button": "Ponte en contacto"
+          }
+        },
+        "regulatory-intelligence": {
+          "hero": {
+            "tagline": "Servicios regulatorios de inteligencia",
+            "title": "\nInteligencia regulatoria",
+            "subtitle": "Manténgase por delante de la evolución de las regulaciones globales de farmacovigilancia con los servicios de inteligencia regulatoria de PVCON: apoyo a la estrategia de monitoreo, evaluación de impacto y cumplimiento."
+          },
+          "overview": {
+            "tag": "Resumen",
+            "heading": "Inteligencia regular",
+            "p1": "PVCON's <strong>regulatory intelligence services</strong> help organizations stay ahead of <strong>evolving global pharmacovigilance regulations, guidelines, and enforcement trends</strong>. We provide systematic monitoring of regulatory developments across major authorities including the EMA, FDA, MHRA, PMDA, TGA, and CDSCO to ensure your PV operations remain compliant with current requirements.",
+            "p2": "Nuestro marco de inteligencia regulatoria va más allá del monitoreo: entregamos evaluaciones de impacto accionables que evalúan cómo nuevas regulaciones. las revisiones de pautas y las tendencias de ejecución afectan a sus operaciones específicas de fotovoltaje. Desarrollamos estrategias prácticas de implementación que alineen sus procesos, documentación y capacitación con expectativas regulatorias actualizadas.",
+            "p3": "PVCON también apoya a las organizaciones con informes de seguridad alineación entre jurisdicciones, evaluación comparativa de conformidad con las normas de la industria y servicios de asesoría que anticiparon la dirección regulatoria. Nuestro enfoque proactivo asegura que su sistema de farmacovigilancia evolucione a la par con el panorama regulatorio, reduciendo el riesgo de cumplimiento y fortaleciendo su posición durante las inspecciones."
+          },
+          "cta": {
+            "heading": "Mantente por delante de los cambios regulatorios",
+            "text": "Deje que los expertos en inteligencia regulatoria de PVCON mantengan su organización informada, alineada y conforme con los últimos requerimientos de farmacovigilancia global.",
+            "button": "Ponte en contacto"
+          }
+        }
+      }
+    },
+    "training-upskilling": {
+      "title": "Formación y perfeccionamiento",
+      "description": "Programas de aprendizaje estructurado y desarrollo profesional diseñados para crear competencia regulatoria, preparación para el empleo y preparación de inspecciones en los mercados globales.",
+      "hero": {
+        "tagline": "Programas de entrenamiento y perfeccionamiento",
+        "title": "Training &\nUpskilling Programs",
+        "subtitle": "PVCON ofrece programas de aprendizaje estructurados y de desarrollo profesional diseñados para crear competencia regulatoria, preparación para el empleo y preparación de inspecciones en los mercados globales."
+      },
+      "overview": {
+        "tag": "Resumen",
+        "heading": "Formación y perfeccionamiento",
+        "p1": "Nuestros programas de capacitación impulsados por la industria combinan el aprendizaje práctico con los estándares regulatorios mundiales.",
+        "p2": "Desde los campamentos de Arranque de PV para frescos hasta la formación de farmacovigilancia corporativa, ofrecemos un aprendizaje práctico y práctico para desarrollar profesionales listos para la industria y equipos conformes."
+      },
+      "subcategories": {
+        "sectionLabel": "Programas de formación",
+        "heading": "Ofertas de formación",
+        "training-matrix": {
+          "title": "Matrimonio de formación y desarrollo de contenidos",
+          "bullets": [
+            "matrices de entrenamiento alineadas periódicamente",
+            "Planes de aprendizaje estructurados basados en roles",
+            "Materiales de entrenamiento listos para la inspección"
+          ]
+        },
+        "pv-boot-camp": {
+          "title": "Campo de Arranque de Farmacovigilancia (PV)",
+          "bullets": [
+            "Campamentos intensivos de arranque fotovoltaico impulsados por la industria",
+            "Capacitación de farmacovigilancia de extremo a extremo",
+            "Estudios de casos reales y exposición práctica"
+          ]
+        },
+        "regulatory-compliance-training": {
+          "title": "Capacitación Regulatoria y Cumplimiento",
+          "bullets": [
+            "Programas GVP, ICH-GCP y GxP",
+            "Actualizaciones regulatorias globales y marcos de cumplimiento",
+            "Capacitación en auditoría e inspección"
+          ]
+        },
+        "customized-learnings": {
+          "title": "Soluciones de aprendizaje personalizadas",
+          "bullets": [
+            "Programas de formación corporativa",
+            "Sesiones de actualización y cumplimiento de la normativa",
+            "Módulos de desarrollo profesional continuos"
+          ]
+        }
+      },
+      "whyPvcon": {
+        "tag": "Por qué PVCON",
+        "heading": "¿Por qué elegir PVCON para el entrenamiento?",
+        "points": {
+          "01": {
+            "title": "Prácticas de la Industria",
+            "description": "Nuestra capacitación es impartida por profesionales experimentados con conocimientos prácticos en regulación y operacional."
+          },
+          "02": {
+            "title": "Enfoque personalizado",
+            "description": "Programas adaptados a las necesidades organizacionales, roles y entornos regulatorios — no contenido genérico."
+          },
+          "03": {
+            "title": "Resultados medibles",
+            "description": "Definidos marcos de competencia, evaluaciones y certificaciones que garantizan la efectividad de la capacitación y la preparación de auditorías."
+          }
+        }
+      },
+      "cta": {
+        "heading": "¿Listo para construir las capacidades fotográficas de tu equipo?",
+        "text": "Colaborar con PVCON para programas de formación de farmacovigilancia dirigidos por expertos que ofrezcan una competencia real y una conformidad duradera.",
+        "button": "Explorar opciones de entrenamiento"
+      },
+      "subPages": {
+        "training-matrix": {
+          "hero": {
+            "tagline": "Matrimonio de formación y desarrollo de contenidos",
+            "title": "Matrimonio de formación y\ndesarrollo de contenido",
+            "subtitle": "Desarrollar matrículas de capacitación alineadas con regulación, planes de aprendizaje basados en roles y materiales de capacitación listos para inspeccionar que aseguran la competencia fotovoltaica en toda tu organización."
+          },
+          "overview": {
+            "tag": "Resumen",
+            "heading": "Matrimonio de formación y desarrollo de contenidos",
+            "p1": "PVCON desarrolla matrices de formación alineadas con regulación <strong>y contenido estructurado</strong> que aseguran que sus equipos de farmacovigilancia mantengan las competencias <strong>requeridas por el VP de la UE, expectativas de la FDA y directrices del ICH</strong>. Nuestras soluciones de matriz de capacitación asignan requisitos específicos de aprendizaje a roles organizacionales, obligaciones regulatorias y responsabilidades operacionales en todo su sistema fotovoltaico.",
+            "p2": "Diseñamos planes de aprendizaje estructurado basados en roles que definen vías de capacitación para cada posición en su organización de farmacovigilancia — desde procesadores de casos y científicos de seguridad hasta la dirección de QPPV y PV. Cada plan incluye hitos de competencia definidos, criterios de evaluación y requisitos de documentación que demuestran la efectividad de la capacitación durante las inspecciones regulatorias.",
+            "p3": "PVCON también crea materiales de capacitación listos para la inspección incluyendo SOP, instrucciones de trabajo, guías de referencia rápidas y herramientas de evaluación. Todo el contenido se desarrolla para satisfacer las expectativas reglamentarias de la prueba de capacitación documentada, asegurando que su organización puede demostrar una fuerza de trabajo PV bien capacitada y competente a los inspectores de cualquier autoridad reguladora."
+          },
+          "cta": {
+            "heading": "Construye un Programa de Entrenamiento preparado para Inspección",
+            "text": "Asociarse con PVCON para desarrollar matrices de formación y contenido que demuestren competencia regulatoria y mantengan listos los equipos fotovoltaicos.",
+            "button": "Ponte en contacto"
+          }
+        },
+        "pv-boot-camp": {
+          "hero": {
+            "tagline": "Programas de Arranque de PV",
+            "title": "Farmacovigilancia\nProgramas del Campo de Arranque",
+            "subtitle": "Programas intensivos para botas de farmacovigilancia impulsados por la industria que imparten entrenamiento de PV de extremo a extremo con estudios de caso reales en el mundo y exposición práctica práctica."
+          },
+          "overview": {
+            "tag": "Resumen",
+            "heading": "Campo de Arranque de Farmacovigilancia (PV)",
+            "p1": "PVCON's <strong>Pharmacovigilance Boot Camp Programs</strong> provide intensive, structured training designed to build <strong>job-ready PV professionals from the ground up</strong>. Our boot camps deliver comprehensive end-to-end pharmacovigilance education covering ICSR processing, signal management, aggregate reporting, risk management, and regulatory compliance across major global markets.",
+            "p2": "Cada programa de campamentos de arranque combina cimientos teóricos con estudios de casos reales, ejercicios prácticos y escenarios industriales simulados. Los participantes obtienen experiencia práctica con operaciones de bases de datos de seguridad, codificación MedDRA, evaluación de causalidad, escritura narrativa, y flujos de trabajo de presentación regulatoria — las habilidades básicas exigidas por los empleadores farmacéuticos y de agencias de calificación crediticia en todo el mundo.",
+            "p3": "Los campamentos de PVCON de arranque PV están diseñados para recién graduados que entran en la industria farmacéutica profesionales que buscan fortalecer sus conocimientos fundacionales de PV. Nuestros capacitadores con experiencia en la industria aseguran que cada participante desarrolle la competencia práctica y la conciencia regulatoria necesaria para contribuir eficazmente desde el primer día."
+          },
+          "cta": {
+            "heading": "Lanza tu carrera de farmacovigilancia",
+            "text": "Únete a los programas intensivos de PVCON del Campo de Arranque para obtener las habilidades prácticas y el conocimiento de la industria necesarios para tener éxito en la farmacovigilancia.",
+            "button": "Ponte en contacto"
+          }
+        },
+        "regulatory-compliance-training": {
+          "hero": {
+            "tagline": "Capacitación Regulatoria y Cumplimiento",
+            "title": "Regulatory &\nCompliance Training",
+            "subtitle": "Los programas de capacitación GVP, ICH-GCP y GxP dirigidos por expertos, que fortalecen el conocimiento regulatorio, garantizan la conformidad y preparan equipos para auditorías e inspecciones."
+          },
+          "overview": {
+            "tag": "Resumen",
+            "heading": "Capacitación Regulatoria y Cumplimiento",
+            "p1": "PVCON entrega <strong>programas de capacitación regulatoria y de cumplimiento liderados por expertos</strong> que cubren <strong>GVP, ICH-GCP, GLP, GMP, PBI y más amplios frameworks GxP</strong>. Nuestros programas están diseñados para la biotecnología psíquica y profesionales de dispositivos médicos que necesitan mantener el conocimiento actual de los requisitos reglamentarios y demostrar la competencia de conformidad durante las auditorías y las inspecciones.",
+            "p2": "Nuestro portafolio de capacitación incluye programas completos sobre los requisitos de buenas prácticas de farmacovigilancia de la UE, requisitos de ICH-GCP E6(R2), actualizaciones regulatorias globales y marcos de cumplimiento en evolución a través de las principales autoridades sanitarias. Cada programa está estructurado para proporcionar comprensión práctica —no sólo conocimiento teórico— con ejemplos del mundo real y estudios de casos regulatorios.",
+            "p3": "PVCON también proporciona capacitación especializada en auditoría e inspección que prepara a sus equipos para manejar con confianza las inspecciones regulatorias. Nuestros instructores aportan décadas de experiencia directa con las autoridades reguladoras incluyendo EMA, FDA, MHRA, y PMDA, asegurar que los participantes reciban información práctica que se traduzcan directamente en un mejor desempeño de cumplimiento."
+          },
+          "cta": {
+            "heading": "Ejecuta el conocimiento regular de tu equipo",
+            "text": "Invierte en la capacitación regulatoria y de cumplimiento de PVCON para asegurar que sus equipos sean actuales, competentes y confiados durante los compromisos regulatorios.",
+            "button": "Ponte en contacto"
+          }
+        },
+        "customized-learnings": {
+          "hero": {
+            "tagline": "Soluciones de aprendizaje personalizadas",
+            "title": "Customized\nLearning Solutions",
+            "subtitle": "Programas corporativos de capacitación, sesiones de actualización y módulos de desarrollo profesional continuos diseñados para satisfacer las necesidades específicas de regulación y operación de su organización."
+          },
+          "overview": {
+            "tag": "Resumen",
+            "heading": "Soluciones de aprendizaje personalizadas",
+            "p1": "PVCON diseña y entrega <strong>soluciones de aprendizaje personalizadas</strong> adaptadas a la normativa específica <strong>de su organización. complejidad operativa, y objetivos de desarrollo de la fuerza laboral</strong>. A diferencia del entrenamiento off-the-shelf, nuestros programas están construidos alrededor de sus SOPs, sistemas, áreas terapeéticas y desafíos de cumplimiento para asegurar la máxima relevancia y aplicabilidad inmediata.",
+            "p2": "Nuestras ofertas personalizadas incluyen programas de capacitación corporativa para departamentos completos de VP, sesiones de actualización dirigidas a abordar lagunas específicas de cumplimiento o cambios regulatorios. y estructurados módulos de desarrollo profesional continuo que mantienen la competencia de la fuerza laboral con el tiempo. Cada programa está diseñado en colaboración con su equipo para alinearse con las prioridades de la organización.",
+            "p3": "Los capacitadores experimentados de PVCON adaptan la entrega de contenido a su entorno de aprendizaje, ya sea en talleres, sesiones virtuales guiadas por instructores o formatos combinados. Proporcionamos evaluaciones post-capacitación, documentación de seguimiento de competencias y apoyo de seguimiento para asegurar la retención de conocimientos y la mejora demostrable del cumplimiento en sus operaciones de farmacovigilancia."
+          },
+          "cta": {
+            "heading": "¿Necesita capacitación preparada para su equipo?",
+            "text": "Permita que PVCON diseñe un programa de aprendizaje personalizado que responda a las necesidades únicas de capacitación y cumplimiento de la farmacovigilancia de su organización.",
+            "button": "Ponte en contacto"
+          }
+        }
+      }
+    },
+    "medical-writing": {
+      "title": "Escritura médica",
+      "description": "Servicios de escritura médica científicamente robustos y compatibles con la normativa que apoyan la farmacovigilancia, el desarrollo clínico y la gestión de los ciclos de vida de los productos en los mercados globales.",
+      "hero": {
+        "tagline": "Servicios de Escritura Médica",
+        "title": "Médico\nEscrito",
+        "subtitle": "PVCON ofrece servicios de escritura médica científicamente robustos y compatibles con la normativa que apoyan la farmacovigilancia, el desarrollo clínico y la gestión del ciclo de vida de los productos en los mercados globales."
+      },
+      "overview": {
+        "tag": "Resumen",
+        "heading": "Escritura médica",
+        "p1": "PVCON ofrece servicios de escritura médica científicamente robustos y compatibles con la normativa que apoyan la farmacovigilancia, el desarrollo clínico y la gestión del ciclo de vida de los productos en los mercados globales.",
+        "p2": "Nuestra pericia abarca la gestión de riesgos, la presentación de informes de seguridad y la documentación clínica, asegurando que todos los resultados cumplan con los estándares regulatorios mundiales con alta precisión científica y conformidad."
+      },
+      "subcategories": {
+        "sectionLabel": "Nuestra experiencia",
+        "heading": "Nuestras capacidades de escritura médica",
+        "rmp-rems-writing": {
+          "title": "Planes de Gestión de Riesgos (RMP/REMS)",
+          "bullets": [
+            "RMP y REMS desarrollo y mantenimiento de ciclos de vida",
+            "Planificación de la estrategia de seguridad y minimización de riesgos",
+            "Marco de vigilancia de seguridad en curso y gestión de riesgos"
+          ]
+        },
+        "aggregate-report-writing": {
+          "title": "Informes de seguridad agregados",
+          "bullets": [
+            "PSUR / PBRER / PADER preparación y revisión",
+            "Análisis de datos de seguridad y listas de líneas",
+            "Evaluación de riesgos de beneficio e informes regulatorios"
+          ]
+        },
+        "clinical-safety-documents": {
+          "title": "Documentación Clínica y de Seguridad",
+          "bullets": [
+            "Planes de desarrollo Clinical e Informes de Estudios Clinicales (R)",
+            "Protocoles, folletos de investigadores y formularios de consentimiento informados",
+            "Documentos de seguridad de los pacientes y de respuesta regulatoria",
+            "Secciones CTD/NDA clínicas y de seguridad",
+            "Planes globales de fotovoltaje y publicaciones científicas"
+          ]
+        }
+      },
+      "whyPvcon": {
+        "tag": "Por qué PVCON",
+        "heading": "¿Por qué elegir PVCON para la escritura médica?",
+        "points": {
+          "01": {
+            "title": "Escritores Especializados",
+            "description": "Nuestros escritores médicos se especializan en farmacovigilancia y documentación de seguridad — aportando tanto profundidad científica como capacidad de escritura regulatoria a cada proyecto."
+          },
+          "02": {
+            "title": "Precisión regular",
+            "description": "Cada documento se elabora para cumplir con los requisitos específicos de las autoridades reguladoras objetivo, con rigurosos procesos de control de calidad y revisión del cumplimiento."
+          },
+          "03": {
+            "title": "Soporte de extremo a extremo",
+            "description": "Desde la redacción inicial hasta las actualizaciones y retroalimentación regulatoria, proporcionamos apoyo continuo durante todo el ciclo de vida del documento."
+          }
+        }
+      },
+      "cta": {
+        "heading": "¿Necesita apoyo de Escritura Médica Experta?",
+        "text": "Confie en el equipo especializado de redacción médica de PVCON para proporcionar documentación de seguridad clara, compatible y científicamente rigurosa.",
+        "button": "Discuta tu proyecto"
+      },
+      "subPages": {
+        "rmp-rems-writing": {
+          "hero": {
+            "tagline": "Planes de gestión de riesgos",
+            "title": "Gestión de Riesgos\nPlanes (RMP/REMS)",
+            "subtitle": "Desarrollo experto y mantenimiento de los ciclos de vida de los Planes de Gestión de Riesgos y los programas REMS — garantizando una minimización efectiva del riesgo y el cumplimiento de la normativa a lo largo del ciclo de vida del producto."
+          },
+          "overview": {
+            "tag": "Resumen",
+            "heading": "Planes de Gestión de Riesgos (RMP/REMS)",
+            "p1": "PVCON proporciona un experto <strong>Plan de Gestión de Riesgos (RMP) y servicios de desarrollo REMS</strong> que cumplen con los requisitos del <strong>EMA, FDA, y las autoridades regulatorias globales</strong>. Nuestros especialistas en farmacovigilancia y escritores médicos colaboran en la elaboración de documentos completos de gestión de riesgos que definen las especificaciones de seguridad, planes de farmacovigilancia y medidas de minimización del riesgo para sus medicamentos.",
+            "p2": "Nuestros servicios cubren el ciclo de vida completo de RMP — desde el desarrollo inicial durante el desarrollo clínico hasta las actualizaciones posteriores a la autorización lanzadas por nuevos datos de seguridad, solicitudes regulatorias, o renovación periódica. También desarrollamos Estrategias de Evaluación y Mitigación de Riesgos de la FDA (REMS) incluyendo Elementos ETASU, guías de medicamentos y planes de comunicación según sea necesario.",
+            "p3": "PVCON apoya a las organizaciones con planificación de estrategias de minimización de riesgos, diseño de medidas de minimización de riesgos, marcos de evaluación de efectividad e integración continua de vigilancia de seguridad. Nuestros documentos RMP están elaborados con rigor científico y precisión regulatoria, asegurando la presentación exitosa y la eficacia de los ciclos de revisión regulatoria en todos los mercados objetivo."
+          },
+          "cta": {
+            "heading": "¿Necesita soporte RMP/REMS experto?",
+            "text": "Confie en el equipo especializado de PVCON para desarrollar y mantener Planes de Gestión de Riesgos que satisfagan los requisitos regulatorios y minimicen eficazmente los riesgos de los productos.",
+            "button": "Ponte en contacto"
+          }
+        },
+        "aggregate-report-writing": {
+          "hero": {
+            "tagline": "Informes de seguridad agregados",
+            "title": "Aggregate\nSafety Reports",
+            "subtitle": "Preparación integral de PSUR, PBRER y PADER con un riguroso análisis de datos de seguridad, evaluación de riesgos de beneficios e informes conformes con la regulación en los mercados globales."
+          },
+          "overview": {
+            "tag": "Resumen",
+            "heading": "Informes de seguridad agregados",
+            "p1": "PVCON delivers <strong>high-quality aggregate safety report writing services</strong> including <strong>PSURs, PBRERs, PADERs, and DSURs</strong> that meet the requirements of the EMA, FDA, and other global regulatory authorities. Our medical writers combine scientific expertise with deep regulatory knowledge to produce reports that accurately characterize the evolving benefit-risk profile of your medicinal products.",
+            "p2": "Nuestros servicios de informes agregados abarcan análisis exhaustivo de datos de seguridad, preparación de listados de líneas y tablas de resumen, evaluación crítica de la nueva información sobre seguridad y evaluaciones detalladas del riesgo de beneficios. Nos aseguramos de que todos los informes se preparan de conformidad con las directrices de ICH E2C(R2) y el Módulo Víctor de la UE VII, y los requisitos reguladores locales aplicables.",
+            "p3": "PVCON gestiona el ciclo de vida completo del informe de agregación: desde la planificación de puntos de bloqueo de datos y la recuperación de datos de seguridad, pasando por la escritura, la revisión de calidad y la finalización de la presentación. Nuestro enfoque sistemático asegura consistencia, precisión científica y entrega a tiempo, ayudando a su organización a mantener el cumplimiento ininterrumpido de la normativa en todos los mercados donde sus productos están autorizados."
+          },
+          "cta": {
+            "heading": "Transmita tu reporte de agregación",
+            "text": "Colaborar con PVCON para la preparación experta de PSURs, PBRERs e informes de seguridad agregados que cumplen con las normas regulatorias mundiales con precisión científica.",
+            "button": "Ponte en contacto"
+          }
+        },
+        "clinical-safety-documents": {
+          "hero": {
+            "tagline": "Documentación Clínica y de Seguridad",
+            "title": "Clínica y seguridad\nDocumentación",
+            "subtitle": "Creación integral de documentos clínicos y de seguridad — desde reportes de estudios clínicos y protocolos hasta narrativos de seguridad de pacientes, secciones de ECT y documentos de respuesta regulatoria."
+          },
+          "overview": {
+            "tag": "Resumen",
+            "heading": "Documentación Clínica y de Seguridad",
+            "p1": "PVCON proporciona <strong>servicios de documentación clínica y de seguridad de extremo a extremo</strong> que apoyan el ciclo de vida completo <strong>de desarrollo de producto desde la planificación clínica a través de la presentación regulatoria y la posterior autorización</strong>. Nuestros escritores médicos producen documentos científicamente robustos, incluyendo Planes de Desarrollo Clínico, Informes de Estudios Clínicos, Rs, protocolos, folletos de investigadores, y formularios de consentimiento informados que cumplen con los requisitos de ICH y las autoridades regulatorias. (CSRs)",
+            "p2": "Nuestra experiencia en documentación de seguridad incluye narrativas de seguridad del paciente para eventos adversos graves e inesperados documentos de respuesta regulatoria que se ocupan de las consultas de las autoridades sanitarias y de las secciones clínicas y de seguridad de CTD/NDA preparadas para las presentaciones regulatorias. Cada documento se somete a una rigurosa revisión de calidad para garantizar la precisión científica, la conformidad con la normativa y la coherencia interna.",
+            "p3": "PVCON también desarrolla planes globales de farmacovigilancia, documentación de gestión de riesgos y publicaciones científicas para revistas revisadas por pares. Nuestros escritores trabajan estrechamente con sus equipos clínicos, de seguridad y de regulación para asegurar que toda la documentación esté alineada con su estrategia de desarrollo. los plazos de presentación y los requisitos específicos de las autoridades reguladoras objetivo en todo el mundo."
+          },
+          "cta": {
+            "heading": "¿Necesitas soporte para documentación cínica?",
+            "text": "Los escritores médicos experimentados de Engage PVCON entregan documentos clínicos y de seguridad claros y compatibles que respaldan resultados regulatorios exitosos.",
+            "button": "Ponte en contacto"
+          }
+        }
+      }
+    },
+    "psmf": {
+      "title": "Gestor PSMF",
+      "description": "Plataforma SaaS alimentada por AIs para el cumplimiento de PSMF de extremo a extremo — generación automatizada, control de versión y siempre lista para auditoría.",
+      "isProduct": "verdad",
+      "hero": {
+        "tagline": "Nuestro producto",
+        "title": "Gestor de PSMF\n",
+        "subtitle": "Soluciones AI de extremo a extremo para la conformidad del sistema de Pharmacovigilance Master de archivos. Desde el control de versión hasta la generación automática de documentos — todo lo que necesita para optimizar su ciclo de vida de PSMF."
+      },
+      "overview": {
+        "tag": "La Plataforma",
+        "heading": "Administración de PSMF de AI-Powered",
+        "p1": "PSMF Manager es una plataforma SaaS completamente automatizada creada por PVCON para transformar cómo las compañías farmacéuticas administran su Archivo Maestro del Sistema de Farmacovigilancia. Desarrollada por AI, la plataforma simplifica complejas revisiones de conformidad con transparencia y confiabilidad — eliminando errores manuales y manteniendo su PSMF siempre listo para la inspección.",
+        "p2": "Ya sea que administre un solo PSMF local o coordine archivos globales y locales en varias regiones, el administrador de PSMF proporciona coordinación en tiempo real, seguimiento de cambios automatizados y generación instantánea de PDF compatible con la normativa — todo en una plataforma segura basada en la nube."
+      },
+      "features": {
+        "tag": "Características de la plataforma",
+        "heading": "Todo lo que necesitas para el cumplimiento de PSMF",
+        "items": {
+          "01": {
+            "title": "Revisión de Cumplimiento de AI",
+            "description": "Aproveche la inteligencia artificial para simplificar complejas revisiones de farmacovigilancia. Nuestro motor de IA identifica lagunas, sugiere mejoras y asegura que su PSMF cumpla con todos los requisitos regulatorios con transparencia y fiabilidad."
+          },
+          "02": {
+            "title": "Administración global y local de PSMF",
+            "description": "Administrar versiones globales y locales de PSMF desde una única plataforma con coordinación en tiempo real. Elimine las redundancias, mantenga la coherencia entre las regiones y asegúrese de que cada versión esté alineada con los requisitos regulatorios corporativos y locales."
+          },
+          "03": {
+            "title": "Historial completo de versiones y auditorías",
+            "description": "Cada cambio se marca en el tiempo y se registra de forma segura con pistas de auditoría integrales. Mantener un historial completo de versiones que demuestre el cumplimiento de la normativa y asegure que usted esté siempre preparado para las inspecciones."
+          },
+          "04": {
+            "title": "Cambios de seguimiento automáticos",
+            "description": "La plataforma pone de relieve automáticamente cada modificación, reduciendo significativamente el esfuerzo de revisión manual. Su equipo puede ver instantáneamente lo que cambió, cuándo y por quién — agilizando el proceso de revisión y aprobación."
+          },
+          "05": {
+            "title": "Integración de datos externos",
+            "description": "Sincronización perfecta con bases de datos líderes de farmacovigilancia y sistemas empresariales. PSMF Manager se integra con su infraestructura existente para extraer datos automáticamente, eliminando la entrada de datos duplicados y reduciendo el error humano."
+          },
+          "06": {
+            "title": "Generación automática de documentos PSMF",
+            "description": "Generar documentos PSMF compatibles con la normativa en formato PDF al instante con un solo clic. No más confusión de formato manual o de versión: la plataforma produce documentos listos para auditoría que cumplen con los estándares regulatorios de EMA, MHRA y globales."
+          }
+        }
+      },
+      "compliance": {
+        "tag": "Cumplimiento y seguridad",
+        "heading": "Construir para la obligación regulatoria",
+        "certifications": {
+          "01": {
+            "title": "EMA GVP Module II",
+            "description": "Alineación total con los requisitos de la Agencia Europea de Medicamentos Buena Farmacovigilancia Práctica."
+          },
+          "02": {
+            "title": "FDA 21 CFR Parte 11",
+            "description": "Cumpliendo con la normativa de registros electrónicos y firmas electrónicas de la FDA."
+          },
+          "03": {
+            "title": "EU GMP Annex 11",
+            "description": "Cumple los requisitos de los sistemas computarizados de Buena Práctica de Manufactura de la UE."
+          },
+          "04": {
+            "title": "GAMP 5",
+            "description": "Validado por el enfoque basado en riesgos ISPE GAMP 5 para sistemas computarizados GxP compatibles."
+          }
+        },
+        "security": {
+          "01": {
+            "title": "Autenticación de dos factores",
+            "description": "Robusta 2FA con controles de contraseñas protegiendo cada sesión de usuario."
+          },
+          "02": {
+            "title": "Cifrado SSL/TLS",
+            "description": "Todos los datos transmitidos a través de canales cifrados estándar en la industria."
+          },
+          "03": {
+            "title": "Copia de seguridad AWS en la nube",
+            "description": "Protección automática de copia de seguridad en la infraestructura segura de nube AWS."
+          },
+          "04": {
+            "title": "Senderos de auditoría completa",
+            "description": "Cada acción de usuario registrada y rastreable para una responsabilidad total."
+          }
+        }
+      },
+      "cta": {
+        "heading": "¿Listo para transformar su gestión de PSMF?",
+        "text": "Experimente el futuro del cumplimiento de PSMF con la plataforma AI de PVCON. Solicite una demostración para ver a PSMF Manager en acción.",
+        "button": "Solicitar una Demo",
+        "secondaryButton": "Visita psmfmanager.com",
+        "secondaryUrl": "https://www.psmfmanager.com"
+      }
+    }
+  }
+}

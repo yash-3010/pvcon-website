@@ -1,15 +1,15 @@
 {
   "blog": {
     "hero": {
-      "tagline": "ブログ",
-      "title": "インサイト＆最新情報",
-      "subtitle": "チームからの最新ニュース、インサイト、アップデートをお届けします。"
+      "tagline": "リソース",
+      "title": "ブログとアップデート",
+      "subtitle": "最新のニュース、洞察、および私たちのチームの最新情報をご確認ください。"
     },
-    "featuredHeading": "注目の記事",
-    "recentHeading": "最新記事",
-    "backToAll": "すべての記事に戻る",
+    "featuredHeading": "注目の投稿",
+    "recentHeading": "最近の投稿",
+    "backToAll": "すべての投稿に戻る",
     "home": "ホーム",
     "blogLabel": "ブログ",
-    "updatedLabel": "更新日"
+    "updatedLabel": "更新日時"
   }
 }

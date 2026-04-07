@@ -1,0 +1,15 @@
+{
+  "blog": {
+    "hero": {
+      "tagline": "Recursos",
+      "title": "Blogs y actualizaciones",
+      "subtitle": "Manténgase informado con las últimas noticias, noticias y actualizaciones de nuestro equipo."
+    },
+    "featuredHeading": "Mensajes Destacados",
+    "recentHeading": "Mensajes recientes",
+    "backToAll": "Volver a todos los mensajes",
+    "home": "Inicio",
+    "blogLabel": "Blog",
+    "updatedLabel": "Actualizado"
+  }
+}

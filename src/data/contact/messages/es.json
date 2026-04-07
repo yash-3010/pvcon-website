@@ -1,0 +1,37 @@
+{
+  "contact": {
+    "hero": {
+      "tagline": "Contáctenos",
+      "title": "Hablemos",
+      "subtitle": "¿Tiene alguna pregunta sobre auditoría de GxP, consulta de farmacovigilancia o conformidad con la regulación? Rellene el siguiente formulario y nuestro equipo se pondrá en contacto con usted en un plazo de 24 horas."
+    },
+    "form": {
+      "name": "Nombre completo",
+      "company": "Empresa",
+      "designation": "Diseñación",
+      "email": "Dirección de email",
+      "phone": "Número de teléfono",
+      "message": "Mensaje",
+      "namePlaceholder": "Juan Doe",
+      "companyPlaceholder": "Nombre de tu empresa",
+      "designationPlaceholder": "ej. Jefe de operaciones de PV",
+      "emailPlaceholder": "john@company.com",
+      "phonePlaceholder": "Tu número de teléfono",
+      "messagePlaceholder": "Cuéntanos sobre tu proyecto o pregunta...",
+      "submit": "Enviar mensaje",
+      "submitting": "Enviando...",
+      "successHeading": "Mensaje enviado con éxito!",
+      "successMessage": "Gracias por ponerse en contacto con nosotros. Nuestros expertos en farmacovigilancia revisarán su consulta y responderán en 24 horas.",
+      "errorHeading": "Algo salió mal",
+      "errorMessage": "Por favor, inténtelo de nuevo o póngase en contacto con nosotros directamente a info@pvcon.in.",
+      "sendAnother": "Enviar otro mensaje",
+      "required": "Este campo es obligatorio",
+      "invalidEmail": "Por favor, introduzca una dirección de correo válida",
+      "captchaLabel": "Verificación de seguridad"
+    },
+    "info": {
+      "emailLabel": "E-mail",
+      "phoneLabel": "Teléfono"
+    }
+  }
+}

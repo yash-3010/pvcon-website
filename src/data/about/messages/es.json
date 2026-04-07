@@ -1,0 +1,91 @@
+{
+  "about": {
+    "hero": {
+      "ariaLabel": "Acerca de PVCON",
+      "tagline": "Quiénes somos",
+      "title": "Acerca de PVCON",
+      "subtitle": "PVCON es un líder mundial independiente en GxP, Consultoría de Farmacovigilancia, Formación Profesional y Servicios de Calidad. Soporta organizaciones de productos químicos, biotecnología, CRO y dispositivos médicos en más de 100 países como socio confiable de One-Stop."
+    },
+    "images": {
+      "aboutAlt": "Consultoría en farmacovigilancia de PVCON en un entorno profesional",
+      "teamAlt": "Consultores PVCON que colaboran en la estrategia regulatoria"
+    },
+    "whoWeAre": {
+      "tag": "Quiénes somos",
+      "heading": "Nuestra historia",
+      "story": {
+        "p1": "PVCON es uno de los principales proveedores mundiales de GxP independiente, consultoría en farmacovigilancia y servicios de capacitación profesional, Apoyo a organizaciones de dispositivos técnicos, biotecnológicos y médicos en más de 100 países.",
+        "p2": "Reconocido por su integridad, independencia y excelencia técnica, PVCON sirve como un socio confiable para las soluciones completas de auditoría y calidad de la farmacovigilancia, ayudando a los clientes a navegar con confianza por complejos límites regulatorios.",
+        "p3": "PVCON fue fundada por Moin Don, el experto en Pharmacovigilancia mundialmente respetado, Director Ejecutivo, cuyo liderazgo y profundo conocimiento de la industria han transformado a la organización en un socio estratégico confiable para las empresas que buscan la excelencia de cumplimiento y la preparación de inspecciones."
+      }
+    },
+    "approach": {
+      "tag": "NUESTRA ESTORIA",
+      "heading": "Un socio de Cumplimiento Estratégico",
+      "p1": "Conozca a las personas y a la red global detrás de PVCON — impulsando la excelencia de farmacovigilancia a través de más de 100 países en 6 continentes",
+      "p2": "PVCON fue fundada por el respetado experto en farmacovigilancia de más de 50 años Moin Don, el fundador y CEO cuyo liderazgo y profundo conocimiento de la industria han dado forma a la organización como un socio estratégico confiable, conocido por ser un Asesor del General del Controlador de Drogas (PvPI) de la India y orador en foros prominentes de la industria como DIA, RQA, UMC.",
+      "p3": "PVCON es algo más que un proveedor de servicios; somos un socio de cumplimiento estratégico. No sólo apoyar las actividades de farmacovigilancia; arquiteccionamos sistemas fotovoltaicos confiados por los reguladores que conducen la seguridad del paciente, la excelencia operativa, la garantía de calidad y la sostenibilidad del cumplimiento a largo plazo. con marcos de auditoría rigurosos, programas de capacitación completos y estrategias proactivas alineadas con las directrices actuales de ICH, GVP y GxP global."
+    },
+    "buttons": {
+      "workWithUs": "Trabajar con nosotros",
+      "getInTouch": "Ponte en contacto"
+    },
+    "whyChoose": {
+      "tag": "Nuestras Fuerzas",
+      "heading": "¿Por qué elegir PVCON?",
+      "intro": {
+        "p1": "En un gxP cada vez más complejo y altamente regulado, no se trata sólo de cumplir los requisitos, sino también de crear sistemas resistentes que protejan a los pacientes, salvaguarden las marcas y soporten el escrutinio regulatorio. PVCON está diseñado para ser su socio estratégico en la consecución de la excelencia operativa, la confianza en la inspección y la madurez de cumplimiento sostenible.",
+        "p2": "Aprovechamos la experiencia de farmacovigilancia profunda, la inteligencia regulatoria, la capacidad de auditoría y la experiencia práctica de implementación para ofrecer soluciones listas para los reguladores."
+      },
+      "01": {
+        "title": "MEJOR EN AUDITORES Y CONSULTANTES",
+        "description": "Más de 300 años de experiencia con compañías farmacéuticas líderes, CRO y proveedores de servicios fotovoltaicos. Cuentas con experiencia regulatoria que abarcan reguladores globales como MHRA, EMA, US FDA, DCGI, BoMRA, etc. y con capacidades multilingües, nuestros consultores independientes están ubicados en todo el mundo para realizar auditorías efectivamente facilitadas."
+      },
+      "02": {
+        "title": "INTEGRATEGRAN PARTNERSHIP ECOSYSTEM",
+        "description": "Soluciones completas de farmacovigilancia que abarcan operaciones, auditorías, gobernanza, preparación de inspecciones y capacitación. Actuando como una extensión de tu equipo, nuestros consultores priorizan la transferencia de conocimiento para ayudarte a construir capacidades internas robustas y sostenibles."
+      },
+      "03": {
+        "title": "RIESGO BASADO, APROBACIÓN DE INSPECCIÓN",
+        "description": "Estrategias de cumplimiento para la resiliencia de auditoría y la confianza de los reguladores. Diseñamos marcos basados en riesgos que priorizan áreas de cumplimiento crítico, preparan equipos a través de inspecciones simuladas y establecen procesos CAPA que demuestren un compromiso regulador sostenido."
+      },
+      "04": {
+        "title": "INTELLIGENCIA DE REGULATORIA",
+        "description": "Monitoreo proactivo de la evolución de las regulaciones globales de la fotovoltaica para mantenerle preparado para el futuro. Seguimos los cambios en EMA, US FDA, MHRA, PMDA, TGA y mercados emergentes: traducir cambios regulatorios complejos en estrategias de cumplimiento accionables antes de que afecten a sus operaciones."
+      }
+    },
+    "expertise": {
+      "tag": "Lo que entregamos",
+      "heading": "Áreas de experiencia",
+      "subtitle": "Nuestros consultores poseen una profunda experiencia práctica en todo el espectro de las disciplinas de farmacovigilancia y GxP.",
+      "qppv": {
+        "title": "Servicios QPPV",
+        "desc": "Los QPPs calificados por la UE que garantizan el pleno cumplimiento de la legislación sobre farmacovigilancia, los acontecimientos adversos y el enlace regulatorio."
+      },
+      "gxp": {
+        "title": "GxP",
+        "desc": "Auditorías integrales de calificación GCP, GLP, GMP, GCLP y vendedores que se entregan in situ y de forma remota a través de ubicaciones globales."
+      },
+      "psmf": {
+        "title": "Administración de PSMF",
+        "desc": "Sistema de Farmacovigilancia de extremo a extremo para la creación de archivos, mantenimiento y alineación regulatoria."
+      },
+      "inspection": {
+        "title": "Realidad de la inspección",
+        "desc": "Inspecciones simuladas, análisis de lagunas y planes estructurados de CAPA que reflejan los enfoques de inspección de EMA, MHRA y FDA."
+      },
+      "signal": {
+        "title": "Detección de señal",
+        "desc": "Marco sólidos de gestión de señales, apoyo para la evaluación del riesgo de beneficios y preparación de informes de seguridad periódicos."
+      },
+      "regulatory": {
+        "title": "Cumplimiento regular",
+        "desc": "Orientación estratégica a través de las normas de la UE GVP, ICH, FDA 21 CFR y OMS que cubren más de 20 jurisdicciones regulatorias."
+      }
+    },
+    "cta": {
+      "heading": "¿Listo para fortalecer los procesos fotovoltaicos de la organización?",
+      "text": "Asociado con PVCON para auditoría experta de GxP, consultoría en farmacovigilancia, servicios de PVoI y asistencia en cumplimiento regular."
+    }
+  }
+}

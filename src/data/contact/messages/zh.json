@@ -2,35 +2,35 @@
   "contact": {
     "hero": {
       "tagline": "联系我们",
-      "title": "与我们对话",
-      "subtitle": "对GxP审计、药物警戒咨询或法规合规有疑问？请填写下面的表格，我们的团队将在24小时内回复您。"
+      "title": "让我们说话吧",
+      "subtitle": "是否有关于GxP审计、药理警觉咨询或监管遵守情况的问题？ 填写下面的表单，我们的团队将在 24 小时内返回您。"
     },
     "form": {
-      "name": "姓名",
+      "name": "全名",
       "company": "公司",
-      "designation": "职位",
-      "email": "电子邮件",
+      "designation": "指定",
+      "email": "电子邮件地址",
       "phone": "电话号码",
       "message": "留言",
-      "namePlaceholder": "张三",
+      "namePlaceholder": "John Doe",
       "companyPlaceholder": "您的公司名称",
-      "designationPlaceholder": "例如：PV运营负责人",
-      "emailPlaceholder": "zhang@company.com",
+      "designationPlaceholder": "例如: Head of PV操作",
+      "emailPlaceholder": "john@company.com",
       "phonePlaceholder": "您的电话号码",
-      "messagePlaceholder": "请告诉我们您的项目或咨询需求...",
+      "messagePlaceholder": "告诉我们你的项目或查询...",
       "submit": "发送消息",
-      "submitting": "发送中...",
+      "submitting": "正在发送...",
       "successHeading": "消息发送成功！",
-      "successMessage": "感谢您的来信。我们的药物警戒专家将审核您的咨询，并在24小时内回复。",
-      "errorHeading": "出现了一些问题",
-      "errorMessage": "请重试或直接通过 info@pvcon.in 与我们联系。",
+      "successMessage": "感谢您的帮助。我们的药房警觉专家将审查您的查询，并在24小时内做出回应。",
+      "errorHeading": "出了错。",
+      "errorMessage": "请重试或直接通过info@pvcon.int联系我们。",
       "sendAnother": "发送另一条消息",
-      "required": "此字段为必填项",
-      "invalidEmail": "请输入有效的电子邮件地址",
+      "required": "此字段是必填项",
+      "invalidEmail": "请输入一个有效的电子邮件地址",
       "captchaLabel": "安全验证"
     },
     "info": {
-      "emailLabel": "邮箱",
+      "emailLabel": "电子邮件地址",
       "phoneLabel": "电话"
     }
   }

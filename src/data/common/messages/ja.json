@@ -1,181 +1,182 @@
 {
   "metadata": {
     "home": {
-      "title": "PVCON | ファーマコビジランスコンサルティング・規制監査サービス",
-      "description": "PVCONは、QPPVサービス、PSMFマネジメント、規制コンプライアンス、シグナル検出、グローバル医薬品安全性ソリューションを提供する専門ファーマコビジランスコンサルティング・監査企業です。"
+      "title": "PVCON | Pharmacovigilance Consulting & Regulatory Audit Services",
+      "description": "PVCONは、QPPVサービス、PSMF管理、規制遵守、信号検出、およびグローバルな医薬品安全ソリューションを提供する専門のGxP監査およびPVコンサルティング会社です。"
     },
     "about": {
-      "title": "PVCONについて | ファーマコビジランス専門家",
-      "description": "QPPVサービス、規制監査、グローバル医薬品安全性コンサルティングを提供するPVCONの専門家チームについてご紹介します。"
+      "title": "PVCONについて — Pharmacovigilance Consulting & Audits",
+      "description": "PVCONは、QPPVサービス、PSMF管理、および世界中の製薬会社に検査対応を提供する専門のGxP監査およびPVコンサルティング会社です。"
     },
     "blog": {
-      "title": "ファーマコビジランスブログ | PVCONインサイト",
-      "description": "医薬品安全性、QPPVサービス、PSMFマネジメント、規制コンプライアンスに関する専門家記事。"
+      "title": "Pharmacovigilance Blog | PVCON Insights",
+      "description": "医薬品の安全性、QPPVサービス、PSMF管理、規制遵守に関する専門家の記事。"
     },
     "company": {
-      "title": "会社概要 — PVCONリーダーシップとグローバルプレゼンス",
-      "description": "PVCONのリーダーシップチームを紹介し、6大陸100カ国以上をカバーするグローバルファーマコビジランスネットワークをご覧ください。"
+      "title": "企業 — PVCON リーダーシップとグローバルな存在",
+      "description": "リーダーシップチームに会い、6大陸で100カ国以上のPVCONの世界的な薬物乱用ネットワークを発見してください。"
     },
     "team": {
-      "title": "チーム — PVCONファーマコビジランス専門家",
-      "description": "PVCONを支える経験豊富なファーマコビジランス専門家チームをご紹介します。世界中の規制環境における数十年の経験。"
+      "title": "私たちのチーム — PVCON Pharmacovigilance 専門家",
+      "description": "PVCONの背後にある熟練した薬物乱用の専門家に会います - 数十年の複合的な経験は、世界的な規制風景全体にわたって。"
     },
     "contact": {
-      "title": "お問い合わせ | PVCON — ファーマコビジランスコンサルティング",
-      "description": "PVCONのファーマコビジランス専門家にお問い合わせください。GxP監査、PVコンサルティング、規制コンプライアンス、研修サービスのご相談を承ります。"
+      "title": "お問い合わせ | PVCON — Pharmacovigilance Consulting",
+      "description": "PVCONの薬物乱用の専門家と連絡を取りましょう。GxP監査、PVコンサルティング、規制コンプライアンス、トレーニングサービスについてはお問い合わせください。"
     },
     "gallery": {
-      "title": "ギャラリー | PVCON — ファーマコビジランスコンサルティングと監査",
-      "description": "PVCONのギャラリーでは、世界各国でのファーマコビジランスコンサルティングプロジェクト、規制監査、業界イベントをご覧いただけます。"
+      "title": "ギャラリー | PVCON — Pharmacovigilance コンサルティング&監査",
+      "description": "PVCONのギャラリーでは、当社のグローバルな薬物乱用コンサルティングプロジェクト、規制監査、および業界イベントを紹介します。"
     },
     "services": {
-      "title": "Services | PVCON — Pharmacovigilance & GxP Solutions",
-      "description": "Explore PVCON's comprehensive pharmacovigilance services including GxP audits, PV consulting, training, medical writing, and PSMF management for global life sciences organizations.",
+      "title": "サービス | PVCON — Pharmacovigilance & GxP ソリューション",
+      "description": "GxP監査、PVコンサルティング、トレーニング、医療ライティング、グローバルライフサイエンス組織のPSMF管理など、PVCONの包括的な薬物動態サービスをご覧ください。",
       "gxp-audits": {
-        "title": "GxP Audit Services | PVCON — Comprehensive GxP Auditing",
-        "description": "PVCON delivers expert GxP audit services covering PV, GCP, GLP, GMP, GDP, and CSV audits to ensure regulatory compliance and inspection readiness across global operations.",
+        "title": "GxP 監査サービス | PVCON — 包括的な GxP 監査",
+        "description": "PVCONは、PV、GCP、GLP、GMP、GDP、およびCSV監査をカバーする専門的なGxP監査サービスを提供し、グローバルな事業全体にわたる規制遵守と検査の準備を保証します。",
         "sub": {
           "pv-audits": {
-            "title": "PV Audit Services | PVCON — Pharmacovigilance Audits",
-            "description": "Expert pharmacovigilance audit services including global PV system audits, affiliate audits, mock inspections, CAPA management, and inspection readiness preparation."
+            "title": "PV監査サービス | PVCON — Pharmacovigilance Audits",
+            "description": "グローバルPVシステム監査、アフィリエイト監査、模擬検査、CAPA管理、検査準備など、専門家の薬物乱用監査サービス。"
           },
           "gcp-audits": {
-            "title": "GCP Audit Services | PVCON — Clinical Trial Audits",
-            "description": "Independent GCP audits covering investigator sites, clinical laboratories, TMF reviews, vendor qualification, and FDA/EMA mock inspections across all study phases."
+            "title": "GCP監査サービス | PVCON — 臨床試験監査",
+            "description": "すべての試験フェーズにわたって、研究者の現場、臨床研究所、TMFレビュー、ベンダーの資格、およびFDA/EMA模擬検査をカバーする独立したGCP監査。"
           },
           "other-gxp-audits": {
-            "title": "GxP Audits — CSV, GLP, GMP, GDP | PVCON",
-            "description": "Specialized GxP audit services across CSV, GLP, GMP, GDP, due diligence, vendor qualification, and regulatory submission readiness — delivered by experienced auditors."
+            "title": "GxP監査 — CSV, GLP, GMP, GDP, | PVCON",
+            "description": "経験豊富な監査人によって提供されるCSV、GLP、GMP、GDP、デューデリジェンス、ベンダーの資格、および規制提出準備を横断した専門のGxP監査サービス。"
           }
         }
       },
       "pv-consulting": {
-        "title": "PV Consulting | PVCON — Pharmacovigilance Consulting Services",
-        "description": "PVCON provides end-to-end pharmacovigilance consulting including PV QMS, audit readiness, operational support, QPPV/PvOI services, and regulatory intelligence.",
+        "title": "PVコンサルティング|PVCON — Pharmacovigilance Consulting Services",
+        "description": "PVCONは、PV QMS、監査対応、運用サポート、QPPV/PvOIサービス、規制情報などのエンドツーエンドの薬物動態コンサルティングを提供します。",
         "sub": {
           "local-qppv-pvoi": {
-            "title": "Local PvOI Services India | PVCON — CDSCO Compliance",
-            "description": "Qualified Pharmacovigilance Officer of India (PvOI) services ensuring CDSCO compliance, PSMF maintenance, safety reporting oversight, and inspection readiness."
+            "title": "ローカルPvOIサービス | PVCON — CDSCOコンプライアンス",
+            "description": "CDSCOコンプライアンス、PSMFメンテナンス、安全報告の監督、および検査準備を確保するインド(PvOI)サービスの認定医師。"
           },
           "pv-qms": {
-            "title": "PV Quality Management System | PVCON — PV QMS",
-            "description": "Build and scale your PV Quality Management System with expert SOPs, governance frameworks, CAPA systems, and pharmacovigilance agreement development services."
+            "title": "PV品質管理システム | PVCON — PV QMS",
+            "description": "専門家のSOP、ガバナンスフレームワーク、CAPAシステム、および薬物乱用契約開発サービスを使用して、PV品質管理システムを構築し、拡張します。"
           },
           "audit-inspection-readiness": {
-            "title": "Audit & Inspection Readiness | PVCON Services",
-            "description": "Achieve continuous inspection readiness with risk-based audit planning, mock inspections, CAPA management, and internal auditor training from PVCON experts."
+            "title": "監査・検査準備 | PVCON サービス",
+            "description": "PVCONの専門家によるリスクベースの監査計画、模擬検査、CAPA管理、および内部監査人のトレーニングにより、継続的な検査準備を実現します。"
           },
           "regulatory-intelligence": {
-            "title": "Regulatory Intelligence | PVCON — PV Compliance",
-            "description": "Stay ahead of evolving global PV regulations with PVCON's regulatory intelligence services — monitoring, impact assessment, and compliance strategy support."
+            "title": "規制インテリジェンス|PVCON — PVコンプライアンス",
+            "description": "PVCONの規制インテリジェンスサービス(監視、影響評価、およびコンプライアンス戦略のサポート)で、進化するグローバルPV規制に先んじましょう。"
           }
         }
       },
       "training-upskilling": {
-        "title": "Training & Upskilling | PVCON — PV Training Programs",
-        "description": "PVCON offers tailored pharmacovigilance training programs including boot camps, compliance training, audit readiness workshops, and customized corporate learning solutions.",
+        "title": "トレーニングとアップスキル | PVCON — PVトレーニングプログラム",
+        "description": "PVCONは、ブートキャンプ、コンプライアンストレーニング、監査準備ワークショップ、カスタマイズされた企業学習ソリューションなど、カスタマイズされた薬物動態トレーニングプログラムを提供します。",
         "sub": {
           "training-matrix": {
-            "title": "Training Matrix Development | PVCON — PV Training",
-            "description": "Regulatory-aligned training matrices, role-based learning plans, and inspection-ready training materials for pharmacovigilance teams and organizations."
+            "title": "トレーニングマトリックス開発 | PVCON — PVトレーニング",
+            "description": "規制当局に整合されたトレーニングマトリックス、役割ベースの学習計画、および薬物乱用チームおよび組織のための検査対応のトレーニング資料。"
           },
           "pv-boot-camp": {
-            "title": "PV Boot Camp Programs | PVCON — PV Training",
-            "description": "Intensive pharmacovigilance boot camp programs with end-to-end PV training, real-world case studies, and practical industry exposure for aspiring PV professionals."
+            "title": "PVブートキャンププログラム | PVCON — PVトレーニング",
+            "description": "エンドツーエンドのPVトレーニング、実際のケーススタディ、およびPVの専門家を志望するための実用的な産業暴露による集中的な薬物乱用ブートキャンププログラム。"
           },
           "regulatory-compliance-training": {
-            "title": "Regulatory & Compliance Training | PVCON",
-            "description": "Expert-led GVP, ICH-GCP, and GxP regulatory compliance training programs with global updates, audit readiness, and inspection preparation for pharma teams."
+            "title": "規制・コンプライアンストレーニング | PVCON",
+            "description": "専門家主導のGVP、ICH-GCP、およびGxP規制コンプライアンストレーニングプログラムには、グローバルアップデート、監査準備、および医薬品チームの検査準備があります。"
           },
           "customized-learnings": {
-            "title": "Customized PV Training Solutions | PVCON",
-            "description": "Tailored corporate pharmacovigilance training, refresher sessions, and continuous professional development programs designed for your organization's specific needs."
+            "title": "カスタマイズされたPVトレーニングソリューション | PVCON",
+            "description": "組織の特定のニーズに合わせて設計された企業用薬物動態トレーニング、リフレッシュセッション、および継続的な専門的な開発プログラムを調整します。"
           }
         }
       },
       "medical-writing": {
-        "title": "Medical Writing | PVCON — Regulatory Medical Writing Services",
-        "description": "PVCON's medical writing team delivers RMP/REMS, aggregate safety reports, signal management documentation, clinical safety documents, and global labeling support.",
+        "title": "医学ライティングサービス | PVCON — 規制医療ライティングサービス",
+        "description": "PVCONの医療ライティングチームは、RMP/REMS、集約安全報告、信号管理文書、臨床安全文書、およびグローバルラベリングサポートを提供します。",
         "sub": {
           "rmp-rems-writing": {
-            "title": "RMP & REMS Writing Services | PVCON",
-            "description": "Expert Risk Management Plan and REMS development, lifecycle maintenance, risk minimization strategy planning, and safety surveillance framework documentation."
+            "title": "RMP と REMS ライティングサービス | PVCON",
+            "description": "専門家のリスク管理計画とREMS開発、ライフサイクルメンテナンス、リスク最小化戦略計画、および安全監視フレームワークのドキュメント。"
           },
           "aggregate-report-writing": {
-            "title": "Aggregate Safety Reports — PSUR/PBRER | PVCON",
-            "description": "Professional PSUR, PBRER, PADER, and DSUR preparation with safety data analysis, benefit-risk assessment, and ICH-compliant aggregate regulatory reporting."
+            "title": "安全性に関するレポート — PSUR/PBRER | PVCON",
+            "description": "安全データ分析、利益リスクアセスメント、およびICH準拠の総合規制報告を備えた専門家PSUR、PBLER、PADER、およびDSUR準備。"
           },
           "clinical-safety-documents": {
-            "title": "Clinical & Safety Documentation | PVCON Writing",
-            "description": "Comprehensive clinical and safety document writing including CSRs, protocols, investigator brochures, patient narratives, CTD sections, and regulatory submissions."
+            "title": "臨床および安全に関するドキュメント | PVCON Writing",
+            "description": "CSR、プロトコル、研究者パンフレット、患者の物語、CTDセクション、および規制の提出を含む包括的な臨床および安全文書の執筆。"
           }
         }
       },
       "psmf": {
-        "title": "PSMF Manager | PVCON — AI-Powered PSMF Management Platform",
-        "description": "PSMF Manager is PVCON's AI-powered SaaS platform for end-to-end Pharmacovigilance System Master File compliance, automated generation, version control, and audit readiness."
+        "title": "PSMFマネージャー | PVCON — AIを搭載したPSMF管理プラットフォーム",
+        "description": "PSMFマネージャーは、エンドツーエンドのPharmacovigilanceシステムマスターファイルコンプライアンス、自動生成、バージョン管理、および監査準備のための、PVCONのAI搭載SaaSプラットフォームです。"
       }
     },
     "privacy": {
-      "title": "Privacy Policy | PVCON — Pharmacovigilance Consulting",
-      "description": "PVCON's Privacy Policy explains how we collect, use, store, and protect your personal data in compliance with GDPR, India IT Act, and global data protection laws."
+      "title": "プライバシーポリシー | PVCON — Pharmacovigilance Consulting",
+      "description": "PVCONのプライバシーポリシーは、当社がどのように収集、使用、保存するかを説明しています。 GDPR、インドIT法、およびグローバルデータ保護法に準拠して、お客様の個人情報を保護します。"
     },
     "terms": {
-      "title": "Terms of Service | PVCON — Pharmacovigilance Consulting",
-      "description": "PVCON's Terms of Service outline the conditions governing the use of our website and pharmacovigilance consulting services."
+      "title": "利用規約 | PVCON — Pharmacovigilance Consulting",
+      "description": "PVCONの利用規約は、当社のウェブサイトおよび薬物乱用コンサルティングサービスの使用を規制する条件について概説します。"
     },
     "cookies": {
-      "title": "Cookie Policy | PVCON — Pharmacovigilance Consulting",
-      "description": "Learn how PVCON uses cookies and similar tracking technologies on our website, and how you can manage your cookie preferences."
+      "title": "クッキーポリシー|PVCON — Pharmacovigilance Consulting",
+      "description": "PVCONでは、当社のウェブサイト上でCookieや類似のトラッキング技術をどのように使用しているか、およびお客様のCookie設定をどのように管理するかをご覧ください。"
     },
     "disclaimer": {
-      "title": "Disclaimer | PVCON — Pharmacovigilance Consulting",
-      "description": "Important disclaimers regarding the information provided on PVCON's website and the limitations of our online content."
+      "title": "免責事項 | PVCON — Pharmacovigilance Consulting",
+      "description": "PVCONのウェブサイト上で提供される情報および当社のオンラインコンテンツの制限に関する重要な免責事項。"
     },
     "impressum": {
-      "title": "Legal Notice (Impressum) | PVCON — Pharmacovigilance Consulting",
-      "description": "Legal notice (Impressum) for PVCON providing company registration details, contact information, and regulatory disclosures as required by law."
+      "title": "法的通知 (Impressum) | PVCON — Pharmacovigilance Consulting",
+      "description": "PVCONに対する法的通知(感圧)は、法律で要求されるように会社の登録情報、連絡先情報、および規制情報を提供します。"
     }
   },
   "nav": {
     "services": "サービス",
-    "about": "会社概要",
+    "about": "About",
     "blog": "リソース",
     "gallery": "ギャラリー",
-    "company": "会社",
+    "company": "会社名",
     "team": "チーム",
-    "requestConsultation": "話しましょう",
-    "getStarted": "始める"
+    "requestConsultation": "お問い合わせ",
+    "getStarted": "はじめよう"
   },
   "footer": {
-    "subheading": "規制卓越性と品質主導のコンプライアンスでライフサイエンス組織を支援します。",
+    "subheading": "規制の卓越性と品質主導のコンプライアンスを備えたライフサイエンス組織を強化します。",
     "quickLinksTitle": "クイックリンク",
-    "contactTitle": "お問い合わせ",
-    "emailLabel": "メール",
-    "phoneLabel": "電話",
-    "copyright": "無断複写・転載を禁じます。",
     "legalTitle": "Legal",
+    "contactTitle": "お問い合わせ",
+    "emailLabel": "Eメールアドレス",
+    "phoneLabel": "電話番号",
+    "copyright": "All rights reserved.",
     "legalLinks": {
-      "privacy": "Privacy Policy",
-      "terms": "Terms of Service",
-      "cookies": "Cookie Policy",
-      "disclaimer": "Disclaimer",
+      "privacy": "プライバシーポリシー",
+      "terms": "利用規約",
+      "cookies": "クッキーポリシー",
+      "disclaimer": "免責事項",
       "impressum": "Impressum"
     }
   },
   "cta": {
-    "heading": "ファーマコビジランス業務を強化する準備はできていますか？",
-    "subheading": "専門的なコンサルティング、規制監査、お客様のニーズに合わせたエンドツーエンドの医薬品安全性ソリューションのためにPVCONとパートナーシップを組みましょう。",
-    "ctaLabel": "相談を申し込む"
+    "heading": "製薬会社のシステムを強化する準備はできましたか？",
+    "subheading": "PVCONと提携して、専門的なコンサルティング、規制監査、および組織のニーズに合わせたエンドツーエンドの薬物安全ソリューションを提供します。",
+    "ctaLabel": "連絡を取る"
   },
   "languageSwitcher": {
-    "label": "言語を変更",
+    "label": "言語の変更",
     "languages": {
-      "en": "English",
-      "de": "Deutsch",
+      "en": "日本語",
+      "de": "ドイツ",
       "zh": "中文",
       "ja": "日本語",
-      "fr": "Français"
+      "fr": "フランス語",
+      "es": "スペイン語"
     }
   }
 }

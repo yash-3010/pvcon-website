@@ -2,35 +2,35 @@
   "contact": {
     "hero": {
       "tagline": "Contactez-nous",
-      "title": "Parlons ensemble",
-      "subtitle": "Vous avez une question sur l'audit GxP, le conseil en pharmacovigilance ou la conformité réglementaire ? Remplissez le formulaire ci-dessous et notre équipe vous répondra dans les 24 heures."
+      "title": "Parlons",
+      "subtitle": "Vous avez une question au sujet de la vérification GxP, de la consultation en pharmacovigilance ou de la conformité réglementaire? Remplissez le formulaire ci-dessous et notre équipe vous contactera dans les 24 heures."
     },
     "form": {
       "name": "Nom complet",
       "company": "Entreprise",
-      "designation": "Fonction",
+      "designation": "Désignation",
       "email": "Adresse e-mail",
       "phone": "Numéro de téléphone",
       "message": "Message",
       "namePlaceholder": "Jean Dupont",
-      "companyPlaceholder": "Votre entreprise",
-      "designationPlaceholder": "ex. Responsable des opérations PV",
-      "emailPlaceholder": "jean@entreprise.fr",
+      "companyPlaceholder": "Le nom de votre entreprise",
+      "designationPlaceholder": "par exemple tête des opérations PV",
+      "emailPlaceholder": "john@entreprise.com",
       "phonePlaceholder": "Votre numéro de téléphone",
       "messagePlaceholder": "Parlez-nous de votre projet ou de votre demande...",
-      "submit": "Envoyer le message",
-      "submitting": "Envoi en cours...",
+      "submit": "Envoyer un message",
+      "submitting": "Envoi...",
       "successHeading": "Message envoyé avec succès !",
-      "successMessage": "Merci de nous avoir contactés. Nos experts en pharmacovigilance examineront votre demande et vous répondront dans les 24 heures.",
-      "errorHeading": "Une erreur s'est produite",
+      "successMessage": "Nos experts en pharmacovigilance examineront votre demande et y répondront dans les 24 heures.",
+      "errorHeading": "Quelque chose s'est mal passé",
       "errorMessage": "Veuillez réessayer ou nous contacter directement à info@pvcon.in.",
       "sendAnother": "Envoyer un autre message",
       "required": "Ce champ est obligatoire",
-      "invalidEmail": "Veuillez saisir une adresse e-mail valide",
-      "captchaLabel": "Vérification de sécurité"
+      "invalidEmail": "Veuillez entrer une adresse e-mail valide",
+      "captchaLabel": "Vérification de la sécurité"
     },
     "info": {
-      "emailLabel": "E-mail",
+      "emailLabel": "Courriel",
       "phoneLabel": "Téléphone"
     }
   }

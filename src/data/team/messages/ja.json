@@ -1,205 +1,205 @@
 {
   "team": {
     "backToTeam": "チームに戻る",
-    "about": "概要",
-    "experience": "職務経歴",
-    "skills": "専門分野",
-    "qualifications": "資格・受賞歴",
+    "about": "About",
+    "experience": "プロフェッショナルな経験",
+    "skills": "コアの専門知識",
+    "tag-skills": "スキル",
+    "qualifications": "資格と認識",
+    "tag-qualifications": "実績",
     "languages": "言語",
     "members": {
       "moin-don": {
-        "name": "Moin Don",
-        "role": "創業者兼CEO",
-        "organization": "PVCON Consulting Pvt Ltd",
-        "shortBio": "製薬業界で50年以上の経験を持つPVCONの創業者兼CEO。アジア太平洋地域で最も著名なファーマコビジランス専門家の一人。",
-        "fullBio": "Moinは製薬業界で50年以上の経験を有しています。薬剤師の教育を受けたMoinは、アジア太平洋地域で最も著名なファーマコビジランス専門家の一人です。Sanofi AventisやDr. Reddy'sなどの国際的な製薬企業に勤務し、産業ファーマコビジランスのほぼすべての分野で豊富な実務経験を積んできました。最後の企業勤務はJohnson & Johnsonでのアジア太平洋地域PV QAディレクターでした。Moinは米国、ドイツ、フランス、シンガポールで広範な研修を受けており、認定リードオーディターです。著名なPVコンサルタント兼オーディターとして、アジア太平洋、中東、CIS諸国、ヨーロッパ、アフリカ、オーストラリアにわたる監査を実施し、新興市場における製薬企業のPVシステム構築を支援してきました。",
+        "name": "MoinDon",
+        "role": "創設者兼CEO",
+        "organization": "PVCON コンサルティング",
+        "shortBio": "製薬業界で50年以上の経験を持つPVCONの創設者兼最高経営責任者は、アジア太平洋地域で最も有名なPharmacovigilance Professionalの1つです。",
+        "fullBio": "Moinは製薬業界で50年以上の経験を持っています。 教育による薬剤師であるMoinは、アジア太平洋地域で最も有名なPharmacovigilance Professionalの1つです。 サノフィ・アヴェニスやドクターのような評判の高い国際的な製薬会社にサービスを提供しながら、実質的にあらゆる側面にわたって豊富な実践的な経験を持っています。 最後にジョンソン&ジョンソンと共にアジア太平洋地域PVQAディレクターを務めたので、レッドディ氏は会社を経営しています。 Moinは米国、ドイツ、フランス、シンガポールで広範囲な訓練を受けており、リード監査役として認定されています。 著名なPVコンサルタントおよび監査役として、Moinはアジア太平洋地域、中東、CIS諸国、ヨーロッパ全域で監査を行ってきました。 アフリカとオーストラリアは、製薬企業が市場開発やPVチームのメンター、トレーニングにPVシステムを構築するのを支援しています。",
         "experience": [
           {
-            "title": "創業者兼CEO",
+            "title": "創設者兼CEO",
             "company": "PVCON Consulting Pvt Ltd",
-            "period": "2011年 – 現在",
-            "description": "グローバルPV監査プログラムの管理・実施、GxP品質保証コンサルティング、CAPA管理、査察準備支援、研修プログラム開発、品質マネジメントシステムに関する戦略的助言。"
+            "period": "2011 – 現在",
+            "description": "グローバルPV監査プログラム、GxP品質保証コンサルティング、CAPAマネジメントの管理と実行 検査の準備サポート、トレーニングプログラムの開発、および品質管理システムに関する戦略的アドバイス。"
           },
           {
-            "title": "リージョナルディレクター – アジア太平洋、グローバルシステム品質保証",
+            "title": "地域ディレクター – アジア太平洋, グローバルシステム品質保証",
             "company": "Johnson & Johnson PRD",
-            "period": "2008年 – 2011年",
-            "description": "J&JグローバルPV/GCPシステムおよび事業会社のシステムベース監査を実施。J&J関連会社、ベンダー、マーケティングパートナー全体にわたるPV QAおよびClinical QA機能を管理し、人材育成とコンプライアンスに注力。"
+            "period": "2008 – 2011",
+            "description": "J&JグローバルPV/GCPシステムおよび事業会社のシステム監査を実施。 マネージドPVのQAと臨床QAは、J&J提携企業、ベンダー、マーケティングパートナーのスタッフの開発とコンプライアンスに焦点を当てて機能します。"
           },
           {
-            "title": "ファーマコビジランス部門長",
-            "company": "Reliance Clinical Research Services",
-            "period": "2007年 – 2008年",
-            "description": "初期段階からフェーズIVまでの臨床プロジェクトに関連するすべての医薬品安全性監視活動を統括。"
+            "title": "Head, Pharmacovigilance",
+            "company": "リライアンス臨床研究サービス",
+            "period": "2007 – 2008",
+            "description": "初期段階からフェーズIVまで、臨床プロジェクトに関連するすべての薬物安全監視活動を監督しました。"
           },
           {
-            "title": "シニアマネージャー、ファーマコビジランス",
-            "company": "Dr. Reddy's Laboratories",
-            "period": "2006年 – 2007年",
-            "description": "米国およびEUを含む35カ国に対応するグローバルPVセンターを設立。PV部門のPVインフラストラクチャおよびSOPを構築。"
+            "title": "Pharmacovigilance 上級マネージャー",
+            "company": "Reddyの研究室",
+            "period": "2006 – 2007",
+            "description": "米国およびEUを含む35カ国にグローバルなPVセンターを設置し、PV部門のためのPVインフラとSOPを作成しました。"
           },
           {
-            "title": "現地法人ファーマコビジランス責任者",
+            "title": "アフィリエイトPharmacovigilanceヘッド",
             "company": "Sanofi Aventis Pharma Ltd",
-            "period": "2001年 – 2006年",
-            "description": "臨床試験中の安全性管理および医薬品・医療機器の市販後安全性監視。"
+            "period": "2001 – 2006",
+            "description": "臨床試験中の安全管理と医薬品や医療機器のマーケティング後の安全監視。"
           },
           {
-            "title": "マネージャー、PV・疫学 / 医薬品製剤",
+            "title": "PVと疫学/製薬の数式",
             "company": "Sanofi Aventis (Hoechst Marion Roussel)",
-            "period": "1976年 – 2000年",
-            "description": "規制当局との連携および許認可、医薬品・臨床試験の登録、外部製造管理、錠剤製造オペレーション。"
+            "period": "1976 – 2000",
+            "description": "規制当局の連絡およびライセンス、医薬品および臨床試験登録、外部製造管理、およびタブレット製造業務。"
           }
         ],
         "skills": [
-          "グローバルPV監査（現地法人、システム、ベンダー、マーケティングパートナー）",
-          "GxP品質保証およびリスクベース監査プログラム",
-          "EU GVP、US FDA、ICHおよびグローバルPV/GCP規制",
-          "PSMF作成および品質レビュー",
-          "標準業務手順書の開発",
-          "規制査察準備およびCAPA管理",
-          "企業PV研修プログラムの開発"
+          "グローバルPV監査(アフィリエイト、システム、ベンダー、マーケティングパートナー)",
+          "GxP品質保証とリスクベースの監査プログラム",
+          "EA GVP、MHRA、米国FDA、ICHおよびグローバルPV/GCP規制",
+          "PSMF調製と品質レビュー",
+          "標準動作手順開発",
+          "規制検査の準備 & CAPA管理",
+          "企業PVトレーニングプログラムの開発"
         ],
         "qualifications": [
-          "客員教授 — Jamia Hamdard University、デリー",
-          "南アジア支部リーダー — International Society of Pharmacovigilance (ISoP)",
-          "Pharma Ratan Award — DCGIによる薬学分野の生涯功労賞",
-          "ボツワナ規制当局（BoMRA）任命PVコンサルタント",
-          "プログラムチェア兼メンバー — DIA India PVカンファレンス（11年以上）",
-          "認定リードオーディター — 米国、ドイツ、フランス、シンガポールで研修修了",
-          "コースディレクター — ファーマコビジランスPGディプロマ、Bombay College of Pharmacy",
-          "トレーナー — Uppsala Monitoring Centre (UMC) アジア太平洋PVワークショップ",
-          "トレーナー — DCGI・CDSCO向けインド・ファーマコビジランスプログラム（PvPI）"
+          "Adjont教授 — デリー, Jamia Hamdard University, Jamia Hamdard University",
+          "Lead, South Asia章 — 国際製薬学会 (ISOP)",
+          "Pharma Ratan Award — DCGIの薬局生涯実績",
+          "ボツワナ規制当局(BoMRA)により任命されたPVコンサルタント。",
+          "プログラム チェア&メンバー — DIAインド PVカンファレンス(11年以上)",
+          "認定リード監査人 — 米国、ドイツ、フランス、シンガポールで訓練",
+          "コースディレクター — ボンベイ薬学大学薬学部のPGディプロマ",
+          "トレーナー — ウプサラモニタリングセンター (UMC) Asia Pacific PV ワークショップ",
+          "トレーナー — インドのPharmacovigilance Program of India (PvPI) for DCGI&CDSCO."
         ],
-        "languages": ["英語（流暢）", "ウルドゥー語（母語）", "アラビア語（初級）"],
+        "languages": [
+          "英語(流暢)",
+          "ウルドゥー語(ネイティブ)",
+          "アラビア語(初級)"
+        ],
         "meta": {
-          "title": "Moin Don — PVCONの創業者兼CEO | ファーマコビジランス専門家",
-          "description": "Moin Donは製薬業界で50年以上の経験を持つPVCONの創業者兼CEOです。元J&Jアジア太平洋地域PV QAディレクター、認定リードオーディター、ISoP南アジア支部リーダー。"
+          "title": "Moin Don — PVCON の創設者兼CEO | Pharmacovigilance Expert",
+          "description": "Moin DonはPVCONの創業者兼CEOであり、製薬業界では50年以上にわたって活躍しています。 元J&JリージョナルPVアジア太平洋地域ディレクター、リード監査役、およびISoP南アジアチャプターリード。"
         }
       },
       "rameez-don": {
-        "name": "Rameez Don",
+        "name": "Ramez Don",
         "role": "ディレクター",
-        "organization": "PVCON Consulting Pvt Ltd",
-        "shortBio": "ファーマコビジランス、品質保証、監査、研修、事業開発にわたり15年以上の専門経験を持つPVCONのディレクター。",
-        "fullBio": "Rameezはファーマコビジランス、品質保証、監査、研修、事業開発、オペレーション、人材紹介など多岐にわたる分野で15年以上の専門経験を有しています。認定リードオーディターであり、PVCONのディレクターを務めるとともに、現在IIHMR Universityで医薬品マネジメントの博士課程に在籍しています。Rameezはファーマコビジランスに関する深い知識を持ち、PVCONのビジネスおよびクライアントリレーションを統括しています。Research Quality Assurance (RQA)のメンバーであり、PvPI（保健省）PVスキル開発プログラムのゲスト講師を務め、業界団体、フォーラム、セミナーにおける規制およびPV関連のテーマに積極的に参加しています。",
+        "organization": "PVCON コンサルティング",
+        "shortBio": "PVCONのディレクターは、製薬業界、品質保証、監査、トレーニング、および事業開発における15年以上の専門的経験を持っています。",
+        "fullBio": "Ramezは、ファーマコビジランス、品質保証、監査、トレーニング、ビジネス開発、オペレーション、スタッフなど、さまざまな分野で15年以上のプロフェッショナルな経験を持っています。 彼はPVCONのリード監査役およびディレクターであり、現在はIIHMR大学で医薬品管理の博士号を取得しています。 Ramezは深いPharmacovigilanceの知識を持ち、PVCONのビジネスとクライアントとの関係をリードしています。 PvPI(厚生省)PVスキル開発プログラムの客員講師として研究品質保証(RQA)のメンバーを務めています。 業界団体、フォーラム、セミナーで様々な規制やPVのトピックに積極的に参加しています。",
         "experience": [
           {
             "title": "ディレクター",
-            "company": "PVCON Consulting Pvt Ltd",
-            "period": "2015年 – 現在",
-            "description": "事業戦略の策定、全体的なプロジェクト管理、クライアントリレーション、チームリーダーシップを含むPVCONの事業全体を管理。グローバルPV、GCPおよび品質保証の監査プロジェクトを実施・管理。リスクベース監査プログラム、SOP、研修モジュール、品質マネジメントシステムを開発。監査前・監査中・監査後のすべての活動、CAPAプラン、財務運営を統括。"
+            "company": "PVCON コンサルティング",
+            "period": "2015 – 現在",
+            "description": "マネージドおよび実行されたグローバルPV監査プログラム、GxP品質保証コンサルティング、CAPAマネジメント。 検査準備サポート、トレーニングプログラムの開発、および戦略的に品質管理システムについて助言しました。"
           }
         ],
         "skills": [
-          "グローバルPV監査管理（ヨーロッパ、南北アメリカ、アジア、中東、アフリカ）",
-          "PV規制および査察準備",
-          "プロジェクト・チームリーダーシップ",
-          "標準業務手順書の開発・導入",
-          "研修モジュールの開発・提供",
-          "品質マネジメントシステム（QMS）の構築・監督",
-          "事業開発およびクライアントリレーション",
-          "CAPA計画およびリスクベース監査プログラム"
+          "グローバルPV監査管理(EUと英国、アメリカ、中東、アフリカ、アジア太平洋、オーストラリア)",
+          "PV規則と検査の準備",
+          "プロジェクトとチームリーダー",
+          "標準運用手順の開発と実装",
+          "トレーニングモジュールの開発と配信",
+          "品質管理システム (QMS) セットアップとオーバーサイト",
+          "ビジネス開発とクライアント関係",
+          "CAPA計画とリスクに基づく監査プログラム"
         ],
         "qualifications": [
-          "認定リードオーディター",
-          "医薬品マネジメント博士課程（在籍中） — IIHMR University",
-          "メンバー — Research Quality Assurance (RQA)",
-          "ゲスト講師 — PvPI（保健省）PVスキル開発プログラム"
+          "認定リード監査人",
+          "医薬品管理学博士(Pursuing) — IIHMR大学",
+          "Member — Research Quality Assurance (RQA)",
+          "客員講師 — PvPI (厚生省) PVスキル開発プログラム"
         ],
-        "languages": ["英語（流暢）"],
+        "languages": [
+          "英語(流暢)"
+        ],
         "meta": {
-          "title": "Rameez Don — PVCONディレクター | ファーマコビジランス・品質保証",
-          "description": "Rameez Donはファーマコビジランス、品質保証、監査、事業開発において15年以上の経験を持つPVCONのディレクターです。認定リードオーディター、RQAメンバー。"
+          "title": "Ramez Don — PVCONディレクター | Pharmacovigilance & Quality Assurance",
+          "description": "Ramez DonはPVCONのディレクターであり、15年以上の製薬業界の経験、品質保証、監査、および事業開発の経験があります。"
         }
       },
       "nazrul-khan": {
         "name": "Nazrul Khan",
-        "role": "コンサルタント・リードオーディター",
-        "organization": "PVCON Consulting Pvt Ltd",
-        "shortBio": "製薬R&D、品質保証、ファーマコビジランス監査において24年以上の経験を持つPVCONのコンサルタント・リードオーディター。英国ロンドン拠点。",
-        "fullBio": "Nazrulは製薬研究開発、品質保証、品質マネジメントシステム、臨床薬開発、市販後薬事、医薬品安全性/ファーマコビジランス、規制コンプライアンスにおいて24年以上の経験を有しています。現地事業会社、共同開発パートナー、CRO、GxPサービスプロバイダー、コンピュータシステムバリデーションを網羅する広範なグローバル規制およびPV QA監査の経験を持っています。多数の規制当局によるPVおよびGCP査察の完全な管理・対応において実績があります。Nazrulは業界内で監査研修の提供に積極的に取り組み、Research Quality Assurance (RQA)およびDrug Information Association (DIA)のメンバーであり、RQA実践PV監査コースのチューターを務め、RQA PV監査ハンドブックの共著者です。",
+        "role": "上級コンサルタントとリード監査人",
+        "organization": "PVCON コンサルティング",
+        "shortBio": "PVCONのコンサルタントリード監査人は、24年以上の医薬品研究開発、品質保証、およびPharmacovigilance監査における経験を持ち、英国ロンドンに拠点を置いています。",
+        "fullBio": "Nazrulは、医薬品研究開発、品質保証、品質管理システムで24年以上の経験を持っています。 臨床医薬品開発、マーケティング後の規制、薬物安全/薬物動態、規制遵守。 彼は広範なグローバル規制およびPVのQA監査経験を持ち、ローカルオペレーティング会社、共同開発パートナー、CRO、GxPサービスプロバイダー、およびコンピュータシステムの検証をカバーしています。 彼は、数多くの健康当局PVおよびGCP検査を完全に管理し、ホスティングする実績があります。 Nazrulは、研究品質保証(RQA)と医薬品情報協会(DIA)のメンバーである業界内で監査トレーニングを提供することに積極的に関与しています。 RQA実践PV監査ハンドブックの講師、RQA監査ハンドブックの共著者。",
         "experience": [
           {
-            "title": "独立GxPオーディター兼コンサルタント・リードオーディター",
-            "company": "PVCON Consulting",
-            "period": "2017年 – 現在",
-            "description": "現地法人、システム、ビジネスパートナー、ベンダーを対象としたGVP監査。GDP、GCPおよびCSV監査サービス。SOP支援、QMSコンサルティング、ギャップ分析、査察準備、GVPリスク評価、監査プログラム開発。"
+            "title": "独立したGxP監査人・コンサルタントリード監査",
+            "company": "PVCON コンサルティング",
+            "period": "2017 – 現在",
+            "description": "関連会社、システム、ビジネスパートナー、およびベンダー&GMP、GCP、およびCSV監査サービスを対象としたGVP監査。 SOP開発、QMSコンサルタント、ギャップ分析、検査準備、GVPリスクアセスメント、監査プログラム開発に関する追加サポート。"
           },
           {
-            "title": "長期契約 — PV監査・QA",
-            "company": "Bristol Myers Squibb, UK",
-            "period": "2021年 – 2022年",
-            "description": "PV監査、ギャップ分析、PVオーディター研修、手順書およびリスクベースPV監査プログラムの開発。"
+            "title": "PV監査・QA",
+            "company": "Bristol Myers Squibb/Seagen Inc. / Johnson & Johnson Ethicon",
+            "period": "2018 – 2022",
+            "description": "PV監査、gap分析、PV監査人トレーニング、dプロシージャとrRiskベースのPV監査プログラムの開発。"
           },
           {
-            "title": "長期契約 — PV監査・QA",
-            "company": "Seagen Inc., UK",
-            "period": "2020年 – 2021年",
-            "description": "PV監査、ギャップ分析、PVオーディター研修、手順書およびリスクベースPV監査プログラムの開発。"
+            "title": "グローバルLOC QAディレクター、R&D GCP & GVP QA",
+            "company": "武田薬品限定ヨーロッパ",
+            "period": "2014 – 2015",
+            "description": "ローカルオペレーティング会社向けのグローバルPVリードは、GCPやQMS QA活動などの監査を行います。 地域PV、GCPおよびQMS活動および外部QAサービスプロバイダの監督。"
           },
           {
-            "title": "長期契約 — PV監査・QA",
-            "company": "Johnson & Johnson Ethicon, UK",
-            "period": "2018年 – 2019年",
-            "description": "PV監査、ギャップ分析、PVオーディター研修、手順書およびリスクベースPV監査プログラムの開発。"
+            "title": "QAプログラムマネージャー(ジャンセン研究開発、J&Jファミリー)",
+            "company": "独立したコンサルタント",
+            "period": "2014 & 2015 – 2018",
+            "description": "ヤンセンR&D品質・コンプライアンスQA PV監査を実施。 iInternal 監査役のコーチング、開発、指導、開発。PVトピックとシステムに関するトレーニングを提供。"
           },
           {
-            "title": "ディレクター、グローバルLOC QA、R&D GCP・GVP QA",
-            "company": "Takeda Pharmaceuticals Limited Europe",
-            "period": "2014年 – 2015年",
-            "description": "GCPおよびQMS QA活動を含む現地事業会社監査のグローバルPVリード。地域PV、GCPおよびQMS活動ならびに外部QAサービスプロバイダーの監督。"
-          },
-          {
-            "title": "QAプログラムマネージャー（Janssen R&D、J&Jファミリー）",
-            "company": "独立コンサルタント",
-            "period": "2014年・2015年 – 2018年",
-            "description": "Janssen R&D品質・コンプライアンスQA PV監査を実施。社内オーディターのコーチング、メンタリング、育成。PVトピックおよびシステムに関する研修を提供。"
-          },
-          {
-            "title": "ファーマコビジランス副ディレクター",
+            "title": "Pharmacovigilanceアソシエイトディレクター",
             "company": "Zigzag Associates Ltd, UK",
-            "period": "2012年 – 2013年",
-            "description": "PVシステム監査プログラムの管理、規制査察の円滑化、CAPA計画、QMS開発、人員のライン管理。"
+            "period": "2012 – 2013",
+            "description": "PVシステム監査プログラム、規制検査の円滑化、CAPA計画、QMS開発、人員のライン管理の管理。"
           },
           {
-            "title": "プログラムマネージャー、グローバルシステム品質保証",
+            "title": "グローバルシステム品質保証プログラム マネージャー",
             "company": "Johnson & Johnson PRD, UK",
-            "period": "2006年 – 2012年",
-            "description": "J&JグローバルPV/GCPシステムのシステムベース監査。英国MHRAおよびUS FDAによるPV・GCP査察（予告あり・予告なし）を管理。ライセンシングおよびデューデリジェンス活動を支援。"
+            "period": "2006 – 2012",
+            "description": "J&JグローバルPV/GCPシステムのシステムベース監査。英国MHRAと米国FDAのPVおよびGCPの検査(発表・発表)を実施。 サポートされているライセンスとデューデリジェンス活動。"
           },
           {
-            "title": "シニアファーマコビジランスサイエンティスト",
-            "company": "MHRA (Medicines & Healthcare Regulatory Products Agency), UK",
-            "period": "2001年 – 2005年",
-            "description": "コンプライアンスおよびシグナル検出のためのICSRレビュー、PSURレビュー、安全性変更評価、英国ADR地域モニタリングセンターの監督、MHRA医薬品安全性小委員会でのプレゼンテーション。"
+            "title": "上級Pharmacovigilance Scientist",
+            "company": "MHRA(メディシン&ヘルスケア規制製品エージェンシー)、英国",
+            "period": "2001 – 2005",
+            "description": "コンプライアンスと信号検出、PSURレビュー、安全変動評価のためのICSRのレビュー 英国ADR地域モニタリングセンターの監督、およびMHRA医学安全小委員会での発表。"
           }
         ],
         "skills": [
-          "EU/US FDAおよびグローバルPV・GCP規制",
-          "PV・GCP QAコンプライアンスおよびリスクベース戦略",
-          "EU PV法規制およびGVPモジュール実施",
-          "PSMF作成および品質レビュー",
-          "グローバルLOC/現地法人PV監査（EU、南北アメリカ、中東、アフリカ、アジア太平洋、オーストラリア）",
-          "規制当局PV・GCP査察（MHRA、FDA、EMA）",
-          "QA管理戦略およびリスクベース監査プログラム",
-          "SOP開発および品質マネジメントシステム",
-          "GMP、GDP、コンピュータシステムバリデーション監査"
+          "EU/米国FDAおよびグローバルPVおよびGCP規制",
+          "PV & GCP QAコンプライアンスとリスクベースの戦略",
+          "EU PV法制とGVPモジュールの実装",
+          "PSMF調製と品質レビュー",
+          "グローバルロック/アフィリエイトPV監査(EU、アメリカ、中東、アフリカ、アジア太平洋、オーストラリア)",
+          "保健局 PVおよびGCP検査 (MHRA, FDA, EMA)",
+          "QAマネジメント戦略とリスクベースの監査プログラム",
+          "SOP開発・品質管理システム",
+          "GMP、GDP、およびコンピュータシステム検証監査"
         ],
         "qualifications": [
-          "MSc 臨床薬理学 — University of Surrey, UK",
-          "HND 薬理学（優等） — University of East London, UK",
-          "メンバー — Research Quality Assurance (RQA)",
-          "メンバー — Drug Information Association (DIA)",
-          "共著者 — RQA PV監査ハンドブック",
-          "チューター — RQA実践PV監査コース（Madingley Hall, Cambridge, UK）",
-          "講演者 — DIA Conference India、BARQA Forums、UK ePharma Day",
-          "代表参加者 — MHRAファーマコビジランスシンポジウム、ISOPカンファレンス"
+          "MSC臨床薬学 — 英国サリー大学",
+          "HND 薬学(Distincation) — University of East London, UK",
+          "Member — Research Quality Assurance (RQA)",
+          "メンバー — 医薬品情報協会 (DIA)",
+          "共同著者 — RQA PV監査ハンドブック",
+          "講師 — RQA 実用的PV監査コース (Madingley Hall, Cambridge, UK)",
+          "スピーカー — DIA Conference India, BARQAフォーラム, UK ePharma Day",
+          "代表 — MHRA Pharmacovigilance シンポジウム、ISOP会議"
         ],
-        "languages": ["英語（母語）", "ベンガル語（母語）", "ウルドゥー語（中級）"],
+        "languages": [
+          "英語(ネイティブ)",
+          "ベンガル語(ネイティブ)",
+          "ウルドゥー語 (Intermediate)"
+        ],
         "meta": {
-          "title": "Nazrul Khan — PVCONコンサルタント・リードオーディター | ファーマコビジランス専門家",
-          "description": "Nazrul Khanは製薬R&D、QA、PV監査において24年以上の経験を持つPVCONのコンサルタント・リードオーディターです。元MHRAサイエンティスト、元J&JグローバルQAプログラムマネージャー。MSc臨床薬理学、RQA PV監査ハンドブック共著者。"
+          "title": "Nazrul Khan — PVCONコンサルタントリード監査人 | Pharmacovigilance Expert",
+          "description": "Nazrul KhanはPVCONで24年以上にわたり医薬品の研究開発、QA、PV監査に携わっているコンサルタントリード監査役です。 元MHRA科学者およびJ&JグローバルQAプログラム・マネージャー。 RQAのPV監査ハンドブックの共著者。"
         }
       }
     }

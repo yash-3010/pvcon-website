@@ -1,14 +1,14 @@
 {
   "blog": {
     "hero": {
-      "tagline": "Blog",
-      "title": "Einblicke & Neuigkeiten",
-      "subtitle": "Bleiben Sie informiert mit den neuesten Nachrichten, Einblicken und Updates unseres Teams."
+      "tagline": "Ressourcen",
+      "title": "Blogs & Updates",
+      "subtitle": "Bleiben Sie auf dem Laufenden mit den neuesten Nachrichten, Einsichten und Aktualisierungen unseres Teams."
     },
     "featuredHeading": "Empfohlene Beiträge",
     "recentHeading": "Neueste Beiträge",
     "backToAll": "Zurück zu allen Beiträgen",
-    "home": "Startseite",
+    "home": "Zuhause",
     "blogLabel": "Blog",
     "updatedLabel": "Aktualisiert"
   }

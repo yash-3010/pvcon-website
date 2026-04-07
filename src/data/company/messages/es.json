@@ -1,0 +1,76 @@
+{
+  "company": {
+    "hero": {
+      "tagline": "Nuestra empresa",
+      "title": "Liderazgo y Presencia Global",
+      "subtitle": "Conozca a las personas y a la red global detrás de PVCON – impulsando la excelencia de farmacovigilancia a través de más de 100 países y 6 continentes."
+    },
+    "leadership": {
+      "tag": "Líder",
+      "heading": "Mensaje del CEO",
+      "ceo": {
+        "name": "Luna Don",
+        "title": "Presidente y CEO, fundador",
+        "message": "Con más de 50 años en farmacia, fundé PVCON para salvar las expectativas regulatorias con la farmacovigilancia del mundo real. He desempeñado papeles de liderazgo en Sanofi Aventis, Dr. Reddys, y he sido director regional de PV QA (APAC) en Johnson & Johnson.",
+        "message2": "PVCON es reconocida por auditoría fotográfica, garantía de calidad y capacitación. Servir como líder del Capítulo de Asia Meridional para el ISoP y asesor del DCGI y CDSCO de la India, con un enfoque continuo en la excelencia regulatoria y la seguridad del paciente.",
+        "credentials": [
+          "Premio Pharma Ratan 2016 — Logro de por vida en Seguridad de las Drogas y VP",
+          "Contador de plomo Certificado — Entrenado en Estados Unidos, Alemania, Francia y Singapur",
+          "Profesor adjunto de la Universidad Jamia Hamdard",
+          "Líder, Capítulo de Asia Meridional — Sociedad Internacional de Farmacovigilancia (ISoP)",
+          "Coautor, Protocolo del Programa Nacional de Farmacovigilancia de la India",
+          "Miembro, Comité Asesor Central — DIA India"
+        ]
+      }
+    },
+    "globalPresence": {
+      "tag": "Alcance global",
+      "heading": "Nuestra presencia global",
+      "subtitle": "Desde nuestra sede central en Mumbai (India), PVCON atiende a clientes de todo el mundo — entregando auditorías GxP, consulta de farmacovigilancia y apoyo regulatorio dondequiera que nuestros socios nos necesiten.",
+      "stats": [
+        {
+          "value": "100+",
+          "label": "Países afectados"
+        },
+        {
+          "value": "6",
+          "label": "Continentes"
+        },
+        {
+          "value": "25+",
+          "label": "Clientes en todo el mundo"
+        }
+      ]
+    },
+    "team": {
+      "tag": "La gente contrasta con la PVCON",
+      "heading": "Equipo PVCON",
+      "subtitle": "Somos un equipo de profesionales de farmacovigilancia experimentados con más de 300 años de experiencia en los ámbitos regulatorios mundiales.",
+      "viewProfile": "Ver perfil",
+      "members": {
+        "moin-don": {
+          "name": "Luna Don",
+          "role": "Fundador y CEO",
+          "bio": "Más de 50 años de experiencia farmacéutica; ex director regional de PV QA en Johnson & Johnson, APac; Profesor Adjunto de la Jamia Hamdard University; Líder del Capítulo del Sur de Asia para el ISoP; Coautor del Protocolo del Programa Nacional de Farmacovigilancia de la India; Miembro del Comité Asesor Central de DIA India y ganador del Premio Pharma Ratan 2016 por el Logro de por Vida en Seguridad y VPP."
+        },
+        "rameez-don": {
+          "name": "Rameez Don",
+          "role": "Director",
+          "bio": "Más de 15 años de experiencia profesional a través de la farmacovigilancia, garantía de calidad, auditorías, capacitación y desarrollo empresarial. Responsable certificado, doctorado en Administración de Photos por la Universidad de IHMR."
+        },
+        "nazrul-khan": {
+          "name": "Nazrul Khan",
+          "role": "Senior Consultante y Responsable",
+          "bio": "Más de 24 años en I+D farmacéutico, seguro de calidad y auditoría de farmacovigilancia. MSc Clinical Pharmacovigilance Scientist and J&J Global System QA Program Manager."
+        }
+      }
+    },
+    "cta": {
+      "heading": "¿Listo para trabajar con nuestro equipo?",
+      "text": "Conéctese con nuestros expertos en farmacovigilancia y descubra cómo PVCON puede apoyar sus operaciones de control y seguridad de medicamentos."
+    },
+    "buttons": {
+      "getInTouch": "Ponte en contacto"
+    }
+  }
+}

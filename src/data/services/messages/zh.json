@@ -3,12 +3,12 @@
     "hero": {
       "tagline": "我们的服务",
       "title": "服务",
-      "subtitle": "全面的药理警戒咨询、审计、培训和管制服务，以加强药物安全行动并确保全球遵守。"
+      "subtitle": "GxP综合审计、药剂警戒咨询、培训、质量和管理服务，以加强药物安全行动并确保全球遵守。"
     },
     "categories": {
       "sectionLabel": "我们提供什么",
       "heading": "我们的核心服务领域",
-      "subtitle": "我们提供四个专门服务支柱部门的端到端药物警戒专门知识，每个支柱部门都有几十年的监管和业务经验。"
+      "subtitle": "我们在四个专门服务支柱方面提供广泛的专门知识，每个支柱都有几十年的管理和业务经验。"
     },
     "learnMore": "了解更多",
     "productSpotlight": {
@@ -29,411 +29,404 @@
     "stats": {
       "01": {
         "value": "100+",
-        "label": "服务国家"
+        "label": "A. 所服务国家"
       },
       "02": {
         "value": "25+",
-        "label": "全球客户"
+        "label": "全球客户端"
       },
       "03": {
         "value": "15+",
-        "label": "年行业经验"
+        "label": "多年经验"
       },
       "04": {
         "value": "6",
-        "label": "大洲"
+        "label": "大陆数"
       }
     },
     "servicesPageCta": {
-      "heading": "准备好加强您的光电池操作？",
-      "text": "与PVCON合作进行专家药理警觉咨询、GxP审计和监管遵守方面的支助。",
-      "button": "请求协商"
+      "heading": "准备好加强组织的光电流程？",
+      "text": "与PVCON合作进行GxP专家审计、Pharmaco警觉咨询、PVoI服务和监管合规支助。",
+      "button": "加入Touch"
     },
     "gxp-audits": {
       "title": "GxP审计",
-      "description": "跨PV、GCP、GLP、GMP、GDP和CSV学科的独立、基于风险的审计——确保合规性和检查准备就绪。",
+      "description": "• 确保遵守规定和做好检查准备，从而对太平洋岛屿国家、太平洋岛屿国家、拉丁美洲和加勒比地区、全球监测方案、国内生产总值和CSV等学科进行战略性、基于风险和独立审计。",
       "hero": {
-        "tagline": "GxP审计服务",
-        "title": "GxP审计\n服务",
-        "subtitle": "跨药物警戒、临床、实验室、制造和计算机化系统领域的独立、基于风险的GxP审计——由全球经验丰富的审计员执行。"
+        "tagline": "GxP 审计服务",
+        "title": "GxP\n审计",
+        "subtitle": "由世界各地有经验的审计员对药理警戒、临床、实验室、制造和计算机化系统领域进行全面审计。"
       },
       "overview": {
         "tag": "概览",
-        "heading": "GxP审计服务",
-        "p1": "PVCON提供<strong>独立、基于风险的GxP审计</strong>，评估制药企业、CRO、CMO、实验室、供应商和战略合作伙伴的合规成熟度。",
-        "p2": "我们的审计员将<strong>技术专长与监管洞察力</strong>相结合，提供有针对性的评估，以加强治理、降低风险并支持整个产品生命周期的检查准备。"
+        "heading": "GxP审计",
+        "p1": "PVCON提供 <strong>战略性的、基于风险和独立的GxP</strong> 审计，以评估制药公司、CRO、CMO、实验室、供应商和战略伙伴遵守规章的成熟程度。",
+        "p2": "Our auditors combine <strong>technical expertise and regulatory insight</strong> to deliver focused risk-assessments that strengthen governance, mitigate risk, and support inspection readiness across the product lifecycle.",
+        "p3": "审计是按现场、虚拟和桌面/问卷方法进行的。"
       },
       "subcategories": {
-        "sectionLabel": "审计学科",
-        "heading": "我们的GxP审计能力",
+        "sectionLabel": "审计规则：",
+        "heading": "我们的 GxP 审计能力",
+        "subtitle": "我们提供以下全面服务。",
         "pv-audits": {
-          "title": "PV审计",
-          "description": "PV审计评估药物警戒系统的有效性，确保符合全球安全法规。",
+          "title": "药剂警戒审计",
+          "description": "药物警戒审计评估光电系统的有效性，并确保遵守全球安全条例。 (PV)",
           "bullets": [
-            "全球PV系统审计",
-            "本地关联公司审计",
-            "商业合作伙伴/经销商审计",
-            "全球/本地PV服务提供商审计",
-            "MRP/PSP供应商审计",
-            "CAPA开发与审查",
+            "全局光电系统审计",
+            "国家/地方加盟审计",
+            "业务伙伴/分发者审计",
+            "全局/局域网服务提供商审计",
+            "MRP / PSP 供应商审计",
+            "CAPA战略和跟踪",
             "PV系统差距分析",
-            "模拟检查与检查准备",
-            "基于风险的审计规划与策略支持"
+            "模拟检查和检查准备准备工作",
+            "基于风险的审计规划和战略支助",
+            "B. 检查文件的审查",
+            "内部审计员培训"
           ]
         },
         "gcp-audits": {
-          "title": "GCP审计",
-          "description": "GCP审计通过验证监管要求、伦理标准和已批准的研究方案的合规性，保护<strong>临床试验完整性和患者安全</strong>。",
+          "title": "GCP 审计",
+          "description": "GCP audits safeguard <strong>clinical trial integrity and patient safety</strong> by verifying compliance with regulatory requirements, ethical standards, and approved study protocols.",
           "bullets": [
-            "研究者中心审计",
+            "调查员现场审计",
             "临床实验室审计",
-            "I期临床研究审计，包括BA/BE研究",
-            "II至IV期临床研究审计",
-            "文件审计：方案、ICF、IB、CRF、CSR、PSUR、DSUR、ISS/ISE",
-            "临床数据库、数据管理与生物统计学审计",
-            "IVRS审计与生物等效性/生物分析实验室",
-            "供应商资质审计与FDA/EMA模拟检查",
-            "用于监管提交的试验主文件（TMF）完整审查"
+            "第一阶段临床研究审计，包括生物当量/生物分析研究",
+            "第二阶段至第四阶段临床研究审计",
+            "文件审计：协议、ICF、IB、CRF、CSR、PSUR、DSRSS、ISS/ISE",
+            "临床数据库、数据管理和生物统计审计",
+            "IVRS 审计与生物当量/生物分析化验室",
+            "供应商资格审计和林业发展局模拟检查",
+            "审查完整的试用主文件 (TMF) 以便提交规则"
           ]
         },
         "other-gxp-audits": {
-          "title": "其他GxP审计",
-          "description": "跨实验室、制造、分销和计算机化系统领域的专业GxP审计——确保端到端生命周期合规。",
+          "title": "其他 GxP 审计",
+          "description": "对实验室、制造、分销和计算机化系统领域进行专门的GxP审计——确保最终使用寿命周期得到遵守。",
           "bullets": [
-            "计算机系统验证（CSV）审计",
-            "良好实验室规范（GLP）审计",
-            "良好生产规范（GMP）审计",
-            "良好分销规范（GDP）审计",
-            "尽职调查审计",
-            "原因调查审计",
-            "档案设施审计",
-            "供应商与分包商资质审计",
-            "监管提交准备审查"
+            "计算机系统校验(CSV) 审计",
+            "良好实验室做法 (GLP) 审计",
+            "良好制造做法审计 (GMP)",
+            "良好分发做法审计 (GDP)",
+            "适当注意的审计",
+            "用于审计",
+            "归档设施审计",
+            "供应商和供应商资格审计",
+            "提交文件的准备程度审查"
           ]
         }
       },
       "whyPvcon": {
-        "tag": "为什么选择PVCON",
-        "heading": "为什么选择PVCON进行GxP审计？",
+        "tag": "为什么PVCON",
+        "heading": "为什么选择 PVCON for GxP Audit？",
         "points": {
           "01": {
-            "title": "经验丰富的审计员",
-            "description": "我们的审计员在多个GxP学科和地理区域拥有平均15年以上的实际监管审计经验。"
+            "title": "经验丰富的审计人",
+            "description": "我们的审计员平均在多种GCxP学科和地理区域进行15年以上的实际管理审计经验。"
           },
           "02": {
-            "title": "全球覆盖",
-            "description": "我们在25个以上的国家开展审计，利用当地监管知识和文化意识，提供具有针对性的发现。"
+            "title": "全球范围",
+            "description": "我们在100多个国家进行审计，利用地方管理知识和文化意识提供与环境有关的意见。"
           },
           "03": {
-            "title": "可执行的成果",
-            "description": "每次审计都以优先排序的实用建议和CAPA指导结束——不仅是观察结果，更是通往合规的清晰路径。"
+            "title": "可采取行动的结果",
+            "description": "每次审计结束时都提出了有优先次序、切实可行的建议和《行动纲领》的指导意见——不仅仅是观察意见，而且是通往遵守规定的明确途径。"
           }
         }
       },
       "cta": {
-        "heading": "准备好提升您的审计计划了吗？",
-        "text": "与PVCON合作，获取专业的GxP审计服务，加强合规性并为您的组织做好监管检查准备。",
-        "button": "请求咨询"
+        "heading": "准备好提升您的审核程序？",
+        "text": "与PVCON合作提供GxP专家审计服务，以加强遵守并为你的组织进行监管检查作好准备。",
+        "button": "加入Touch"
       },
       "subPages": {
         "pv-audits": {
           "hero": {
-            "tagline": "Pharmacovigilance Audit Services",
-            "title": "Pharmacovigilance\nAudits",
-            "subtitle": "Independent, risk-based pharmacovigilance audits to assess PV system effectiveness, ensure regulatory compliance, and build inspection readiness across global operations."
+            "tagline": "药剂警觉审计服务",
+            "title": "药剂警觉\n审计",
+            "subtitle": "进行独立的、基于风险的药理警戒性审计，以评估光电系统的有效性，确保遵守监管，并在全球作业中建立检查准备状态。"
           },
           "overview": {
-            "tag": "Overview",
-            "heading": "Pharmacovigilance Audits",
+            "tag": "概览",
+            "heading": "药剂警戒审计",
             "p1": "PVCON delivers <strong>comprehensive pharmacovigilance audits</strong> designed to evaluate the effectiveness, compliance, and maturity of your PV systems against global regulatory expectations including <strong>EU GVP, FDA 21 CFR, and ICH E2E guidelines</strong>. Our experienced auditors assess global PV systems, local affiliate operations, business partner arrangements, and service provider oversight frameworks.",
-            "p2": "Our PV audit methodology covers the full spectrum of pharmacovigilance operations — from signal detection and ICSR processing to PSMF maintenance and aggregate reporting. We conduct audits of MAH systems, distributor and MRP/PSP vendor arrangements, and local affiliate PV compliance to identify gaps before regulators do.",
-            "p3": "Beyond audit execution, PVCON provides risk-based audit planning, CAPA strategy development and tracking, PV system gap analysis, mock inspections, and internal auditor training. Our goal is to transition your organization from reactive compliance to continuous inspection readiness across all pharmacovigilance operations."
+            "p2": "我们的光电效应审计方法涵盖药理警戒业务的所有范围——从信号侦测和ICSR处理到PSMF维护和汇总报告。 我们对MAH系统、分销商和MRP/PSP供应商安排以及当地附属公司光电池履约情况进行审计，以查明监管机构所存在的漏洞。",
+            "p3": "除审计执行外，PVCON还提供基于风险的审计规划、CAA 战略制定和跟踪、光电转换系统漏洞分析、模拟检查和内部审计员培训。 我们的目标是将你们的组织从被动遵守转变为所有药理警戒行动的持续检查准备状态。"
           },
           "cta": {
-            "heading": "Strengthen Your PV Audit Program",
-            "text": "Partner with PVCON for expert pharmacovigilance audits that identify compliance gaps, mitigate risk, and ensure your PV systems are always inspection-ready.",
-            "button": "Get in Touch"
+            "heading": "加强您的 PV 审计计划",
+            "text": "与PVCON合作进行专家药理警觉审计，以查明遵守漏洞，减少风险，并确保您的光电池系统始终能够进行检查。",
+            "button": "加入Touch"
           }
         },
         "gcp-audits": {
           "hero": {
-            "tagline": "GCP Audit Services",
-            "title": "GCP\nAudits",
-            "subtitle": "Rigorous Good Clinical Practice audits to safeguard clinical trial integrity, protect patient safety, and ensure regulatory compliance across all study phases."
+            "tagline": "GCP 审计服务",
+            "title": "GCP\n审计",
+            "subtitle": "严格的临床良好做法审计，以保障临床试验的完整性，保护病人的安全，并确保在所有研究阶段遵守规章。"
           },
           "overview": {
-            "tag": "Overview",
-            "heading": "GCP Audits",
+            "tag": "概览",
+            "heading": "GCP 审计",
             "p1": "PVCON provides <strong>independent Good Clinical Practice (GCP) audits</strong> that verify clinical trial compliance with <strong>ICH-GCP E6(R2) guidelines, FDA 21 CFR Parts 11/50/56, and EU Clinical Trials Regulation</strong>. Our auditors evaluate investigator sites, clinical laboratories, and study documentation to ensure data integrity, patient safety, and protocol adherence.",
-            "p2": "We conduct GCP audits across all clinical development phases — from Phase I bioequivalence and bioanalytical studies through Phase II-IV trials. Our scope includes document audits covering protocols, informed consent forms, investigator brochures, CRFs, CSRs, PSURs, DSURs, and integrated safety summaries, as well as clinical database and biostatistics audits.",
-            "p3": "PVCON also performs IVRS audits, vendor qualification assessments, complete Trial Master File reviews for regulatory submissions, and FDA/EMA mock inspections. Our systematic approach ensures your clinical programs maintain audit-readiness throughout the study lifecycle and regulatory submission process."
+            "p2": "我们对所有临床发展阶段——从第一阶段生物当量和生物分析研究到第二阶段至第四阶段试验——进行GCP审计。 我们的范围包括对协议、知情同意表格、调查人员手册、通用报告格式进行文件审计。 公司社会责任、保养、分区域资源中心、综合安全摘要以及临床数据库和生物统计审计。",
+            "p3": "PVCON还进行IVRS 的审计、供应商资格评估、完整的审判总档案审查以供提交管理文件以及林业发展局/EMA 模拟检查。 我们的系统做法确保您的临床方案能够在整个学习周期和管理提交过程中保持审计准备状态。"
           },
           "cta": {
-            "heading": "Ensure Clinical Trial Compliance",
-            "text": "Engage PVCON's experienced GCP auditors to protect your clinical trial integrity and prepare your organization for regulatory inspections.",
-            "button": "Get in Touch"
+            "heading": "确保临床试验合规性",
+            "text": "让PVCON的经验丰富的GCP审计员保护您的临床试验完整性，并为您的组织进行监管检查做好准备。",
+            "button": "加入Touch"
           }
         },
         "other-gxp-audits": {
           "hero": {
-            "tagline": "Specialized GxP Audit Services",
-            "title": "Other GxP\nAudits",
-            "subtitle": "Specialized audit services across CSV, GLP, GMP, GDP, and other GxP disciplines — ensuring end-to-end regulatory compliance across the product lifecycle."
+            "tagline": "专业的 GxP 审计服务",
+            "title": "其他 GxP\n审计",
+            "subtitle": "跨越CSV、GLP、GMP、GMP、国内生产总值和其他GxP学科的专门审计服务——确保产品寿命期内遵守端到端的管理规定。"
           },
           "overview": {
-            "tag": "Overview",
-            "heading": "Other GxP Audits",
+            "tag": "概览",
+            "heading": "其他 GxP 审计",
             "p1": "PVCON extends its audit expertise beyond pharmacovigilance and clinical practice to deliver <strong>specialized GxP audits across CSV, GLP, GMP, and GDP disciplines</strong>. Our auditors evaluate compliance with <strong>EU Annex 11, 21 CFR Part 11, OECD GLP principles, and global GDP guidelines</strong>, providing organizations with a complete compliance assessment across all regulated operations.",
-            "p2": "Our audit portfolio includes Computer Systems Validation audits for electronic systems and data integrity, Good Laboratory Practice audits for non-clinical study sites, Good Manufacturing Practice audits for production facilities, and Good Distribution Practice audits ensuring supply chain integrity. We also conduct due diligence and for cause audits as required.",
-            "p3": "Additionally, PVCON performs archive facility audits, vendor and supplier qualification assessments, and regulatory submission readiness reviews. Whether your organization requires targeted compliance verification or a comprehensive multi-disciplinary audit program, our experienced team delivers actionable findings and practical recommendations for remediation."
+            "p2": "我们的审计组合包括计算机系统鉴定电子系统和数据完整性的审计，对非临床研究地点的良好实验室做法审计。 对生产设施进行良好的制造业做法审计，对供应链的完整性进行良好的分销做法审计。 我们还应尽职尽责，并视需要进行审计。",
+            "p3": "此外，PVCON还进行档案设施审计、供应商和供应商资格评估以及管理提交准备就绪情况审查。 无论贵组织需要有针对性的遵守情况核查，还是需要一个全面的多学科审计方案，我们有经验的团队都会提出可采取行动的调查结果和补救建议。"
           },
           "cta": {
-            "heading": "Need Specialized GxP Audit Support?",
-            "text": "Leverage PVCON's multi-disciplinary audit capabilities to ensure compliance across your entire regulated operation — from laboratories to distribution networks.",
-            "button": "Get in Touch"
+            "heading": "需要专业的 GxP 审计支持？",
+            "text": "利用PVCON的多学科审计能力，确保您整个受管制作业——从实验室到分销网络——的合规性。",
+            "button": "加入Touch"
           }
         }
       }
     },
     "pv-consulting": {
-      "title": "PV咨询",
-      "description": "从质量管理和检查准备到QPPV/PvOI服务和监管情报的端到端药物警戒咨询。",
+      "title": "药剂警觉咨询",
+      "description": "从光电系统设置到PvOI服务和质量管理到管制性情报服务。",
       "hero": {
-        "tagline": "PV咨询服务",
-        "title": "药物警戒\n咨询",
-        "subtitle": "PVCON支持制药、生物技术和医疗器械公司构建、强化和维护合规的药物警戒系统。"
+        "tagline": "PV 咨询服务",
+        "title": "药剂警觉\n咨询",
+        "subtitle": "PVCON支持制药、生物技术和医疗设备公司建立和维持合规药剂监测系统。"
       },
       "overview": {
         "tag": "概览",
-        "heading": "药物警戒咨询",
-        "p1": "PVCON支持制药、生物技术和医疗器械公司<strong>构建、强化和维护合规的药物警戒系统</strong>。",
-        "p2": "我们的咨询服务确保全球市场的<strong>监管一致性、运营效率和检查准备</strong>。"
+        "heading": "药剂警觉咨询",
+        "p1": "我们的咨询服务促成了规章制度的协调、业务效率和全球检查准备状态。",
+        "p2": ""
       },
       "subcategories": {
         "sectionLabel": "咨询服务",
-        "heading": "我们的PV咨询能力",
-        "pv-qms": {
-          "title": "PV质量管理体系（PV QMS）",
-          "description": "帮助和协助半监管和监管地区的中小型制药企业从零开始建立PV功能或升级现有的基础PV系统。",
+        "heading": "我们的光学咨询能力",
+        "local-qppv-pvoi": {
+          "title": "本地PvOI服务",
+          "description": "我们提供当地的PvOI服务，以确保CDSCO的遵守和光电效应监督。",
           "bullets": [
-            "建立组织架构图",
-            "识别和定义角色与职责（职位描述）",
-            "制定标准操作程序和工作指导书",
-            "建立质量方针和治理框架",
-            "CAPA和偏差框架",
-            "定期系统审查和持续改进",
-            "供应商监督和质量协议",
-            "安全数据交换协议（SDEA）/药物警戒协议（PVA）的开发和审查"
+            "药物安全问题监管者联络点",
+            "PSMF 审查和维护",
+            "光电转换器的遵守情况和报告监督",
+            "监管协调(CDSCO/PvPI)",
+            "视察准备状态支助"
+          ]
+        },
+        "pv-qms": {
+          "title": "PV 质量管理系统 (PV QMS)",
+          "description": "我们支持小型和中型药房公司建立或扩大强有力的光电系统。",
+          "bullets": [
+            "组织图和职务说明",
+            "SOP和工作说明开发",
+            "质量政策和治理框架",
+            "CAPA和偏差管理系统",
+            "SDEA / 药品警戒协议 (PVA)"
           ]
         },
         "audit-inspection-readiness": {
-          "title": "审计规划与检查准备",
-          "description": "我们帮助组织通过结构化治理和基于风险的监督维持<strong>持续的检查准备状态</strong>。",
+          "title": "审计规划和检查就绪情况",
+          "description": "我们能够通过基于风险的监督来保持视察准备状态。",
           "bullets": [
-            "PV审计规划与执行",
-            "模拟检查和监管模拟",
-            "合规差距评估",
-            "CAPA策略与跟踪",
-            "检查文件审查",
+            "PV 审计规划和执行",
+            "模拟检查和模拟",
+            "CAPA战略和跟踪",
+            "B. 检查文件的审查",
             "内部审计员培训"
           ]
         },
-        "local-qppv-pvoi": {
-          "title": "当地QPPV / PvOI服务",
-          "description": "PVCON提供<strong>药物警戒负责人（PvOI）</strong>服务，确保符合CDSCO要求。",
-          "bullets": [
-            "作为客户产品所有药品安全相关查询的监管机构单一联络点",
-            "审查和维护符合当地法规的PV主文件（PvMF）及完整附件",
-            "PV合规和报告监督",
-            "确保ICSR和汇总报告的及时提交",
-            "与CDSCO和PvPI的监管协调",
-            "检查准备支持",
-            "供应商监督和安全治理"
-          ]
-        },
         "regulatory-intelligence": {
-          "title": "监管情报",
-          "description": "我们的监管情报服务帮助组织<strong>预见监管变化并维持全球合规</strong>。",
+          "title": "管制性情报",
+          "description": "我们帮助各组织保持在不断演变的全球光电池条例之前。",
           "bullets": [
-            "监测全球PV法规",
-            "监管影响评估",
-            "监管变化实施策略",
-            "安全报告要求对齐",
-            "合规基准和咨询"
+            "监管监测和更新",
+            "影响评估和执行战略",
+            "安全报告对齐",
+            "遵约基准和咨询"
           ]
         }
       },
       "whyPvcon": {
-        "tag": "为什么选择PVCON",
-        "heading": "为什么选择PVCON进行PV咨询？",
+        "tag": "为什么PVCON",
+        "heading": "为什么选择PV咨询PVCON？",
         "points": {
           "01": {
-            "title": "嵌入式合作伙伴",
-            "description": "我们作为您团队的延伸而非仅仅是外部顾问。我们的方法确保知识转移并建立可持续的内部能力。"
+            "title": "内嵌伙伴关系",
+            "description": "我们的工作是你们团队的延伸，使知识转让和可持续的能力得以实现。"
           },
           "02": {
-            "title": "监管深度",
-            "description": "我们的顾问与主要监管机构有直接合作经验，包括EMA、MHRA、FDA以及20多个司法管辖区的国家主管当局。"
+            "title": "监管专门知识",
+            "description": "我们的顾问与主要监管机构如美国林业发展局、环境与自然资源部、环境与自然资源部、环境与自然资源部和其他全球性主管机构有着直接的经验。"
           },
           "03": {
-            "title": "经验证的业绩",
-            "description": "我们已成功支持数十家组织完成监管检查、系统实施和合规转型。"
+            "title": "经过验证的曲目记录",
+            "description": "我们通过监管检查、系统实施和遵守方面的转变，成功地指导了许多组织。"
           }
         }
       },
       "cta": {
-        "heading": "需要专业的PV咨询支持吗？",
-        "text": "让PVCON经验丰富的药物警戒顾问加强您的合规框架并优化您的安全运营。",
-        "button": "联系我们"
+        "heading": "需要Expert PV咨询支持吗？",
+        "text": "让PVCON有经验的药理警觉顾问加强您的遵守框架并优化您的安全行动。",
+        "button": "加入Touch"
       },
       "subPages": {
         "local-qppv-pvoi": {
           "hero": {
-            "tagline": "Local PvOI Services",
-            "title": "Local PvOI\nServices",
-            "subtitle": "Dedicated Pharmacovigilance Officer of India (PvOI) services ensuring CDSCO compliance, regulatory coordination, and continuous PV oversight for your Indian market operations."
+            "tagline": "本地PvOI服务",
+            "title": "本地PvOI\n服务",
+            "subtitle": "印度专职药剂警戒官员(PvOI)服务，确保CDSCO的遵守、监管协调和对您的印度市场业务的持续监督。"
           },
           "overview": {
-            "tag": "Overview",
-            "heading": "Local PvOI Services",
+            "tag": "概览",
+            "heading": "本地PvOI服务",
             "p1": "PVCON provides qualified <strong>Pharmacovigilance Officer of India (PvOI) services</strong> to ensure your organization meets all <strong>CDSCO regulatory requirements and PvPI (Pharmacovigilance Programme of India) obligations</strong>. Our PvOI professionals serve as your designated point of contact for Indian regulators on all drug safety matters, providing seamless coordination between your global PV operations and local compliance needs.",
-            "p2": "Our Local PvOI services encompass PSMF review and maintenance for the Indian market, PV compliance monitoring, safety reporting oversight, and regulatory coordination with CDSCO and PvPI authorities. We ensure that all Individual Case Safety Reports, aggregate reports, and signal management activities align with Indian regulatory timelines and requirements.",
-            "p3": "PVCON also supports organizations with inspection readiness preparation specific to CDSCO expectations, ensuring your documentation, processes, and personnel are prepared for regulatory scrutiny. Our experienced PvOI professionals integrate with your global PV framework while maintaining full compliance with local Indian pharmacovigilance regulations."
+            "p2": "我们当地的PvOI服务包括对PSMF进行审查和维护印度市场，对光电转换的遵守情况进行监测。 • 安全报告监督，以及与CDSCO和PvPI当局的监管协调。 我们确保所有个别案件安全报告、汇总报告和信号管理活动符合印度的管理时限和要求。",
+            "p3": "PVCON还支持那些专门为CDSCO的期望做好视察准备的组织，确保你的文件、程序和工作人员准备接受监管审查。 我们经验丰富的PvOI专业人员融入了您的全球光电池框架，同时全面遵守当地的印度药理警戒条例。"
           },
           "cta": {
-            "heading": "Need a Qualified PvOI for India?",
-            "text": "Let PVCON provide experienced Pharmacovigilance Officer of India services to ensure your CDSCO compliance and local PV oversight are always maintained.",
-            "button": "Get in Touch"
+            "heading": "印度需要一个合格的PvOI？",
+            "text": "让PVCON提供有经验的印度药剂警戒官员，以确保您的CDSCO遵守规定，并始终保持当地对PV的监督。",
+            "button": "加入Touch"
           }
         },
         "pv-qms": {
           "hero": {
-            "tagline": "PV Quality Management System",
-            "title": "PV Quality\nManagement System",
-            "subtitle": "Expert support for building and scaling robust PV Quality Management Systems — from SOPs and governance frameworks to CAPA management and pharmacovigilance agreements."
+            "tagline": "PV 质量管理系统",
+            "title": "PV 质量\n管理系统",
+            "subtitle": "为建立和扩大强有力的光电转换质量管理系统提供专家支持——从服务级机构和治理框架到服务级机构管理和药理警戒协议。"
           },
           "overview": {
-            "tag": "Overview",
-            "heading": "PV Quality Management System (PV QMS)",
-            "p1": "PVCON helps pharmaceutical and biotechnology companies establish, enhance, or scale their <strong>Pharmacovigilance Quality Management Systems (PV QMS)</strong> in alignment with <strong>EU GVP Module I, FDA guidance, and ICH Q10 quality principles</strong>. We support organizations in building structured, inspection-ready PV quality frameworks that ensure consistent compliance and operational governance.",
-            "p2": "Our PV QMS services include development of organizational structures and role-specific job descriptions, creation of comprehensive SOPs and work instructions, establishment of quality policies and governance frameworks, and implementation of CAPA and deviation management systems designed for pharmacovigilance operations.",
-            "p3": "PVCON also prepares Safety Data Exchange Agreements (SDEAs) and Pharmacovigilance Agreements (PVAs) to ensure compliant safety data exchange with partners, licensees, and distributors. Whether you are a startup building your first PV system or an established company scaling operations, we deliver tailored QMS solutions that grow with your organization."
+            "tag": "概览",
+            "heading": "PV 质量管理系统 (PV QMS)",
+            "p1": "PVCON帮助制药和生物技术公司建立、加强或扩展其 <strong>药物警戒质量管理系统(PV QMS)</strong>，以符合 <strong>欧盟GVP模块一、FDA指南和ICH Q10质量原则</strong>。我们支持各组织建立结构严密、便于视察的PV质量框架，以确保一致的合规性和运营治理。",
+            "p2": "我们的定额备用金管理系统服务包括发展组织结构和针对具体角色的职务说明，制定全面的特定服务项目和工作指示， • 制定质量政策和管理框架，并实施为药理警戒行动设计的反转管理系统。",
+            "p3": "PVCON还编写安全数据交换协定和药剂警戒协定，以确保与合作伙伴、许可证持有者和经销商进行符合规定的安全数据交换。 无论是启动构建您的第一个光电池系统，还是已经建立的公司缩放操作。 我们提供量身定制的 QMS 解决方案，这种解决方案与您的组织一起成长。 (SDEAs) (PVAs)"
           },
           "cta": {
-            "heading": "Build a Robust PV Quality System",
-            "text": "Partner with PVCON to design and implement a PV Quality Management System that meets global regulatory standards and supports sustainable compliance.",
-            "button": "Get in Touch"
+            "heading": "构建强力光电质量系统",
+            "text": "• 与PVCON合作，设计和实施一个符合全球管理标准和支持可持续遵守的光电转换质量管理系统。",
+            "button": "加入Touch"
           }
         },
         "audit-inspection-readiness": {
           "hero": {
-            "tagline": "Audit Planning & Inspection Readiness",
-            "title": "Audit Planning &\nInspection Readiness",
-            "subtitle": "Proactive audit planning and inspection readiness services that enable continuous compliance through risk-based oversight, mock inspections, and CAPA management."
+            "tagline": "审计规划和检查就绪情况",
+            "title": "审计规划和\n检查就绪情况",
+            "subtitle": "积极主动的审计规划和检查准备服务，以便能够通过基于风险的监督、模拟检查和CAPA的管理来持续遵守规定。"
           },
           "overview": {
-            "tag": "Overview",
-            "heading": "Audit Planning & Inspection Readiness",
+            "tag": "概览",
+            "heading": "审计规划和检查就绪情况",
             "p1": "PVCON enables organizations to achieve and maintain <strong>continuous inspection readiness</strong> through structured <strong>risk-based audit planning, mock inspections, and systematic CAPA management</strong>. Our approach shifts your PV compliance posture from reactive remediation to proactive preparedness, ensuring your systems and teams are always audit-ready.",
-            "p2": "Our services include development of risk-based PV audit plans, execution of internal PV audits, and conducting realistic mock inspections that simulate regulatory authority scrutiny from agencies including the EMA, FDA, MHRA, and CDSCO. These simulations help identify vulnerabilities and train your teams to respond confidently under inspection conditions.",
-            "p3": "PVCON also provides comprehensive CAPA strategy development and tracking, inspection documentation review to ensure completeness and accuracy, and internal auditor training programs. Our experienced consultants have successfully guided organizations through numerous regulatory inspections and help build the internal capabilities your team needs for sustained compliance."
+            "p2": "我们的服务包括制定基于风险的光电转换审计计划，进行内部光电转换审计。 • 进行实事求是的模拟视察，模拟管理当局对各机构的审查，这些机构包括环境管理局、林业局、人力资源和人力资源管理局以及中央管理局。 这些模拟有助于识别脆弱性，并训练你的团队在视察条件下作出有信心的反应。",
+            "p3": "PVCON还提供全面的CAPA战略制定和跟踪、检查文件审查以确保完整性和准确性，以及内部审计员培训方案。 我们有经验的顾问通过无数次管制检查成功地指导了各组织的工作，并帮助建设你的团队持续遵守规定所需的内部能力。"
           },
           "cta": {
-            "heading": "Prepare for Your Next Inspection",
-            "text": "Engage PVCON to build inspection readiness into your daily operations through expert audit planning, mock inspections, and CAPA management support.",
-            "button": "Get in Touch"
+            "heading": "准备您的下一次检查",
+            "text": "通过专家审计规划、模拟视察以及CAPA的管理支助，使PVCON能够在日常业务中建立视察准备状态。",
+            "button": "加入Touch"
           }
         },
         "regulatory-intelligence": {
           "hero": {
-            "tagline": "Regulatory Intelligence Services",
-            "title": "Regulatory\nIntelligence",
-            "subtitle": "Stay ahead of evolving global pharmacovigilance regulations with PVCON's regulatory intelligence services — monitoring, impact assessment, and compliance strategy support."
+            "tagline": "监管性情报服务",
+            "title": "法规\n情报",
+            "subtitle": "利用PVCON的监管情报服务——监测、影响评估和遵守战略支助——保持全球药理警戒条例的先锋。"
           },
           "overview": {
-            "tag": "Overview",
-            "heading": "Regulatory Intelligence",
+            "tag": "概览",
+            "heading": "管制性情报",
             "p1": "PVCON's <strong>regulatory intelligence services</strong> help organizations stay ahead of <strong>evolving global pharmacovigilance regulations, guidelines, and enforcement trends</strong>. We provide systematic monitoring of regulatory developments across major authorities including the EMA, FDA, MHRA, PMDA, TGA, and CDSCO to ensure your PV operations remain compliant with current requirements.",
-            "p2": "Our regulatory intelligence framework goes beyond monitoring — we deliver actionable impact assessments that evaluate how new regulations, guideline revisions, and enforcement trends affect your specific PV operations. We develop practical implementation strategies that align your processes, documentation, and training with updated regulatory expectations.",
-            "p3": "PVCON also supports organizations with safety reporting alignment across jurisdictions, compliance benchmarking against industry standards, and advisory services that anticipate regulatory direction. Our proactive approach ensures your pharmacovigilance system evolves in step with the regulatory landscape, reducing compliance risk and strengthening your position during inspections."
+            "p2": "我们的管制性情报框架不仅仅是监测——我们进行了可采取行动的影响评估，评估新的规章是如何制定的。 准则修订案和执行趋势影响到你的具体光电池业务。 我们制定切实可行的执行战略，使你们的程序、文件记录和培训符合最新的管理期望。",
+            "p3": "PVCON还支持各组织在跨管辖区进行安全报告协调、对照行业标准制定遵守基准以及提供预期监管方向的咨询服务。 我们采取主动积极的做法，确保您的药理警戒系统与监管领域同步发展，降低遵守风险，并在检查期间加强您的地位。"
           },
           "cta": {
-            "heading": "Stay Ahead of Regulatory Changes",
-            "text": "Let PVCON's regulatory intelligence experts keep your organization informed, aligned, and compliant with the latest global pharmacovigilance requirements.",
-            "button": "Get in Touch"
+            "heading": "保持监管变化的前端",
+            "text": "让PVCON的监管情报专家随时向您的组织通报情况、协调和遵守最新的全球药理警戒要求。",
+            "button": "加入Touch"
           }
         }
       }
     },
     "training-upskilling": {
-      "title": "培训与能力发展",
-      "description": "结构化、基于角色的培训计划，旨在建立监管能力并支持检查准备。",
+      "title": "培训和提升技能",
+      "description": "结构化的学习和专业发展方案旨在建立全球市场的监管能力、工作准备和检查准备状态。",
       "hero": {
-        "tagline": "培训与能力发展",
-        "title": "培训与\n能力发展",
-        "subtitle": "PVCON提供结构化、基于角色的培训计划，旨在建立监管能力并支持检查准备。"
+        "tagline": "培训和提高技能方案",
+        "title": "培训与\n升级技能方案",
+        "subtitle": "PVCON提供结构化的学习和专业发展方案，旨在在全球市场建立管理能力、就业准备和检查准备状态。"
       },
       "overview": {
         "tag": "概览",
-        "heading": "培训与能力发展",
-        "p1": "PVCON提供结构化、基于角色的<strong>培训与能力发展</strong>计划，旨在建立监管能力并支持检查准备。",
-        "p2": "从密集PV训练营和监管合规工作坊到定制化学习方案，我们的计划为您的团队提供在全球市场维持合规所需的实践知识和技能。"
+        "heading": "培训和提升技能",
+        "p1": "我们的行业驱动培训方案将实际学习与全球管理标准结合起来。",
+        "p2": "从光电池新鲜者引导营到公司药房警戒训练，我们提供亲身实践的学习，培养业界准备好的专业人员和符合要求的队伍。"
       },
       "subcategories": {
-        "sectionLabel": "培训计划",
-        "heading": "我们的培训服务",
+        "sectionLabel": "培训方案",
+        "heading": "我们提供的培训",
         "training-matrix": {
-          "title": "培训矩阵与内容开发",
-          "description": "我们设计符合监管要求的培训框架，配备功能专属学习计划和检查就绪的培训材料。",
+          "title": "培训矩阵和内容开发",
           "bullets": [
-            "符合监管要求的培训矩阵",
-            "功能专属学习计划",
-            "检查就绪的培训材料"
+            "管理培训矩阵表",
+            "基于角色的结构化学习计划",
+            "便于检查的培训材料"
           ]
         },
         "pv-boot-camp": {
-          "title": "PV训练营计划",
-          "description": "面向MAH的密集药物警戒训练营，涵盖端到端PV运营，配备真实案例研究和指导。",
+          "title": "药剂警戒(PV)引导营方案",
           "bullets": [
-            "面向MAH的密集PV训练营",
-            "端到端药物警戒培训",
-            "真实案例研究和指导"
+            "强化的、由工业驱动的光伏引导阵营",
+            "终端到终端药物警戒培训",
+            "实际世界案例研究和实际曝光情况"
           ]
         },
         "regulatory-compliance-training": {
-          "title": "监管与合规培训",
-          "description": "专注于GVP、ICH-GCP和GxP标准的培训计划，包括全球安全法规更新和检查准备。",
+          "title": "监管与遵约培训",
           "bullets": [
-            "GVP、ICH-GCP和GxP培训计划",
-            "全球安全法规更新",
-            "审计与检查准备计划"
+            "GVP、ICH-GCP和GxP方案",
+            "A. 全球监管更新和遵守框架",
+            "审计和检查准备状态培训"
           ]
         },
         "customized-learnings": {
-          "title": "定制化学习方案",
-          "description": "定制培训方案，包括全组织合规培训、领导力意识计划和持续专业发展。",
+          "title": "自定义学习解决办法",
           "bullets": [
-            "全组织合规培训",
-            "领导力意识计划",
-            "持续专业发展模块"
+            "公司培训方案",
+            "汇报工作和遵守条例问题会议",
+            "持续的专业发展单元"
           ]
         }
       },
       "whyPvcon": {
-        "tag": "为什么选择PVCON",
-        "heading": "为什么选择PVCON进行培训？",
+        "tag": "为什么PVCON",
+        "heading": "为什么选择 PVCON 进行培训？",
         "points": {
           "01": {
-            "title": "行业实践者",
-            "description": "我们的培训师是具有直接监管和运营经验的活跃行业实践者——不是学术讲师，而是实践专家。"
+            "title": "工业练习者",
+            "description": "我们的培训由有经验的专业人员提供，这些专业人员具有管理和业务方面的实际专门知识。"
           },
           "02": {
-            "title": "定制化方法",
-            "description": "每个计划都根据您组织的角色结构、监管环境和成熟度水平量身定制——没有通用的标准课程。"
+            "title": "定制方法",
+            "description": "适合组织需要、作用和管理环境的方案——不是一般内容。"
           },
           "03": {
-            "title": "可衡量的成果",
-            "description": "我们建立明确的能力基准、评估框架和认证路径，向监管机构和审计员展示培训的有效性。"
+            "title": "可计量的结果",
+            "description": "界定的能力框架、评估和认证，以确保培训的有效性和审计准备程度。"
           }
         }
       },
@@ -445,223 +438,205 @@
       "subPages": {
         "training-matrix": {
           "hero": {
-            "tagline": "Training Matrix & Content Development",
-            "title": "Training Matrix &\nContent Development",
-            "subtitle": "Develop regulatory-aligned training matrices, role-based learning plans, and inspection-ready training materials that ensure PV competency across your organization."
+            "tagline": "培训矩阵和内容开发",
+            "title": "培训矩阵和\n内容开发",
+            "subtitle": "制定符合规章制度的培训矩阵、以角色为基础的学习计划和随时检查的培训材料，以确保您所在组织的光电网络能力。"
           },
           "overview": {
-            "tag": "Overview",
-            "heading": "Training Matrix & Content Development",
-            "p1": "PVCON develops <strong>regulatory-aligned training matrices and structured content</strong> that ensure your pharmacovigilance teams maintain the <strong>competencies required by EU GVP, FDA expectations, and ICH guidelines</strong>. Our training matrix solutions map specific learning requirements to organizational roles, regulatory obligations, and operational responsibilities across your PV system.",
-            "p2": "We design role-based structured learning plans that define training pathways for every position in your pharmacovigilance organization — from case processors and safety scientists to QPPVs and PV leadership. Each plan includes defined competency milestones, assessment criteria, and documentation requirements that demonstrate training effectiveness during regulatory inspections.",
-            "p3": "PVCON also creates inspection-ready training materials including SOPs, work instructions, quick reference guides, and assessment tools. All content is developed to meet regulatory expectations for documented training evidence, ensuring your organization can demonstrate a well-trained and competent PV workforce to inspectors from any regulatory authority."
+            "tag": "概览",
+            "heading": "培训矩阵和内容开发",
+            "p1": "PVCON 开发 <strong>调节培训矩阵和结构化内容</strong> ，确保您的药理警戒队保持欧盟GVP所要求的 <strong>能力。 林业发展局的期望和ICH准则</strong>. 我们的培训矩阵解决方案针对整个光电转换系统的组织作用、监管义务和业务责任制定了具体的学习要求。",
+            "p2": "我们设计以角色为基础的分阶段学习计划，为您的药房警戒组织中的每个职位——从个案处理者和安全科学家到高分辨率反车辆地雷和光电池反车辆地雷领导层——确定培训途径。 每项计划都包括明确的能力里程碑、评估标准和文件要求，这些要求表明了在监管检查期间的培训效力。",
+            "p3": "PVCON还制作了随时准备进行视察的培训材料，包括SOP、工作指示、快速参考指南和评估工具。 制定所有内容都是为了满足对有文件证明的培训证据的监管期望。 确保你们的组织能够向任何管理当局的检查员展示训练有素、干练的光电转换劳动力。"
           },
           "cta": {
-            "heading": "Build an Inspection-Ready Training Program",
-            "text": "Partner with PVCON to develop training matrices and content that demonstrate regulatory competency and keep your PV teams inspection-ready.",
-            "button": "Get in Touch"
+            "heading": "建立一个检查准备训练方案",
+            "text": "与 PVCON 合作开发培训矩阵和内容，以展示管理能力，并使您的PV团队随时准备就绪。",
+            "button": "加入Touch"
           }
         },
         "pv-boot-camp": {
           "hero": {
-            "tagline": "PV Boot Camp Programs",
-            "title": "Pharmacovigilance\nBoot Camp Programs",
-            "subtitle": "Intensive, industry-driven pharmacovigilance boot camp programs delivering end-to-end PV training with real-world case studies and practical hands-on exposure."
+            "tagline": "PV 引导营方案",
+            "title": "药剂警觉\n引导营方案",
+            "subtitle": "由行业推动的强化药房警戒启动营级方案，通过实时案例研究和实际操作接触提供终端至终端的光伏培训。"
           },
           "overview": {
-            "tag": "Overview",
-            "heading": "Pharmacovigilance (PV) Boot Camp Programs",
-            "p1": "PVCON's <strong>Pharmacovigilance Boot Camp Programs</strong> provide intensive, structured training designed to build <strong>job-ready PV professionals from the ground up</strong>. Our boot camps deliver comprehensive end-to-end pharmacovigilance education covering ICSR processing, signal management, aggregate reporting, risk management, and regulatory compliance across major global markets.",
-            "p2": "Each boot camp program combines theoretical foundations with real-world case studies, practical exercises, and simulated industry scenarios. Participants gain hands-on experience with safety database operations, MedDRA coding, causality assessment, narrative writing, and regulatory submission workflows — the core skills demanded by pharmaceutical and CRO employers worldwide.",
-            "p3": "PVCON's PV boot camps are designed for fresh graduates entering the pharmaceutical industry, career switchers moving into drug safety roles, and professionals seeking to strengthen their foundational PV knowledge. Our industry-experienced trainers ensure every participant develops the practical competence and regulatory awareness needed to contribute effectively from day one."
+            "tag": "概览",
+            "heading": "药剂警戒(PV)引导营方案",
+            "p1": "PVCON的 <strong>药剂警觉引导方案</strong> 提供强度， 旨在建立 <strong>随时待职的志愿专业人员的结构化培训</strong>我们的启动营地提供全面的端到端药剂警戒教育，涵盖国际化学品安全分类的处理、信号管理、综合报告、风险管理和各主要全球市场遵守规章的情况。",
+            "p2": "每个启动营程序都将理论基础与真实世界的案例研究、实际练习和模拟工业情景结合起来。 学员们在安全数据库操作、MedDRA编码、因果关系评估、叙述性写作方面获得亲身经验。 - 全球药房和皇家保险公司的雇主所要求的核心技能。",
+            "p3": "PVCON的光电池启动营是为进入制药业的新毕业生设计的。 职业切换者担任药物安全职务，专业人员力求加强其基本光电技术。 我们的行业经验丰富的培训员确保每个参与者能够发展从第一天起就有效作出贡献所需的实际能力和管理意识。"
           },
           "cta": {
-            "heading": "Launch Your Pharmacovigilance Career",
-            "text": "Join PVCON's intensive PV Boot Camp programs to gain the practical skills and industry knowledge needed to succeed in pharmacovigilance.",
-            "button": "Get in Touch"
+            "heading": "开启您的药剂警觉职业",
+            "text": "加入PVCON的强化光电池探测营方案，以获得成功进行药理警戒所需的实用技能和工业知识。",
+            "button": "加入Touch"
           }
         },
         "regulatory-compliance-training": {
           "hero": {
-            "tagline": "Regulatory & Compliance Training",
-            "title": "Regulatory &\nCompliance Training",
-            "subtitle": "Expert-led GVP, ICH-GCP, and GxP training programs that strengthen regulatory knowledge, ensure compliance, and prepare teams for audits and inspections."
+            "tagline": "监管与遵约培训",
+            "title": "管理与\n合规培训",
+            "subtitle": "由专家领导的全球志愿人员方案、国际人道主义排雷中心和全球方案培训方案，以加强监管知识，确保遵守，并筹备审计和检查小组。"
           },
           "overview": {
-            "tag": "Overview",
-            "heading": "Regulatory & Compliance Training",
-            "p1": "PVCON delivers <strong>expert-led regulatory and compliance training programs</strong> covering <strong>GVP, ICH-GCP, GLP, GMP, GDP, and broader GxP frameworks</strong>. Our programs are designed for pharmaceutical, biotechnology, and medical device professionals who need to maintain current knowledge of regulatory requirements and demonstrate compliance competency during audits and inspections.",
-            "p2": "Our training portfolio includes comprehensive programs on EU Good Pharmacovigilance Practices, ICH-GCP E6(R2) requirements, global regulatory updates, and evolving compliance frameworks across major health authorities. Each program is structured to provide practical understanding — not just theoretical knowledge — with real-world examples and regulatory case studies.",
-            "p3": "PVCON also provides specialized audit and inspection readiness training that prepares your teams to confidently handle regulatory inspections. Our trainers bring decades of direct experience with regulatory authorities including the EMA, FDA, MHRA, and PMDA, ensuring participants receive practical insights that translate directly into improved compliance performance."
+            "tag": "概览",
+            "heading": "监管与遵约培训",
+            "p1": "PVCON提供 <strong>由专家领导的管理和遵约培训方案</strong> 涵盖 <strong>GVP。 日内瓦国际人道主义排雷中心、全球土地方案、全球监测方案、国内生产总值、以及更广泛的全球方案框架</strong>。 我们的方案是为制药、生物技术设计的。 在审计和检查期间需要保持目前对管制要求的了解并证明遵守规定的能力的医疗设备专业人员。",
+            "p2": "我们的培训项目包括欧盟良好药剂警戒做法、日内瓦国际人道主义排雷中心-GCP E6(R2)要求、全球管理更新以及各主要卫生当局不断变化的遵守框架等方面的综合方案。 每个方案的结构都是为了提供实际理解——而不仅仅是理论知识——提供现实世界的实例和规范性案例研究。",
+            "p3": "PVCON还提供专门的审计和视察准备训练，使你的团队能够有信心地进行管制检查。 我们的教员带领了几十年来与管理当局的直接经验，这些管理当局包括环境管理局、林业发展局、人力资源管理局、以及管理和行政管理局。 确保与会者得到直接转化为改进遵守情况的实际见解。"
           },
           "cta": {
-            "heading": "Elevate Your Team's Regulatory Knowledge",
-            "text": "Invest in PVCON's regulatory and compliance training to ensure your teams are current, competent, and confident during regulatory engagements.",
-            "button": "Get in Touch"
+            "heading": "提高您团队的管理知识",
+            "text": "对PVCON的监管和遵守培训进行投资，以确保您的团队在监管工作中是最新的、胜任的和有信心的。",
+            "button": "加入Touch"
           }
         },
         "customized-learnings": {
           "hero": {
-            "tagline": "Customized Learning Solutions",
-            "title": "Customized\nLearning Solutions",
-            "subtitle": "Tailored corporate training programs, refresher sessions, and continuous professional development modules designed to meet your organization's specific regulatory and operational needs."
+            "tagline": "自定义学习解决办法",
+            "title": "自定义\n学习解决办法",
+            "subtitle": "针对企业培训方案、复习课程和旨在满足本组织具体管理和业务需要的持续专业发展单元。"
           },
           "overview": {
-            "tag": "Overview",
-            "heading": "Customized Learning Solutions",
-            "p1": "PVCON designs and delivers <strong>customized learning solutions</strong> tailored to your organization's specific <strong>regulatory environment, operational complexity, and workforce development objectives</strong>. Unlike off-the-shelf training, our programs are built around your SOPs, systems, therapeutic areas, and compliance challenges to ensure maximum relevance and immediate applicability.",
-            "p2": "Our customized offerings include corporate training programs for entire PV departments, targeted refresher sessions addressing specific compliance gaps or regulatory changes, and structured continuous professional development modules that maintain workforce competency over time. Each program is designed in collaboration with your team to align with organizational priorities.",
-            "p3": "PVCON's experienced trainers adapt content delivery to suit your learning environment — whether on-site workshops, virtual instructor-led sessions, or blended formats. We provide post-training assessments, competency tracking documentation, and follow-up support to ensure knowledge retention and demonstrable compliance improvement across your pharmacovigilance operations."
+            "tag": "概览",
+            "heading": "自定义学习解决办法",
+            "p1": "PVCON 设计并提供 <strong>定制学习方案</strong> 适合您组织的特定 <strong>监管环境、业务复杂性和工作人员发展目标</strong>. 与现成的培训不同，我们的方案是围绕着您的SOP、系统、治疗领域和遵守方面的挑战来建立的，目的是确保最大限度的相关性和立即适用性。",
+            "p2": "我们定制的课程包括为整个光电系统部门举办的整体培训方案，针对具体的遵守差距或规章制度变化的有针对性的复习课程。 • 长期保持工作人员能力的结构性持续职业发展单元； 每个方案都是与你的团队合作设计的，以配合组织优先事项。",
+            "p3": "PVCON有经验的教员根据你的学习环境——不论是现场讲习班、虚拟讲师导师引导的课程还是混合格式——调整内容传输。 我们提供培训后评估、能力追踪文件和后续支助，以确保在您的药理警戒行动中保持知识并明显改进遵守情况。"
           },
           "cta": {
-            "heading": "Need Training Tailored to Your Team?",
-            "text": "Let PVCON design a customized learning program that addresses your organization's unique pharmacovigilance training needs and compliance requirements.",
-            "button": "Get in Touch"
+            "heading": "需要为你的团队调整训练？",
+            "text": "让PVCON设计一个定制的学习方案，满足您组织独特的药理警觉培训需要和遵守要求。",
+            "button": "加入Touch"
           }
         }
       }
     },
     "medical-writing": {
       "title": "医学写作",
-      "description": "科学严谨且符合监管要求的安全文档，支持全球市场的产品生命周期管理。",
+      "description": "在全球市场上支持对药效警戒、临床开发和产品生命周期管理的科学强有力和符合管理条例的医疗写作服务。",
       "hero": {
-        "tagline": "医学写作服务",
-        "title": "医学\n写作",
-        "subtitle": "PVCON提供科学严谨且符合监管要求的安全文档，支持全球市场的产品生命周期管理。"
+        "tagline": "医疗写作服务",
+        "title": "医疗\n写入",
+        "subtitle": "PVCON提供科学上强有力和符合管理规定的医疗写作服务，支持药理警戒、临床开发和产品生命周期管理跨全球市场。"
       },
       "overview": {
         "tag": "概览",
         "heading": "医学写作",
-        "p1": "PVCON提供<strong>科学严谨且符合监管要求的安全文档</strong>，支持全球市场的产品生命周期管理。",
-        "p2": "我们的医学写作专业知识涵盖风险管理计划、汇总安全报告、全球标签以及全面的临床和安全文档——确保每份交付物达到科学严谨性和监管合规的最高标准。"
+        "p1": "PVCON提供科学上强有力和符合管理规定的医疗写作服务，支持药理警戒、临床开发和产品生命周期管理跨全球市场。",
+        "p2": "我们的专门知识包括风险管理、综合安全报告和临床文件，确保所有可达到的目标都符合科学准确性和遵守率高的全球管制标准。"
       },
       "subcategories": {
-        "sectionLabel": "我们的专长",
-        "heading": "我们的医学写作能力",
+        "sectionLabel": "我们的专门知识",
+        "heading": "我们的医疗写作能力",
         "rmp-rems-writing": {
-          "title": "风险管理计划（RMP/REMS）",
-          "description": "制定和维护风险管理计划及风险评估和缓解策略，包含全面的风险最小化规划。",
+          "title": "风险管理计划 (RMP/REMS)",
           "bullets": [
-            "RMP和REMS编写与维护",
-            "风险最小化规划",
-            "生命周期安全监测策略"
+            "RMP 和 REMS 开发和生命周期维护",
+            "风险最小化和安全战略规划",
+            "现行安全监视和风险管理框架"
           ]
         },
         "aggregate-report-writing": {
-          "title": "汇总安全报告",
-          "description": "编写定期汇总安全报告，包含全面的安全数据分析和获益-风险评估。",
+          "title": "聚合安全报告",
           "bullets": [
-            "PSUR / PBRER编写",
-            "PADER、EU-ASR、年度报告",
-            "安全数据行列表和分析",
-            "获益-风险评估报告"
-          ]
-        },
-        "global-labeling": {
-          "title": "全球标签文档",
-          "description": "开发和维护核心数据表和区域标签文件，确保各市场的监管一致性。",
-          "bullets": [
-            "CCDS开发与维护",
-            "SmPC、USPI、PIL及区域标签更新"
+            "PSUR / PBRER / PADER 准备和审查",
+            "安全数据分析和列表中",
+            "惠益风险评估和监管报告"
           ]
         },
         "clinical-safety-documents": {
           "title": "临床与安全文档",
-          "description": "全面的临床和安全文档，支持监管提交和产品生命周期管理。",
           "bullets": [
-            "临床开发计划、临床试验注册报告",
-            "临床概述/总结",
-            "临床研究报告",
-            "知情同意书",
-            "研究者手册及年度更新",
-            "患者安全叙述",
-            "方案",
-            "监管/卫生当局（HA）回复文件（SER、STR等）",
-            "CTD和NDA的安全与临床部分",
-            "全球药物警戒计划",
-            "科学手稿和出版物"
+            "临床发展计划和临床研究报告 (CSR)",
+            "议定书、调查人员小册子和知情同意书",
+            "病人的安全说明和管制性反应文件",
+            "CTD/NDA临床和安全部分",
+            "全球光电转换计划和科学出版物"
           ]
         }
       },
       "whyPvcon": {
-        "tag": "为什么选择PVCON",
-        "heading": "为什么选择PVCON进行医学写作？",
+        "tag": "为什么PVCON",
+        "heading": "为什么选择 PVCON 进行医学撰写？",
         "points": {
           "01": {
-            "title": "PV专业写手",
-            "description": "我们的医学写手专注于药物警戒和安全文档——为每个项目带来科学深度和监管写作专业知识。"
+            "title": "专业作家",
+            "description": "我们的医学作家专门从事药理警戒和安全文件——为每个项目带来科学深度和管理写作方面的专门知识。"
           },
           "02": {
-            "title": "监管精准",
-            "description": "每份文件都经过精心编制以满足目标监管机构的特定要求，配备严格的质量控制和合规审查流程。"
+            "title": "规范性精度",
+            "description": "每份文件都是为了满足目标管理当局的具体要求，并有严格的质量控制和遵守情况审查程序。"
           },
           "03": {
             "title": "端到端支持",
-            "description": "从初稿到监管反馈和更新，我们在整个文档生命周期中提供持续支持。"
+            "description": "从最初起草到管理反馈和更新，我们在整个文件存在期间不断提供支持。"
           }
         }
       },
       "cta": {
-        "heading": "需要专业的医学写作支持？",
-        "text": "信赖PVCON专业医学写作团队，提供清晰、合规且科学严谨的安全文档。",
+        "heading": "需要专家医疗写作支持？",
+        "text": "信任PVCON的专门医疗写作小组提供清晰、符合要求和科学严格的安全文件。",
         "button": "讨论您的项目"
       },
       "subPages": {
         "rmp-rems-writing": {
           "hero": {
-            "tagline": "Risk Management Plans",
+            "tagline": "风险管理计划",
             "title": "Risk Management\nPlans (RMP/REMS)",
-            "subtitle": "Expert development and lifecycle maintenance of Risk Management Plans and REMS programs — ensuring effective risk minimization and regulatory compliance throughout the product lifecycle."
+            "subtitle": "专家开发和生命周期维护风险管理计划和REMS方案——确保在整个产品寿命周期有效地尽量减少风险和遵守规章。"
           },
           "overview": {
-            "tag": "Overview",
-            "heading": "Risk Management Plans (RMP/REMS)",
+            "tag": "概览",
+            "heading": "风险管理计划 (RMP/REMS)",
             "p1": "PVCON provides expert <strong>Risk Management Plan (RMP) and REMS development services</strong> that meet the requirements of the <strong>EMA, FDA, and global regulatory authorities</strong>. Our medical writers and pharmacovigilance specialists collaborate to produce comprehensive risk management documents that define safety specifications, pharmacovigilance plans, and risk minimization measures for your medicinal products.",
-            "p2": "Our services cover the complete RMP lifecycle — from initial development during clinical development through post-authorization updates triggered by new safety data, regulatory requests, or periodic renewal. We also develop FDA Risk Evaluation and Mitigation Strategies (REMS) including ETASU elements, medication guides, and communication plans as required.",
-            "p3": "PVCON supports organizations with risk minimization strategy planning, additional risk minimization measures design, effectiveness evaluation frameworks, and ongoing safety surveillance integration. Our RMP documents are crafted with scientific rigor and regulatory precision, ensuring successful submissions and efficient regulatory review cycles across all target markets."
+            "p2": "我们的服务涵盖整个RMP生命周期——从临床开发期间的初始发育到新的安全数据引发的授权后更新。 管理要求或定期续期。 我们还根据需要制定林业发展局风险评估和减轻战略，包括ETASU要素、药品指南和宣传计划。 (REMS)",
+            "p3": "PVCON支持各组织进行风险最小化战略规划、更多的风险最小化措施设计、成效评估框架和持续的安全监测一体化。 我们的RMP文件是以严格的科学和管理精确度编制的，确保所有目标市场成功提交文件和高效率的监管审查周期。"
           },
           "cta": {
-            "heading": "Need Expert RMP/REMS Support?",
-            "text": "Trust PVCON's specialized team to develop and maintain Risk Management Plans that satisfy regulatory requirements and effectively minimize product risks.",
-            "button": "Get in Touch"
+            "heading": "需要专家 RMP/REMS 支持吗？",
+            "text": "信任PVCON的专门小组制定和维持风险管理计划，以满足管理要求，有效地尽量减少产品风险。",
+            "button": "加入Touch"
           }
         },
         "aggregate-report-writing": {
           "hero": {
-            "tagline": "Aggregate Safety Reporting",
-            "title": "Aggregate\nSafety Reports",
-            "subtitle": "Comprehensive PSUR, PBRER, and PADER preparation with rigorous safety data analysis, benefit-risk assessment, and regulatory-compliant reporting across global markets."
+            "tagline": "聚合安全报告",
+            "title": "聚合\n安全报告",
+            "subtitle": "在全球市场上进行严格的安全数据分析、惠益-风险评估和遵守监管规定的报告，以综合全面的PSUR、PBRER和PADER 编写。"
           },
           "overview": {
-            "tag": "Overview",
-            "heading": "Aggregate Safety Reports",
+            "tag": "概览",
+            "heading": "聚合安全报告",
             "p1": "PVCON delivers <strong>high-quality aggregate safety report writing services</strong> including <strong>PSURs, PBRERs, PADERs, and DSURs</strong> that meet the requirements of the EMA, FDA, and other global regulatory authorities. Our medical writers combine scientific expertise with deep regulatory knowledge to produce reports that accurately characterize the evolving benefit-risk profile of your medicinal products.",
-            "p2": "Our aggregate reporting services encompass comprehensive safety data analysis, preparation of line listings and summary tabulations, critical evaluation of new safety information, and detailed benefit-risk assessments. We ensure all reports are prepared in compliance with ICH E2C(R2) guidelines, EU GVP Module VII, and applicable local regulatory requirements.",
-            "p3": "PVCON manages the full aggregate report lifecycle — from data lock point planning and safety data retrieval through authoring, quality review, and submission-ready finalization. Our systematic approach ensures consistency, scientific accuracy, and on-time delivery, helping your organization maintain uninterrupted regulatory compliance across all markets where your products are authorized."
+            "p2": "我们的综合报告服务包括全面的安全数据分析、编制列名和汇总表， • 对新的安全信息进行严格评价，并进行详细的惠益风险评估。 我们确保所有报告都是按照ICHE2C(R2)准则、欧盟全球价值链模块七以及适用的地方管理要求编写的。",
+            "p3": "PVCON管理完整的汇总报告生命周期——从数据锁定点规划和安全数据检索到发证、质量审查和提交即时定稿。 我们的系统做法确保一致性、科学准确性和及时交付，帮助贵组织在授权您的产品的所有市场上不间断地遵守规章。"
           },
           "cta": {
-            "heading": "Streamline Your Aggregate Reporting",
-            "text": "Partner with PVCON for expert preparation of PSURs, PBRERs, and aggregate safety reports that meet global regulatory standards with scientific precision.",
-            "button": "Get in Touch"
+            "heading": "简化您的聚合报告",
+            "text": "与聚氯乙烯（PVCON）合作编写PSUR、PBRER以及符合科学精确程度的全球管理标准的综合安全报告。",
+            "button": "加入Touch"
           }
         },
         "clinical-safety-documents": {
           "hero": {
-            "tagline": "Clinical & Safety Documentation",
-            "title": "Clinical & Safety\nDocumentation",
-            "subtitle": "Comprehensive clinical and safety document writing — from Clinical Study Reports and protocols to patient safety narratives, CTD sections, and regulatory response documents."
+            "tagline": "临床与安全文档",
+            "title": "临床与安全\n文档",
+            "subtitle": "综合性临床和安全文件撰写——从临床研究报告和规程到病人安全说明、病媒传染性疾病科和管制性反应文件。"
           },
           "overview": {
-            "tag": "Overview",
-            "heading": "Clinical & Safety Documentation",
-            "p1": "PVCON provides <strong>end-to-end clinical and safety documentation services</strong> supporting the entire <strong>product development lifecycle from clinical planning through regulatory submission and post-authorization</strong>. Our medical writers produce scientifically robust documents including Clinical Development Plans, Clinical Study Reports (CSRs), protocols, Investigator Brochures, and informed consent forms that meet ICH and regulatory authority requirements.",
-            "p2": "Our safety documentation expertise includes patient safety narratives for serious and unexpected adverse events, regulatory response documents addressing health authority queries, and CTD/NDA clinical and safety sections prepared for regulatory submissions. Every document undergoes rigorous quality review to ensure scientific accuracy, regulatory compliance, and internal consistency.",
-            "p3": "PVCON also develops global pharmacovigilance plans, risk management documentation, and scientific publications for peer-reviewed journals. Our writers work closely with your clinical, safety, and regulatory teams to ensure all documentation is aligned with your development strategy, submission timelines, and the specific requirements of target regulatory authorities worldwide."
+            "tag": "概览",
+            "heading": "临床与安全文档",
+            "p1": "PVCON 提供 <strong>端到端的临床和安全文件服务</strong>，支持整个 <strong>产品开发生命周期，从临床规划到监管提交和授权后阶段</strong>。我们的医学作家制作科学严谨的文件，包括临床发展计划、临床研究报告(CSRs)、方案、研究者手册和知情同意表格，以符合ICH和监管当局的要求。",
+            "p2": "我们的安全文件专门知识包括患者对严重和意外不利事件的安全说明。 关于卫生当局查询的管制应对文件，以及为提交管制材料而编写的CTD/NDA临床和安全部分。 每份文件都经过严格的质量审查，以确保科学的准确性、遵守规章制度和内部的一致性。",
+            "p3": "PVCON还制定全球药理警戒计划、风险管理文件和供同行审查的刊物使用的科学出版物。 我们的作者与您的临床、安全和监管团队密切合作，确保所有文档都符合您的开发战略。 提交期限和全世界目标监管当局的具体要求。"
           },
           "cta": {
-            "heading": "Need Clinical Documentation Support?",
-            "text": "Engage PVCON's experienced medical writers to deliver clear, compliant clinical and safety documents that support successful regulatory outcomes.",
-            "button": "Get in Touch"
+            "heading": "需要临床文档支持？",
+            "text": "让PVCON有经验的医学作家提供清晰、符合要求的临床和安全文件，以支持监管工作的成功结果。",
+            "button": "加入Touch"
           }
         }
       }
