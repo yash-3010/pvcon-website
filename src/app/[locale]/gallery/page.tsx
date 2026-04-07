@@ -3,9 +3,10 @@ import { getTranslations } from "next-intl/server";
 import { siteDetails } from "@/data/common/siteDetails";
 import { getAlternateUrls, getCanonicalUrl } from "@/lib/i18n-utils";
 import PageHero from "@/components/PageHero";
-import FadeInView from "@/components/FadeInView";
 import GeometricBg from "@/components/GeometricBg";
-import GalleryGrid from "@/components/gallery/GalleryGrid";
+import GalleryTimeline from "@/components/gallery/GalleryTimeline";
+import { getHydratedEvents, getYearGroups } from "@/lib/gallery-events";
+import type { EventLocale } from "@/types/gallery";
 import galleryImages from "@/data/gallery/images.json";
 
 interface Props {
@@ -54,6 +55,9 @@ export default async function GalleryPage({ params: { locale } }: Props) {
   const tMeta = await getTranslations({ locale, namespace: "metadata.gallery" });
   const canonical = getCanonicalUrl(locale, "/gallery");
 
+  const events = getHydratedEvents();
+  const yearGroups = getYearGroups(events);
+
   const jsonLd = [
     {
       "@context": "https://schema.org",
@@ -88,21 +92,21 @@ export default async function GalleryPage({ params: { locale } }: Props) {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 
-      {/* ── Hero Section ─────────────────────────────────────── */}
       <PageHero
         label={t("hero.tagline")}
         heading={t("hero.title")}
         subtitle={t("hero.subtitle")}
       />
 
-      {/* ── Gallery Grid ─────────────────────────────────────── */}
-      <section className="relative py-12 lg:py-20 px-5 overflow-hidden">
+      <section className="relative py-12 lg:py-24 overflow-hidden">
         <GeometricBg />
-        <div className="max-w-7xl mx-auto">
-          <FadeInView>
-            <GalleryGrid images={galleryImages} />
-          </FadeInView>
-        </div>
+        <GalleryTimeline
+          events={events}
+          yearGroups={yearGroups}
+          locale={locale as EventLocale}
+          scrollHintLabel={t("timeline.scrollHint")}
+          emptyStateLabel={t("timeline.emptyState")}
+        />
       </section>
     </>
   );
