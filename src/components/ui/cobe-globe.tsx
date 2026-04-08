@@ -278,46 +278,6 @@ export function Globe({
             />
           </div>
         ))}
-      {arcs
-        .filter((a) => a.label)
-        .map((a) => (
-          <div
-            key={a.id}
-            style={{
-              position: "absolute",
-              positionAnchor: `--cobe-arc-${a.id}`,
-              bottom: "anchor(top)",
-              left: "anchor(center)",
-              translate: "-50% 0",
-              marginBottom: 8,
-              padding: "2px 6px",
-              background: "#fff",
-              color: "#1a1a2e",
-              fontFamily: "monospace",
-              fontSize: "0.6rem",
-              letterSpacing: "0.08em",
-              textTransform: "uppercase" as const,
-              whiteSpace: "nowrap" as const,
-              pointerEvents: "none" as const,
-              boxShadow: "0 1px 4px rgba(0,0,0,0.1)",
-              opacity: `var(--cobe-visible-arc-${a.id}, 0)`,
-              filter: `blur(calc((1 - var(--cobe-visible-arc-${a.id}, 0)) * 8px))`,
-              transition: "opacity 0.8s, filter 0.8s",
-            }}
-          >
-            {a.label}
-            <span
-              style={{
-                position: "absolute",
-                top: "100%",
-                left: "50%",
-                transform: "translate3d(-50%, -1px, 0)",
-                border: "5px solid transparent",
-                borderTopColor: "#fff",
-              }}
-            />
-          </div>
-        ))}
     </div>
   )
 }
