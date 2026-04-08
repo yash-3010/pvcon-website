@@ -9,6 +9,9 @@ import GeometricBg from "@/components/GeometricBg";
 import PageHero from "@/components/PageHero";
 import SectionLabel from "@/components/SectionLabel";
 import { FiShield, FiLock, FiCloud, FiFileText, FiCpu, FiGlobe, FiClock, FiGitBranch, FiDatabase, FiZap } from "react-icons/fi";
+import { RiSecurePaymentLine } from "react-icons/ri";
+import { GrCertificate } from "react-icons/gr";
+import { PiCertificateBold } from "react-icons/pi";
 
 interface Props {
   params: { locale: string };
@@ -49,7 +52,7 @@ export async function generateMetadata({ params: { locale } }: Props): Promise<M
 }
 
 const featureIcons = [FiCpu, FiGlobe, FiClock, FiGitBranch, FiDatabase, FiZap];
-const certIcons = [FiShield, FiFileText, FiShield, FiShield];
+const certIcons = [GrCertificate, FiFileText, PiCertificateBold, RiSecurePaymentLine];
 const securityIcons = [FiLock, FiShield, FiCloud, FiFileText];
 
 export default async function PsmfManagerPage({ params: { locale } }: Props) {

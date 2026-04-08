@@ -43,7 +43,7 @@ const Footer: React.FC = async () => {
             {t("subheading")}
           </p>
         </div>
-        <div className="mt-14 lg:mt-0">
+        <div>
           <h2 className="text-xs font-semibold uppercase tracking-wider mb-5 text-white/70">
             {t("quickLinksTitle")}
           </h2>
