@@ -94,7 +94,7 @@ const FlagshipSolutions: React.FC = async () => {
   const t = await getTranslations("flagshipSolutions");
 
   return (
-    <section className="relative py-20 lg:py-32 px-5 overflow-hidden">
+    <section className="relative py-20 lg:py-10 px-5 overflow-hidden">
       {/* Subtle radial glow behind hub */}
       <div className="absolute inset-0 -z-10" aria-hidden="true">
         <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[700px] h-[700px] rounded-full bg-primary/[0.04] blur-3xl" />

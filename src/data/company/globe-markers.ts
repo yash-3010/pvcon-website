@@ -7,17 +7,16 @@ import { countryCoordinates } from "./country-coordinates";
  */
 const labelledCountries: Record<string, string> = {
   US: "USA",
-  BR: "Brazil",
-  GB: "UK",
   DE: "Germany",
-  IN: "India",
+  GB: "UK",
   JP: "Japan",
+  CN: "China",
+  BR: "Brazil",
+  SG: "Singapore",
   AE: "UAE",
   ZA: "South Africa",
-  SG: "Singapore",
   SA: "Saudi Arabia",
   TR: "Turkey",
-  CN: "China",
   MX: "Mexico",
   AU: "Australia",
 };
@@ -48,6 +47,7 @@ type Arc = {
 };
 
 export const globeArcs: Arc[] = [
+  // india to all labelledCountries 
   {
     id: "india-usa",
     from: [20.5937, 78.9629], // India
@@ -55,33 +55,75 @@ export const globeArcs: Arc[] = [
     label: "India → USA",
   },
   {
+    id: "india-germany",
+    from: [20.5937, 78.9629], // India
+    to: [51.1657, 10.4515], // Germany
+    label: "India → Germany",
+  },
+  {
     id: "india-uk",
-    from: [20.5937, 78.9629],
-    to: [55.3781, -3.4360],
+    from: [20.5937, 78.9629], // India
+    to: [55.3781, -3.4360], // UK
     label: "India → UK",
   },
   {
-    id: "india-uae",
-    from: [20.5937, 78.9629],
-    to: [23.4241, 53.8478],
-    label: "India → UAE",
+    id: "india-japan",
+    from: [20.5937, 78.9629], // India
+    to: [36.2048, 138.2529], // Japan
+    label: "India → Japan",
+  },
+  {
+    id: "india-china",
+    from: [20.5937, 78.9629], // India
+    to: [35.8617, 104.1954], // China
+    label: "India → China",
+  },
+  {
+    id: "india-brazil",
+    from: [20.5937, 78.9629], // India
+    to: [-14.2350, -51.9253], // Brazil
+    label: "India → Brazil",
   },
   {
     id: "india-singapore",
-    from: [20.5937, 78.9629],
-    to: [1.3521, 103.8198],
+    from: [20.5937, 78.9629], // India
+    to: [1.3521, 103.8198], // Singapore
     label: "India → Singapore",
   },
   {
-    id: "europe-usa",
-    from: [50.1109, 8.6821], // Germany-ish central EU
-    to: [37.0902, -95.7129],
-    label: "Europe → USA",
+    id: "india-uae",
+    from: [20.5937, 78.9629], // India
+    to: [23.4241, 53.8478], // UAE
+    label: "India → UAE",
   },
   {
-    id: "asia-europe",
-    from: [35.6762, 139.6503], // Japan
-    to: [48.8566, 2.3522], // France
-    label: "Japan → France",
+    id: "india-southafrica",
+    from: [20.5937, 78.9629], // India
+    to: [-30.5595, 22.9375], // South Africa
+    label: "India → South Africa",
+  },
+  {
+    id: "india-saudiarabia",
+    from: [20.5937, 78.9629], // India
+    to: [23.8859, 45.0792], // Saudi Arabia
+    label: "India → Saudi Arabia",
+  },
+  {
+    id: "india-turkey",
+    from: [20.5937, 78.9629], // India
+    to: [38.9637, 35.2433], // Turkey
+    label: "India → Turkey",
+  },
+  {
+    id: "india-mexico",
+    from: [20.5937, 78.9629], // India
+    to: [23.6345, -102.5528], // Mexico
+    label: "India → Mexico",
+  },
+  {
+    id: "india-australia",
+    from: [20.5937, 78.9629], // India
+    to: [-25.2744, 133.7751], // Australia
+    label: "India → Australia",
   },
 ];
