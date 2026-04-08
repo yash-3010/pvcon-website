@@ -1,9 +1,8 @@
-const siteUrl = 'https://pvcon-website.vercel.app';
+const siteUrl = 'https://pvconconsulting.com';
 const siteLogo = '/images/logo.svg';
 
 export const siteDetails = {
     siteName: 'PVCON Consulting',
-    // siteUrl: 'https://www.pvcon.in',
     siteUrl,
     metadata: {
         title: 'PVCON | GxP Auditing & Pharmacovigilance Consulting Services',
@@ -13,5 +12,4 @@ export const siteDetails = {
     locale: 'en-US',
     siteLogo,
     siteLogoUrl: `${siteUrl}${siteLogo}`,
-    googleAnalyticsId: '', // e.g. G-XXXXXXX
 }

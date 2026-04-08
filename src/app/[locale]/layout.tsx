@@ -20,6 +20,8 @@ const font = Plus_Jakarta_Sans({
   display: 'swap',
 });
 
+const GOOGLE_ANALYTICS_ID = process.env.NEXT_PUBLIC_GOOGLE_ANALYTICS_ID || "G-XXXXXXX";
+
 interface Props {
   children: React.ReactNode;
   params: { locale: string };
@@ -92,9 +94,7 @@ export default async function LocaleLayout({ children, params: { locale } }: Pro
   return (
     <html lang={locale}>
       <body className={`${font.className} antialiased flex flex-col min-h-screen`}>
-        {siteDetails.googleAnalyticsId && (
-          <GoogleAnalytics gaId={siteDetails.googleAnalyticsId} />
-        )}
+        <GoogleAnalytics gaId={GOOGLE_ANALYTICS_ID} />
         <NextIntlClientProvider messages={messages}>
           <Header />
           <main className="flex-1">{children}</main>
