@@ -220,7 +220,7 @@
           "title": "ローカル PvOI サービス",
           "description": "CDSCOコンプライアンスとPV監視を確実にするため、ローカルPvOIサービスを提供しています。",
           "bullets": [
-            "薬物安全に関する規制当局への接触点",
+            "薬物安全の規制当局への接触点",
             "PSMFのレビューとメンテナンス",
             "PVコンプライアンスとレポートの監視",
             "規制調整 (CDSCO/PvPI)",
@@ -232,31 +232,20 @@
           "description": "当社は、堅牢なPVシステムの構築またはスケーリングにおいて、中小製薬会社をサポートしています。",
           "bullets": [
             "組織と職務の説明",
-            "SOPと作業指示の開発",
+            "SOPと作業指示",
             "質の高い政策とガバナンスのフレームワーク",
-            "CAPAおよび偏差管理システム",
+            "CAPAおよび偏差管理",
             "SDEA / Pharmacovigilance Agreements (PVA)"
-          ]
-        },
-        "audit-inspection-readiness": {
-          "title": "監査計画と検査の準備",
-          "description": "リスクベースの監視を通じて、継続的な検査準備を可能にします。",
-          "bullets": [
-            "PV 監査の計画と実行",
-            "モック検査とシミュレーション",
-            "CAPA戦略と追跡",
-            "検査文書のレビュー",
-            "内部監査人のトレーニング"
           ]
         },
         "regulatory-intelligence": {
           "title": "規制インテリジェンス",
           "description": "当社は、組織がグローバルPV規制の進化を先取りするのを支援します。",
           "bullets": [
-            "規制の監視と更新",
-            "影響評価と実装戦略",
+            "規制インテリジェンスの監視と更新",
+            "影響評価と戦略",
             "安全レポートの配置",
-            "コンプライアンスのベンチマークとアドバイス"
+            "コンプライアンスのベンチマーク/KPAとアドバイス"
           ]
         }
       },
@@ -322,25 +311,6 @@
             "button": "連絡を取る"
           }
         },
-        "audit-inspection-readiness": {
-          "hero": {
-            "tagline": "監査計画と検査の準備",
-            "title": "Audit Planning &\nInspection Readiness",
-            "subtitle": "積極的な監査計画と検査準備サービスは、リスクベースの監視、モック検査、CAPA管理を通じて継続的なコンプライアンスを可能にします。"
-          },
-          "overview": {
-            "tag": "概要",
-            "heading": "監査計画と検査の準備",
-            "p1": "PVCON enables organizations to achieve and maintain <strong>continuous inspection readiness</strong> through structured <strong>risk-based audit planning, mock inspections, and systematic CAPA management</strong>. Our approach shifts your PV compliance posture from reactive remediation to proactive preparedness, ensuring your systems and teams are always audit-ready.",
-            "p2": "当社のサービスには、リスクベースのPV監査計画の開発、内部PV監査の実行などが含まれます。 EMA、FDA、MHRA、CDSCOなどの機関から規制当局の精査をシミュレートする現実的な模擬検査を行う。 これらのシミュレーションは、脆弱性を特定し、検査条件下で自信を持って対応するようチームに訓練するのに役立ちます。",
-            "p3": "PVCONはまた、包括的なCAPA戦略の開発と追跡、完全性と正確性を確保するための検査ドキュメントのレビュー、および内部監査人トレーニングプログラムも提供しています。 当社の経験豊富なコンサルタントは、多数の規制検査を通じて組織を成功裏に導き、お客様のチームが継続的なコンプライアンスのために必要とする内部機能を構築するのに役立ちます。"
-          },
-          "cta": {
-            "heading": "次回の検査の準備",
-            "text": "PVCONは、専門家の監査計画、模擬検査、およびCAPA管理サポートを通じて、お客様の日常業務に検査準備を構築します。",
-            "button": "連絡を取る"
-          }
-        },
         "regulatory-intelligence": {
           "hero": {
             "tagline": "規制インテリジェンスサービス",
@@ -366,8 +336,8 @@
       "title": "トレーニングとアップスキル",
       "description": "グローバル市場における規制能力、就労準備、検査準備を構築するために設計された、学習と専門的な開発プログラムの構造化。",
       "hero": {
-        "tagline": "トレーニングとスキルアッププログラム",
-        "title": "トレーニングと\nアップスキルプログラム",
+        "tagline": "トレーニングとスキルアップ",
+        "title": "トレーニングと\nアップスキル",
         "subtitle": "PVCONは、グローバル市場で規制能力、就職準備、検査準備を構築するために設計された、構造化された学習および専門的な開発プログラムを提供します。"
       },
       "overview": {
@@ -398,17 +368,17 @@
         "regulatory-compliance-training": {
           "title": "規制・コンプライアンストレーニング",
           "bullets": [
-            "GVP、ICH-GCP、GxP プログラム",
+            "GVP、GCP、GxP プログラム",
             "グローバル規制の更新とコンプライアンスフレームワーク",
             "監査および検査準備訓練"
           ]
         },
         "customized-learnings": {
-          "title": "カスタマイズされた学習ソリューション",
+          "title": "カスタマイズされた高等学習ソリューション",
           "bullets": [
             "企業研修プログラム",
             "更新者と規制コンプライアンスセッション",
-            "継続的なプロ開発モジュール"
+            "継続的なプロ開発マスタークラス"
           ]
         }
       },
@@ -422,7 +392,7 @@
           },
           "02": {
             "title": "カスタムアプローチ",
-            "description": "一般的なコンテンツではなく、組織のニーズ、役割、規制環境に合わせたプログラム。"
+            "description": "PVCONは、科学的に堅牢で規制に準拠した医療文書サービスを提供し、世界中の市場で薬物動態、臨床開発、および製品ライフサイクル管理をサポートします。"
           },
           "03": {
             "title": "測定可能な結果",
@@ -478,13 +448,13 @@
           "hero": {
             "tagline": "規制・コンプライアンストレーニング",
             "title": "規制と\nコンプライアンストレーニング",
-            "subtitle": "GVP、ICH-GCP、およびGxPトレーニングプログラムは、規制に関する知識を強化し、コンプライアンスを確保し、監査と検査のためのチームを準備します。"
+            "subtitle": "GVP、GCP、およびGxPトレーニングプログラムは、規制に関する知識を強化し、コンプライアンスを確保し、監査と検査のためのチームを準備します。"
           },
           "overview": {
             "tag": "概要",
             "heading": "規制・コンプライアンストレーニング",
-            "p1": "PVCON delivers <strong>expert-led regulatory and compliance training programs</strong> covering <strong>GVP, ICH-GCP, GLP, GMP, GDP, and broader GxP frameworks</strong>. Our programs are designed for pharmaceutical, biotechnology, and medical device professionals who need to maintain current knowledge of regulatory requirements and demonstrate compliance competency during audits and inspections.",
-            "p2": "当社のトレーニングポートフォリオには、EUのGood Pharmacoviliance Practices、ICH-GCP E6(R2)要件、グローバル規制の更新、および主要保健当局間のコンプライアンスフレームワークの進化に関する包括的なプログラムが含まれています。 それぞれのプログラムは、理論的な知識だけではなく、現実世界の実例や規制事例を用いて実践的な理解を提供するように構成されています。",
+            "p1": "PVCON delivers <strong>expert-led regulatory and compliance training programs</strong> covering <strong>GVP, GCP, GLP, GMP, GDP, and broader GxP frameworks</strong>. Our programs are designed for pharmaceutical, biotechnology, and medical device professionals who need to maintain current knowledge of regulatory requirements and demonstrate compliance competency during audits and inspections.",
+            "p2": "当社のトレーニングポートフォリオには、EUのGood Pharmacoviliance Practices、GCP E6(R2)要件、グローバル規制の更新、および主要保健当局間のコンプライアンスフレームワークの進化に関する包括的なプログラムが含まれています。 それぞれのプログラムは、理論的な知識だけではなく、現実世界の実例や規制事例を用いて実践的な理解を提供するように構成されています。",
             "p3": "PVCONでは、自信を持って規制検査を処理するための専門的な監査および検査準備トレーニングも提供しています。 私たちのトレーナーは、EMA、FDA、MHRA、およびPMDAを含む規制当局に数十年の直接経験をもたらします。 コンプライアンスの改善に直接役立つ実践的な洞察を参加者に提供します"
           },
           "cta": {
@@ -495,20 +465,20 @@
         },
         "customized-learnings": {
           "hero": {
-            "tagline": "カスタマイズされた学習ソリューション",
-            "title": "カスタマイズされた\n学習ソリューション",
-            "subtitle": "法人向けトレーニングプログラム、リフレッシュセッション、および継続的な専門開発モジュールは、組織の特定の規制や運用上のニーズを満たすように設計されています。"
+            "tagline": "カスタマイズされた高等学習ソリューション",
+            "title": "カスタマイズされた\n高等学習ソリューション",
+            "subtitle": "法人向けトレーニングプログラム、リフレッシュセッション、および継続的な専門開発マスタークラスは、組織の特定の規制や運用上のニーズを満たすように設計されています。"
           },
           "overview": {
             "tag": "概要",
-            "heading": "カスタマイズされた学習ソリューション",
-            "p1": "PVCON designs and delivers <strong>customized learning solutions</strong> tailored to your organization's specific <strong>regulatory environment, operational complexity, and workforce development objectives</strong>. Unlike off-the-shelf training, our programs are built around your SOPs, systems, therapeutic areas, and compliance challenges to ensure maximum relevance and immediate applicability.",
-            "p2": "当社のカスタマイズされた製品には、PV部門全体の企業研修プログラム、特定のコンプライアンスギャップや規制変更に対応したターゲットリフレッシャーセッションが含まれます。 時間の経過とともに労働力の能力を維持する継続的なプロフェッショナル開発モジュールを構築しました 各プログラムは、組織の優先順位に合わせてチームと共同で設計されています。",
+            "heading": "カスタマイズされた高等学習ソリューション",
+            "p1": "PVCON designs and delivers <strong>customized higher learning solutions</strong> tailored to your organization's specific <strong>regulatory environment, operational complexity, and workforce development objectives</strong>. Unlike off-the-shelf training, our programs are built around your SOPs, systems, therapeutic areas, and compliance challenges to ensure maximum relevance and immediate applicability.",
+            "p2": "当社のカスタマイズされた製品には、PV部門全体の企業研修プログラム、特定のコンプライアンスギャップや規制変更に対応したターゲットリフレッシャーセッションが含まれます。 時間の経過とともに労働力の能力を維持する継続的なプロフェッショナル開発マスタークラスを構築しました 各プログラムは、組織の優先順位に合わせてチームと共同で設計されています。",
             "p3": "PVCONの経験豊富なトレーナーは、オンサイトワークショップ、仮想インストラクター主導のセッション、ブレンドされたフォーマットなど、学習環境に合わせてコンテンツ配信を行うことができます。 当社は、トレーニング後の評価、能力追跡文書、およびフォローアップサポートを提供し、薬物乱用オペレーション全体における知識保持と実証可能なコンプライアンス改善を確実にします。"
           },
           "cta": {
             "heading": "チームに合わせたトレーニングが必要ですか？",
-            "text": "PVCONでは、組織固有の薬物乱用トレーニングのニーズとコンプライアンス要件に対応するカスタマイズされた学習プログラムを設計することができます。",
+            "text": "PVCONでは、組織固有の薬物乱用トレーニングのニーズとコンプライアンス要件に対応するカスタマイズされた高等学習プログラムを設計することができます。",
             "button": "連絡を取る"
           }
         }
@@ -525,7 +495,7 @@
       "overview": {
         "tag": "概要",
         "heading": "医学文章を書く",
-        "p1": "PVCONは、科学的に堅牢で規制に準拠した医療文書サービスを提供し、世界中の市場で薬物動態、臨床開発、および製品ライフサイクル管理をサポートします。",
+        "p1": "",
         "p2": "当社の専門知識は、リスク管理、総合的な安全報告、および臨床文書に基づいており、すべての成果物が高い科学的精度とコンプライアンスを備えた世界的な規制基準を満たしていることを保証します。"
       },
       "subcategories": {
@@ -536,7 +506,7 @@
           "bullets": [
             "RMPとREMSの開発とライフサイクルメンテナンス",
             "リスク最小化と安全戦略計画",
-            "安全監視とリスク管理フレームワーク"
+            "継続的な安全監視フレームワーク"
           ]
         },
         "aggregate-report-writing": {
@@ -552,7 +522,7 @@
           "bullets": [
             "臨床開発計画と臨床試験報告書(CSR)",
             "プロトコル、捜査官ブローチ、インフォームドコンセントフォーム",
-            "患者の安全に関する説明と規制対応文書",
+            "患者の安全に関する説明と規制対応",
             "CTD/NDA 臨床および安全セクション",
             "グローバル太陽光発電計画と科学出版"
           ]

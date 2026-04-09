@@ -220,7 +220,7 @@
           "title": "Lokale PvOI-Dienste",
           "description": "Wir bieten lokale PvOI-Dienste an, um die Einhaltung von CDSCO und PV-Aufsicht zu gewährleisten.",
           "bullets": [
-            "Ansprechpartner für Regulierungsbehörden in Fragen der Arzneimittelsicherheit",
+            "Ansprechpartner für Regulierungsbehörden in der Arzneimittelsicherheit",
             "PSMF Überprüfung und Wartung",
             "PV-Konformität und Berichterstattung",
             "Regulatorische Koordinierung (CDSCO/PvPI)",
@@ -232,31 +232,20 @@
           "description": "Wir unterstützen kleine und mittlere Pharmaunternehmen beim Aufbau oder der Skalierung robuster PV-Systeme.",
           "bullets": [
             "Organogramm und Jobbeschreibungen",
-            "Entwicklung von SOPs und Arbeitsanweisungen",
+            "SOPs und Arbeitsanweisungen",
             "Qualitätspolitik und ordnungspolitische Rahmenbedingungen",
-            "CAPA- und Abweichungsmanagementsysteme",
+            "CAPA- und Abweichungsmanagement",
             "SDEA / Pharmakovigilanz Abkommen (PVA)"
-          ]
-        },
-        "audit-inspection-readiness": {
-          "title": "Audit-Planung & Prüfungsbereitschaft",
-          "description": "Wir ermöglichen eine kontinuierliche Inspektionsreife durch risikobasierte Überwachung.",
-          "bullets": [
-            "PV-Audit-Planung und -Ausführung",
-            "Scheininspektionen und Simulationen",
-            "CAPA-Strategie und -Verfolgung",
-            "Prüfung der Prüfdokumentation",
-            "Interne Auditorschulung"
           ]
         },
         "regulatory-intelligence": {
           "title": "Regulatorische Intelligenz",
           "description": "Wir helfen Organisationen dabei, den sich entwickelnden globalen PV-Vorschriften voraus zu bleiben.",
           "bullets": [
-            "Regulatorische Überwachung und Updates",
-            "Folgenabschätzung und Umsetzungsstrategie",
+            "Regulatory Intelligence Überwachung und Updates",
+            "Folgenabschätzung und Strategie",
             "Ausrichtung des Sicherheitsberichts",
-            "Compliance-Benchmarking und Beratung"
+            "Compliance-Benchmarking/KPAs und Beratung"
           ]
         }
       },
@@ -322,25 +311,6 @@
             "button": "Kontakt aufnehmen"
           }
         },
-        "audit-inspection-readiness": {
-          "hero": {
-            "tagline": "Audit-Planung & Prüfungsbereitschaft",
-            "title": "Audit-Planung &\nPrüfungsreife",
-            "subtitle": "Proaktive Audit-Planungs- und Inspektionsvorbereitungsdienstleistungen, die eine kontinuierliche Einhaltung durch risikobasierte Überwachung, Scheinkontrolle und CAPA-Management ermöglichen."
-          },
-          "overview": {
-            "tag": "Übersicht",
-            "heading": "Audit-Planung & Prüfungsbereitschaft",
-            "p1": "PVCON enables organizations to achieve and maintain <strong>continuous inspection readiness</strong> through structured <strong>risk-based audit planning, mock inspections, and systematic CAPA management</strong>. Our approach shifts your PV compliance posture from reactive remediation to proactive preparedness, ensuring your systems and teams are always audit-ready.",
-            "p2": "Unsere Dienstleistungen umfassen die Entwicklung risikobasierter PV-Audit-Pläne, die Durchführung interner PV-Audits, und Durchführung realistischer Scheininspektionen, die die Überprüfung der Regulierungsbehörden durch Agenturen wie EMA, FDA, MHRA und CDSA simulieren. Diese Simulationen helfen bei der Erkennung von Schwachstellen und trainieren Ihre Teams, vertrauensvoll unter Inspektionsbedingungen zu reagieren.",
-            "p3": "PVCON bietet darüber hinaus umfassende CAPA-Strategieentwicklung und -Verfolgung, Prüfungsdokumentation zur Gewährleistung von Vollständigkeit und Genauigkeit sowie interne Auditorschulungsprogramme. Unsere erfahrenen Berater haben erfolgreich Organisationen durch zahlreiche regulatorische Inspektionen geleitet und dabei geholfen, die internen Fähigkeiten Ihres Teams für eine nachhaltige Einhaltung zu entwickeln."
-          },
-          "cta": {
-            "heading": "Bereite dich auf deine nächste Inspektion vor",
-            "text": "Stellen Sie PVCON ein, um die Inspektionsreife durch fachkundige Audit-Planung, Scheininspektionen und CAPA-Managementunterstützung in Ihre täglichen Operationen zu integrieren.",
-            "button": "Kontakt aufnehmen"
-          }
-        },
         "regulatory-intelligence": {
           "hero": {
             "tagline": "Regulatorische Geheimdienste",
@@ -366,8 +336,8 @@
       "title": "Training & Hochschulen",
       "description": "Strukturierte Lern- und Berufsentwicklungsprogramme, die darauf abzielen, regulatorische Kompetenz, Arbeitsbereitschaft und Inspektionsreife in den globalen Märkten aufzubauen.",
       "hero": {
-        "tagline": "Trainings- und Upskilling-Programme",
-        "title": "Training &\nUpskilling Programme",
+        "tagline": "Training & Upskilling",
+        "title": "Training &\nUpskilling",
         "subtitle": "PVCON liefert strukturierte Lern- und Berufsentwicklungsprogramme, die auf die Stärkung der regulatorischen Kompetenz, der Arbeitsbereitschaft und der Inspektionsreife in den globalen Märkten ausgerichtet sind."
       },
       "overview": {
@@ -398,17 +368,17 @@
         "regulatory-compliance-training": {
           "title": "Regelungs- und Compliance-Schulung",
           "bullets": [
-            "GVP, ICH-GCP und GxP Programme",
+            "GVP, GCP und GxP Programme",
             "Globale regulatorische Updates und Compliance-Frameworks",
             "Audit- und Prüfungsvorbereitung"
           ]
         },
         "customized-learnings": {
-          "title": "Individuelle Lernlösungen",
+          "title": "Individuelle Höhere Lernlösungen",
           "bullets": [
             "Firmenschulungen",
             "Erfrischende und regulatorische Compliance-Sitzungen",
-            "Kontinuierliche professionelle Entwicklungsmodule"
+            "Kontinuierliche professionelle Entwicklung Master Classes"
           ]
         }
       },
@@ -422,7 +392,7 @@
           },
           "02": {
             "title": "Angepasster Ansatz",
-            "description": "Programme, die auf organisatorische Bedürfnisse, Rollen und regulatorische Umgebungen zugeschnitten sind – keine generischen Inhalte."
+            "description": "PVCON liefert wissenschaftlich fundierte und regulierungskonforme medizinische Schreibdienstleistungen, die Pharmakovigilanz, klinische Entwicklung und das Produktlebenszyklus-Management auf globalen Märkten unterstützen."
           },
           "03": {
             "title": "Messbare Ergebnisse",
@@ -478,13 +448,13 @@
           "hero": {
             "tagline": "Regelungs- und Compliance-Schulung",
             "title": "Regulatorisches &\nCompliance-Training",
-            "subtitle": "Expertengeführte Trainingsprogramme für GVP, ICH-GFP und GxP, die das regulatorische Wissen stärken, die Einhaltung sicherstellen und Teams auf Audits und Inspektionen vorbereiten."
+            "subtitle": "Expertengeführte Trainingsprogramme für GVP, GCP und GxP, die das regulatorische Wissen stärken, die Einhaltung sicherstellen und Teams auf Audits und Inspektionen vorbereiten."
           },
           "overview": {
             "tag": "Übersicht",
             "heading": "Regelungs- und Compliance-Schulung",
-            "p1": "PVCON liefert <strong>von Experten geleitete regulatorische und Compliance-Trainingsprogramme</strong> für <strong>GVP, ICH-GCP, GLP, GMP, GDP und weitere GxP-Frameworks</strong>. Unsere Programme sind für pharmazeutische, Biotechnologie konzipiert und Fachleute von medizinischen Geräten, die während der Prüfungen und Inspektionen aktuelle Kenntnisse über die gesetzlichen Anforderungen erhalten und deren Einhaltung unter Beweis stellen müssen.",
-            "p2": "Unser Schulungsportfolio umfasst umfassende Programme zu EU-Good Pharmacovigilance Practices, ICH-GCP E6(R2) Anforderungen, globale regulatorische Aktualisierungen und die Entwicklung von Compliance-Rahmenbedingungen in wichtigen Gesundheitsbehörden. Jedes Programm ist so strukturiert, dass es praktisches Verständnis – nicht nur theoretisches Wissen – mit Beispielen aus der realen Welt und regulatorischen Fallstudien liefert.",
+            "p1": "PVCON liefert <strong>von Experten geleitete regulatorische und Compliance-Trainingsprogramme</strong> für <strong>GVP, GCP, GLP, GMP, GDP und weitere GxP-Frameworks</strong>. Unsere Programme sind für pharmazeutische, Biotechnologie konzipiert und Fachleute von medizinischen Geräten, die während der Prüfungen und Inspektionen aktuelle Kenntnisse über die gesetzlichen Anforderungen erhalten und deren Einhaltung unter Beweis stellen müssen.",
+            "p2": "Unser Schulungsportfolio umfasst umfassende Programme zu EU-Good Pharmacovigilance Practices, GCP E6(R2) Anforderungen, globale regulatorische Aktualisierungen und die Entwicklung von Compliance-Rahmenbedingungen in wichtigen Gesundheitsbehörden. Jedes Programm ist so strukturiert, dass es praktisches Verständnis – nicht nur theoretisches Wissen – mit Beispielen aus der realen Welt und regulatorischen Fallstudien liefert.",
             "p3": "PVCON bietet auch spezialisierte Prüf- und Inspektionsvorbereitungen an, die Ihre Teams auf die vertrauensvolle Durchführung von Inspektionen vorbereiten. Unsere Trainer verfügen über jahrzehntelange direkte Erfahrungen mit Aufsichtsbehörden wie EMA, FDA, MHRA und PMDA, sicherzustellen, dass die Teilnehmer praktische Einblicke erhalten, die direkt in eine verbesserte Compliance-Performance münden."
           },
           "cta": {
@@ -495,20 +465,20 @@
         },
         "customized-learnings": {
           "hero": {
-            "tagline": "Individuelle Lernlösungen",
-            "title": "Benutzerdefinierte\nLernlösungen",
-            "subtitle": "Maßgeschneiderte Schulungsprogramme, Auffrischungssitzungen und kontinuierliche professionelle Entwicklungsmodule für die spezifischen regulatorischen und operativen Anforderungen Ihres Unternehmens."
+            "tagline": "Individuelle Höhere Lernlösungen",
+            "title": "Benutzerdefinierte\nHöhere Lernlösungen",
+            "subtitle": "Maßgeschneiderte Schulungsprogramme, Auffrischungssitzungen und kontinuierliche professionelle Entwicklung Master Classes für die spezifischen regulatorischen und operativen Anforderungen Ihres Unternehmens."
           },
           "overview": {
             "tag": "Übersicht",
-            "heading": "Individuelle Lernlösungen",
-            "p1": "PVCON konzipiert und liefert <strong>kundenspezifische Lernlösungen</strong> , zugeschnitten auf das <strong>Regelungsumfeld Ihres Unternehmens. betriebliche Komplexität und Ziele der Personalentwicklung</strong>. Im Gegensatz zu herkömmlichen Schulungen bauen wir unsere Programme um Ihre SOPs, Systeme, therapeutische Bereiche und Compliance-Herausforderungen auf, um maximale Relevanz und sofortige Anwendbarkeit zu gewährleisten.",
-            "p2": "Unser maßgeschneidertes Angebot umfasst Schulungsprogramme für ganze PV-Abteilungen, gezielte Auffrischungssitzungen mit spezifischen Compliance-Lücken oder regulatorische Änderungen. und strukturierte professionelle Entwicklungsmodule, die die Kompetenzen der Belegschaft im Laufe der Zeit aufrechterhalten. Jedes Programm ist in Zusammenarbeit mit Ihrem Team so konzipiert, dass es den organisatorischen Prioritäten entspricht.",
+            "heading": "Individuelle Höhere Lernlösungen",
+            "p1": "PVCON konzipiert und liefert <strong>kundenspezifische höhere Lernlösungen</strong> , zugeschnitten auf das <strong>Regelungsumfeld Ihres Unternehmens. betriebliche Komplexität und Ziele der Personalentwicklung</strong>. Im Gegensatz zu herkömmlichen Schulungen bauen wir unsere Programme um Ihre SOPs, Systeme, therapeutische Bereiche und Compliance-Herausforderungen auf, um maximale Relevanz und sofortige Anwendbarkeit zu gewährleisten.",
+            "p2": "Unser maßgeschneidertes Angebot umfasst Schulungsprogramme für ganze PV-Abteilungen, gezielte Auffrischungssitzungen mit spezifischen Compliance-Lücken oder regulatorische Änderungen. und strukturierte professionelle Entwicklung Master Classes, die die Kompetenzen der Belegschaft im Laufe der Zeit aufrechterhalten. Jedes Programm ist in Zusammenarbeit mit Ihrem Team so konzipiert, dass es den organisatorischen Prioritäten entspricht.",
             "p3": "Die erfahrenen Trainer von PVCONs passen die Bereitstellung von Inhalten an Ihre Lernumgebung an – egal ob vor Ort Workshops, virtuelle Dozenten geführte Sitzungen oder Blended Formate. Wir bieten Nachbildungsbewertungen, Kompetenzverfolgungsdokumente und Nachbearbeitung an, um die Wissensspeicherung und nachweisliche Verbesserung der Einhaltung Ihrer Pharmakovigilanz zu gewährleisten."
           },
           "cta": {
             "heading": "Benötigen Sie ein Training, das an Ihr Team angepasst ist?",
-            "text": "Lassen Sie PVCON ein individuelles Lernprogramm entwerfen, das auf die individuellen Anforderungen Ihrer Organisation an Pharmakovigilanz und Compliance-Anforderungen zugeschnitten ist.",
+            "text": "Lassen Sie PVCON ein individuelles höheres Lernprogramm entwerfen, das auf die individuellen Anforderungen Ihrer Organisation an Pharmakovigilanz und Compliance-Anforderungen zugeschnitten ist.",
             "button": "Kontakt aufnehmen"
           }
         }
@@ -525,7 +495,7 @@
       "overview": {
         "tag": "Übersicht",
         "heading": "Medizinisches Schreiben",
-        "p1": "PVCON liefert wissenschaftlich robuste und regulierungskonforme medizinische Schreibdienstleistungen, die Pharmakovigilanz, klinische Entwicklung und das Produktlebenszyklus-Management weltweit unterstützen.",
+        "p1": "",
         "p2": "Unsere Expertise umfasst das Risikomanagement, die Gesamtsicherheitsberichterstattung und die klinische Dokumentation, um sicherzustellen, dass alle Lieferungen mit hoher wissenschaftlicher Genauigkeit und Einhaltung der globalen Regulierungsstandards erfüllt werden."
       },
       "subcategories": {
@@ -536,7 +506,7 @@
           "bullets": [
             "RMP und REMS Entwicklung und Lebenszykluswartung",
             "Risikominimierung und Sicherheitsplanung",
-            "Laufende Sicherheitsüberwachungs- und Risikomanagementrahmen"
+            "Laufende Sicherheitsüberwachungsrahmen"
           ]
         },
         "aggregate-report-writing": {
@@ -552,7 +522,7 @@
           "bullets": [
             "Klinische Entwicklungspläne und klinische Studien (CSR)",
             "Protokolle, Broschüren für Ermittler und Formulare für Einwilligung",
-            "Erzählungen zur Patientensicherheit und Dokumente zur Reaktion auf Vorschriften",
+            "Erzählungen zur Patientensicherheit und regulatorische Antworten",
             "CTD/NDA Klinik und Sicherheit",
             "Globale PV-Pläne und wissenschaftliche Publikationen"
           ]

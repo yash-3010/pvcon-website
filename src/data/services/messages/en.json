@@ -208,7 +208,7 @@
           "title": "Local PvOI Services",
           "description": "We provide Local PvOI services to ensure CDSCO compliance and PV oversight.",
           "bullets": [
-            "Point of contact for regulators on drug safety matters",
+            "Point of contact for regulators on drug safety",
             "PSMF review and maintenance",
             "PV compliance and reporting oversight",
             "Regulatory coordination (CDSCO/PvPI)",
@@ -220,31 +220,20 @@
           "description": "We support small and mid-sized pharma companies in setting up or scaling robust PV systems.",
           "bullets": [
             "Organogram and job descriptions",
-            "SOPs and work instructions development",
+            "SOPs and work instructions",
             "Quality policies and governance frameworks",
-            "CAPA and deviation management systems",
+            "CAPA and deviation management",
             "SDEA / Pharmacovigilance Agreements (PVA)"
-          ]
-        },
-        "audit-inspection-readiness": {
-          "title": "Audit Planning & Inspection Readiness",
-          "description": "We enable continuous inspection readiness through risk-based oversight.",
-          "bullets": [
-            "PV audit planning and execution",
-            "Mock inspections and simulations",
-            "CAPA strategy and tracking",
-            "Inspection documentation review",
-            "Internal auditor training"
           ]
         },
         "regulatory-intelligence": {
           "title": "Regulatory Intelligence",
           "description": "We help organizations stay ahead of evolving global PV regulations.",
           "bullets": [
-            "Regulatory monitoring and updates",
-            "Impact assessment and implementation strategy",
+            "Regulatory Intelligence monitoring and updates",
+            "Impact assessment and strategy",
             "Safety reporting alignment",
-            "Compliance benchmarking and advisory"
+            "Compliance benchmarking/KPAs and advisory"
           ]
         }
       },
@@ -310,25 +299,6 @@
             "button": "Get in Touch"
           }
         },
-        "audit-inspection-readiness": {
-          "hero": {
-            "tagline": "Audit Planning & Inspection Readiness",
-            "title": "Audit Planning &\nInspection Readiness",
-            "subtitle": "Proactive audit planning and inspection readiness services that enable continuous compliance through risk-based oversight, mock inspections, and CAPA management."
-          },
-          "overview": {
-            "tag": "Overview",
-            "heading": "Audit Planning & Inspection Readiness",
-            "p1": "PVCON enables organizations to achieve and maintain <strong>continuous inspection readiness</strong> through structured <strong>risk-based audit planning, mock inspections, and systematic CAPA management</strong>. Our approach shifts your PV compliance posture from reactive remediation to proactive preparedness, ensuring your systems and teams are always audit-ready.",
-            "p2": "Our services include development of risk-based PV audit plans, execution of internal PV audits, and conducting realistic mock inspections that simulate regulatory authority scrutiny from agencies including the EMA, FDA, MHRA, and CDSCO. These simulations help identify vulnerabilities and train your teams to respond confidently under inspection conditions.",
-            "p3": "PVCON also provides comprehensive CAPA strategy development and tracking, inspection documentation review to ensure completeness and accuracy, and internal auditor training programs. Our experienced consultants have successfully guided organizations through numerous regulatory inspections and help build the internal capabilities your team needs for sustained compliance."
-          },
-          "cta": {
-            "heading": "Prepare for Your Next Inspection",
-            "text": "Engage PVCON to build inspection readiness into your daily operations through expert audit planning, mock inspections, and CAPA management support.",
-            "button": "Get in Touch"
-          }
-        },
         "regulatory-intelligence": {
           "hero": {
             "tagline": "Regulatory Intelligence Services",
@@ -354,8 +324,8 @@
       "title": "Training & Upskilling",
       "description": "Structured learning and professional development programs designed to build regulatory competence, job readiness, and inspection readiness across global markets.",
       "hero": {
-        "tagline": "Training & Upskilling Programs",
-        "title": "Training &\nUpskilling Programs",
+        "tagline": "Training & Upskilling",
+        "title": "Training &\nUpskilling",
         "subtitle": "PVCON delivers structured learning and professional development programs designed to build regulatory competence, job readiness, and inspection readiness across global markets."
       },
       "overview": {
@@ -386,17 +356,17 @@
         "regulatory-compliance-training": {
           "title": "Regulatory & Compliance Training",
           "bullets": [
-            "GVP, ICH-GCP and GxP programs",
+            "GVP, GCP and GxP programs",
             "Global regulatory updates and compliance frameworks",
             "Audit and inspection readiness training"
           ]
         },
         "customized-learnings": {
-          "title": "Customized Learning Solutions",
+          "title": "Customized Higher Learning Solutions",
           "bullets": [
             "Corporate training programs",
             "Refreshers and regulatory compliance sessions",
-            "Continuous professional development modules"
+            "Continuous professional development Master classes"
           ]
         }
       },
@@ -410,7 +380,7 @@
           },
           "02": {
             "title": "Customized Approach",
-            "description": "Programs tailored to organizational needs, roles, and regulatory environments — not generic content."
+            "description": "PVCON delivers scientifically robust and regulatory-compliant medical writing services, supporting pharmacovigilance, clinical development, and product lifecycle management across global markets."
           },
           "03": {
             "title": "Measurable Outcomes",
@@ -466,13 +436,13 @@
           "hero": {
             "tagline": "Regulatory & Compliance Training",
             "title": "Regulatory &\nCompliance Training",
-            "subtitle": "Expert-led GVP, ICH-GCP, and GxP training programs that strengthen regulatory knowledge, ensure compliance, and prepare teams for audits and inspections."
+            "subtitle": "Expert-led GVP, GCP, and GxP training programs that strengthen regulatory knowledge, ensure compliance, and prepare teams for audits and inspections."
           },
           "overview": {
             "tag": "Overview",
             "heading": "Regulatory & Compliance Training",
-            "p1": "PVCON delivers <strong>expert-led regulatory and compliance training programs</strong> covering <strong>GVP, ICH-GCP, GLP, GMP, GDP, and broader GxP frameworks</strong>. Our programs are designed for pharmaceutical, biotechnology, and medical device professionals who need to maintain current knowledge of regulatory requirements and demonstrate compliance competency during audits and inspections.",
-            "p2": "Our training portfolio includes comprehensive programs on EU Good Pharmacovigilance Practices, ICH-GCP E6(R2) requirements, global regulatory updates, and evolving compliance frameworks across major health authorities. Each program is structured to provide practical understanding — not just theoretical knowledge — with real-world examples and regulatory case studies.",
+            "p1": "PVCON delivers <strong>expert-led regulatory and compliance training programs</strong> covering <strong>GVP, GCP, GLP, GMP, GDP, and broader GxP frameworks</strong>. Our programs are designed for pharmaceutical, biotechnology, and medical device professionals who need to maintain current knowledge of regulatory requirements and demonstrate compliance competency during audits and inspections.",
+            "p2": "Our training portfolio includes comprehensive programs on EU Good Pharmacovigilance Practices, GCP E6(R2) requirements, global regulatory updates, and evolving compliance frameworks across major health authorities. Each program is structured to provide practical understanding — not just theoretical knowledge — with real-world examples and regulatory case studies.",
             "p3": "PVCON also provides specialized audit and inspection readiness training that prepares your teams to confidently handle regulatory inspections. Our trainers bring decades of direct experience with regulatory authorities including the EMA, FDA, MHRA, and PMDA, ensuring participants receive practical insights that translate directly into improved compliance performance."
           },
           "cta": {
@@ -483,15 +453,15 @@
         },
         "customized-learnings": {
           "hero": {
-            "tagline": "Customized Learning Solutions",
-            "title": "Customized\nLearning Solutions",
-            "subtitle": "Tailored corporate training programs, refresher sessions, and continuous professional development modules designed to meet your organization's specific regulatory and operational needs."
+            "tagline": "Customized Higher Learning Solutions",
+            "title": "Customized Higher\nLearning Solutions",
+            "subtitle": "Tailored corporate training programs, refresher sessions, and continuous professional development Master classes designed to meet your organization's specific regulatory and operational needs."
           },
           "overview": {
             "tag": "Overview",
-            "heading": "Customized Learning Solutions",
-            "p1": "PVCON designs and delivers <strong>customized learning solutions</strong> tailored to your organization's specific <strong>regulatory environment, operational complexity, and workforce development objectives</strong>. Unlike off-the-shelf training, our programs are built around your SOPs, systems, therapeutic areas, and compliance challenges to ensure maximum relevance and immediate applicability.",
-            "p2": "Our customized offerings include corporate training programs for entire PV departments, targeted refresher sessions addressing specific compliance gaps or regulatory changes, and structured continuous professional development modules that maintain workforce competency over time. Each program is designed in collaboration with your team to align with organizational priorities.",
+            "heading": "Customized Higher Learning Solutions",
+            "p1": "PVCON designs and delivers <strong>customized higher learning solutions</strong> tailored to your organization's specific <strong>regulatory environment, operational complexity, and workforce development objectives</strong>. Unlike off-the-shelf training, our programs are built around your SOPs, systems, therapeutic areas, and compliance challenges to ensure maximum relevance and immediate applicability.",
+            "p2": "Our customized offerings include corporate training programs for entire PV departments, targeted refresher sessions addressing specific compliance gaps or regulatory changes, and structured continuous professional development Master classes that maintain workforce competency over time. Each program is designed in collaboration with your team to align with organizational priorities.",
             "p3": "PVCON's experienced trainers adapt content delivery to suit your learning environment — whether on-site workshops, virtual instructor-led sessions, or blended formats. We provide post-training assessments, competency tracking documentation, and follow-up support to ensure knowledge retention and demonstrable compliance improvement across your pharmacovigilance operations."
           },
           "cta": {
@@ -513,7 +483,7 @@
       "overview": {
         "tag": "Overview",
         "heading": "Medical Writing",
-        "p1": "PVCON delivers scientifically robust and regulatory-compliant medical writing services, supporting pharmacovigilance, clinical development, and product lifecycle management across global markets.",
+        "p1": "",
         "p2": "Our expertise spans risk management, aggregate safety reporting, and clinical documentation, ensuring all deliverables meet global regulatory standards with high scientific accuracy and compliance."
       },
       "subcategories": {
@@ -524,7 +494,7 @@
           "bullets": [
             "RMP and REMS development and lifecycle maintenance",
             "Risk minimization and safety strategy planning",
-            "Ongoing safety surveillance and risk management frameworks"
+            "Ongoing safety surveillance frameworks"
           ]
         },
         "aggregate-report-writing": {
@@ -540,7 +510,7 @@
           "bullets": [
             "Clinical development plans and Clinical Study Reports (CSR)",
             "Protocols, Investigator Brochures, and informed consent forms",
-            "Patient safety narratives and regulatory response documents",
+            "Patient safety narratives and regulatory responses",
             "CTD/NDA clinical and safety sections",
             "Global PV plans and scientific publications"
           ]
