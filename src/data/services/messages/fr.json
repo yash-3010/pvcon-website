@@ -220,7 +220,7 @@
           "title": "Services PvOI locaux",
           "description": "Nous fournissons des services PvOI locaux pour assurer la conformité de CDSCO et la surveillance PV.",
           "bullets": [
-            "Point de contact pour les régulateurs sur les questions de sécurité des médicaments",
+            "Point de contact pour les régulateurs sur la sécurité des médicaments",
             "Revue et maintenance PSMF",
             "Conformité des PV et surveillance des rapports",
             "Coordination réglementaire (CDSCO/PvPI)",
@@ -232,31 +232,20 @@
           "description": "Nous aidons les petites et moyennes entreprises pharmaceutiques à mettre en place ou à agrandir des systèmes PV robustes.",
           "bullets": [
             "Organogramme et descriptions de tâches",
-            "Développement des SOP et des instructions de travail",
+            "SOP et instructions de travail",
             "Politiques de qualité et cadres de gouvernance",
-            "Systèmes de gestion de la CAPA et des écarts",
+            "Gestion de la CAPA et des écarts",
             "SDEA / Accords de pharmacovigilance (PVA)"
-          ]
-        },
-        "audit-inspection-readiness": {
-          "title": "Planification de l’audit et préparation à l’inspection",
-          "description": "Nous permettons une préparation continue à l'inspection par le biais d'une surveillance basée sur les risques.",
-          "bullets": [
-            "Planification et exécution d'audit PV",
-            "Inspections fictives et simulations",
-            "Stratégie CAPA et suivi",
-            "Vérification de la documentation d'inspection",
-            "Formation de l'auditeur interne"
           ]
         },
         "regulatory-intelligence": {
           "title": "Intelligence régulatrice",
           "description": "Nous aidons les organisations à rester en avance sur l'évolution de la réglementation mondiale en matière de PV.",
           "bullets": [
-            "Surveillance réglementaire et mises à jour",
-            "Évaluation des impacts et stratégie de mise en œuvre",
+            "Veille réglementaire et mises à jour",
+            "Évaluation des impacts et stratégie",
             "Alignement des rapports de sécurité",
-            "benchmarking et avis de conformité"
+            "Benchmarking de conformité/KPAs et avis"
           ]
         }
       },
@@ -322,25 +311,6 @@
             "button": "Entrez en contact"
           }
         },
-        "audit-inspection-readiness": {
-          "hero": {
-            "tagline": "Planification de l’audit et préparation à l’inspection",
-            "title": "Planification de l’audit et\nPréparation à l’inspection",
-            "subtitle": "Des services proactifs de planification de la vérification et de préparation à l'inspection qui permettent une conformité continue grâce à une surveillance fondée sur les risques, des inspections fictives et la gestion de la LPAC."
-          },
-          "overview": {
-            "tag": "Aperçu",
-            "heading": "Planification de l’audit et préparation à l’inspection",
-            "p1": "PVCON enables organizations to achieve and maintain <strong>continuous inspection readiness</strong> through structured <strong>risk-based audit planning, mock inspections, and systematic CAPA management</strong>. Our approach shifts your PV compliance posture from reactive remediation to proactive preparedness, ensuring your systems and teams are always audit-ready.",
-            "p2": "Nos services comprennent le développement de plans d'audit PV axés sur les risques, l'exécution d'audits PV internes, et effectuer des inspections factices réalistes qui simulent le contrôle de l'autorité de réglementation par des organismes tels que l'EMA, la FDA, le MHRA et le CDSCO. Ces simulations permettent d'identifier les vulnérabilités et de former vos équipes à répondre en toute confiance dans des conditions d'inspection.",
-            "p3": "Le PVCON fournit également des programmes complets d’élaboration et de suivi de la stratégie de l’ACAM, de vérification de la documentation d’inspection afin d’assurer l’exhaustivité et l’exactitude, ainsi que des programmes de formation des auditeurs internes. Nos consultants expérimentés ont guidé avec succès les organismes grâce à de nombreuses inspections réglementaires et aident à développer les capacités internes dont votre équipe a besoin pour assurer une conformité durable."
-          },
-          "cta": {
-            "heading": "Préparez-vous à votre prochaine inspection",
-            "text": "Faites participer PVCON à la préparation de l'inspection dans vos opérations quotidiennes par le biais de la planification d'audit spécialisée, des inspections fantaisistes et du support de la gestion de la CAPA.",
-            "button": "Entrez en contact"
-          }
-        },
         "regulatory-intelligence": {
           "hero": {
             "tagline": "Services de renseignements réglementaires",
@@ -366,8 +336,8 @@
       "title": "Formation et perfectionnement",
       "description": "Des programmes d’apprentissage structurés et de perfectionnement professionnel conçus pour renforcer les compétences en réglementation, la préparation à l’emploi et la préparation à l’inspection sur les marchés mondiaux.",
       "hero": {
-        "tagline": "Programmes de formation et de perfectionnement",
-        "title": "Formation &\nProgrammes de perfectionnement",
+        "tagline": "Formation et perfectionnement",
+        "title": "Formation &\nPerfectionnement",
         "subtitle": "Le PVCON propose des programmes d’apprentissage structurés et de perfectionnement professionnel conçus pour renforcer les compétences réglementaires, la préparation à l’emploi et la préparation à l’inspection sur les marchés mondiaux."
       },
       "overview": {
@@ -398,17 +368,17 @@
         "regulatory-compliance-training": {
           "title": "Formation en matière de réglementation et de conformité",
           "bullets": [
-            "GVP, programmes ICH-GCP et GxP",
+            "GVP, programmes GCP et GxP",
             "Mises à jour réglementaires mondiales et cadres de conformité",
             "Formation en matière de vérification et de préparation aux inspections"
           ]
         },
         "customized-learnings": {
-          "title": "Solutions d'apprentissage personnalisées",
+          "title": "Solutions d'apprentissage supérieur personnalisées",
           "bullets": [
             "Programmes de formation d'entreprise",
             "Sessions de mise à jour et de conformité réglementaire",
-            "Modules de développement professionnel continu"
+            "Master classes de développement professionnel continu"
           ]
         }
       },
@@ -422,7 +392,7 @@
           },
           "02": {
             "title": "Approche personnalisée",
-            "description": "Programmes adaptés aux besoins organisationnels, aux rôles et aux environnements réglementaires, et non au contenu générique."
+            "description": "Le PVCON offre des services de rédaction médicale scientifiquement robustes et conformes à la réglementation, soutenant la pharmacovigilance, le développement clinique et la gestion du cycle de vie des produits sur les marchés mondiaux."
           },
           "03": {
             "title": "Résultats mesurables",
@@ -478,13 +448,13 @@
           "hero": {
             "tagline": "Formation en matière de réglementation et de conformité",
             "title": "Formation Réglementation &\nConformité",
-            "subtitle": "Des programmes de formation dirigés par des experts en GVP, en ICH-GCP et en GxP qui renforcent les connaissances en matière de réglementation, assurent la conformité et préparent les équipes pour les vérifications et les inspections."
+            "subtitle": "Des programmes de formation dirigés par des experts en GVP, en GCP et en GxP qui renforcent les connaissances en matière de réglementation, assurent la conformité et préparent les équipes pour les vérifications et les inspections."
           },
           "overview": {
             "tag": "Aperçu",
             "heading": "Formation en matière de réglementation et de conformité",
-            "p1": "PVCON delivers <strong>expert-led regulatory and compliance training programs</strong> covering <strong>GVP, ICH-GCP, GLP, GMP, GDP, and broader GxP frameworks</strong>. Our programs are designed for pharmaceutical, biotechnology, and medical device professionals who need to maintain current knowledge of regulatory requirements and demonstrate compliance competency during audits and inspections.",
-            "p2": "Notre portefeuille de formations comprend des programmes détaillés sur les bonnes pratiques européennes en matière de pharmacovigilance, les exigences ICH-GCP E6(R2), les mises à jour réglementaires mondiales et l'évolution des cadres de conformité entre les principales autorités sanitaires. Chaque programme est structuré de manière à fournir une compréhension pratique — et pas seulement des connaissances théoriques — avec des exemples réels et des études de cas réglementaires.",
+            "p1": "PVCON delivers <strong>expert-led regulatory and compliance training programs</strong> covering <strong>GVP, GCP, GLP, GMP, GDP, and broader GxP frameworks</strong>. Our programs are designed for pharmaceutical, biotechnology, and medical device professionals who need to maintain current knowledge of regulatory requirements and demonstrate compliance competency during audits and inspections.",
+            "p2": "Notre portefeuille de formations comprend des programmes détaillés sur les bonnes pratiques européennes en matière de pharmacovigilance, les exigences GCP E6(R2), les mises à jour réglementaires mondiales et l'évolution des cadres de conformité entre les principales autorités sanitaires. Chaque programme est structuré de manière à fournir une compréhension pratique — et pas seulement des connaissances théoriques — avec des exemples réels et des études de cas réglementaires.",
             "p3": "Le PVCON propose également une formation spécialisée en vérification et en inspection, qui prépare vos équipes à gérer en toute confiance les inspections réglementaires. Nos formateurs apportent des décennies d'expérience directe avec les autorités de régulation, y compris l'EMA, la FDA, le MHRA, et le PMDA, en veillant à ce que les participants reçoivent des connaissances pratiques qui se traduisent directement par un meilleur rendement en matière de conformité."
           },
           "cta": {
@@ -495,20 +465,20 @@
         },
         "customized-learnings": {
           "hero": {
-            "tagline": "Solutions d'apprentissage personnalisées",
-            "title": "Customized\nLearning Solutions",
-            "subtitle": "Des programmes de formation corporative sur mesure, des séances de rafraîchissement et des modules de perfectionnement professionnel continu conçus pour répondre aux besoins réglementaires et opérationnels spécifiques de votre organisation."
+            "tagline": "Solutions d'apprentissage supérieur personnalisées",
+            "title": "Customized\nHigher Learning Solutions",
+            "subtitle": "Des programmes de formation corporative sur mesure, des séances de rafraîchissement et des Master classes de perfectionnement professionnel continu conçus pour répondre aux besoins réglementaires et opérationnels spécifiques de votre organisation."
           },
           "overview": {
             "tag": "Aperçu",
-            "heading": "Solutions d'apprentissage personnalisées",
-            "p1": "PVCON designs and delivers <strong>customized learning solutions</strong> tailored to your organization's specific <strong>regulatory environment, operational complexity, and workforce development objectives</strong>. Unlike off-the-shelf training, our programs are built around your SOPs, systems, therapeutic areas, and compliance challenges to ensure maximum relevance and immediate applicability.",
-            "p2": "Nos offres personnalisées comprennent des programmes de formation d'entreprise pour des départements PV entiers, des sessions de rafraîchissement ciblées traitant des lacunes spécifiques en matière de conformité ou des changements réglementaires. et des modules de perfectionnement continue structurés qui maintiennent la compétence de la main-d’œuvre au fil du temps. Chaque programme est conçu en collaboration avec votre équipe pour s’aligner sur les priorités organisationnelles.",
+            "heading": "Solutions d'apprentissage supérieur personnalisées",
+            "p1": "PVCON designs and delivers <strong>customized higher learning solutions</strong> tailored to your organization's specific <strong>regulatory environment, operational complexity, and workforce development objectives</strong>. Unlike off-the-shelf training, our programs are built around your SOPs, systems, therapeutic areas, and compliance challenges to ensure maximum relevance and immediate applicability.",
+            "p2": "Nos offres personnalisées comprennent des programmes de formation d'entreprise pour des départements PV entiers, des sessions de rafraîchissement ciblées traitant des lacunes spécifiques en matière de conformité ou des changements réglementaires. et des Master classes de perfectionnement continu structurées qui maintiennent la compétence de la main-d’œuvre au fil du temps. Chaque programme est conçu en collaboration avec votre équipe pour s’aligner sur les priorités organisationnelles.",
             "p3": "Les formateurs expérimentés de PVCON, adaptent la livraison de contenu à votre environnement d’apprentissage, qu’il s’agisse d’ateliers, de sessions virtuelles dirigées par des instructeurs ou de formats mixtes. Nous fournissons des évaluations après la formation, des documents de suivi des compétences et du soutien de suivi pour assurer la rétention des connaissances et l'amélioration de la conformité démontrable à travers vos opérations de pharmacovigilance."
           },
           "cta": {
             "heading": "Besoin d'entraînement sur mesure à votre équipe?",
-            "text": "Laissez PVCON concevoir un programme d'apprentissage personnalisé qui répond aux besoins uniques de votre organisation en matière de formation en pharmacovigilance et aux exigences de conformité.",
+            "text": "Laissez PVCON concevoir un programme d'apprentissage supérieur personnalisé qui répond aux besoins uniques de votre organisation en matière de formation en pharmacovigilance et aux exigences de conformité.",
             "button": "Entrez en contact"
           }
         }
@@ -525,7 +495,7 @@
       "overview": {
         "tag": "Aperçu",
         "heading": "Écriture Médicale",
-        "p1": "Le PVCON offre des services d’écriture médicale scientifiquement robustes et conformes à la réglementation, soutenant la pharmacovigilance, le développement clinique et la gestion du cycle de vie des produits sur les marchés mondiaux.",
+        "p1": "",
         "p2": "Notre expertise couvre la gestion des risques, les rapports globaux de sécurité et les documents cliniques, en veillant à ce que tous les livrables répondent aux normes réglementaires mondiales avec une précision et une conformité scientifiques élevées."
       },
       "subcategories": {
@@ -536,7 +506,7 @@
           "bullets": [
             "Développement et maintenance RMP et REMS",
             "Planification de la stratégie de minimisation des risques et de sécurité",
-            "Surveillance continue de la sécurité et des cadres de gestion des risques"
+            "Cadres de surveillance continue de la sécurité"
           ]
         },
         "aggregate-report-writing": {
@@ -552,7 +522,7 @@
           "bullets": [
             "Plans de développement clinique et Rapports d'études cliniques (CSR)",
             "Protocoles, brochures de l'enquêteur et formulaires de consentement éclairé",
-            "Les récits de sécurité des patients et les documents d'intervention réglementaire",
+            "Les récits de sécurité des patients et les réponses réglementaires",
             "Sections CTD/NDA cliniques et sécurité",
             "Plans PV mondiaux et publications scientifiques"
           ]

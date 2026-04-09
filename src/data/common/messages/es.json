@@ -61,10 +61,6 @@
             "title": "Sistema de Gestión de Calidad PV | PVCON — QMS PV",
             "description": "Construye y escala tu Sistema de Gestión de Calidad PV con SOP expertos, marcos de gobernanza, sistemas CAPA y servicios de desarrollo de acuerdos de farmacovigilancia."
           },
-          "audit-inspection-readiness": {
-            "title": "Preparación de auditoría y inspección | Servicios PVCON",
-            "description": "Alcanzar la preparación continua de las inspecciones con planificación de auditoría basada en riesgos, inspecciones falsas, gestión de CAPA y capacitación de auditores internos por parte de expertos de PVCON."
-          },
           "regulatory-intelligence": {
             "title": "Inteligencia regular | PVCON — Cumplimiento de PV",
             "description": "Manténgase por delante de la evolución de las regulaciones globales de las VP con los servicios de inteligencia regulatoria de PVCON: monitoreo, evaluación de impacto y apoyo a la estrategia de cumplimiento."
@@ -88,7 +84,7 @@
             "description": "Programas de capacitación en cumplimiento de normas GVP, ICH-GCP y GxP con actualizaciones globales, preparación de auditoría y preparación de inspecciones para equipos pharma."
           },
           "customized-learnings": {
-            "title": "Soluciones de entrenamiento PV personalizadas | PVCON",
+            "title": "Soluciones de Aprendizaje Superior PV Personalizado | PVCON",
             "description": "Capacitación corporativa de farmacovigilancia, sesiones de actualización y programas de desarrollo profesional continuos diseñados para las necesidades específicas de su organización."
           }
         }

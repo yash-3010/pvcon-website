@@ -28,7 +28,6 @@ export const serviceCategories: ServiceCategory[] = [
     subcategories: [
       { id: "local-qppv-pvoi" },
       { id: "pv-qms" },
-      { id: "audit-inspection-readiness" },
       { id: "regulatory-intelligence" },
     ],
   },

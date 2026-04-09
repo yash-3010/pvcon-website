@@ -61,10 +61,6 @@
             "title": "Système de gestion de la qualité PV | PVCON — QMS PV",
             "description": "Construire et mettre à l'échelle votre système de gestion de la qualité PV avec des experts en SOP, des cadres de gouvernance, des systèmes de CAPA et des services de développement d'accords de pharmacovigilance."
           },
-          "audit-inspection-readiness": {
-            "title": "Prêt à l'audit et l'inspection | Services PVCON",
-            "description": "Atteindre la préparation à l'inspection continue grâce à la planification de la vérification basée sur les risques, aux inspections fantaisistes, à la gestion de l'ACCP et à la formation des auditeurs internes des experts du PVCON."
-          },
           "regulatory-intelligence": {
             "title": "Intelligence réglementaire | PVCON — Conformité PV",
             "description": "Restez à l’affût des réglementations mondiales en matière de PV avec les services de renseignements réglementaires de PVCON, soit la surveillance, l’évaluation d’impact et le support de la stratégie de conformité."
@@ -88,7 +84,7 @@
             "description": "GVP, ICH-GCP et GxP dirigés par des experts dans le domaine de la conformité réglementaire, avec des mises à jour globales, la préparation à la vérification et la préparation à l'inspection pour les équipes de pharmaciens."
           },
           "customized-learnings": {
-            "title": "Solutions de formation PV personnalisées | PVCON",
+            "title": "Solutions de formation PV supérieure personnalisées | PVCON",
             "description": "Formation sur mesure en pharmacovigilance d'entreprise, séances de remise à jour et programmes de perfectionnement professionnel continue conçus pour répondre aux besoins spécifiques de votre organisation."
           }
         }

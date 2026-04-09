@@ -220,7 +220,7 @@
           "title": "Servicios locales de PvOI",
           "description": "Proporcionamos servicios locales PvOI para asegurar el cumplimiento de CDSCO y PV en exceso.",
           "bullets": [
-            "Punto de contacto de los reguladores en materia de seguridad de los medicamentos",
+            "Punto de contacto de los reguladores de seguridad de los medicamentos",
             "Revisión y mantenimiento de PSMF",
             "Cumplimiento y presentación de informes PV en exceso",
             "Coordinación regular (CDSCO/PvPI)",
@@ -232,31 +232,20 @@
           "description": "Apoyamos a las pequeñas y medianas empresas farmacéuticas en el establecimiento o la escalada de sistemas robustos fotovoltaicos.",
           "bullets": [
             "Organograma y descripciones de trabajo",
-            "Desarrollo de instrucciones de trabajo e instrucciones de trabajo",
+            "SOPs e instrucciones de trabajo",
             "Políticas de calidad y marcos de gobernanza",
-            "Sistemas de gestión de desviación y CAPA",
+            "Gestión de desviación y CAPA",
             "Acuerdos de SDEA / Farmacovigilancia (PVA)"
-          ]
-        },
-        "audit-inspection-readiness": {
-          "title": "Planificación de auditoría y preparación de inspección",
-          "description": "Permitimos la preparación continua de las inspecciones a través de un exceso basado en el riesgo.",
-          "bullets": [
-            "Planificación y ejecución de auditoría PV",
-            "Inspecciones simuladas",
-            "Estrategia y seguimiento de CAPA",
-            "Revisión de documentación de inspección",
-            "Formación de auditor interno"
           ]
         },
         "regulatory-intelligence": {
           "title": "Inteligencia regular",
           "description": "Ayudamos a las organizaciones a adelantarse a la evolución de las regulaciones globales de las fotovoltaicas.",
           "bullets": [
-            "Seguimiento regular y actualizaciones",
-            "Estrategia de evaluación de impacto y aplicación",
+            "Seguimiento de inteligencia regulatoria y actualizaciones",
+            "Evaluación de impacto y estrategia",
             "Alineación de informes de seguridad",
-            "Evaluación de rendimiento y asesoramiento de cumplimiento"
+            "Evaluación comparativa de cumplimiento/KPAs y asesoramiento"
           ]
         }
       },
@@ -322,25 +311,6 @@
             "button": "Ponte en contacto"
           }
         },
-        "audit-inspection-readiness": {
-          "hero": {
-            "tagline": "Planificación de auditoría y preparación de inspección",
-            "title": "Planificación de auditoría y\nPredicción de inspección",
-            "subtitle": "Servicios proactivos de planificación de auditoría y preparación de inspecciones que permiten el cumplimiento continuo a través de inspecciones basadas en riesgos excesivos, simulaciones y gestión de CAPA."
-          },
-          "overview": {
-            "tag": "Resumen",
-            "heading": "Planificación de auditoría y preparación de inspección",
-            "p1": "PVCON enables organizations to achieve and maintain <strong>continuous inspection readiness</strong> through structured <strong>risk-based audit planning, mock inspections, and systematic CAPA management</strong>. Our approach shifts your PV compliance posture from reactive remediation to proactive preparedness, ensuring your systems and teams are always audit-ready.",
-            "p2": "Nuestros servicios incluyen el desarrollo de planes de auditoría fotovoltaica basados en el riesgo, la ejecución de auditorías fotovoltaicas internas, y llevar a cabo inspecciones realistas de simulaciones que simulan el escrutinio de la autoridad reguladora de agencias incluyendo la EMA, la FDA, el MHRA y el CDSCO. Estas simulaciones ayudan a identificar vulnerabilidades y capacitan a sus equipos para que respondan con seguridad en condiciones de inspección.",
-            "p3": "PVCON también proporciona un completo desarrollo y seguimiento de estrategias CAPA, revisión de la documentación de inspección para asegurar la integridad y precisión y programas de capacitación de auditores internos. Nuestros consultores experimentados han guiado exitosamente a las organizaciones a través de numerosas inspecciones regulatorias y ayudan a crear las capacidades internas que su equipo necesita para una conformidad sostenida."
-          },
-          "cta": {
-            "heading": "Prepárate para tu próxima inspección",
-            "text": "Incorporar PVCON para que las inspecciones sean preparadas en sus operaciones diarias a través de la planificación de auditoría de expertos, las inspecciones simuladas y el apoyo a la gestión de CAPA.",
-            "button": "Ponte en contacto"
-          }
-        },
         "regulatory-intelligence": {
           "hero": {
             "tagline": "Servicios regulatorios de inteligencia",
@@ -366,8 +336,8 @@
       "title": "Formación y perfeccionamiento",
       "description": "Programas de aprendizaje estructurado y desarrollo profesional diseñados para crear competencia regulatoria, preparación para el empleo y preparación de inspecciones en los mercados globales.",
       "hero": {
-        "tagline": "Programas de entrenamiento y perfeccionamiento",
-        "title": "Training &\nUpskilling Programs",
+        "tagline": "Entrenamiento y perfeccionamiento",
+        "title": "Training &\nUpskilling",
         "subtitle": "PVCON ofrece programas de aprendizaje estructurados y de desarrollo profesional diseñados para crear competencia regulatoria, preparación para el empleo y preparación de inspecciones en los mercados globales."
       },
       "overview": {
@@ -398,17 +368,17 @@
         "regulatory-compliance-training": {
           "title": "Capacitación Regulatoria y Cumplimiento",
           "bullets": [
-            "Programas GVP, ICH-GCP y GxP",
+            "Programas GVP, GCP y GxP",
             "Actualizaciones regulatorias globales y marcos de cumplimiento",
             "Capacitación en auditoría e inspección"
           ]
         },
         "customized-learnings": {
-          "title": "Soluciones de aprendizaje personalizadas",
+          "title": "Soluciones de Aprendizaje Superior Personalizado",
           "bullets": [
             "Programas de formación corporativa",
             "Sesiones de actualización y cumplimiento de la normativa",
-            "Módulos de desarrollo profesional continuos"
+            "Master classes de desarrollo profesional continuo"
           ]
         }
       },
@@ -422,7 +392,7 @@
           },
           "02": {
             "title": "Enfoque personalizado",
-            "description": "Programas adaptados a las necesidades organizacionales, roles y entornos regulatorios — no contenido genérico."
+            "description": "PVCON ofrece servicios de redacción médica científicamente robustos y conformes con la normativa, apoyando la farmacovigilancia, el desarrollo clínico y la gestión del ciclo de vida de productos en mercados globales."
           },
           "03": {
             "title": "Resultados medibles",
@@ -478,13 +448,13 @@
           "hero": {
             "tagline": "Capacitación Regulatoria y Cumplimiento",
             "title": "Regulatory &\nCompliance Training",
-            "subtitle": "Los programas de capacitación GVP, ICH-GCP y GxP dirigidos por expertos, que fortalecen el conocimiento regulatorio, garantizan la conformidad y preparan equipos para auditorías e inspecciones."
+            "subtitle": "Los programas de capacitación GVP, GCP y GxP dirigidos por expertos, que fortalecen el conocimiento regulatorio, garantizan la conformidad y preparan equipos para auditorías e inspecciones."
           },
           "overview": {
             "tag": "Resumen",
             "heading": "Capacitación Regulatoria y Cumplimiento",
-            "p1": "PVCON entrega <strong>programas de capacitación regulatoria y de cumplimiento liderados por expertos</strong> que cubren <strong>GVP, ICH-GCP, GLP, GMP, PBI y más amplios frameworks GxP</strong>. Nuestros programas están diseñados para la biotecnología psíquica y profesionales de dispositivos médicos que necesitan mantener el conocimiento actual de los requisitos reglamentarios y demostrar la competencia de conformidad durante las auditorías y las inspecciones.",
-            "p2": "Nuestro portafolio de capacitación incluye programas completos sobre los requisitos de buenas prácticas de farmacovigilancia de la UE, requisitos de ICH-GCP E6(R2), actualizaciones regulatorias globales y marcos de cumplimiento en evolución a través de las principales autoridades sanitarias. Cada programa está estructurado para proporcionar comprensión práctica —no sólo conocimiento teórico— con ejemplos del mundo real y estudios de casos regulatorios.",
+            "p1": "PVCON entrega <strong>programas de capacitación regulatoria y de cumplimiento liderados por expertos</strong> que cubren <strong>GVP, GCP, GLP, GMP, PBI y más amplios frameworks GxP</strong>. Nuestros programas están diseñados para la biotecnología psíquica y profesionales de dispositivos médicos que necesitan mantener el conocimiento actual de los requisitos reglamentarios y demostrar la competencia de conformidad durante las auditorías y las inspecciones.",
+            "p2": "Nuestro portafolio de capacitación incluye programas completos sobre los requisitos de buenas prácticas de farmacovigilancia de la UE, requisitos de GCP E6(R2), actualizaciones regulatorias globales y marcos de cumplimiento en evolución a través de las principales autoridades sanitarias. Cada programa está estructurado para proporcionar comprensión práctica —no sólo conocimiento teórico— con ejemplos del mundo real y estudios de casos regulatorios.",
             "p3": "PVCON también proporciona capacitación especializada en auditoría e inspección que prepara a sus equipos para manejar con confianza las inspecciones regulatorias. Nuestros instructores aportan décadas de experiencia directa con las autoridades reguladoras incluyendo EMA, FDA, MHRA, y PMDA, asegurar que los participantes reciban información práctica que se traduzcan directamente en un mejor desempeño de cumplimiento."
           },
           "cta": {
@@ -495,20 +465,20 @@
         },
         "customized-learnings": {
           "hero": {
-            "tagline": "Soluciones de aprendizaje personalizadas",
-            "title": "Customized\nLearning Solutions",
-            "subtitle": "Programas corporativos de capacitación, sesiones de actualización y módulos de desarrollo profesional continuos diseñados para satisfacer las necesidades específicas de regulación y operación de su organización."
+            "tagline": "Soluciones de Aprendizaje Superior Personalizado",
+            "title": "Customized\nHigher Learning Solutions",
+            "subtitle": "Programas corporativos de capacitación, sesiones de actualización y Master classes de desarrollo profesional continuo diseñados para satisfacer las necesidades específicas de regulación y operación de su organización."
           },
           "overview": {
             "tag": "Resumen",
-            "heading": "Soluciones de aprendizaje personalizadas",
-            "p1": "PVCON diseña y entrega <strong>soluciones de aprendizaje personalizadas</strong> adaptadas a la normativa específica <strong>de su organización. complejidad operativa, y objetivos de desarrollo de la fuerza laboral</strong>. A diferencia del entrenamiento off-the-shelf, nuestros programas están construidos alrededor de sus SOPs, sistemas, áreas terapeéticas y desafíos de cumplimiento para asegurar la máxima relevancia y aplicabilidad inmediata.",
-            "p2": "Nuestras ofertas personalizadas incluyen programas de capacitación corporativa para departamentos completos de VP, sesiones de actualización dirigidas a abordar lagunas específicas de cumplimiento o cambios regulatorios. y estructurados módulos de desarrollo profesional continuo que mantienen la competencia de la fuerza laboral con el tiempo. Cada programa está diseñado en colaboración con su equipo para alinearse con las prioridades de la organización.",
+            "heading": "Soluciones de Aprendizaje Superior Personalizado",
+            "p1": "PVCON diseña y entrega <strong>soluciones de aprendizaje superior personalizado</strong> adaptadas a la normativa específica <strong>de su organización. complejidad operativa, y objetivos de desarrollo de la fuerza laboral</strong>. A diferencia del entrenamiento off-the-shelf, nuestros programas están construidos alrededor de sus SOPs, sistemas, áreas terapeéticas y desafíos de cumplimiento para asegurar la máxima relevancia y aplicabilidad inmediata.",
+            "p2": "Nuestras ofertas personalizadas incluyen programas de capacitación corporativa para departamentos completos de VP, sesiones de actualización dirigidas a abordar lagunas específicas de cumplimiento o cambios regulatorios. y Master classes de desarrollo profesional continuo estructuradas que mantienen la competencia de la fuerza laboral con el tiempo. Cada programa está diseñado en colaboración con su equipo para alinearse con las prioridades de la organización.",
             "p3": "Los capacitadores experimentados de PVCON adaptan la entrega de contenido a su entorno de aprendizaje, ya sea en talleres, sesiones virtuales guiadas por instructores o formatos combinados. Proporcionamos evaluaciones post-capacitación, documentación de seguimiento de competencias y apoyo de seguimiento para asegurar la retención de conocimientos y la mejora demostrable del cumplimiento en sus operaciones de farmacovigilancia."
           },
           "cta": {
             "heading": "¿Necesita capacitación preparada para su equipo?",
-            "text": "Permita que PVCON diseñe un programa de aprendizaje personalizado que responda a las necesidades únicas de capacitación y cumplimiento de la farmacovigilancia de su organización.",
+            "text": "Permita que PVCON diseñe un programa de aprendizaje superior personalizado que responda a las necesidades únicas de capacitación y cumplimiento de la farmacovigilancia de su organización.",
             "button": "Ponte en contacto"
           }
         }
@@ -525,7 +495,7 @@
       "overview": {
         "tag": "Resumen",
         "heading": "Escritura médica",
-        "p1": "PVCON ofrece servicios de escritura médica científicamente robustos y compatibles con la normativa que apoyan la farmacovigilancia, el desarrollo clínico y la gestión del ciclo de vida de los productos en los mercados globales.",
+        "p1": "",
         "p2": "Nuestra pericia abarca la gestión de riesgos, la presentación de informes de seguridad y la documentación clínica, asegurando que todos los resultados cumplan con los estándares regulatorios mundiales con alta precisión científica y conformidad."
       },
       "subcategories": {
@@ -536,7 +506,7 @@
           "bullets": [
             "RMP y REMS desarrollo y mantenimiento de ciclos de vida",
             "Planificación de la estrategia de seguridad y minimización de riesgos",
-            "Marco de vigilancia de seguridad en curso y gestión de riesgos"
+            "Marcos de vigilancia de seguridad en curso"
           ]
         },
         "aggregate-report-writing": {
@@ -552,7 +522,7 @@
           "bullets": [
             "Planes de desarrollo Clinical e Informes de Estudios Clinicales (R)",
             "Protocoles, folletos de investigadores y formularios de consentimiento informados",
-            "Documentos de seguridad de los pacientes y de respuesta regulatoria",
+            "Narrativas de seguridad del paciente y respuestas regulatorias",
             "Secciones CTD/NDA clínicas y de seguridad",
             "Planes globales de fotovoltaje y publicaciones científicas"
           ]
